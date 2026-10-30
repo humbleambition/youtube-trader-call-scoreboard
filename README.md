@@ -31,7 +31,7 @@ and score so creators and viewers can audit the result.
 ## Quickstart
 
 ```bash
-git clone https://github.com/humbleambition/youtube-call-scoreboard
+git clone https://github.com/humbleambition/youtube-trader-call-scoreboard
 cd youtube-call-scoreboard
 pip install -e ".[dev]"
 
@@ -108,12 +108,12 @@ Make your own: `ytscore chart --session 2026-10-08 --week 2026-10-07`
 
 ## Disputes
 
-Think a call was misread? [Open an issue](https://github.com/humbleambition/youtube-call-scoreboard/issues/new)
+Think a call was misread? [Open an issue](https://github.com/humbleambition/youtube-trader-call-scoreboard/issues/new)
 with the video link and timestamp. See [Disputing a call](docs/METHODOLOGY.md#7-disputing-a-call).
 
 ## Suggest a channel
 
-Want a channel scored? [Open a channel request](https://github.com/humbleambition/youtube-call-scoreboard/issues/new?template=suggest_channel.md)
+Want a channel scored? [Open a channel request](https://github.com/humbleambition/youtube-trader-call-scoreboard/issues/new?template=suggest_channel.md)
 or email **jen@striatumos.consulting** with the channel name and link. Channels are added when they post
 explicit, time-bound calls (a direction on a named market) at least a few times a week.
 

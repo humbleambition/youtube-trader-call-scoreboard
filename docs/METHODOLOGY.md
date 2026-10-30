@@ -99,7 +99,7 @@ duplicate uploads, non-primary channels) are listed with reasons in [`exclusions
 ## 7. Disputing a call
 
 If you are a creator (or a viewer) and think a call was misread or scored wrongly, please
-[open a GitHub issue](https://github.com/humbleambition/youtube-call-scoreboard/issues/new) with:
+[open a GitHub issue](https://github.com/humbleambition/youtube-trader-call-scoreboard/issues/new) with:
 
 1. the video link,
 2. the timestamp of the call,

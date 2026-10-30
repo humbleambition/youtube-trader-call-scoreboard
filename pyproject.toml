@@ -26,7 +26,7 @@ dev = ["pytest>=7"]
 ytscore = "ytscore.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/humbleambition/youtube-call-scoreboard"
+Homepage = "https://github.com/humbleambition/youtube-trader-call-scoreboard"
 
 [tool.setuptools.packages.find]
 where = ["src"]
