@@ -1,0 +1,179 @@
+{
+ "video_id": "u5VTd93lNwY",
+ "channel": "Money Making Market",
+ "title": "STOCK MARKET CRASH SIGNALS CONFIRM! BUT... How does it go wrong? SPY QQQ IWM",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Macro bearish signal confirmed",
+   "view": "Daily/weekly MACD, RSI and price confirm a lower high on SPY, but similar bearish confirmations have failed before, so stay open to a bullish 'trap'."
+  },
+  {
+   "theme": "Volatility rising",
+   "view": "VIX has held divergences and could see weeks of rising volatility if the 2-hour confirms up."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     755.4,
+     700,
+     695
+    ],
+    "resistance": [
+     769.86
+    ],
+    "invalidation": null
+   },
+   "condition": "Bearish while the 2-hour MACD keeps rolling; if the 2-hour MACD curls up near the center line, the bearish signal fails and a higher low / move up is in play. A drop to the daily expected move low (755.40) would set in continued downside.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily confirmed down with MACD crossover, lower high in price/MACD/RSI; possible weekly divergence confirming. Daily expected move 755.40-769.86.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "everything here on the macro scale is saying, \"Watch out. This could head to the downside.\""
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     736.7
+    ],
+    "resistance": [
+     748.87
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 30-minute flushes, QQQ can go down to 736.7; if a higher low sets and confirms up, flip bullish for a 748.87 test.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "30-minute confirming down but 2-hour still positive and daily can withstand a pullback; QQQ posture differs from SPY.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "you can go all the way down to 7367, but we'll watch for any kind of higher low set"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     274.8
+    ],
+    "resistance": [
+     280.98,
+     289,
+     296
+    ],
+    "invalidation": null
+   },
+   "condition": "Bulls only convincing above 296 (via squeeze into higher low or divergence); a 30-minute divergence could give a bounce toward 280.98, otherwise risk of flush to 274.80 and lower.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "6 of 7 negative weeks, daily extremely negative and oversold; 2-hour divergences intact but 30-minute rolling negative.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "I'm not really confident in them unless they can take out that 296 level"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Conditional on the 2-hour VIX MACD confirming up; a quick 30-minute curl down near the center line would mean the volatility push fails.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX daily curling up, higher low held, 2-hour divergences confirmed; deep MACD though, so failure possible.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "This means that we could see weeks of volatility. We could see a weekly push in volatility."
+  }
+ ],
+ "notes": "No date spoken; host references getting October monthly expected moves 'tomorrow', suggesting recording on Sep 30 after close (listing approx 2026-10-01). QQQ levels transcribed as '7367' and '74887', interpreted as 736.7 and 748.87. SPY 700/695 mentioned as a question ('revisit that 700, 695 level?'), recorded as support not target. Invalidation is indicator-based (2-hour MACD curling up), not a price."
+}

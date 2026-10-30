@@ -1,0 +1,283 @@
+{
+ "video_id": "2G642xbFBig",
+ "channel": "Meet Kevin",
+ "title": "Our Economy is about to EXPLODE | Agentic AI SHOCK",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "AI capex boom",
+   "view": "Tech sector PMI 62.7, fastest growth since 2021; economy booming on AI spend."
+  },
+  {
+   "theme": "Two canaries",
+   "view": "Stay bullish as long as the labor market (improving 3-6 month payroll trends) and AI underwriters (OpenAI, Anthropic) hold up."
+  },
+  {
+   "theme": "Yields too high",
+   "view": "10y ~5.32% is ~5bp above where he'd like it to stop; 2s10s near 50bp 'shock territory' and widening high-yield spreads raise risk; be cautious/nervous, not fearful."
+  },
+  {
+   "theme": "Hedge via allocation",
+   "view": "Hedge equity risk through allocation to cash, real estate, private equity and debt payoff rather than timing a black swan."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Economy booming on AI with labor and AI-underwriter canaries healthy; bought QQQ dip at 700 as peak fear; Oct 16 712 calls ~4x; expects euphoria still ahead.",
+   "conviction": "high",
+   "timestamp": "8:30",
+   "quote": "How did it just go from 700 to 800 on the cues? It's going to happen in like a blink of an eye."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 562,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Quietly breaking out; standing price target 562.",
+   "conviction": "medium",
+   "timestamp": "6:15",
+   "quote": "We have a uh price target that we've been talking about for quite a while uh in our course member live streams of 562 for …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 237,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     227
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout above 227 line now underway at 237.",
+   "conviction": "medium",
+   "timestamp": "8:45",
+   "quote": "We are starting the very breakout we have been calling for, baby."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sees rise in Meta, Microsoft, Nasdaq-100 and Nvidia as still ahead of the big euphoria.",
+   "conviction": "low",
+   "timestamp": "19:45",
+   "quote": "I think the rise in Meta, uh, the rise in Microsoft, the NASDAQ 100, Nvidia, all this stuff is just at the beginning."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "multi-year (8-year bear market)"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fed chair Warsh is not a money printer, bearish for gold; called the top on Jan 30.",
+   "conviction": "high",
+   "timestamp": "17:00",
+   "quote": "I think gold is going to be in an eight-year bare market because Kevin Walsh is at the helm of the Fed."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper-to-gold ratio",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Copper/gold ratio reversing a 5-year downtrend driven by copper and economic boom; expects spread to keep widening.",
+   "conviction": "low",
+   "timestamp": "18:00",
+   "quote": "my take is that the spread continues to widen e in spite of the fears regarding the treasury market."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     77,
+     78
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "TLT losing his 77-78 bottom line (last broken Oct-Nov 2023) despite record retail inflows; supply, deficit, oil and foreign selling weigh on bonds.",
+   "conviction": "low",
+   "timestamp": "12:30",
+   "quote": "TLT is really interesting because it's now losing my bottom line over here."
+  }
+ ],
+ "notes": "Date implied: ISM and S&P Global September final PMIs 'this morning', NVDA at 237 (matches other 2026-10-05 videos) -> 2026-10-05 (listing 2026-10-06); moderate confidence. 'Marll ... breaking out of our 266 line' is garbled (maybe MRVL or another ticker) - excluded. TNX at 5.32 noted as a theme, no directional forecast. HG call is really on the copper/gold ratio. GOOGL preferred deal criticised but no stock call."
+}

@@ -1,0 +1,105 @@
+{
+ "video_id": "JY31kwGoYEE",
+ "channel": "David Lin",
+ "title": "Oil Reserves Dangerously Low; ‘Much Higher’ Fuel Prices By Winter | Josh Young",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Josh Young (Bison Interests)",
+ "macro_themes": [
+  {
+   "theme": "Hormuz flows overstated",
+   "view": "Reported near-normal tanker traffic is convoy surges and propaganda; sustained crude flows are well below pre-war, with ~5% of tankers hit."
+  },
+  {
+   "theme": "Refined products peaking",
+   "view": "Diesel/gasoline at ~$200-250/bbl equivalent is extreme; counter-seasonal refinery runs and Europe's diesel release should rebuild product stocks and compress cracks."
+  },
+  {
+   "theme": "Crude inventories drawing",
+   "view": "Refiners turning crude into products plus low SPR releases (SPR lowest since 1982) should drain crude stocks and lift crude prices into winter."
+  },
+  {
+   "theme": "Speculative positioning",
+   "view": "Net speculative crude positioning is near record lows relative to price, historically a setup for much higher prices."
+  },
+  {
+   "theme": "Trump's end-of-war promises",
+   "view": "Gives very low weight to claims the Iran war ends soon."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude",
+   "price_at_call": 90,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Elevated refinery runs will draw down already-low crude inventories while Hormuz flows stay impaired; bearish positioning is a contrarian bullish signal. Sees the 32% odds of $115+ WTI by year-end as closer to his view.",
+   "conviction": "high",
+   "timestamp": "0:31",
+   "quote": "I've been bullish oil for a while and um I think I think this could be the trigger for much much higher prices."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "HO",
+   "instrument_quoted": "diesel / refined products, 3-2-1 crack spread",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Product prices at unsustainably high levels; counter-seasonal refining, Europe's diesel release and possibly fewer strikes on Russian refineries should lower diesel and crack spreads.",
+   "conviction": "medium",
+   "timestamp": "0:23",
+   "quote": "I do think that you'll see these refined product margins fall a lot just because they are at unsustainably high levels."
+  }
+ ],
+ "notes": "Host states 'Monday, October 5th'. HO used for diesel/refining-margin view (not in the canonical list; group rates_fx_energy). WTI 'just below $90' quoted by host. No specific stock picks."
+}

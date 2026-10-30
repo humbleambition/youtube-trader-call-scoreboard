@@ -1,0 +1,412 @@
+{
+ "video_id": "eCJholxYeZE",
+ "channel": "StockedUp",
+ "title": "This Hasn’t Happened Since 2002…",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom & Mike (StockedUp hosts)",
+ "macro_themes": [
+  {
+   "theme": "Yields surging",
+   "view": "10y at 5.35% and 30y above 5.7%, highest since 2002; S&P mirrors yields, rising yields pressure stocks."
+  },
+  {
+   "theme": "Fed",
+   "view": "FOMC minutes show officials expect another hike before year-end (Oct 28 or Dec 9)."
+  },
+  {
+   "theme": "Energy disruption",
+   "view": "Prolonged elevated oil/gas is a 'ticking time bomb'; refiners benefit from the fuel shortage."
+  },
+  {
+   "theme": "Breadth",
+   "view": "McClellan Oscillator turned positive; historically S&P higher 1 and 3 months later in 11 of 12 cases."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     776.8,
+     772.5
+    ],
+    "resistance": [
+     778,
+     779.37,
+     780,
+     781.62,
+     785
+    ],
+    "invalidation": null
+   },
+   "condition": "Recover above 778 → toward ATH 781.62 then 785; open below 776.80 → drop to day low / test 772.50.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "0.57% off ATH after volatile day; breadth turning positive is bullish 1-3 months, but rising yields are a headwind.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "Historically, the S&P 500 ended up higher 1 and 3 months later in 11 of 12 similar cases"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield / TLT",
+   "price_at_call": 5.35,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields at highest since 2002; falling TLT has been a bad sign for stocks — watch closely (no directional forecast).",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "Watch those yields. Check out tickers like TLT."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 1100,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1090,
+     1111
+    ],
+    "invalidation": null
+   },
+   "condition": "Continuation above 1,090 day high; break of ~1,111 resistance.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "D.A. Davidson raised target to $3,000; clear multi-month uptrend, memory-chip hype returning.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I want to see this clear zone of resistance break over the next few days, and I think that it could come pretty easily."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AXTI",
+   "instrument_quoted": "AXTI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it keeps pressuring today's lows.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Lower highs, rich forward PE, fell ~5%, weak vs AI peers.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "I wouldn't be surprised if it offered a nice risk reward uh to the downside in a shorter-term sense."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     184,
+     185
+    ],
+    "resistance": [
+     200,
+     212
+    ],
+    "invalidation": null
+   },
+   "condition": "Push above $200 → test of recent high ~212.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off 184-185 support, +4.8%; cancer-vaccine momentum.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "ideally we continue to the upside after today's momentum and push above $200 per share tomorrow."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRAK",
+   "instrument_quoted": "CRAK (refiners ETF; also XLE, VLO, MPC, PSX, DINO)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Global fuel/diesel shortage from refinery outages and Ukraine strikes on Russian refineries.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "until the energy supply disruption ends, uh I expect these uh companies to continue to benefit from it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMCI",
+   "instrument_quoted": "SMCI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     45.75
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks out above $45.75.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; hot into the close.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "If it breaks out above $45.75, look for another push tomorrow."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     70
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks out above $70.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; starting to move higher again.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "If it breaks out above uh $70 per share even, watch it to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAT",
+   "instrument_quoted": "CAT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     806
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks under $806.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play after a massive pullback.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "if we see another drop like that tomorrow and it breaks under $806, keep watching CAT to the downside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DCH",
+   "instrument_quoted": "DCH (Jan 2028 $7 calls, big-money flow)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5
+    ],
+    "resistance": [
+     7,
+     7.5,
+     8,
+     8.3
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$1.2M LEAP call buy; triple bottom at $5 support; prior bounce went to 7-7.50, gap fill to 8-8.30 possible.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "we could see it pop up to around 7 to $7.50 just like last time. If not even break it"
+  }
+ ],
+ "notes": "Date: FOMC minutes 'today', Pepsi/jobless claims 'tomorrow' → Wednesday 2026-10-07 (listing said 10-08). MU ~$1,100 and NFLX ~$70 as spoken (2026 prices, possibly post-split). DCH ticker as spoken (automotive driveline supplier) — unverified."
+}

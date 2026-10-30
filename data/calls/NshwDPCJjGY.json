@@ -1,0 +1,58 @@
+{
+ "video_id": "NshwDPCJjGY",
+ "channel": "tastylive",
+ "title": "Someone Put 8 Million Into SpaceX Calls and the Clock Is the Tell",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (Signal vs. Noise)",
+ "macro_themes": [
+  {
+   "theme": "Elon ecosystem momentum",
+   "view": "Tesla's strong deliveries are lifting SpaceX; SpaceX has less brand risk than Tesla and benefits from Elon's ties to the administration."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPCX",
+   "price_at_call": 167.5,
+   "short_term": {
+    "bias": "bullish",
+    "target": 172.5,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 175,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     172.4,
+     172.5,
+     175
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Two-day breakout from a multi-week range; $8.63M bought at the ask in Oct 30 172.5 calls plus Nov 20 225 calls through Nov 3 earnings; host holds a 170/175 call spread; prior June swing high ~172.40 is the resistance to watch.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Somebody paid real money for SpaceX to keep moving over the next 3 and 1/2 weeks."
+  }
+ ],
+ "notes": "'On this Monday' -> Mon Oct 5 (listing Oct 6). Ticker quoted as SPCX; normalized to SPACEX. Medium-term target 175 is the top of host's own 170/175 call spread; the Nov 225 call buyer targets the June high (~225.64) but that is flow, not the host's view. Analyst targets 115-800 listed but dismissed."
+}

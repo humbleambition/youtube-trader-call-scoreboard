@@ -1,0 +1,413 @@
+{
+ "video_id": "inC7GFs1FaU",
+ "channel": "StockedUp",
+ "title": "Wall Street Is Doing Something Insane…. ($71 Trillion)",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom & Mike (StockedUp hosts)",
+ "macro_themes": [
+  {
+   "theme": "Seasonality",
+   "view": "Midterm-year and first-five-days-of-October seasonality favour the bulls."
+  },
+  {
+   "theme": "Oil / Strait of Hormuz",
+   "view": "Wall Street acting like the US has won Hormuz despite continuing tanker attacks; diesel above $6, refined-fuel shortage benefits refiners."
+  },
+  {
+   "theme": "Concentration",
+   "view": "NVDA, AAPL, MSFT over 21% of the S&P 500, record concentration, but tech leadership keeps the market rising."
+  },
+  {
+   "theme": "Valuation",
+   "view": "S&P PEG ratio at a 30-year low; market may not be as expensive as it looks."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 781.62,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     779,
+     778
+    ],
+    "resistance": [
+     781.62,
+     785
+    ],
+    "invalidation": null
+   },
+   "condition": "Breakout above all-time high 781.62 → push higher; pullback under 778-779 → consolidation.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "New all-time high, strong October/midterm seasonality.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "If we could see a clear breakout past that, I think the spy could start to push higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     378,
+     380
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 378-380 support holds, watch for break above recent highs.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding support, pushing toward recent highs, should follow a rising market.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I would not be surprised if Tesla continued to move higher and follow the market up in the immediate short term."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     170,
+     171
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 170-171 support holds, watch for recovery.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong three days, momentum high; intraday pullback to support.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I still think that there could be a lot of potential going into this week and even next week as well."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     300,
+     250
+    ],
+    "resistance": [
+     308
+    ],
+    "invalidation": null
+   },
+   "condition": "Hold $300 and retest 308 = bullish; wait if selling continues.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Google $4.3B 20-year nuclear PPA; popped 12% and broke its downtrend; AI electricity demand.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I still like the riskreward playing this one in an upside sense especially in a broader sense."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RCL",
+   "instrument_quoted": "RCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     290
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks above 290, watch for another uptrend.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Recovering as oil eases and Hormuz exports improve; Silversea voyage news.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "if it's able to break above 290 tomorrow, watch for another good uptrend to take place"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRAK",
+   "instrument_quoted": "CRAK (refiners ETF; also XLE, VLO, MPC, PSX, DINO)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Refined-fuel (diesel/gasoline) shortage; refiners pushing to new highs even as crude dips.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "these individual refining companies like VLOO continue to push up to new recent highs. I will be watching them closely"
+  },
+  {
+   "group": "stocks",
+   "ticker": "OKLO",
+   "instrument_quoted": "OKLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     39.3
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks out above $39.30.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play, nuclear sympathy with CEG.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "If Oak ends up breaking out about $39.30, watch it to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     658.55
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks out above $658.55 (spoken '$65,855').",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; kept marching to new highs.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "AMD kept marching to new highs today. If it breaks out above $65,855, keep watching it up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     22.8
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks under $22.80 (transcript; likely $228.0).",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; downtrend continuation.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "If CRM ends up breaking down under $22.80, watch for the downtrend to continue into tomorrow."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TIC",
+   "instrument_quoted": "TIC (10/12.5 call debit spread, big-money flow)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     8,
+     8.2
+    ],
+    "resistance": [
+     10.5,
+     10.8,
+     11
+    ],
+    "invalidation": null
+   },
+   "condition": "Break of 10.50-11 resistance → push toward 12.50.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$1M call debit spread; higher lows, sympathy with data-infrastructure/CEG move; fakeout risk in broader downtrend.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "we could see a pretty good push up to there if we do get past this $10.50 zone"
+  }
+ ],
+ "notes": "Date: host says 'today is the fourth trading day of October' and FOMC minutes 'tomorrow' → Tuesday 2026-10-06 (listing said 10-07). Garbled prices: SPY '$78162' = 781.62; AMD '$65,855' read as 658.55; CRM '$22.80' and OKLO '$39.30' recorded as spoken but may be mis-transcribed (CRM likely ~228). 'SpaceX' treated as a listed stock in this 2026 context; ticker SPACEX is a placeholder."
+}

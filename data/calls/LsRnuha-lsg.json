@@ -1,0 +1,436 @@
+{
+ "video_id": "LsRnuha-lsg",
+ "channel": "StockedUp",
+ "title": "Gas Prices Are About To Get Insane: Exports Suspended",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "StockedUp hosts (Tom and Mike)",
+ "macro_themes": [
+  {
+   "theme": "Energy/diesel shortage",
+   "view": "China's fuel export suspension and Iran tensions mean gas and diesel prices keep rising; energy back in play short term."
+  },
+  {
+   "theme": "Bond yields surging",
+   "view": "US 10y hit 5.342%, highest since 2002; Treasury seasonality points to more weakness in October."
+  },
+  {
+   "theme": "Q4 seasonality",
+   "view": "Q4 of a midterm year has been higher 84% of the time; bulls should get ready after a flat September."
+  },
+  {
+   "theme": "Weak breadth",
+   "view": "Under 42% of S&P stocks above 200-day MA; market driven by few big tech names, but similar readings saw higher prices 5 days later."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 768,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     760,
+     758,
+     756
+    ],
+    "resistance": [
+     765.5,
+     768,
+     770
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY breaks above ~765.50 day high, test 768 then 769.50-770; below 760 support watch 758 and 756",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "SPY channeling down and tested the downtrend at close; Q4 midterm seasonality and breadth readings historically bullish.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "if it breaks past there, I'll be looking at 76950 to 770 which was the high on Wednesday"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "10-year Treasuries",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Treasury seasonality: median October return of -0.7%, second-worst month; yields surging globally.",
+   "conviction": "low",
+   "timestamp": "2:56",
+   "quote": "Treasury seasonality points to even more weakness in October."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Crude following a clear uptrend and bouncing near trendline; Iran deal hopes fading.",
+   "conviction": "medium",
+   "timestamp": "8:20",
+   "quote": "crude oil futures, it's been following a very clear uptrend... we could see a continuation higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XOM",
+   "instrument_quoted": "XOM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 170,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks past prior highs (last week's high resistance)",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout over last week's high with oil bouncing; daily target 167-170.",
+   "conviction": "medium",
+   "timestamp": "7:40",
+   "quote": "If we look at the daily chart, there is a good target up around 167 to 170."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rising oil/gas prices, third carrier to Middle East, China suspending exports; closed up 1.9%.",
+   "conviction": "medium",
+   "timestamp": "8:55",
+   "quote": "XLE is uh definitely on the upside watch."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVTS",
+   "instrument_quoted": "Navitas (NVTS)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 15,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks this week's high around $13",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off multi-year uptrend line; US Army ALADDIN award; last bounce reached ~$15.",
+   "conviction": "medium",
+   "timestamp": "9:45",
+   "quote": "breaking through this week's high around $13 up to that $15 range, it would be a great end to the week"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     153
+    ],
+    "resistance": [],
+    "invalidation": 153
+   },
+   "condition": "If it holds ~153 support (double bottom); breakdown is a red flag",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong biotech year, pulling back to major support/double bottom; good risk-reward if it holds.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "if it continues to hold these levels of support if it can make for a good riskreward opportunity playing it back up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASAN",
+   "instrument_quoted": "ASAN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     9.3
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks out above $9.30",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; closed up 5.9%.",
+   "conviction": "low",
+   "timestamp": "12:25",
+   "quote": "If it breaks out above $9.30, watch ASAN up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOW",
+   "instrument_quoted": "NOW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     141
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks out above $141",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; software making a slight comeback.",
+   "conviction": "low",
+   "timestamp": "12:35",
+   "quote": "If N can break out above $141, watch it to the upside as well."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DIS",
+   "instrument_quoted": "DIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 100,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     110
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks down under ~$110 (transcript says '$11')",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Massive pullback at the open; continuation momentum short.",
+   "conviction": "low",
+   "timestamp": "12:50",
+   "quote": "if it breaks down under $11 tomorrow, watch it for a downside move towards $100, if not even lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AA",
+   "instrument_quoted": "AA ($40 Jun-2027 calls flow)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     42,
+     41,
+     35
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$3.2M of slightly ITM June 2027 $40 calls; at major 41-42 support, down ~50% from May high; commodity inflation tailwind but needs patience.",
+   "conviction": "low",
+   "timestamp": "13:10",
+   "quote": "it could chop around in this range, you know, maybe into the end of this year before rising early 2027"
+  }
+ ],
+ "notes": "Host says 'today is October 1st'. SPY quoted as '76550/768/770' = 765.50 etc. 'Zam' = XOM; 'Nvidas/Nvidita' = Navitas NVTS. DIS level '$11' likely $110 (target $100). NOW '$141' as stated (possibly garbled). Tesla deliveries and NFP mentioned without bias."
+}

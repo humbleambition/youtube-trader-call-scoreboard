@@ -1,0 +1,218 @@
+{
+ "video_id": "7iDBrsp7pz0",
+ "channel": "Crypto World",
+ "title": "BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-04",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Crypto follows stocks",
+   "view": "A continued Nasdaq all-time-high breakout next week could catalyse a crypto breakout attempt; a stock dump would delay it."
+  },
+  {
+   "theme": "Bearish divergence risk",
+   "view": "Any breakout over the next 1-2 weeks may extend bearish RSI divergences and lead to a cool-off later in October."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next 12-24h range, then breakout attempt next week"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 96000,
+    "horizon": "breakout toward 96-98K possible in 1-2 weeks, then risk of cool-off"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000,
+     82500
+    ],
+    "resistance": [
+     86000,
+     87400,
+     88000,
+     96000,
+     98000
+    ],
+    "invalidation": null
+   },
+   "condition": "If US stocks keep pushing ATHs next week, BTC likely attempts breakout above 86-88K toward 96-98K; but a limited breakout may form bearish divergence and pull back.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly supertrend green and weekly bullish divergence; 3-day range 82K-88K; liquidity clusters at 82.5K and 87.4K; daily/3-day bearish divergence risk.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "the next significant price target to the upside or area of resistance to watch out for above this resistance here is sitting in between 96,000 …"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 3300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800,
+     3300
+    ],
+    "invalidation": null
+   },
+   "condition": "If BTC/stocks break out, ETH likely breaks above 2.8K toward 3.3K, then possible pullback later this month.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Larger structure bullish; daily bearish divergence playing out as sideways cool-off under 2.8K resistance.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "that next major point of resistance or price target is at roughly 3.3k"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6
+    ],
+    "invalidation": null
+   },
+   "condition": "Follows BTC/ETH breakouts.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly range 1.30-1.60; daily bearish divergence cool-off nearly 2 weeks old, nearing next small move up.",
+   "conviction": "low",
+   "timestamp": "12:45",
+   "quote": "basically we could be getting closer towards that next little move up"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     119,
+     124,
+     125
+    ],
+    "invalidation": null
+   },
+   "condition": "If stocks strong next week, likely push above 124-125 in next 1-2 weeks, then a couple of weeks of cool-off as bearish divergence reconfirms.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing 119-124 resistance on 3-day; RSI lower highs vs late-August overbought peak.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "We could likely push slightly above those levels, likely in the coming 1 to 2 weeks."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Similar to others: sideways cool-off under local highs, slight push higher next week, then possible larger cool-off from bearish divergence.",
+   "conviction": "low",
+   "timestamp": "16:45",
+   "quote": "possibly a slight little push higher in the coming week"
+  }
+ ],
+ "notes": "No date stated; host says US stock market opens in less than a day and Nasdaq hit ATH 'on Friday', implying recorded Sunday 2026-10-04 (listing approx 2026-10-05). No current prices quoted."
+}

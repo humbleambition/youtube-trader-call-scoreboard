@@ -1,0 +1,99 @@
+{
+ "video_id": "8EkPEleLU7Y",
+ "channel": "Ross Givens",
+ "title": "Anthropic’s Secret IPO Filing Just LEAKED… The Numbers Are INSANE",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Anthropic IPO valuation",
+   "view": "A ~$2T IPO is justifiable only if the public filing shows revenue still above $11.5B/quarter with profit held; no need to buy on day one."
+  },
+  {
+   "theme": "AI compute commitments / circular financing",
+   "view": "Anthropic's $518B compute commitments are the real risk if demand stalls, and much of it flows back to investors Google and Amazon."
+  },
+  {
+   "theme": "Mega-IPO supply overhang",
+   "view": "SpaceX lock-up unlocks in October and November could still add selling pressure."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares (ticker not stated)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 60,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 60,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Wants to begin buying around $60 fair value",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Thinks SpaceX is overvalued and that remaining lock-up unlocks (two in October, a big one in November) add supply; admits his $60 call has been wrong so far.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I'm still looking for it to go lower. I think it's a bit overvalued at the current price."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ANTHROPIC",
+   "instrument_quoted": "Anthropic IPO (pre-IPO, not yet trading)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy if the public prospectus shows revenue still climbing past $11.5B/quarter with profit held; avoid if sales flatten or profit flips back to a big loss",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Most of the $42B loss is a non-cash accounting charge and revenue grew 14-fold in a year, but $2T is ~30x run-rate sales and $518B compute commitments are a risk.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "the hottest IPO of the year doesn't have to be bought on the first day. SpaceX just taught everybody that."
+  }
+ ],
+ "notes": "No weekday/date stated by host; listing date used. SpaceX ticker not named in the video (recorded as 'SPACEX'). Anthropic is not yet public, so its entry is a watch/conditional view with no price. Investor meetings said to start Oct 14."
+}

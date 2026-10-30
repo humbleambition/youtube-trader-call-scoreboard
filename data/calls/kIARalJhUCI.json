@@ -1,0 +1,49 @@
+{
+ "video_id": "kIARalJhUCI",
+ "channel": "tastylive",
+ "title": "October 11th First Call",
+ "video_date": "2026-10-09",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "tastylive hosts",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Constructive; VIX <15 favors being long delta over short premium; tech rebounding after OpenAI scare.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

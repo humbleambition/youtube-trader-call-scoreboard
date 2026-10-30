@@ -1,0 +1,154 @@
+{
+ "video_id": "6gdSWRpRuLs",
+ "channel": "Figuring Out Money",
+ "title": "October Won't Stay Quiet.",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Figuring Out Money host",
+ "macro_themes": [
+  {
+   "theme": "Q4 seasonality",
+   "view": "Q4 is typically bullish in midterm years, but 2018 shows it can roll over; Bollinger bandwidth compression means an expansionary move is coming either way."
+  },
+  {
+   "theme": "10-year yield surge",
+   "view": "Yields are the highest since 2007 and inversely track IWM; the 2018 analog peaked around Oct 5."
+  },
+  {
+   "theme": "Weak breadth",
+   "view": "Equal-weight S&P diverging from the cap-weighted index; fewer names holding the market up."
+  },
+  {
+   "theme": "Consumer sentiment at historic lows",
+   "view": "Falling sentiment mirrors rising yields, like the early 1980s; Fed typically behind the curve."
+  },
+  {
+   "theme": "No 1% down day streak",
+   "view": "44 sessions without a >1% down close; a >1% down day is common soon, but not a reason to short."
+  },
+  {
+   "theme": "Gamma flip",
+   "view": "Nasdaq is right at the gamma flip line; breaking below it could increase volatility."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX (also SPY)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7600,
+     7363,
+     7290,
+     7090
+    ],
+    "resistance": [
+     7670,
+     7939,
+     8105,
+     8213
+    ],
+    "invalidation": null
+   },
+   "condition": "Micron/semis strength could keep SPY holding or higher; semis weakness could drive SPY through the lower weekly to the daily expected move (SPY 758). Watch lower monthly expected move (7363) and JPM collar put (7290) in a shock.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Seasonal Q4 bullish but compressed bands imply expansion either way; breadth weak and a >1% down day statistically due; SPX daily EM 7600-7670, monthly 7363-7939, quarterly 7090-8213.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "we need to be prepared for if the market wants to rip, but know how to protect ourselves if the market starts to roll over"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU (utilities)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bounce more likely if rates come in; if rates keep rising utilities could stay bearish.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Utilities bullish percent index at the same lows as Oct 2022/2023, which led to bounces; breadth extreme preceded XLU higher 3 months later 82% of the time.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "if you were planning on shorting utilities, it's probably not the greatest time to short them at this current moment"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLF",
+   "instrument_quoted": "financials sector",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Financials bullish percent near 30% with oversold RSI and bullish divergence, four weeks tagging the lower weekly expected move: mean-reversion bounce setup.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "You can set up potentially trades looking for a bounce mean reverting trades ... in the short term for names that have been hammered"
+  }
+ ],
+ "notes": "Host says 'we made it through the month of September' and today was month end, so recorded Sep 30 after the close (listing approx 2026-10-01). SPY daily expected move 758-767 for next session. Financials ticker inferred as XLF (host says 'financials'). Micron mentioned only as a catalyst."
+}

@@ -1,0 +1,177 @@
+{
+ "video_id": "FCobDaSKYyY",
+ "channel": "Geeks of Finance",
+ "title": "Market Gamma Is Starting to Flip - Here's What Comes Next",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "Gamma positioning",
+   "view": "SPX still positive GEX (largest at 7700, then 7750); SPY/QQQ negative GEX reflects retail bearishness; expects consolidation, not a larger selloff."
+  },
+  {
+   "theme": "Low volatility, risk-on",
+   "view": "Low VIX plus Bitcoin bottoming signal a still strongly bullish environment."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7683.93,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7670,
+     7630
+    ],
+    "resistance": [
+     7700,
+     7750
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pullback since Sep 22 into a convergence of 10/20-day SMA (~7670) and 50-day EMA (7630); most GEX between 7675-7750 so expects range consolidation. Selling 7675 puts.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "we don't think there's going to be a larger sell off coming. Uh we actually expect more consolidation in this range"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 100000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     60000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Above key 80k with GEX building at 90k and skewing to 100k; 10/20/50-day MAs stacked and rising.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "Potential for a move up towards 100,000 into year end could be a growing probability"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     215
+    ],
+    "resistance": [
+     230,
+     235
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Series of higher lows, MAs turning up, positive GEX skewed to 250+ and bullish flows; holding Oct 16 215/210 put credit spread entered at 219.73.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "both the options market and the stock market suggesting momentum is to the upside in Nvidia"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RDDT",
+   "instrument_quoted": "RDDT",
+   "price_at_call": 143.12,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 115,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Below 50-day EMA for six weeks, approaching break of two-month support, negative GEX down to 115 strike and negative flows; looking to add a bearish position (call credit spreads).",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "GEX all the way down to the 115 strike ... So, that could be a target in the coming weeks"
+  }
+ ],
+ "notes": "Date implied: filters 'Tuesday through Friday' as the rest of this week and references last Friday Sep 25 -> Monday Sep 28 (listing approx_date 2026-09-29). NVDA price ~230 (about $10 above 219.73 entry), not stated exactly so left null. QQQ closed 736.54 with largest negative GEX at 730 but no own view given, so no NQ call; SPY negative GEX at 765/761 noted."
+}

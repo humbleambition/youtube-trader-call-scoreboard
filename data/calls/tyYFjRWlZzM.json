@@ -1,0 +1,132 @@
+{
+ "video_id": "tyYFjRWlZzM",
+ "channel": "tastylive",
+ "title": "Why You Should Consider Shorting Bonds Right Now",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ted Parkhill (Incline Investment Management), with tastylive hosts",
+ "macro_themes": [
+  {
+   "theme": "Rising rates / short bonds",
+   "view": "Persistent inflation and the first hikes in decades mean rates can keep rising; trend followers remain short bonds broadly."
+  },
+  {
+   "theme": "60/40 broken",
+   "view": "Bonds are no longer a safe haven; investors need non-correlated returns."
+  },
+  {
+   "theme": "Oil and the war",
+   "view": "No easy resolution to the Iran war; stays long energy until the trend ends. Host thinks the oil sell-off is fake given backwardation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "bond futures in general (not specified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Short bonds (= yields up) because of persistent inflation and a rising-rate trend; trend-following positioning.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "in general we remain short bonds. Why? Cuz we're in this environment of of rising rates."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent (guest) / WTI front month 87.90 (host)",
+   "price_at_call": 87.9,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long until the trend/war ends.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Guest stays long energy while the war chops; host sees backwardation and a deferred curve at 80-82 as signs the sell-off isn't done.",
+   "conviction": "medium",
+   "timestamp": "7:45",
+   "quote": "our view is we're going to be as long energy until it's over."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "No trend in gold now (down ~8% on the year), so the system is flat.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "You You go flat. And and for us, being flat is a position."
+  }
+ ],
+ "notes": "Date: host says the election is 'in the next 28 days'; US midterms are Tue 2026-11-03, so 28 days before = Tue 2026-10-06 (listing approx_date 2026-10-07). Date derived from that remark, so treat as approximate (±1 day). Bond view is recorded as TNX bullish (yields up) because the guest is short bonds; no specific contract named. Guest repeatedly stresses he makes no predictions (trend follower), so biases reflect current positioning."
+}

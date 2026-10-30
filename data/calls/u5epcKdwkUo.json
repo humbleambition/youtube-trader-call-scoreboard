@@ -1,0 +1,91 @@
+{
+ "video_id": "u5epcKdwkUo",
+ "channel": "Joseph James Trading With JJ",
+ "title": "WARNING!  Don’t Let this *PAYROLLS TRAP* Steal Your Gains Tomorrow!",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (JJ)",
+ "macro_themes": [
+  {
+   "theme": "Nonfarm payrolls / Fed",
+   "view": "Good news is bad news: a strong NFP print hurts given a possible Fed rate hike in October; expect traps around range edges."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures (tick/hourly charts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 31151,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Sell bull traps above range high, buy two-try bear traps at range lows; if price breaks out and separates from 21 EMA, buy pullbacks to retest 31151 high; on NFP flush, buy the retest of the low",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull move into a trading range after Micron earnings run; buyers hunting the 31151 high; ranges rotate.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Bulls definitely have the edge right now, but be ready for traps around the edges on the Nasdaq."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures (hourly/tick)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7654
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Range primed to rotate higher; a measured move down into the 7654 gap area would be a bear-trap buy",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Middle range primed to rotate up, but open gap/wick near 7654 begs to be partly filled on NFP Friday.",
+   "conviction": "low",
+   "timestamp": "12:15",
+   "quote": "Keep your eyes on that 7654 level, that gap below us."
+  }
+ ],
+ "notes": "NFP is 'tomorrow' (Friday Oct 2), so recorded Thu Oct 1 evening. 31151 assumed NQ level (spoken '31151'); 7654 assumed ES level."
+}

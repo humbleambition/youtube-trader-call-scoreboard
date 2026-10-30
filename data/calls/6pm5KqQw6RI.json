@@ -1,0 +1,93 @@
+{
+ "video_id": "6pm5KqQw6RI",
+ "channel": "Tom Nash",
+ "title": "The UNTHINKABLE is About to Happen to Stocks (but most will invest wrong)",
+ "video_date": "2026-10-12",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Tom Nash",
+ "macro_themes": [
+  {
+   "theme": "Earnings drive stocks",
+   "view": "Earnings keep rising every quarter, so ignore crash talk; worry only when earnings turn south."
+  },
+  {
+   "theme": "Systematic long-term investing",
+   "view": "Mostly education/promo: trim and double-down DCA rules (double buys when index is 10%+ off its 1-year high, stocks 20%+), 125-point quality test."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Earnings rising each quarter; 'if earnings keep increasing... stocks will go up'. Acknowledges crashes happen but buys dips.",
+   "conviction": "low",
+   "timestamp": "10:10",
+   "quote": "If earnings keep increasing, stocks are businesses. That means stocks will go up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": 209,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "40% of his portfolio; stock back at all-time highs ~209 after 137 low in 2026; holds for long-term compounding, earlier '500 in a few years' thesis.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "Now it's back at all time highs at 209."
+  }
+ ],
+ "notes": "Largely an education/promo video for a free masterclass Sat Oct 17 2pm ET. No near-term levels or CPI/OpEx view. Portfolio 40% PLTR / 40% S&P 500 / 20% TSLA. Past picks cited (NVDA, DDOG, BE) as track record, not new calls."
+}

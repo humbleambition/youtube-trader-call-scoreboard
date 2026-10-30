@@ -1,0 +1,89 @@
+{
+ "video_id": "nriZbPopLj8",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *BREAKOUT PULLBACK* Could DOUBLE Our Profits Tomorrow!",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James",
+ "macro_themes": [
+  {
+   "theme": "Momentum",
+   "view": "Buyers in full control on the hourly chart; overall bullish, last place you want to be short is a breakout pullback."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures (4,000-tick chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy pullback into breakout-pullback zone / below swings after a bear trap; no chasing.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hourly momentum bullish; range breakout measured move, plans to buy a breakout-pullback/two-try bear trap below swings and the 21 EMA, targeting a retest of the recent high.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "This is not a good place to be selling. We're overall bullish. It's a strong pop up. It's a breakout pullback."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures (7,000-tick chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy the dip into the breakout-pullback zone/gap fill; small counter-trend short only on a fakeout breakout (crown reversal) at the top.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong run, bullseye is a retest of the high; may make one more leg lower to fill a gap/tag the prior-high breakout zone (missed by ~4 ticks) before continuing higher. Counter-trend short only on a crown-reversal fakeout at range top.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "Anytime we see strong moves like this, we always know the bullseye is back up to retest the high."
+  }
+ ],
+ "notes": "No price levels given (only chart drawings). Host targets 'Thursday morning' session, so recorded Wednesday 2026-10-07 evening; listing date was 2026-10-08."
+}

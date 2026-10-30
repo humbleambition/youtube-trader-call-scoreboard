@@ -1,0 +1,93 @@
+{
+ "video_id": "F4T3hBmWuBY",
+ "channel": "tastylive",
+ "title": "Why Most Traders Are Getting This Market Wrong",
+ "video_date": "2026-10-05",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tom Preston (TP) and Chris Butler (tastylive)",
+ "macro_themes": [
+  {
+   "theme": "Weak breadth beneath indices",
+   "view": "S&P 1.5% off its high but 27 names at 52-week lows vs 4 highs and under half above the 200-day; indices hide damage."
+  },
+  {
+   "theme": "Index vol cheap",
+   "view": "With VIX ~14-16 near all-time highs, index premium is cheap: buy index puts/put spreads rather than sell index premium; sell single-name vol instead."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Narrow leadership and poor breadth; index premium too cheap to sell; Chris is short a little S&P, TP says it could test the downside.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "Me, I am long VIX. I'm short a little S&Ps."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 15,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "VIX at 14-16 with the index a few percent from highs and weak breadth makes index vol cheap.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "Me, I am long VIX."
+  }
+ ],
+ "notes": "No air date stated; listing approx used. VIX quoted as '15, 16' and '13.82' earlier in the month. Mostly options-education Q&A (IV rank vs percentile, delta)."
+}

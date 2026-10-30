@@ -1,0 +1,233 @@
+{
+ "video_id": "IFzWBDOMF-M",
+ "channel": "tastylive",
+ "title": "The Quietest Hour of the Trading Day Is No Longer Quiet",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Jamal Chandler and Mike Butler (tastylive Morning Show) with researcher Julia",
+ "macro_themes": [
+  {
+   "theme": "Intraday volatility regime",
+   "view": "S&P intraday volatility since 2024 is above 2012-2019 but below 2020-2023; biggest change is a busier, more upward-drifting midday (11:30-12:30 CT)."
+  },
+  {
+   "theme": "Implied volatility",
+   "view": "Host finds SPX implied volatility surprisingly light (only ~18-point expected move for the rest of the day with the market down 50); TLT's IV above SPY's is unusual."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Market down 50 points; does not expect the usual midday upward drift today and has pending orders that benefit from further downside.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "I don't think we I don't think we drift higher significantly here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "COST",
+   "instrument_quoted": "Costco diagonal spread",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed a winning diagonal to take off risk before time off; no new directional view.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "bunch of winners. Costco diagonal spread, Intel Straddle, uh STZ diagonal spread, Microsoft diagonal spread, and a TJ Maxx leap."
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "Intel straddle",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed a winning straddle to reduce risk; no directional view.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "Intel Straddle"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STZ",
+   "instrument_quoted": "STZ diagonal spread",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed a winning diagonal to reduce risk; no directional view.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "STZ diagonal spread"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "Microsoft diagonal spread",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed a winning diagonal to reduce risk; no directional view.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "Microsoft diagonal spread"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TJX",
+   "instrument_quoted": "TJX LEAP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed a winning TJX LEAP to free buying power; no directional view.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "and a TJ Maxx leap. All of them were pretty sizable winners here."
+  }
+ ],
+ "notes": "Date: research is 'the second piece to the piece that we had yesterday' (video Gp8w6yNrNLE, Tue 2026-10-06) -> Wed 2026-10-07 (listing approx_date 2026-10-08). Closing trades are risk reduction ahead of a week off, not directional calls; one host has two unfilled orders 'that correlate with possible downside'. Which host made each trade not stated. Possible conflict: Gp8w host added TJX longer-term the day before; here a TJX LEAP is closed (may be a different host)."
+}

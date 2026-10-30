@@ -1,0 +1,171 @@
+{
+ "video_id": "A4Yi9VG4gXg",
+ "channel": "A1 Trading",
+ "title": "FOMC Meeting Minutes just Dropped: HAWKISH Updates!",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "A1 Trading hosts (Nick and Chris)",
+ "macro_themes": [
+  {
+   "theme": "Hawkish FOMC minutes",
+   "view": "Minutes read as uniformly hawkish: all 19 backed the September hike, most see another 2026 hike, inflation risks tilted up."
+  },
+  {
+   "theme": "Rate hike cycle",
+   "view": "Market prices ~75bp more hikes by mid-2027; this is why yields rise and gold falls."
+  },
+  {
+   "theme": "Fed QE backstop",
+   "view": "A 10-20% correction would eventually force the Fed into QE / bond purchases as a backstop, possibly in 2027."
+  },
+  {
+   "theme": "Bearish sentiment",
+   "view": "AAII-style sentiment still very bearish, which makes them cautious about calling a top; possible run against shorts."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000 (index chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Persistent lower lows and lower highs; most rate/inflation-sensitive index; others in stream are short and doing well.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "You've got a persistent lower low, lower highs. Some of the other guys in the uh in the stream here, they're short the Russell."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (index chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Investor sentiment still very bearish; they think that could fuel a run against the shorts rather than a top.",
+   "conviction": "low",
+   "timestamp": "8:45",
+   "quote": "makes me you know cautious or or uh you know thinking maybe there could be a little bit of a run against the shorts"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rate-hike cycle and a dollar at 1.5-year highs (above 102) weigh on gold now; longer term expect buy-the-dip opportunities in precious metals.",
+   "conviction": "low",
+   "timestamp": "7:45",
+   "quote": "gold continues to not like it... There may be some really nice buy the dip opportunities and precious metals"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same view as gold: strong dollar and hawkish Fed hurt now; longer-term dip-buying opportunity.",
+   "conviction": "low",
+   "timestamp": "7:45",
+   "quote": "Silver continues to not like it... There may be some really nice buy the dip opportunities and precious metals"
+  }
+ ],
+ "notes": "Date: no calendar date stated, but the stream is live at the FOMC minutes release, which other videos in this batch put at 2 p.m. ET Wednesday 2026-10-07; listing approx_date (2026-10-08, '20 hours ago') looks a day late. date_source set to 'transcript' because the date is derived from transcript content, not spoken. 'Kevin Moore' in transcript is likely Fed Chair Kevin Warsh (ASR). DXY above 102 mentioned as fact, no forward call. Gold/silver biases are inferred from 'continues to not like it' and 'buy the dip' remarks; low conviction."
+}

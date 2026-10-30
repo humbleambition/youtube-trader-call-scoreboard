@@ -1,0 +1,95 @@
+{
+ "video_id": "GuEjIolYKi8",
+ "channel": "Ricky Gutierrez",
+ "title": "Why Everyone Is Watching The Fed Right Now",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Fed pause odds",
+   "view": "After JOLTS, hike odds fell from ~75% to 49.4% and a pause is now slightly favored; PCE and ADP tomorrow could shift it."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 1065,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     900
+    ],
+    "resistance": [
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "if earnings rip it higher, back toward 1,100/prior highs; if the overbought reversal breaks support, down to ~900",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Into earnings after the close tomorrow at ~1,065 between resistance ~1,100 and support ~900; waits for the reaction.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "does it break the support with this overbought reversal and begin to trade back down to the lows of 900?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     144
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapped up to ~144 for no reason, presented an overbought reversal; shorted and covered same day.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "Oracle ripped up to highs of nearly 144. It presented this beautiful overbought reversal"
+  }
+ ],
+ "notes": "Date: 'happy Tuesday', PCE 'tomorrow, Wednesday' and Micron earnings tomorrow, so Tuesday 2026-09-29 (listing approx Sep 30). ORCL short and MSTR trades were intraday and closed. ORCL '144' and MU '1,065' kept as quoted."
+}

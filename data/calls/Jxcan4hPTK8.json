@@ -1,0 +1,245 @@
+{
+ "video_id": "Jxcan4hPTK8",
+ "channel": "VRIC Media",
+ "title": "Mark Thornton: Higher Rates Are Coming — Gold & Silver Could Be the Winners",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Mark Thornton (Mises Institute), interviewed by Daryl Thomas",
+ "macro_themes": [
+  {
+   "theme": "Long-term bond bear market",
+   "view": "Rates are in a secular uptrend since 2021 with possible spikes; long bonds no longer act as a shock absorber for stocks."
+  },
+  {
+   "theme": "Persistent inflation",
+   "view": "Fed is behind on its 2% target and quietly inflating; CPI (~3.5-4%) likely goes higher, aided by oil and food prices."
+  },
+  {
+   "theme": "Overvalued US stocks",
+   "view": "US equities are at record valuations driven by a handful of names; investors should reduce stock exposure."
+  },
+  {
+   "theme": "Rotation to hard assets",
+   "view": "Portfolios should shift to short-duration bonds/cash, gold, silver, commodities and oil, which are historically undervalued."
+  },
+  {
+   "theme": "Dollar debasement",
+   "view": "Dollar has stabilised/risen short term, but its long-run purchasing power and DXY value should decline."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Long-run inflation, falling dollar and bond bear market make gold a core holding; short-term dollar strength only hurts it in traders' minds.",
+   "conviction": "high",
+   "timestamp": "17:00",
+   "quote": "what does that leave you with? Well, it leaves you with commodities. It leaves you with gold and silver"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same hard-money thesis as gold: inflation and debt monetisation favour silver over paper assets.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "it leaves you with commodities. It leaves you with gold and silver uh and assets that are geared towards gold, silver"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "long-term US Treasury yields (10y/30y)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "40-year rate downtrend ended in 2021; deficits, ~$10T annual rollover and inflation push long rates higher, possibly in spikes.",
+   "conviction": "high",
+   "timestamp": "13:00",
+   "quote": "we're in a longterm bare market in bonds. So that means we're looking at an upward trend in interest rates"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar stabilised over summer and is rising a little short term, but long-run trend in purchasing power and versus other currencies is down.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "the long-term trend for the dollar looks to me like it's down"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Market at its most overvalued in history, narrow leadership; investors should reduce stocks as higher rates pressure valuations.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "investors and savers have got to look um to reduce stocks which are highly highly overvalued"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil is historically undervalued and higher oil prices are baked in even if the Persian Gulf war is resolved.",
+   "conviction": "low",
+   "timestamp": "53:00",
+   "quote": "with oil prices going higher and food prices going higher even if we could solve the war in the Persian Gulf. I think those trends …"
+  }
+ ],
+ "notes": "No date stated in transcript; listing says 19 minutes ago (2026-10-08). Bond view recorded as TNX (yields up); he also says long-bond prices will fall (TLT bearish equivalent). No price levels or targets given. Oil call is partly an inflation statement plus 'very undervalued' commodities remark."
+}

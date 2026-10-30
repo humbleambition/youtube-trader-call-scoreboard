@@ -1,0 +1,221 @@
+{
+ "video_id": "ofTBcoKh61k",
+ "channel": "David Lin",
+ "title": "Energy Crisis Here To Stay; This Asset Triples | Clem Chambers",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Clem Chambers",
+ "macro_themes": [
+  {
+   "theme": "Government-curated liquidity",
+   "view": "Markets are being driven by liquidity the government is pumping in; buy-and-hold riders are passengers on a curated trend."
+  },
+  {
+   "theme": "Yield panic as contra-indicator",
+   "view": "Bond-yield panic signals the top is in; the government can and will cap yields (QE via Treasury buybacks), though the Fed likely waits until after the midterms."
+  },
+  {
+   "theme": "Energy is destiny",
+   "view": "The West must massively build out energy for AI; all energy sources will be in demand and get more expensive."
+  },
+  {
+   "theme": "Oil: volatile range, elevated for long",
+   "view": "Hormuz will be mostly open within a year via siege/pipelines, but refilling storage keeps prices elevated for a long time."
+  },
+  {
+   "theme": "AI vs anti-AI tug of war",
+   "view": "Markets swing daily between the AI trade and a defensive 'Contra' trade; whoever wins AI wins, which drives everything."
+  },
+  {
+   "theme": "US-China growth race",
+   "view": "America going all-in for growth versus China is reflationary and good for asset prices."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "Copper (price units unclear, likely $/tonne)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long-term: expects copper to double or triple over 10 years; mentions 30,000 (his own) and 40,000 (an expert's) as levels, units not stated.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Copper is the 'nervous system' of the AI and energy build-out, supply barely sufficient and mines slow to build; at the start of a boom-bubble-bust run.",
+   "conviction": "high",
+   "timestamp": "25:30",
+   "quote": "copper are already at all time highs, but we'll double triple in the next 10 years... Oh, easy."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold (spot, $/oz)",
+   "price_at_call": 4190,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would look to buy if gold falls to ~3500; otherwise sideways rest for 1-2 years.",
+   "action": "buy",
+   "entry": 3500,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Gold and silver had their initial boom-bubble-bust and will rest for another year or two before another (smaller) run; 3500 is his buy level.",
+   "conviction": "medium",
+   "timestamp": "28:20",
+   "quote": "3500 it looks good to me but when it gets there see what it looks like... Gold long term will go that-a-way."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.279,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Chart target of ~7% only if the government did not intervene; he expects it will.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Contrarian: panic over yields means the peak is in; government can bend the curve and Bessent's TGA buybacks are effectively QE. Charts say 7% absent intervention.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "the moment everybody's screaming, oh, my God, down they come... Hue and cry is a contra indicator."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude ($/bbl)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     90,
+     95
+    ],
+    "resistance": [
+     105
+    ],
+    "invalidation": null
+   },
+   "condition": "Range breaks only on a geopolitical shift; long-term bias is 'elevated', not a rising target.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Volatile range-bound trade on Iran/Houthi headlines; Hormuz mostly open within a year, but storage refill and AI-driven energy demand keep prices elevated for a long time.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "Prices are going to be elevated. They're not going to go back to the pre levels for quite a long time."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US equities broadly (no index level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Liquidity, US all-in growth push and the AI build-out ('increase in tempo') are great for assets; his risk-on portfolio is back at all-time highs.",
+   "conviction": "medium",
+   "timestamp": "27:50",
+   "quote": "increase in tempo is going to be great for assets. Great for assets, you just have to be in them."
+  }
+ ],
+ "notes": "No on-air date; listing approx_date 2026-10-08 ('21 hours ago'), possibly recorded 2026-10-07. Copper '30,000'/'40,000' units not stated (likely $/tonne LME); bank target '27' also unclear. Oil range stated as '105 90 on brent maybe 95 to 105'. Line 'after the midterms... interest rates coming up. They're coming down now' is self-contradictory (likely misspoken); recorded only the near-term 'coming down' view. Gold 4190 was the host's price. ES call is general equity/asset bullishness, no index named. Sponsor segment (Stellar Gold) ignored."
+}

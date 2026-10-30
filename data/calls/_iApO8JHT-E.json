@@ -1,0 +1,90 @@
+{
+ "video_id": "_iApO8JHT-E",
+ "channel": "Crypto World",
+ "title": "BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "crypto_daily",
+ "speaker": "host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing 80-82k support, bearish divergence, stocks cooling",
+   "conviction": "medium",
+   "timestamp": "",
+   "quote": ""
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [
+     1.27,
+     1.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking $1.30; double top risk",
+   "conviction": "medium",
+   "timestamp": "",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

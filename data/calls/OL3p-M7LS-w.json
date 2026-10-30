@@ -1,0 +1,422 @@
+{
+ "video_id": "OL3p-M7LS-w",
+ "channel": "The Traveling Trader",
+ "title": "Everything Says Stocks Should CRASH...So Why Aren't They?",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "The Traveling Trader (host)",
+ "macro_themes": [
+  {
+   "theme": "Rolling correction / breadth",
+   "view": "Market has had a rolling sector correction (tech crashed Jun-Jul, now the rest of the market is correcting while QQQ/SPY sit near highs); historically the laggards and leader both rally 6-12 months later."
+  },
+  {
+   "theme": "Record earnings growth",
+   "view": "Q3 S&P 500 EPS growth est. 29.6% and record positive guidance keep forward P/E (19.1) reasonable, which is why stocks are resilient despite $93 oil and 5%+ yields."
+  },
+  {
+   "theme": "Bond yields may have topped",
+   "view": "If the 10y top was 5.34% on Oct 5, history says the Dow outperforms (+5.8% 6m, +16.3% 12m) because its stocks are rate sensitive; Bessent possibly cutting/eliminating 20y issuance (refunding Nov 4) could lower long yields, though it could backfire."
+  },
+  {
+   "theme": "CPI / Fed",
+   "view": "Wants CPI and core CPI in line or cooler this week; Fed ~82% likely to hold Oct 28; hot CPI would put the Fed in a bind and keep a December hike priced."
+  },
+  {
+   "theme": "Midterm Q4 seasonality",
+   "view": "Q4 of a midterm year is historically very bullish; expects rolling corrections rather than a crash, but a clearing event would be a buy-with-size opportunity."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "Dow Jones index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields have topped and CPI comes in line or cooler",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Dow ~6% off highs, retested prior all-time high near the 0.5 retracement of the March rally; rate-sensitive components historically outperform after a yield top.",
+   "conviction": "medium",
+   "timestamp": "9:30",
+   "quote": "if I had to pick an index where there is an asymmetric opportunity here, it would still be the Dow, which is down 6% from …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Record equal-weight vs cap-weight decoupling historically resolves with both rallying 6-12 months later; expects rolling corrections before midterms rather than a crash.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "what tends to happen 6 months and 12 months later is that both the S&P 500 and the S&P 500 equal weight go on a …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.24,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.34
+    ],
+    "invalidation": 5.34
+   },
+   "condition": "If the Oct 5 high of 5.34% is the top",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Treasury may cut long-bond issuance; scenario analysis of a yield top at 5.34%. Stated as a hope/scenario, not a firm call.",
+   "conviction": "low",
+   "timestamp": "8:15",
+   "quote": "what we saw on October 5th when the 10-year hit 5.34. If that is the top, how do stocks perform"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MCD",
+   "instrument_quoted": "MCD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If rates top and it breaks out of its long downtrend",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rate-sensitive Dow stock at a major demand zone, inversely correlated with the 10y; pays a dividend.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "if this is an actual topping out of rates and these stocks actually break out from their long downtrends, then we could see a disproportionate …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HD",
+   "instrument_quoted": "HD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If rates top and it breaks out of its long downtrend",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rate-sensitive Dow stock at a major demand zone; pays a dividend.",
+   "conviction": "medium",
+   "timestamp": "10:05",
+   "quote": "both of these stocks are at major demand zones"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Still down double digits from highs while other megacaps rallied; 'knocking on the door' of a breakout, AI model announcement expected. Holds it but may trim to <=10% of portfolio as it is overweight.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "Google is still down here. Amazon has broken out... I think both of these are no-brainers"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Has broken out; host is in a position.",
+   "conviction": "high",
+   "timestamp": "11:10",
+   "quote": "Amazon has broken out. I am in a position in Amazon... I think both of these are no-brainers"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Beaten-down chip stock he is 'really big on for the long term'.",
+   "conviction": "medium",
+   "timestamp": "11:30",
+   "quote": "Broadcom is one that I'm really big on for the long term, as well as Intel"
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Beaten-down chip stock, long-term bullish.",
+   "conviction": "low",
+   "timestamp": "11:35",
+   "quote": "Broadcom is one that I'm really big on for the long term, as well as Intel"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke down out of a triangle, heading toward the 200-day MA; data-center stocks to be bought again at a discount later.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "this one has broken down out of this triangle heading towards that 200 day moving average"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JPM",
+   "instrument_quoted": "JPM / GS / XLF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Financials (JPM, Goldman Sachs, XLF) in correction offer better discounts than tech; considering rotating some Google profits into them.",
+   "conviction": "low",
+   "timestamp": "12:45",
+   "quote": "stocks like JPM and Goldman Sachs that I eventually want to own and now they are providing much much better discounts"
+  }
+ ],
+ "notes": "No date stated; host says Q3 earnings 'coming up this week' with ASML 'Wednesday the 14th' and CPI 'Wednesday, October 15th' (inconsistent; Oct 15 2026 is a Thursday). Oil cited at $93, 30y at 5.6%. No concrete index price levels or targets given. JPM call also covers GS/XLF."
+}

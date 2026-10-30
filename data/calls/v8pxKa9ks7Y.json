@@ -1,0 +1,55 @@
+{
+ "video_id": "v8pxKa9ks7Y",
+ "channel": "StockedUp",
+ "title": "The Stock Market Is Being Manipulated",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 770,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [
+     768
+    ],
+    "resistance": [
+     772.5,
+     774,
+     775
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY broke downtrend line, holds above it; 768 double bottom key",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "if it breaks out above 77250 tomorrow, keep watching it to the upside"
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,132 @@
+{
+ "video_id": "3-0IDgTspQU",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Get Caught In This Market Bull Trap!?",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Weak jobs, Fed",
+   "view": "NFP +29k vs 90k and unemployment 4.2% cut Fed hike odds from 75% to ~19.5%; bad news is good news, but this can flip fast with CPI and more data."
+  },
+  {
+   "theme": "Memory chip oversupply",
+   "view": "Toshiba ramping 2027 supply raises oversupply fears for memory names (WDC -12%, STX, SNDK)."
+  },
+  {
+   "theme": "Energy inflation",
+   "view": "Middle East escalation means oil and diesel prices still expected to go higher."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq +1.5% on weak-jobs/Fed relief, but sees early signs of a possible pullback and warns the rally can reverse with CPI.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "It looks like we're seeing early stages of a possible pullback, but this is far from an actual, you know, going into the red."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shorted Micron intraday as memory names sold off on Toshiba supply news; notes MU 'fully selling off'.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "We could see now Micron is actually fully selling off."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Middle East escalation keeps oil and diesel prices headed higher.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "with all the escalations that we've seen over the week in the Middle East, oil prices, diesel prices, we're still expected to go higher."
+  }
+ ],
+ "notes": "Date: NFP Friday ('happy Friday'), consistent with 2026-10-02. MU short was an intraday trade. WDC/STX/SNDK moves reported as news only, not recorded."
+}

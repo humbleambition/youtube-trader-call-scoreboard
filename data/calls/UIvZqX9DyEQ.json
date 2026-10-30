@@ -1,0 +1,170 @@
+{
+ "video_id": "UIvZqX9DyEQ",
+ "channel": "tastylive",
+ "title": "Jason Sen Explains Why Gold Is Falling Even as Inflation Rises",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jason Sen (DayTradeSignals), with tastylive host Jamal",
+ "macro_themes": [
+  {
+   "theme": "Yields up, gold down",
+   "view": "Gold trades with bonds; rising yields make a non-yielding asset less attractive, so gold falls despite inflation."
+  },
+  {
+   "theme": "Dollar strength",
+   "view": "EUR/USD's multi-year rally looks like a bounce in a bear trend with a large head-and-shoulders; dollar likely heading higher."
+  },
+  {
+   "theme": "Bifurcated market",
+   "view": "134+ S&P names down 40%+ on the year while indices rise; Sen still follows the index uptrend, buying dips."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures/spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3850
+    ],
+    "resistance": [],
+    "invalidation": 3850
+   },
+   "condition": "Break of 3850 (100-day MA) means gold is in trouble; ~4000 is key support with multi-year trendlines",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sideways with negative bias lately, trading from the short side; 4000 area has June swing lows and 2024 trendlines.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "If we break there, we've got the 100-day moving average around 3850... then I think gold's in trouble"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Large head-and-shoulders after a 2-3 year bounce in a long-term bear trend, rejected at strong long-term resistance; dollar going up.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "I think that the next big move for the EUR/USD is down. I think the dollar's going up."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US indices (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend follower: indices keep going up, staying long and buying dips despite weak breadth.",
+   "conviction": "low",
+   "timestamp": "6:50",
+   "quote": "I'm just following the indices higher. I'm staying long. I'm buying in dips"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "Treasuries (host long bonds)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Host Jamal is long bonds (expects yields lower) and short gold via an expiring GC put spread to offset; Sen says yield uptrend may continue.",
+   "conviction": "low",
+   "timestamp": "2:30",
+   "quote": "I've decided to get long. It's been rough. But I realize like I can't be long gold and bonds."
+  }
+ ],
+ "notes": "Host says bond markets are closed today -> Columbus Day Mon Oct 12 (listing Oct 13). TNX call is the host's (long bonds = yields down), not Sen's; Sen thinks the yield uptrend may persist. EURUSD bearish = DXY bullish."
+}

@@ -1,0 +1,189 @@
+{
+ "video_id": "etHSThjfN50",
+ "channel": "Gareth Soloway",
+ "title": "Rare 80% Signal on Yields Signals Stock Rally",
+ "video_date": "2026-10-10",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish signal on yields (rare 80% signal) reinforces bullish S&P bias.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rare 80% signal says yields roll over.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "bullish unless trend line breaks and confirms",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold held trend line (closed below Thu, not confirmed); bullish while trend line holds; yields falling helps.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "bearish to 55/50 if confirmed break",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held support, closed below Thursday back above Friday; benefit of doubt up; close below -> 55 then 50.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding support; if yields fall oil may break down toward longer trend line.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

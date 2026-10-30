@@ -1,0 +1,58 @@
+{
+ "video_id": "C8660SqTpxA",
+ "channel": "tastylive",
+ "title": "10 Million in Micron Calls After a Record Quarter Got Ignored",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive Signal vs. Noise host",
+ "macro_themes": [
+  {
+   "theme": "Memory supercycle",
+   "view": "~75% of Micron's FY2027 output sold, HBM contracted at higher prices, tight through 2028; compute treated like national security."
+  },
+  {
+   "theme": "Good news not rewarded",
+   "view": "Record quarters failing to lift the stock may signal washed-out expectations, as with Nvidia earlier."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU shares and options",
+   "price_at_call": 1083,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$10.57M of bullish flow after a record quarter and guide: short-dated Oct calls/short put plus ~$7.5M in Dec 18 calls betting fundamentals overpower a muted reaction.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "folks expect the rally to continue"
+  }
+ ],
+ "notes": "Date: Friday after Wednesday earnings, with Oct 2 options expiring 'today' -> 2026-10-02 (listing 10-05). Prices garbled: '10.66'/'10.83' = $1,066/$1,083. Dec strike quoted as '1,050' with breakeven '1,056-1,057, ~9% above the stock', which is inconsistent; no target recorded. Bias is the flow's and host's (host says fundamentals don't look like changing), conviction medium given his caveats."
+}

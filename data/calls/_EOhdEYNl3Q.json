@@ -1,0 +1,241 @@
+{
+ "video_id": "_EOhdEYNl3Q",
+ "channel": "Sean Foo",
+ "title": "US Panic: EU DUMPING Visa & Mastercard, Canada CUTS Treasuries, AI Bubble POP",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "US Treasury selloff",
+   "view": "10y above 5.3% and 30y heading to 6%; foreign holders (China, Japan, Canada) pulling back from Treasuries, and the trend will accelerate."
+  },
+  {
+   "theme": "Inflation denial",
+   "view": "Administration refusing to admit inflation signals higher yields and pushes the Fed closer to hiking again."
+  },
+  {
+   "theme": "De-dollarization of payments",
+   "view": "EU payment consortium building an alternative to Visa/Mastercard; Europe pushing digital euro by 2029."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "AI spending is a leverage loop (SpaceX debt for Nvidia chips, Nvidia vendor financing, Broadcom/Anthropic); high rates are the likely pin, but the bull run could last ~9 more months."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": 5.3,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Treasury values crashing as foreign holders sell and inflation is denied; signals higher bond yields and possible Fed hikes.",
+   "conviction": "high",
+   "timestamp": "1:00",
+   "quote": "it signals higher bond yields are coming at minimum, it really pushes the Fed closer to hiking rates once again"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "US 30-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "30-year heading toward 6% amid a worsening bond crisis.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "the 10-year is well above 5.3% and the 30-year is heading towards 6%."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stocks (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bull run can continue on rotation out of Treasuries; if yields keep rising or a hyperscaler cuts capex, the AI bubble could pop suddenly.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Money rotating out of Treasuries into tech stocks keeps equities elevated (cites Burry: ~9 more months of gains possible), but rising rates threaten the AI bubble.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "to be clear, the current bull run in US stocks could continue for quite a while longer."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "Nvidia (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Demand inflated by circular/vendor financing (SpaceX debt-funded chip buys, $500B Nvidia vendor financing vehicle); if the bubble bursts capital evaporates.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "this AI bubble is being inflated by the same companies that profit the most from that inflation."
+  },
+  {
+   "group": "stocks",
+   "ticker": "V",
+   "instrument_quoted": "Visa (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "EU consortium building a cross-border payment network threatens Visa/Mastercard dominance (~90% of EU cross-border card transactions).",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "Mastercard and Visa about to face a serious new competitor built entirely within Europe"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MA",
+   "instrument_quoted": "Mastercard (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same EU payments-sovereignty threat as Visa.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "the US monopoly over EU payment infrastructure could be under threat."
+  }
+ ],
+ "notes": "Livestream; no date spoken, listing approx_date used. V/MA and NVDA biases are implied from the narrative (competitive threat / bubble), not explicit trade calls. 'Antropic'/'entropic' = Anthropic; 'Widow'/'BISM'/'Bankomet' are garbled names of EU payment firms (likely Bizum, Bancomat, Wero/EPI). SpaceX described as having Nvidia equity investment (garbled 'SP X')."
+}

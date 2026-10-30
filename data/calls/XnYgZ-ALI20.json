@@ -1,0 +1,288 @@
+{
+ "video_id": "XnYgZ-ALI20",
+ "channel": "Meet Kevin",
+ "title": "The Morning After Micron, Jobs Tomorrow, Iran LACKS Progress.",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Peak 10y yield / Japan repatriation",
+   "view": "Thinks the 10y yield rise is driven mainly by Japanese investors repatriating out of US Treasuries; called the yield peak near 5.27% and expects yields down once that and the Iran war end."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "90-95% confident of a US-Iran deal by the midterm election; Trump is deliberately waiting for a better deal, so volatility may last ~3 weeks."
+  },
+  {
+   "theme": "Economy booming",
+   "view": "Challenger job cuts down, S&P and ISM manufacturing PMIs in expansion; mid-cycle boom, though ISM prices paid show inflation pressure."
+  },
+  {
+   "theme": "2s10s spread near shock territory",
+   "view": "The 10s-2s spread approaching ~50bp historically means something breaks; 16 of 16 similar yield runs broke something."
+  },
+  {
+   "theme": "AI boom mid-cycle",
+   "view": "Rising H100/H200 rental prices and GPU hardware values show the AI buildout is not rolling over; it is a bubble but still money to be made."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (calls it Nasdaq 100)",
+   "price_at_call": 735,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735,
+     715,
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish once Japanese repatriation fades and an Iran deal is struck; volatility possible for ~3 weeks before that",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Strong economic data, loose credit and rising GPU values; only the 10y yield is the problem, which he expects to fade with an Iran deal and end of Japanese selling.",
+   "conviction": "high",
+   "timestamp": "102:00",
+   "quote": "by the end of the year, we'll probably not only have record highs on the Q's, but the NASDAQ 100 will probably exceed"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Conditional on Iran deal and end of Japanese Treasury selling",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Earnings growth vs valuation compression sets up a euphoric boom after midterms; November/December expected to be strong.",
+   "conviction": "high",
+   "timestamp": "30:00",
+   "quote": "Stock markets got a boom into Q4. I mean, November, December should be freaking glorious."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.31,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.32
+    ],
+    "invalidation": null
+   },
+   "condition": "Yields fall once Japanese repatriation stops and Iran war ends; Japanese dumping could still push yields higher short term",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Called peak yields at 5.27; currently 5.31-5.32. Attributes the rise to Japan selling Treasuries (record ~$80B reserve drop) and BOJ/Fed spread rather than US fundamentals.",
+   "conviction": "medium",
+   "timestamp": "93:00",
+   "quote": "5.27 is when I called the 10-year Treasury as we are pretty damn close to peak."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an Iran deal is struck",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Brent has come off the 107-109 highs to ~100; expects further decline on an Iran deal.",
+   "conviction": "medium",
+   "timestamp": "98:00",
+   "quote": "We've got oil declining back to $100. And honestly, it's probably once we get an Iran deal, it's going to go even lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1400,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Trades ~29.8x forward EPS with ~45% forecast growth (PEG ~0.64) and ~54% net margins; argues a 2.7 PEG on 11.67 EPS implies ~$1,400.",
+   "conviction": "medium",
+   "timestamp": "52:00",
+   "quote": "You know this could be a $1,400 stock. So that's insane to think about but it shows you how cheap this dog is right now."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1019
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Earnings growth expected to turn negative and DRAM pricing compression lowers terminal growth; intraday test of holding above -2% failed (stock down ~3%).",
+   "conviction": "low",
+   "timestamp": "54:00",
+   "quote": "It's why I haven't been super jazzed about Micron."
+  },
+  {
+   "group": "stocks",
+   "ticker": "FICO",
+   "instrument_quoted": "FICO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Calls the rebound a probable dead-cat bounce; says Broadcom is cheaper on PEG with better margins, so prefers AVGO over the FICO dip.",
+   "conviction": "low",
+   "timestamp": "74:00",
+   "quote": "FICO's got its probable deadcat bounce."
+  }
+ ],
+ "notes": "Date: morning after Micron earnings, PMI report dated 10/1/26, 'Happy October', jobs report 'tomorrow'. QQQ quoted as 'NASDAQ 100' (735, dip buys 700-715, 800 target are QQQ levels). Micron level 1019 garbled/unclear. Also passing mentions: SpaceX up 1% (holder), Opendoor ~2.30 (thought bottom near 2.50, not a buyer), XLF rolling over; not recorded. 'Still holding 227' likely NVDA level."
+}

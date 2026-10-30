@@ -1,0 +1,175 @@
+{
+ "video_id": "VrRsTf5z-r8",
+ "channel": "tastylive",
+ "title": "The October 15th Lift: How to Position Your Portfolio Now",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Anarie/Amarie Band (guest; name garbled), host Jamal",
+ "macro_themes": [
+  {
+   "theme": "Midterm-year October seasonality",
+   "view": "100 years of midterm-cycle data show a weak spot roughly Oct 2-12; she expects a wobble into expiration week, then a lift."
+  },
+  {
+   "theme": "Buyback window reopens Oct 15",
+   "view": "Corporate buybacks reopening on Oct 15 provide an updraft under the market."
+  },
+  {
+   "theme": "Elevated oil",
+   "view": "Crude near 90 with a flat, elevated curve (longest contract ~82.50) means oil stays high for a long time and pressures inflation."
+  },
+  {
+   "theme": "Strong dollar hurts the Dow",
+   "view": "A dollar on a screaming tear hurts exporters and the Dow, though a flip will come at some point."
+  },
+  {
+   "theme": "Rotation, not broad selloff",
+   "view": "Money rotates from high-flying tech into beaten-down value names at 15-20-year-low valuations rather than everything falling."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES / MES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expect a wobble into end of week and possibly expiration week; pullbacks are buy zones, then the market takes off after Oct 15 buybacks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Midterm-year seasonality weak spot Oct 2-12, thin daily volume profile and the morning fade, then buybacks reopen Oct 15.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "expect it to have a little bit of a wobble into the end of the week and potentially into expiration week when then it begins …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "YM futures / DIA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rising dollar hurts exports, so the Dow keeps lagging; a flip is coming but timing unknown. Host wants to wait for higher vol before selling DIA puts.",
+   "conviction": "low",
+   "timestamp": "6:50",
+   "quote": "if we take a look at the YM, that's been a disaster, right?"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Observes the dollar screaming higher; a factor she says to keep an eye on.",
+   "conviction": "low",
+   "timestamp": "2:40",
+   "quote": "The dollar screaming to the north."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil futures ($/bbl)",
+   "price_at_call": 90,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Futures curve flat and elevated with the longest contract at ~82.50, implying prices stay around these high levels for a long time.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "we should see these crude oil prices for a very long time"
+  }
+ ],
+ "notes": "Date: listing showed '21 hours ago' (approx_date 2026-10-08), so upload was no later than about 2026-10-07 afternoon; set 2026-10-07 from that, could be 2026-10-06. She mentions 'this morning ... a fade', consistent with the 2026-10-07 morning dip. Guest name transcribed 'Anarie Band' / 'Amarie'. 'Muse' hype event is garbled (unclear product). Host buys 5-year Treasuries above 5% (not recorded as a call). Ryder (R) upgrade mentioned in passing."
+}

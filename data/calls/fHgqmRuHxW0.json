@@ -1,0 +1,276 @@
+{
+ "video_id": "fHgqmRuHxW0",
+ "channel": "Verified Investing",
+ "title": "Bitcoin vs. Gold: The Exact Chart Confirming a Massive Breakout",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Q4 seasonality",
+   "view": "Q4 is when Bitcoin sees a lot of activity; BTC vs gold set up for outperformance."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "10-year at levels not seen since 2002 is shaking markets; JOLTS/consumer confidence pop in yields liquidated BTC longs."
+  },
+  {
+   "theme": "Altcoin rotation",
+   "view": "Falling BTC dominance and a break of its trend line would signal altcoin outperformance."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD (and BTC/gold ratio)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "May flush toward ~82k liquidation cluster before heading up; BTC/gold may consolidate ~a month before resuming",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bounce off Nov-wick/May-high range with oversold 15m RSI; BTC priced in gold bottomed after the same ~62-week decline as prior cycles, historically followed by multi-year outperformance vs gold.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "So Bitcoin, you know, as far as gold is concerned, starting to look a little bit bullish."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it keeps falling, expects relief at the established trend line",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend line from prior wicks has repeatedly held as support.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "this is the level that I'm expecting some relief for ex uh ETH"
+  },
+  {
+   "group": "crypto",
+   "ticker": "AAVE",
+   "instrument_quoted": "AAVE/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     180
+    ],
+    "invalidation": null
+   },
+   "condition": "If it consolidates overnight and pushes up again, short around 180",
+   "action": "short",
+   "entry": 180,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big pump piggybacking the ISO 20022 altcoin pump; fading the extension.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "I like a short right around 180."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZEC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish RSI divergence on the daily (higher price highs, lower RSI highs); among biggest losers.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "We talked about Zcash looking terrible on the daily RSI. These are called bear diversions"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Limit long orders lower near the Sep 24 wick and nearby wicks as a potential long area; closed most of overnight long for profit.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "So, it's going to be a maybe a nice potential long area for XRP."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ICP",
+   "instrument_quoted": "ICP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short if price interacts with the hourly trend line again",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Major pump into a tradeable hourly trend line.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "But I do like a short if we interact with this level again."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZRO",
+   "instrument_quoted": "ZRO/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Looks like a bear flag while tapping liquidation levels; avoid new positions.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "right now, that's looking like a bear flag. So, you might not want to get into a position on that one"
+  }
+ ],
+ "notes": "Date implied: JOLTS and consumer confidence released at 10am today (Tuesday) and 'knocking on the door of October' -> 2026-09-29 (listing approx 2026-09-30); Bitcoin Revealed streams 1:30pm ET. ADA small long mostly closed, HBAR scalp ambiguous -> not recorded. BTC/gold ratio ~20 oz."
+}

@@ -1,0 +1,127 @@
+# Channels tracked in the pilot (Sep 24 - Oct 20, 2026).
+# name must match the channel name YouTube shows; it is the key used in data/calls/*.json.
+channels:
+- name: Verified Investing
+  channel_id: UCZ-J2m1AUSLnifUEKam5_dA
+  handle: '@verifiedinvesting'
+  url: https://www.youtube.com/@verifiedinvesting
+- name: Gareth Soloway
+  channel_id: UCwTu6kD2igaLMpxswtcdxlg
+  handle: '@GarethSolowayProTrader'
+  url: https://www.youtube.com/@GarethSolowayProTrader
+- name: Money Making Market
+  channel_id: UCvSkR2ipkO_UpyDdEgvCU6g
+  handle: '@MoneyMakingMarket'
+  url: https://www.youtube.com/@MoneyMakingMarket
+- name: HJTrades
+  channel_id: UCAHJqpJPqqLLi7siVQpD-3A
+  handle: '@HJTradesOfficial'
+  url: https://www.youtube.com/@HJTradesOfficial
+- name: StockedUp
+  channel_id: UC-m6zNItyoDk5lSykDlhE4Q
+  handle: '@StockedUp'
+  url: https://www.youtube.com/@StockedUp
+- name: Click Capital
+  channel_id: UCpBPTKot6Im9SWs1upQMZKA
+  handle: '@Click-Capital'
+  url: https://www.youtube.com/@Click-Capital
+- name: ShadowTrader
+  channel_id: UCV00elXN8Z0vrFIAZu3rIKw
+  handle: '@therealshadowtrader'
+  url: https://www.youtube.com/@therealshadowtrader
+- name: TheTechnicalTraders
+  channel_id: UCenLy4V5NgxEz7pwosA9hiw
+  handle: '@TheTechnicalTraders'
+  url: https://www.youtube.com/@TheTechnicalTraders
+- name: Arete Trading
+  channel_id: UCTeFsS-bP0XEt3NBMjfW2cA
+  handle: '@AreteTrading'
+  url: https://www.youtube.com/@AreteTrading
+- name: TraderNick - Stocks
+  channel_id: UCKbPxTgSz6lN-PNoZdidsYg
+  handle: '@TraderNick-Stocks'
+  url: https://www.youtube.com/@TraderNick-Stocks
+- name: A1 Trading
+  channel_id: UCsfwNvgA9XsX6253sbbghuQ
+  handle: '@A1Trading'
+  url: https://www.youtube.com/@A1Trading
+- name: Ricky Gutierrez
+  channel_id: UCtlAFoYl2aWb6pMiHCctQHA
+  handle: '@RickyGutierrezz'
+  url: https://www.youtube.com/@RickyGutierrezz
+- name: Joseph James Trading With JJ
+  channel_id: UCqLB48bfuOrZmHWb9IrrpmA
+  handle: '@SchoolOfTrade'
+  url: https://www.youtube.com/@SchoolOfTrade
+- name: Meet Kevin
+  channel_id: UCUvvj5lwue7PspotMDjk5UA
+  handle: '@MeetKevin'
+  url: https://www.youtube.com/@MeetKevin
+- name: Geeks of Finance
+  channel_id: UCNEAKk8qPF_BHnnipA9EBQg
+  handle: '@geeksoffinance'
+  url: https://www.youtube.com/@geeksoffinance
+- name: Figuring Out Money
+  channel_id: UCfdPOTevbfCh_QHsyPeZ8MQ
+  handle: '@FiguringOutMoney'
+  url: https://www.youtube.com/@FiguringOutMoney
+- name: Sean Foo
+  channel_id: UCVIstytB7hHO_7xFnW_p8pw
+  handle: '@SeanFooGold'
+  url: https://www.youtube.com/@SeanFooGold
+- name: tastylive
+  channel_id: UCLJiSMXJ9K-1AOTqIqdXJgQ
+  handle: '@tastyliveshow'
+  url: https://www.youtube.com/@tastyliveshow
+- name: Slope of Hope
+  channel_id: UC76p2jA0y3WLWH5ITbhANzA
+  handle: '@slopeofhopeTV'
+  url: https://www.youtube.com/@slopeofhopeTV
+- name: Trade Brigade
+  channel_id: UCYKtr6GfycBqQJf32tbQSbQ
+  handle: '@TradeBrigade'
+  url: https://www.youtube.com/@TradeBrigade
+- name: David Lin
+  channel_id: UClBMLpP3UHXLmgEypMmXPuA
+  handle: '@TheDavidLinReport'
+  url: https://www.youtube.com/@TheDavidLinReport
+- name: Summit Metals
+  channel_id: UCHJK0-tVO7PySUyN8GTEq-w
+  handle: '@SummitMetals'
+  url: https://www.youtube.com/@SummitMetals
+- name: CPM Group
+  channel_id: UC59ED7RkMYTD9eTGr1dn98A
+  handle: '@CPMGroup'
+  url: https://www.youtube.com/@CPMGroup
+- name: TheDailyGold
+  channel_id: UCE_edD0qJd_EyfwGCfLHSeQ
+  handle: '@TheDailyGold'
+  url: https://www.youtube.com/@TheDailyGold
+- name: VRIC Media
+  channel_id: UCGLDCnyMUXwKulTgnY8jFIg
+  handle: '@vricmedia'
+  url: https://www.youtube.com/@vricmedia
+- name: BitcoinHyper
+  channel_id: UCVEQTVuaFpcatHDhKIyhZmQ
+  handle: '@BitcoinHyper'
+  url: https://www.youtube.com/@BitcoinHyper
+- name: Crypto World
+  channel_id: UCgY66N1YS_G9lYMvCQko6yw
+  handle: '@CryptoWorldJosh'
+  url: https://www.youtube.com/@CryptoWorldJosh
+- name: 'Ticker Symbol: YOU'
+  channel_id: UC7kCeZ53sli_9XwuQeFxLqw
+  handle: '@TickerSymbolYOU'
+  url: https://www.youtube.com/@TickerSymbolYOU
+- name: Ross Givens
+  channel_id: UCRa7RtGn8UYt5EQodqmIZ3Q
+  handle: '@RossGivens'
+  url: https://www.youtube.com/@RossGivens
+- name: The Traveling Trader
+  channel_id: UCWt3Cx6RrHX86_yF4I7f1LA
+  handle: '@TheTravelingTrader'
+  url: https://www.youtube.com/@TheTravelingTrader
+- name: Tom Nash
+  channel_id: UCJwKCyEIFHwUOPQQ-4kC1Zw
+  handle: '@TomNashTV'
+  url: https://www.youtube.com/@TomNashTV

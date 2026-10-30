@@ -1,0 +1,142 @@
+{
+ "video_id": "Jj6In4c4180",
+ "channel": "Meet Kevin",
+ "title": "HOLY SH*T: THE FED RESERVE *JUST* BAILED US OUT",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Peak yields",
+   "view": "Calls peak 10y yields around 5.25 after the 10y hit 5.29 intraday."
+  },
+  {
+   "theme": "Fed backpedals on hikes",
+   "view": "NY Fed Williams signalled the next hike can wait until December, cutting odds of an October hike below 50%; seen as cover to cap yields."
+  },
+  {
+   "theme": "Warsh no forward guidance",
+   "view": "Lack of guidance lets markets tighten conditions and risks breaking regional banks."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "No deal yet, but pressure on Iran rising; maintains bullish posture and sold puts on a name that benefits from a deal."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.29,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.25,
+     5.29
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Thinks the Fed is now actively trying to cap yields and that 5.25% is about the peak.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "I think we're getting to peak yields. Inverse trade me if you want."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     77,
+     78
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Holds or regains the 77-78 line",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Peak-yield view expressed as TLT holding/regaining its 77-78 line; says he is not betting on TLT himself.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "I think we hold this line, or we will regain this line, the 78-77 line on TLT."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Sees the Fed dovish shift as a reiteration of bullishness; expects an Iran deal eventually.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "Anyway, I maintain my bullish posture."
+  }
+ ],
+ "notes": "Date: Williams' comments 'Tuesday' and 'earlier today we were at 5.29' -> Tue 2026-09-29 (listing said 09-30). Also Kalshi bets: Iran nuclear deal before Mar 1 (>19%) and exactly one more hike; not market calls."
+}

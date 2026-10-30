@@ -1,0 +1,554 @@
+{
+ "video_id": "buaGZuneHFM",
+ "channel": "Verified Investing",
+ "title": "Hot Jobs Data Spikes Yields: Markets Rally on Inflation Hope",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosik (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Cooler inflation",
+   "view": "ADP beat stoked hike fears, but cooler PCE and better GDP kept markets buoyant; markets passing stress tests without selling off."
+  },
+  {
+   "theme": "10y yield overextended",
+   "view": "Yields made new highs past 2007 levels but a weekly 'sleeper hold' and overbought RSI point to consolidation/pullback."
+  },
+  {
+   "theme": "Quarter-end window dressing",
+   "view": "End-of-quarter window dressing supports winners like HPE and PANW."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Green all day until the last 10-minute candle; tested the declining trendline and markets are getting through stress tests without selling off.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "I think a lot of investors, including myself, um were looking at this as somewhat of a positive uh picture for the near term"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     26672
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above the declining trendline at 26,672; weekly breakout from a parallel channel at all-time highs, though a late-day wick shows selling pressure.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "it's in breakout territory right now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke the declining trendline and rising parallel; repeated tests of the 61.8% retrace make a push to the next resistance more likely.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "The more and more that we continue to hit tells me the more and more likely we are to push up to that next level"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.021
+    ],
+    "resistance": [
+     5.289
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly sleeper-hold pattern (which called the semis top) plus overbought daily RSI; expects yields to come in and consolidate between 5.021% and 5.289%.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "I fully anticipate with this pattern that has displayed itself, we likely should be coming in in the in the following days"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4104
+    ],
+    "resistance": [
+     4244
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Under pressure from higher yields; near-term resistance at the broken trendline 4,244 and support 4,104.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "near-term resistance. Support down here at 4,104"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 53.15,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53.15,
+     50.14
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 52.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Monday broke a head-and-shoulders neckline; measured move to 53.15 with support confluence at 50.14; would buy under 52.50.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "silver has a high probability chance of going down to $53.15... under 5250, uh that makes me a buyer"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000,
+     80500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sideways consolidation holding above prior pivot highs (a higher shelf); a breach of 82,000 brings 80,500.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "Any sort of uh breach of 82,000 brings us back down to this level of support at 80,500"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.14
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Valid while price holds above the neckline",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Above the neckline of an inverse head and shoulders targeting $116; near-term support at the channel bottom ~88.14.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "As long as price remains above that neckline, the odds favor a move in that direction"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.08
+    ],
+    "resistance": [
+     3.23
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout failed with no follow-through on higher inventories and milder weather; support 3.08 holding, 3.23 trendline is the line in the sand.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "at least in the near term we are not having a breakout"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HPE",
+   "instrument_quoted": "HPE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     58.19
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "New all-time highs but pressing a trendline from 2018; a pullback to 58.19 would give a near-term bounce.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "HPE is doing one heck of a job to remain up near the tops"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 426.62,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     435
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke above prior ATH and consolidating; cybersecurity demand with AI buildout; next target 426.62 (channel midline) with resistance ~435.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "PANW next upside target is going to be the 50% area of this parallel channel right around $426.62"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JBL",
+   "instrument_quoted": "JBL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 300,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     284.51,
+     281,
+     273,
+     266
+    ],
+    "resistance": [
+     300,
+     330
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Beat but slipped below a long-term rising trendline; 281-284.51 support could bounce it to ~300 for a breakdown-retrace-fade; a lower close adds downside odds.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "a solid level of support, one capable of potentially pushing price right back up here to 300 bucks"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1154,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1035.5,
+     1040
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Open above 1,035.50",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "After-hours reaction muted; trendline support at 1,035.50; an open above it is bullish toward the 1,154 gap fill.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "if we start and open above this trend line here at 1,035, I think that's bullish for the near term"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAG",
+   "instrument_quoted": "CAG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 11.78,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Post-earnings breakdown below a trendline from 1987; inflation and diesel costs hurting; next support 11.78 near 2008-09 levels.",
+   "conviction": "medium",
+   "timestamp": "20:00",
+   "quote": "still potential more downside on the chart there for CAG"
+  }
+ ],
+ "notes": "\"Today is the end of the quarter\" and Micron just reported after hours => Wed Sep 30 after close (listing Oct 1)."
+}

@@ -1,0 +1,49 @@
+{
+ "video_id": "FYDkVh34xX4",
+ "channel": "Meet Kevin",
+ "title": "Trump JUST Taco'd | Iran",
+ "video_date": "2026-10-11",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "macro_interview",
+ "speaker": "Kevin",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent",
+   "price_at_call": 105,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Brent back near $109: Trump leaks renewed Iran strikes, China halted fuel export licenses, nuclear talks stuck.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

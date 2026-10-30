@@ -1,0 +1,54 @@
+{
+ "video_id": "tv1jMogOxx0",
+ "channel": "tastylive",
+ "title": "Why The Indices Are Lying To You Right Now",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Tim Knight (tastylive)",
+ "macro_themes": [
+  {
+   "theme": "Fed",
+   "view": "Expects Fed to sit tight until after the election; CPI next Wednesday is the last big data point"
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Multi-year overhead resistance: 'a honey of a top'; Dow averages breaking down.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "this is a honey of a top"
+  }
+ ],
+ "notes": ""
+}

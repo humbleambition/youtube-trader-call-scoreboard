@@ -1,0 +1,392 @@
+{
+ "video_id": "I-66oMDbhDU",
+ "channel": "Verified Investing",
+ "title": "Inflation Data Cools, Bullish S&P Chart Remains Strong, Top Trades For Jobs Report And MU Earnings!",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "PCE inflation cooler than expected",
+   "view": "Every PCE reading came in below forecast, taking pressure off yields and giving stocks a bid, though 3.4% is still far above the Fed's 2% target."
+  },
+  {
+   "theme": "10-year yield at 2007 high",
+   "view": "The 10y pierced the 2007 high of 5.28% then pulled back, so he reads resistance as holding; lower yields would help stocks, gold, silver and Bitcoin."
+  },
+  {
+   "theme": "Narrow breadth / mega-cap leadership",
+   "view": "Equal-weight S&P is 6% off highs vs <2% for the S&P; he sees this as bullish because laggards have room to bounce."
+  },
+  {
+   "theme": "Memory margins",
+   "view": "Micron earnings will be great but new fabs (2027-28) will compress memory margins."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index (SPX) / S&P futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Possible inverse head and shoulders: if it forms, targets 8,000 on the S&P; if the S&P breaks into his 'neutral zone' he turns neutral.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P still above its neutral zone and <2% from all-time highs; narrow breadth seen as bullish fuel; potential inverse H&S.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I continue to be net long the market."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.28,
+     5.29
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yield pierced the 2007 high (5.28%) at 5.29% and rejected; with cooler PCE he expects resistance to hold and yields to ease a little.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "that tells me is that resistance as of now is still holding"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Crude oil futures ($/bbl)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 80,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the ascending trend line breaks, oil retraces to the lower parallel trend line, below $80.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fourth test of the ascending trend line makes a break more likely (50/50); expects a near-term pullback; not buying oil.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "I'm still expecting a pullback in the near term to this trend line"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold futures ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 3900,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the pivot-low trend line holds, neutral to slightly bullish; if it breaks, likely 3,900 and possibly 3,500.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Third hit on a long trend line should bounce; break would turn him bearish near-term. Long-term bullish on fiscal irresponsibility; holds gold for decades.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "am I bullish near-term, I'm neutral to maybe slightly... If you ask me if I'm bullish long-term, heck yeah."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver futures ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the trend line breaks, silver goes to 55 and potentially 50; if it holds, he gives it the benefit of the doubt.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same trend-line setup as gold; long-term bullish on precious metals.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "this is the trend line to watch on whether or not to me silver not only goes to 55 here, but potentially down to 50"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "Natural gas futures ($/MMBtu)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 2.7,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2.85
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If short-term support around 2.85 breaks, goes to 2.70.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Continued weakness after a big pop and retrace; short-term trend-line support.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "If this breaks, we go right down to 270."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long-term breakout, consolidation, another blast; current consolidation may precede another leg up.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "right now, Bitcoin remains the best major asset out there in terms of charts."
+  },
+  {
+   "group": "stocks",
+   "ticker": "JBL",
+   "instrument_quoted": "JBL stock",
+   "price_at_call": 307,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the major ascending trend line breaks, 'watch out below' for a significant dump.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 2-3% on earnings despite good report because it was extended; sitting on a multi-pivot ascending trend line.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "If this line breaks, that would be a watch out below moment"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAG",
+   "instrument_quoted": "Conagra stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     12.6
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it drops to the double bottom around 12.60, interested in a day trade or swing long.",
+   "action": "watch",
+   "entry": 12.6,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Inflation pressure on input costs weighs on the stock, but a double bottom about a dollar lower is a potential bounce spot.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "I will be watching double bottom a dollar lower around 1260. If we get there today, I would be interested in a day trade"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1000
+    ],
+    "resistance": [
+     1150
+    ],
+    "invalidation": null
+   },
+   "condition": "Into earnings after the bell: gap fill at 1,150 is major resistance on a rally; ascending trend line just below 1,000 is support.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "No read on the earnings reaction; expects margin compression as new memory fabs come online, so sees it below $500 (maybe below $300) within two years.",
+   "conviction": "medium",
+   "timestamp": "0:18",
+   "quote": "I still think within two years, this will be a sub $500 stock. Sounds crazy, I know. Maybe even sub300"
+  }
+ ],
+ "notes": "Date inferred from transcript: host says the quarter is 'ending today' (Sep 30) and that Micron reports after the bell today; listing approx_date was 2026-10-01. Recorded after the 8:30 ET data, before the open. He mentions holding some shorts in parabolic names such as CrowdStrike (passing, not recorded). Natural gas levels quoted as '285/270' interpreted as $2.85/$2.70. Conagra level '1260' interpreted as $12.60. Long-term gold/silver bias from his combined 'gold and silver' remark."
+}

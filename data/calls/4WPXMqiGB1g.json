@@ -1,0 +1,128 @@
+{
+ "video_id": "4WPXMqiGB1g",
+ "channel": "Ross Givens",
+ "title": "3 Stocks That Could EXPLODE From the China AI Ban",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "China optical transceiver restriction",
+   "view": "FCC likely to restrict Chinese 3.2T transceivers with a 65% US-content exception, turning Chinese factories into customers of US DSP and laser makers."
+  },
+  {
+   "theme": "AI networking",
+   "view": "Networking spend per GPU rising ~4x in next-gen systems; optics is becoming one of the biggest AI stories."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": 270,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Dominant US optical DSP supplier (with AVGO); clean consolidation breakout, good sales/earnings growth; just initiated a position.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I just initiated a position uh in this stock along with a couple of others."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "LITE",
+   "price_at_call": 1000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Indium-phosphide laser supplier, sold out through 2028, Nvidia $2B investment; 5-month base breaking to new highs. Cites Rosenblatt $1,300 target (analyst's, not his).",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "We come back in six or 12 months and we see this thing up here at 2,000 or 4,000 or beyond. Okay?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAOI",
+   "instrument_quoted": "AAOI",
+   "price_at_call": 115,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Only US transceiver maker at scale (Texas factories); 50% off May peak, buyers stepped in; dilution and volatility are the risks. Analyst avg target 160s.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I am taking a pilot position in AAOI... pushing back in the mid 100s and potentially to 200 bucks and beyond."
+  }
+ ],
+ "notes": "No video date spoken ('This Monday, October 5th' refers to the analyst note), so listing date used. Garbled names: 'Marll' = Marvell (MRVL), 'Lum/Lummentum/Momentum/Li T' = Lumentum (LITE), 'AOI' = Applied Optoelectronics (AAOI). LITE price quoted as ~1,000 then ~1,100. His LITE '2,000 or 4,000' remark is a possibility, not a firm target, so target left null. MRVL ~270 per his '$270 stock'. AAOI horizon for 'mid 100s / 200' unstated; placed in medium term."
+}

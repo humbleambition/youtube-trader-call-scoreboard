@@ -1,0 +1,54 @@
+{
+ "video_id": "QLvGhYV7Vwc",
+ "channel": "VRIC Media",
+ "title": "BREAKING: Strikepoint Acquires Massive Gold Deposit From Newmont",
+ "video_date": "2026-10-02",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Mike Allen (CEO, StrikePoint Gold), interviewed by Jay Martin",
+ "macro_themes": [
+  {
+   "theme": "Major-to-junior asset divestitures",
+   "view": "Majors like Newmont are shedding non-core Nevada assets that juniors can re-rate, as with Talisman/Coffee and Waterton/Rosebud."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SKP",
+   "instrument_quoted": "StrikePoint Gold (TSXV: SKP; OTC: STKXF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Buying Newmont's Northumberland, Nevada (2.57Moz indicated + 1.72Moz inferred, possible 8-10Moz) for $70M cash; accretive C$2 post-10:1 consolidation financing, drilling from October with results ~December, PEA early 2028; peers re-rated 2-6x.",
+   "conviction": "medium",
+   "timestamp": "32:00",
+   "quote": "I think that the shareholders of of existing Straight Point should be happy. We're doing an accretive financing. We're getting a fantastic asset."
+  }
+ ],
+ "notes": "Company-promotional CEO interview; host Jay Martin is a disclosed shareholder. No date in transcript; listing approx_date used, but content implies recording ~early August 2026 (deal closing 'mid-September' in ~6 weeks, drilling 'October'). Ticker SKP from general knowledge, not stated in video. $2 is the post-consolidation financing price, not a market quote, so price_at_call left null. No gold price view given."
+}

@@ -1,0 +1,233 @@
+{
+ "video_id": "cUmSsn8wJCQ",
+ "channel": "Crypto World",
+ "title": "BITCOIN & CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-09-27",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "crypto_daily",
+ "speaker": "Josh",
+ "macro_themes": [
+  {
+   "theme": "Funding rates turning negative",
+   "view": "Crypto funding rates slipping below neutral limit downside and raise short-squeeze risk for shorts."
+  },
+  {
+   "theme": "US stock open as catalyst",
+   "view": "A Nasdaq 100 ATH breakout when markets reopen would be bullish for crypto and could bring the next breakout sooner."
+  },
+  {
+   "theme": "Crypto cool-off within bull market",
+   "view": "Expects chop/slight pullback for up to another week, larger bull trend intact."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "coming days / up to a week"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "many months to 1-2 years"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000,
+     82750,
+     81000
+    ],
+    "resistance": [
+     86000,
+     88000,
+     85300,
+     87400
+    ],
+    "invalidation": null
+   },
+   "condition": "If Nasdaq breaks to new ATH in the new week, crypto breakout could come sooner.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still capped at 86-88k with daily bearish divergence; liquidity both above (85.3k, 87.3-87.5k) and below (82.7-82.8k, 81k) so expects range chop hitting both.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "it's actually somewhat likely that we could ultimately hit both of upside and downside liquidity levels in the coming days"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "coming days / ~1 week"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3300,
+    "horizon": "after breakout above 2.8k"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800,
+     3300
+    ],
+    "invalidation": null
+   },
+   "condition": "If breakout above 2.8k confirmed, next target ~3.3k.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejection at 2.8k with daily bearish divergence; slight pullback/chop expected but negative funding limits downside.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "Not necessarily a huge crash, but basically the price action we've been seeing already for close to a week now to continue"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRPUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "coming months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6,
+     1.7
+    ],
+    "invalidation": null
+   },
+   "condition": "Would re-short if funding turns back positive while divergence holds, or after a push higher reconfirms the divergence.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed XRP short in profit: negative funding rates and a possible Nasdaq ATH breakout pose short-term upside risk.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "due to some of those reasons I've actually just temporarily closed my XRP shorts position for the time being"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOLUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 145,
+    "horizon": "after breakout above 124"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     119,
+     124,
+     143,
+     146
+    ],
+    "invalidation": null
+   },
+   "condition": "If breakout confirmed and holds above ~124, next target ~143-146.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing 119-124 resistance; daily bearish divergence not reconfirmed so both short and long term look more bullish than bearish.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "right now the price of Salana both in the short term and the longer term is still looking much more bullish than it is bearish"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINKUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 16.75,
+    "horizon": "after breakout above 14.30"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     13.3,
+     12
+    ],
+    "resistance": [
+     14.1,
+     14.3,
+     16.7,
+     16.8
+    ],
+    "invalidation": null
+   },
+   "condition": "If breakout above 14.10-14.30 confirmed, next target 16.70-16.80.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Struggling at 14.10-14.30 resistance; larger bullish structure intact.",
+   "conviction": "medium",
+   "timestamp": "0:21",
+   "quote": "the next major target or point of resistance to watch out for would be sitting at approximately 1670 to 1680"
+  }
+ ],
+ "notes": "US market 'opens back up in less than a day' and Friday's close referenced, so dated Sunday 2026-09-27 (listing 09-28)."
+}

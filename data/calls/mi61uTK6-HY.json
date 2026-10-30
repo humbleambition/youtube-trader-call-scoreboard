@@ -1,0 +1,227 @@
+{
+ "video_id": "mi61uTK6-HY",
+ "channel": "Verified Investing",
+ "title": "Dollar Rips 3.9% Into Major Resistance As The Euro And Pound Slide",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Verified Investing currencies analyst (name not stated; mentions co-running Options Edge with Gareth Soloway and Drew Dosik)",
+ "macro_themes": [
+  {
+   "theme": "Rates at decades highs",
+   "view": "High interest rates are pressuring markets while oil keeps tumbling."
+  },
+  {
+   "theme": "Strong dollar hurting euro and pound",
+   "view": "Dollar's 3.9% rally from early-September lows is pushing EUR and GBP lower."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY index",
+   "price_at_call": 101.852,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     101.627,
+     100.617
+    ],
+    "resistance": [
+     101.977,
+     102.92,
+     103,
+     106.5
+    ],
+    "invalidation": null
+   },
+   "condition": "If the dollar keeps pushing up, 102.92 (pivot top + up-sloping trend line) is major resistance; long-term trend line near 106-107 would cap a rally. If lower, support 101.627 then the low pivot.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced 3.9% off a long-term up-sloping trend line from early September; now consolidating at the 101.977 pivot top with dual-factor resistance above.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "good to see as it's continuing pushing up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.1267,
+     1.10956
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke down from bull flag, support-turned-resistance line and ascending trend line; repeated failures to reclaim. Shelf support 1.1267, major support ~1.1096.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "So we keep breaking down. We're we're going down lower"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "GBPUSD",
+   "instrument_quoted": "GBP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.32077
+    ],
+    "resistance": [
+     1.32,
+     1.33
+    ],
+    "invalidation": null
+   },
+   "condition": "If it pushes up, 1.32-1.33 is main resistance to reclaim; if it keeps trending lower, support at 1.32077 then a next major support (garbled as \"13448\").",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below a down-sloping trend line in late September with harsh rejection on retest; struggling to reclaim it.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "As I said under pressure"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDJPY",
+   "instrument_quoted": "USD/JPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     157.662,
+     155.25
+    ],
+    "resistance": [
+     158.8,
+     159.5,
+     164.14
+    ],
+    "invalidation": null
+   },
+   "condition": "If it pushes back up: 158.80, then the broken intervention trend line ~159.38-159.50, then 164.14. If lower: 157.662 then 155.25.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar strength pushing USD/JPY up; sharp move spoiled the bull flag but it is trying to recoup the post-intervention drop.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "As the um dollar gets stronger, the yen um pushing up right here."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDCAD",
+   "instrument_quoted": "USD/CAD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.41834,
+     1.3978,
+     1.39162
+    ],
+    "resistance": [
+     1.43239
+    ],
+    "invalidation": null
+   },
+   "condition": "Look for a retest of 1.41834 as support for the next leg up; next major resistance 1.43239. If it fails, supports 1.3978 and 1.39162.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pushed past a trough with heavy resistance; retest of that level as support could give the move legs.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "this move can have legs to push up higher"
+  }
+ ],
+ "notes": "Host says \"this Tuesday\" -> 2026-10-06 (listing approx 2026-10-07). FX levels were spoken without decimals (\"101852\", \"11267\", \"1 10956\", \"132 077\") and decimals were inferred. DXY \"10617\" low pivot recorded as 100.617 (guess; garbled). GBP next major support said as \"13448\", which is above current price and is garbled, so it was left out. Host says he does not trade forex, so all conviction is low. FX tickers (EURUSD, GBPUSD, USDJPY, USDCAD) are outside the canonical list."
+}

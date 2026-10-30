@@ -1,0 +1,54 @@
+{
+ "video_id": "QM0s2iSkJF4",
+ "channel": "David Lin",
+ "title": "Oil Crisis Escalates: When Does Iran War End?",
+ "video_date": "2026-10-11",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "economist guest",
+ "macro_themes": [
+  {
+   "theme": "Oil/inflation",
+   "view": "Biggest inflation hit is still to come."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Tanker attacks and crippling insurance keep Hormuz traffic low; oil prices rise further and feed inflation.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "inflation isn't going away"
+  }
+ ],
+ "notes": ""
+}

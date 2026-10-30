@@ -1,0 +1,265 @@
+{
+ "video_id": "nFX3C3c0U-M",
+ "channel": "Geeks of Finance",
+ "title": "Something Unusual Is Happening Under The Market Surface",
+ "video_date": "2026-10-12",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "Positive gamma, drift to 8000",
+   "view": "SPX pinned around 7,800 in strongly positive gamma with bullish flows at 7,850 and 8,000; 8,000 remains the year-end target."
+  },
+  {
+   "theme": "AI infrastructure pullback is a dip to buy",
+   "view": "AMD, MU, NVDA, CRDO pulled back 4-5 sessions into 20-day/50-day averages and big gamma strikes; sees setups for further upside."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7807.2,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7800,
+     7825
+    ],
+    "resistance": [
+     7850,
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Oscillating around 7,800 (largest gamma for this week's expiries) for 6-7 sessions in a rising channel; big bullish flows at 8,000 strike, a year-end target. Selling 7825 puts for income.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "This 8,000 level has been a target of ours since earlier this summer... That is a year-end target."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 746.02,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     740
+    ],
+    "resistance": [
+     750,
+     760
+    ],
+    "invalidation": null
+   },
+   "condition": "Possible continuation down to 740 (~1%); a move back above 750 signals bullish momentum returning",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "QQQ weaker than SPX, still in a week-old downtrend; positive gamma at 750/760, negative gamma below 740.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "So it is possible that we could see a continuation down to 740."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 600,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     600,
+     552.9
+    ],
+    "resistance": [
+     650
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pulled back 650 to just below 600 into the 20-day SMA and big gamma at 600; positive GEX, well above 50-day EMA 552.90; buy-the-dip / risk-on into tomorrow.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "we actually think this pullback from 650 to 600 is another buy the dip opportunity."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 988.77,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1100,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1000
+    ],
+    "resistance": [
+     1080,
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Holding in 10K portfolio with 1050/1040 put credit spread; 50-day EMA and 1,000 gamma strike a large support zone; expects return to 1,100 and higher into November.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "we think there's more upside coming here back to the 1100 strike and maybe even higher into November."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 250,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     220,
+     227.51,
+     230
+    ],
+    "resistance": [
+     240,
+     250
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pulled back into 20-day SMA (227.51) and the 220-230 gamma zone; MAs stacked up; looking to re-enter for 240, maybe 250, in coming weeks.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I actually like this here in a buy the dip scenario as a potential support zone, looking for higher prices in the coming weeks."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRDO",
+   "instrument_quoted": "CRDO",
+   "price_at_call": 201.01,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     205.29
+    ],
+    "resistance": [
+     240
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Down 7.18% into the 50-day EMA after run since September; positively skewed GEX and flows at 240; consolidation before another leg.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "this looks like more of a consolidation after a big runup right before another leg higher."
+  }
+ ],
+ "notes": "Recorded after Monday Oct 12 close (posted ~2 h before first_seen on Oct 13; puts rolled to 'tomorrow's expiration'); listing approx_date Oct 13 adjusted to Oct 12. SPX close 7,807.20 (-0.06%), QQQ 746.02. NVDA price inconsistent in transcript ('mid 240s' vs trading in the 220-230 gamma zone near 20-day SMA 227.51), so price_at_call null. No CPI/OpEx comment."
+}

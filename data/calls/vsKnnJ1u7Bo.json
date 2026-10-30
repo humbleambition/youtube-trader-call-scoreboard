@@ -1,0 +1,110 @@
+{
+ "video_id": "vsKnnJ1u7Bo",
+ "channel": "Summit Metals",
+ "title": "Silver Crash Alert: The Fed Just Moved Against This Signal",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Eric (Summit Metals)",
+ "macro_themes": [
+  {
+   "theme": "Yields stay high",
+   "view": "10-year at ~5.27% shows the market does not believe the softer inflation data; lower hike odds don't guarantee lower yields, pressuring metals."
+  },
+  {
+   "theme": "Fed path",
+   "view": "October hike odds fell to ~35% but he expects a December hike to stay priced given 3.4% inflation vs the 2% target."
+  },
+  {
+   "theme": "Hot jobs data",
+   "view": "ADP +90K vs ~70K expected was hawkish and is what knocked metals down today."
+  },
+  {
+   "theme": "Long-term debasement",
+   "view": "Rising debt and inflation that will debase the currency remain fully intact for gold and silver."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4154,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4111,
+     4000
+    ],
+    "resistance": [
+     4230
+    ],
+    "invalidation": null
+   },
+   "condition": "To repair the sell-off gold needs to clear the 4,230 hurdle and hold today's 4,111 low, and above all stay above $4,000.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bond-yield pressure and a hot jobs print weigh short term (pressure index 52 to 49, still favourable but can't confirm a bottom); long-term debasement drivers intact. Favours gold over silver; advises small, consistent buys and saving cash for a bigger dip.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "right now I remain cautious... I would just stay consistent, small"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": 60,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60
+    ],
+    "resistance": [
+     65
+    ],
+    "invalidation": null
+   },
+   "condition": "Silver needs to hold above the $60 support zone; moving-average resistance near 65.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Silver faces the same yield pressure plus heavy industrial-demand risk, so it has more hurdles than gold; long-term thesis intact.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "gold right now has fewer hurdles to climb than silver does"
+  }
+ ],
+ "notes": "Date: no weekday or date spoken, but he reacts to the same-day PCE/inflation release and ADP +90K, which Ricky Gutierrez's Wed 2026-09-30 video also reports, so 2026-09-30 (listing approx 10-01); date_source marked 'transcript' on that inference. Prices quoted live while recording (gold ~4,154 -0.63%, silver just over $60, -2%). Short-term bias recorded as neutral/cautious: he does not forecast a crash despite the title. Silver action 'hold' reflects 'long-term stacker, stay where you are' plus his preference for gold over silver. Timestamps are the transcript's minute markers (m:00), so accurate to the minute only."
+}

@@ -1,0 +1,366 @@
+{
+ "video_id": "gH07CBScHtI",
+ "channel": "Verified Investing",
+ "title": "Jobs Miss Sparks A Rally, But Yields Won't Back Down",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Bond yields",
+   "view": "10-year at 5.28%, at the 2007 pivot high; a break above likely triggers equity selling and potential financial crisis."
+  },
+  {
+   "theme": "Jobs miss",
+   "view": "NFP 29K vs 89K, takes pressure off Fed hiking in Oct/Dec; good for markets as long as not negative."
+  },
+  {
+   "theme": "Oil into midterms",
+   "view": "Expects push to get oil lower into the midterms; France reserve release helping."
+  },
+  {
+   "theme": "Rotation",
+   "view": "Prefers equal weight/beaten-down names (Nike, Clorox) over tech at ATH that may take a breather."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish while above his neutral line; a 10-year yield break above the 2007 high would likely cause selling.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "S&P resilient despite 5.3% yields, ~1% off ATH and above his neutral line.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "We're above my neutral line, which means I'm we're in the bullish zone. I remain bullish into next week"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq-100 first ATH since June; but says tech at highs may take a breather.",
+   "conviction": "low",
+   "timestamp": "5:40",
+   "quote": "The tech stocks, the ones that are at all-time highs, they may take a breather"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.281,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.15
+    ],
+    "resistance": [
+     5.3
+    ],
+    "invalidation": null
+   },
+   "condition": "If yields break above the 2007 pivot high, markets likely sell.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "10-year at major pivotal resistance from 2007 high; intraday low 5.15%.",
+   "conviction": "medium",
+   "timestamp": "4:55",
+   "quote": "yields again, go into next week right at this massive resistance level. A break above this, the market's likely do sell"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     255
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if NVDA rallies to the upper trend line ~255+; won't short the current double top.",
+   "action": "short",
+   "entry": 255,
+   "stop": null,
+   "method": "technical",
+   "reason": "History of Nvidia reversing at the ascending trend line; double top at ATH not a short by itself.",
+   "conviction": "low",
+   "timestamp": "6:20",
+   "quote": "That is where I would take the short on Nvidia up here, which on the charts would be around 255 or higher"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 78.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     89,
+     78,
+     79
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If $89 support breaks, oil falls quickly to ~$78-79.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Trend-line support at $89; historically oil falls into midterms as administrations push gas lower.",
+   "conviction": "medium",
+   "timestamp": "8:05",
+   "quote": "I actually think that's going to end up happening in the next month going into the midterms"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     32.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Capitulation volume (120M shares) after atrocious earnings, tagged major weekly support ~32.50 and reversed; sees a major pivot low.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "I think today we're going to look back and say that was the low on Nike"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3945,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the long-term trend line breaks, test 3945; below that, opens to ~3500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold hammering long-term trend line, possible bear flag after this week's drop; rising yields hurt gold.",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "you have to be on high alert with the metals based on the price action"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ascending trend line breaks, go to 55; if that breaks, $50 or below.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same setup as gold, sitting on ascending trend line.",
+   "conviction": "low",
+   "timestamp": "15:10",
+   "quote": "If this breaks, we go down to 55. If that breaks, we're headed down to the $50 or sub $50 level on silver"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.3
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 3.30 for a bigger breakout.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Natural gas reversed sharply; he is long and slightly green; 3.30 is the breakout level.",
+   "conviction": "medium",
+   "timestamp": "15:25",
+   "quote": "I still remain bullish on nat gas"
+  }
+ ],
+ "notes": "Friday jobs-report day (Oct 2, 2026); recorded minutes before the close. NG ticker used for natural gas (not in canonical list); '330' read as $3.30. CL bearish target is midpoint of 78-79. Clorox mentioned only in passing (skipped)."
+}

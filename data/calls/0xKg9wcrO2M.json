@@ -1,0 +1,136 @@
+{
+ "video_id": "0xKg9wcrO2M",
+ "channel": "Ricky Gutierrez",
+ "title": "The Truth About Samsung's Earnings: What They Won't Tell You",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Iran war risk / oil",
+   "view": "Pentagon is preparing for possible renewed combat with Iran; Middle East uncertainty pushes oil higher (Brent above $101), which feeds inflation ahead of CPI."
+  },
+  {
+   "theme": "Overbought market with high yields",
+   "view": "Markets at all-time highs while bond yields are 'through the roof' and the Fed may hike again in 2026; don't be leveraged at overbought levels."
+  },
+  {
+   "theme": "Memory supercycle vs supply",
+   "view": "Memory makers like Samsung are printing money from AI capex, but more supply (Toshiba) could shrink margins in a cyclical business."
+  },
+  {
+   "theme": "Leveraged ETFs",
+   "view": "Leveraged ETFs are not investment vehicles; Korean retail lost $1.7B in three months on them."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq / S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Waiting to buy if Nasdaq and S&P pull back",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq was selling off after Samsung earnings; markets overbought with high yields and possible Fed hikes; cites Jim Paulsen's view of a possible 15% S&P drop in 3-5 months.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "if NASDAQ and S&P 500 begin to pull on back, I believe that everything will fall with it and I would rather wait for that …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Invest without leverage; margins at risk if supply (Toshiba) rises",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Memory makers are highly profitable beneficiaries of hyperscaler AI spending, but the stock is volatile (1,250 to 700 drawdown) and cyclical.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "Again, there's nothing wrong with investing in Micron. There's everything wrong when using leverage ETFs"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude",
+   "price_at_call": 101,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Escalating Iran tensions; Middle East uncertainty lifts oil, which would push CPI higher.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "anytime that there's uncertainty in the Middle East, oil prices will trade higher."
+  }
+ ],
+ "notes": "No weekday stated. Listing says '14 hours ago' (approx_date 10-08), which from Oct 8 ~12:40 local is the evening of Oct 7; it is recorded after the close after Samsung's preliminary results ('see how this opens up into tomorrow'), so 2026-10-07 is used. Brent quoted (CL is the normalised ticker). 'SKHY' = SK Hynix; Samsung and SK Hynix get no directional call. MSTR is down ~7% ('love to see'), a passing bearish remark, not recorded."
+}

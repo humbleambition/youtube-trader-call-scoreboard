@@ -1,0 +1,272 @@
+{
+ "video_id": "-f_3bmgHL2o",
+ "channel": "TheTechnicalTraders",
+ "title": "Sectors Flip & Flop (Camouflage Stage 3 Market)",
+ "video_date": "2026-10-08",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "TheTechnicalTraders host (Chris Vermeulen, inferred; not named in transcript)",
+ "macro_themes": [
+  {
+   "theme": "Stage 3 sector rotation",
+   "view": "Most sectors are in stage-3 topping while S&P and Nasdaq stay in stage-2 bull markets driven by tech, so sector trades are unreliable and index trend trades are safer."
+  },
+  {
+   "theme": "Yields and dollar due to pause",
+   "view": "Yields hit a 100% Fibonacci measured move and the dollar is overstretched after a ~4% run; both should pull back, helping bonds, equities and precious metals."
+  },
+  {
+   "theme": "Sentiment shakeouts",
+   "view": "Panic put buying at the gap-down open followed by a drift higher shows emotional traders being shaken out."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short-term FOMO unwind may make a 1-3 day three-wave pullback, which he calls still bullish; Nasdaq has a giant bull flag with 15-18% upside potential.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "The Nasdaq has potential for about 15 18% to the upside. It's got a giant bull flag pattern."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near all-time highs in a stage-2 bull market; pause after a pull-up is already working higher; equal-weight (RSP) trying to bottom adds upside if breadth turns.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "The S&P 500 is very similar. It's had a big pull up pause here and is already starting to work itself higher and has room …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US yields (chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields reached the 100% Fibonacci measured-move target and are getting volatile, so he expects them to take a breather.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "expecting the interest yields to more or less kind of work themselves down, take a bit of a breather."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index daily",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Pullback/pause first, then potentially a breakout higher",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar runs tend to be 4-5% and it is ~4% into this one, looking overstretched.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "I think we're going to eventually see the dollar pull back a little bit and pause before potentially maybe breaking out"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "Semiconductors sector (hot list)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "After a run-up and tight pause, semis pulled back to the 61.8% Fibonacci level and should catch a bid for about 5% more from the prior close.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "the semiconductors should catch a bid here eventually and rally about another five or so percent from yesterday's close."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MAGS",
+   "instrument_quoted": "Magnificent 7 basket",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Mag 7 pulled back to the 61.8% retracement and has room for about 2% more upside.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "we have room for the mags to run another about 2% from where they are."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "Gold / silver miners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Depends on yields and dollar pulling back",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Miners fell to the bottom of the hot list, but a yield and dollar pullback should put a bid under precious metals; he expects a pause or bounce.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "I wouldn't be surprised if they have some pause or bounce in the near term."
+  }
+ ],
+ "notes": "Date stated by host: Thursday, October 8th. No price levels given. Semis and Mag 7 tickers (SMH, MAGS) are normalised from the sector names on his hot list; MAGS was not named. 'SIJ' (a sector ETF on the hot list) is mentioned only in passing. Host name is not in the transcript."
+}

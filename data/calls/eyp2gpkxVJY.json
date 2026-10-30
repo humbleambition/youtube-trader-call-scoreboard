@@ -1,0 +1,89 @@
+{
+ "video_id": "eyp2gpkxVJY",
+ "channel": "Verified Investing",
+ "title": "Wall Street DUMPS Bitcoin: Biggest ETF Outflow Since June",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "Verified Investing analyst",
+ "macro_themes": [
+  {
+   "theme": "ETF outflows",
+   "view": "Biggest Bitcoin ETF outflow since June"
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing bottom of flag as support; longing with size.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I am longing this thing and I'm longing it with some size"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flipped long on Solana.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "I did flip long on Salana"
+  }
+ ],
+ "notes": ""
+}

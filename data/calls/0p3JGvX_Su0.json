@@ -1,0 +1,462 @@
+{
+ "video_id": "0p3JGvX_Su0",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | FOMC Minutes Preview",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "FOMC minutes / bond auction",
+   "view": "Watch the 1pm 10-year auction and 2pm Fed minutes; bond buyers may keep yields higher."
+  },
+  {
+   "theme": "Geopolitics",
+   "view": "Russia rhetoric about attacking NATO and diesel exports driving the pullback; he says don't panic."
+  },
+  {
+   "theme": "Rotation to S&P / real economy",
+   "view": "Industrials, financials (bottoming into earnings) and utilities are holding; S&P breadth beating Nasdaq, so Nasdaq may underperform near term."
+  },
+  {
+   "theme": "Memory / semis",
+   "view": "Calling the top on memory is a 'silly game'; Samsung and TSMC monthly revenue tonight should be strong."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7821
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke trend but oversold on hourly/RSI with positive divergence, setting up to bounce off the open; S&P should outperform Nasdaq over the next couple of days.",
+   "conviction": "medium",
+   "timestamp": "2:30",
+   "quote": "I do think the S&P can outperform the NASDAQ over the next couple days."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold and set up to bounce short term (buy the dip), but RSI divergence suggests tech weakness over a longer window.",
+   "conviction": "low",
+   "timestamp": "4:45",
+   "quote": "you might come down in technology"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     620,
+     607
+    ],
+    "resistance": [
+     640
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Positive news; dip to ~620 likely bought; 607 put wall shouldn't break, 640 call wall acts as support/magnet.",
+   "conviction": "medium",
+   "timestamp": "15:20",
+   "quote": "I think they're going to buy the hell out of that personally"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "'light' (presumably LITE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pulling back to the breakout/call wall — the kind of pullback he wants to buy.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "you're probably being given a gift today to look at."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PWR",
+   "instrument_quoted": "PWR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out on huge volume after earnings and pulling back on volume; prior double-hit resistance a minor concern.",
+   "conviction": "low",
+   "timestamp": "17:55",
+   "quote": "the volume's telling you from the earnings that you're you're probably going higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PENG",
+   "instrument_quoted": "PENG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Fantastic earnings; he bought calls, rolled them up and is letting them play out.",
+   "conviction": "medium",
+   "timestamp": "18:25",
+   "quote": "I think that you're in pretty decent shape."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     766
+    ],
+    "resistance": [
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought yesterday and it's not going well; Toshiba acquisition contest pressuring it; range-bound until resolved.",
+   "conviction": "low",
+   "timestamp": "23:50",
+   "quote": "STX I bought um yesterday. Um it's not going well."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Dismisses top-calling; huge cash flow; strike should resolve; big put buyer likely a hedge, not a bet against it.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "I'm sure they'll come to terms."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bought on the view a candidate wins Brazil's election; binary event that smashes it if he loses.",
+   "conviction": "low",
+   "timestamp": "25:40",
+   "quote": "the more I look at it the more I think this dude's going to win."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 234,
+   "stop": null,
+   "method": "technical",
+   "reason": "Owns from ~234; 12/22/55 MAs all turning up — 'perfect swing trade' setup.",
+   "conviction": "medium",
+   "timestamp": "27:10",
+   "quote": "to me, it's setting up perfectly."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "utilities ('utes')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Utilities bouncing hard; he bought a bunch.",
+   "conviction": "low",
+   "timestamp": "8:50",
+   "quote": "the utes are b bouncing pretty hard and I bought a bunch of utilities in here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLF",
+   "instrument_quoted": "financials",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Financials look like they are bottoming ahead of next week's earnings, near the 200-day.",
+   "conviction": "low",
+   "timestamp": "8:35",
+   "quote": "They do look like they're bottoming."
+  }
+ ],
+ "notes": "Date: host says Fed minutes 'today' and 'tomorrow, Thursday' => Wed 2026-10-07 (matches listing). ES '7821 level' and 'hold in here between 72 and 75' are garbled/ambiguous levels; recorded 7821 only as support. 'light' read as LITE (Lumentum) — not certain. 766 / 800 levels attributed to STX from context (could relate to the Toshiba-linked name). A name with call wall 310 / put wall 280 / key 304 (after Airbnb segment) is unidentified and skipped. ABNB, APLD, ETN, EVGO, COST/XLP mentioned without a clear bias, skipped."
+}

@@ -1,0 +1,368 @@
+{
+ "video_id": "Jt9q7U0GpME",
+ "channel": "David Lin",
+ "title": "6% Yields By Year-End, 9% Mortgages—Stocks Get ‘Rug Pulled’ | Todd Horowitz",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Todd 'Bubba' Horwitz",
+ "macro_themes": [
+  {
+   "theme": "Yields heading to 6%",
+   "view": "Strong demand for money and sticky inflation push the 10-year toward 6% by year-end; mortgages could hit 9%."
+  },
+  {
+   "theme": "Inflation understated",
+   "view": "Real inflation is closer to 10% than the reported ~3.4-3.7%; Fed may hike once or twice more this year."
+  },
+  {
+   "theme": "Oil glut, midterm politics",
+   "view": "There is a glut of crude that just isn't refined; Republicans need lower oil before the midterms."
+  },
+  {
+   "theme": "Retail-driven, low-volume rally",
+   "view": "Volume ~50% of normal, no institutional participation; AI is a bubble and a 'rug pull'/major meltdown is coming."
+  },
+  {
+   "theme": "Strong dollar",
+   "view": "Countries are buying dollars out of fear; the euro could fall below parity."
+  },
+  {
+   "theme": "Consumer credit stress",
+   "view": "Rising card delinquencies and auto/mortgage defaults; housing slowing."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Crude oil ($/bbl, WTI implied)",
+   "price_at_call": 89.37,
+   "short_term": {
+    "bias": "bearish",
+    "target": 85,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 70,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     95
+    ],
+    "invalidation": null
+   },
+   "condition": "Still short; working orders to sell more at 95 if an Iran flare-up pushes oil back into the 90s.",
+   "action": "short",
+   "entry": 95,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Crude glut that isn't being refined; administration must get oil lower before the midterms; agency bullish forecasts are 'talking their book'.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "I'm looking for oil to be below 70 before the year is out... I think we'll probably see 85 before the week is over."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%); also short 30y (114->102) and 10y (109->104) bond futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Target 6% by year-end; also sees mortgages possibly reaching 9%. Action 'short' refers to his short bond positions.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Huge demand for money, heavy issuance and sticky inflation; free-market rates should be higher; he called 5% by September.",
+   "conviction": "high",
+   "timestamp": "7:05",
+   "quote": "I think we have a real good shot to get to 6% because there's a A of demand for money"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Will not short for a multi-week/month swing until the chart signals a top; an 8,000 S&P first would not surprise him.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Retail-driven grind higher on ~50% normal volume; NQ/ES breaking out while Dow and Russell sit on support; AI bubble and higher rates will 'pull the rug'.",
+   "conviction": "medium",
+   "timestamp": "24:50",
+   "quote": "they're about ready to see the rug pulled from underneath them... if we got the 8,000 S&P, it would not surprise me one bit."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     4100,
+     4200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Says metals may have 'a little bit more room to go on the downside' first.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold's 35% drop already priced in higher rates; inflation still not priced in; held $4,000 despite higher yields and dollar.",
+   "conviction": "medium",
+   "timestamp": "13:40",
+   "quote": "I have been buying gold all along here down around the 44100 4200 level... we're now going to start to see that move higher again."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 60,
+   "stop": null,
+   "method": "macro",
+   "reason": "Likes the metals as a place to park money; buying silver at 60.",
+   "conviction": "medium",
+   "timestamp": "13:50",
+   "quote": "I've been buying silver at 60."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (USD)",
+   "price_at_call": 85000,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 100000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     75000,
+     60000
+    ],
+    "resistance": [
+     90000
+    ],
+    "invalidation": null
+   },
+   "condition": "100k by year-end only if equity volatility picks up; at the current slow pace, no.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Base around 60k, growing adoption, not controlled by the Fed; currently stuck in an 80-90k range. Has been buying 75-80k.",
+   "conviction": "medium",
+   "timestamp": "22:40",
+   "quote": "right now it's stuck in a range between 80 and 90,000... I give you a strong maybe."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index; EUR/USD quoted as '112' (1.12)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 105,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Target 104-105 (recorded 105); also says EUR/USD could fall below parity from ~1.12.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Global fear has countries buying dollars; the euro is in trouble and could go below parity; yen intervention failed.",
+   "conviction": "medium",
+   "timestamp": "15:50",
+   "quote": "I think the dollar's got a chance to see 104 105 if not higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SanDisk",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Memory/storage names are overbought and in bubble territory along with AI generally, but he won't fight the trend.",
+   "conviction": "low",
+   "timestamp": "19:55",
+   "quote": "I think they're overbought. I think we're in bubble territory, but you know, look, I'm not going to fight what's going on."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX (bought at 113 and 150)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 113,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Really likes SpaceX; bought at 113 and added at 150.",
+   "conviction": "medium",
+   "timestamp": "14:05",
+   "quote": "I really like SpaceX a lot here... I bought SpaceX at 113, and I bought more at 150."
+  }
+ ],
+ "notes": "Host opens 'It's Tuesday, October 6th' (listing approx 2026-10-07); stocks up 'today', so intraday. Gold buy level transcribed '44100 4200', read as 4100-4200. 'Top trade: Ether at $11, which is double' is garbled (possibly an ETH ETF/ETHA); not recorded as a call. Also mentions 'Tesla was a pretty good buy' (past tense, passing) and RGTI as worst trade, down ~50% and hedged; skipped. SpaceX ticker unknown to me, used 'SPACEX' placeholder. Bond futures shorts (30y 114->102, 10y 109->104) merged into TNX. 10y price_at_call not given by him (host cites multi-decade highs; a chart showed 5.6%)."
+}

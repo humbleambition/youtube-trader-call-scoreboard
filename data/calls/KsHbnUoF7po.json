@@ -1,0 +1,49 @@
+{
+ "video_id": "KsHbnUoF7po",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *V-BOTTOM* Could Make Our ENTIRE WEEK!",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "V-bottom on daily; overall bullish, buy bear traps below range.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "We're overall bullish, they just got their retest, lots of support down below us"
+  }
+ ],
+ "notes": ""
+}

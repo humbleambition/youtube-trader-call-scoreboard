@@ -1,0 +1,241 @@
+{
+ "video_id": "GJ6GKPSpXEU",
+ "channel": "Ross Givens",
+ "title": "Interest Rates Are About to DROP… Here’s Where I’m Putting My Money",
+ "video_date": "2026-10-02",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Fed boxed in",
+   "view": "Hikes break banks, the Fed's own budget and Treasury interest costs, so the Fed will cut/blink despite 3.4% inflation."
+  },
+  {
+   "theme": "Bank bond losses",
+   "view": "BofA HTM losses likely grew from $82B toward ~$100B with 10-year above 5%; deposit flight risk (SVB playbook)."
+  },
+  {
+   "theme": "Bull steepener",
+   "view": "Short rates fall fastest on cuts; long yields may stay or rise if cuts are seen as bailing out the government."
+  },
+  {
+   "theme": "Dollar debasement",
+   "view": "Rescue paid with a weaker dollar; hard assets win long term."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "SHY",
+   "instrument_quoted": "2-year Treasury / SHY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "When the Fed cuts the 2-year yield falls first and fastest; ~5% yield plus price gain (~7% total) with limited risk.",
+   "conviction": "high",
+   "timestamp": "11:55",
+   "quote": "the opportunity, and that I believe is in the two-year Treasury note"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "long-term Treasuries",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Government 'bankrupt'; long yields may stay or rise even if Fed cuts.",
+   "conviction": "high",
+   "timestamp": "11:20",
+   "quote": "Nothing in the world could make me buy a long-term Treasury bond today, ever"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.0,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Says yields collapse when the Fed blinks, but long-end may not follow and could rise.",
+   "conviction": "low",
+   "timestamp": "9:30",
+   "quote": "Bonds will soar, yields will collapse, and the stock market will rip higher"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the Fed blinks (split vote, dovish remark) at/around the Oct 28 meeting.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Market will read any Fed hesitation as a reversal, ripping stocks higher into midterms.",
+   "conviction": "medium",
+   "timestamp": "9:30",
+   "quote": "the stock market will rip higher. Just in time for midterm elections"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": 4000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Weaker dollar from a Fed rescue; expects gold to go exponentially higher in coming years.",
+   "conviction": "high",
+   "timestamp": "13:20",
+   "quote": "Gold is already above 4,000 an ounce. I think it's going exponentially higher in the coming years"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Unrealized HTM bond losses (~$100B est.) and deposit flight; Oct 14 earnings could reveal the damage; stock fell ~10% in September.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "Something is starting to crack, and we're going to see proof of that on October 14th"
+  }
+ ],
+ "notes": "Date not stated; '2 weeks after the [Sept 16] hike' suggests ~Sept 30-Oct 1; listing approx 2026-10-02 used. SHY used as ticker for the 2-year note view (outside canonical list). BAC bias is implied, not an explicit trade."
+}

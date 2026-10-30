@@ -1,0 +1,88 @@
+{
+ "video_id": "IHWArjHZSq8",
+ "channel": "Geeks of Finance",
+ "title": "This OpEx Cycle Is About To Get Crazy",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     16
+    ],
+    "resistance": [
+     20
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Strong positive VIX GEX; 20 is pivot; red flag downside not done.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "maybe the downside is not quite done"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Eyeing long side in IWM rather than new shorts.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "keeping my eye on the long side for IWM"
+  }
+ ],
+ "notes": "lean run"
+}

@@ -1,0 +1,377 @@
+{
+ "video_id": "XLroIldTm-k",
+ "channel": "Verified Investing",
+ "title": "Bitcoin's Bull Flag! The Exact Breakout Target",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Bitcoin ETF flows",
+   "view": "Nine-day inflow streak snapped with $148M outflows, led by Fidelity."
+  },
+  {
+   "theme": "Alt season brewing",
+   "view": "OTHERS (crypto ex-top-10) monthly MACD flipped green, which previously preceded major altcoin rallies."
+  },
+  {
+   "theme": "Buyback tokens",
+   "view": "Favours tokens that use revenue for buybacks (Hyperliquid, Pump.fun, Stonk.fun)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 98000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Requires breakout from the flag",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Highest monthly close of the year in September; daily bull flag measured move stalls near 98K, matching the January pivot top; near top of a short-term channel so take some profit on scalps.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "if we do push out of this flag pattern, I'm really expecting a stall short of a 100K, right near $98,000"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "Hyperliquid (HYPE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 124,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse head and shoulders with top buyback volume; target 124 if it plays out; prefers waiting for another retest.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "if this inverse head and shoulder does play out, 124 is going to be the target"
+  },
+  {
+   "group": "crypto",
+   "ticker": "PUMP",
+   "instrument_quoted": "Pump.fun (PUMP)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher highs and lows past a prior ATH with a rising 4-hour trend line; would long a pullback to it; strong buybacks.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "Pump fund is looking pretty bullish, folks"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "Ethereum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rising trend line has acted as support; a retest would be a juicy long entry.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "if we come down retest, this might be a good position for an ETH long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "NIGHT",
+   "instrument_quoted": "Midnight (NIGHT)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Called Midnight (not Monero) to catch the privacy-coin bid; holds a long-term bag; bounce off trend line at the 61.8% Fib.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "Monero is not going to catch the bid. Midnight is going to catch the bid"
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEAR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Opened a long at trend line where traders were liquidated after the NEAR Intents exploit (only $3.8M, compensated); up ~43% and closed 75-90%.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "I'm going to close like 75% of it and see if I get some better entries"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "Solana",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Watching a long on a pullback but also a possible rejection/short at a long-standing horizontal pivot going back to 2023; topping tail on the daily.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "I wouldn't be surprised if we reject off that area"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ARB",
+   "instrument_quoted": "Arbitrum (ARB)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rising trend line; would go long if price comes into that range.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "if we come into that range, I'm definitely looking at a ARB long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XMR",
+   "instrument_quoted": "Monero",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Topping tail on weekly and monthly; would take profit here as it tends to run out of steam.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "Here's where I would take profit on Monero right here"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LTC",
+   "instrument_quoted": "Litecoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 100,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bull flag with RSI turning, could reach ~$100 with heavy selling there; long term LTC/BTC bleeds forever.",
+   "conviction": "low",
+   "timestamp": "19:00",
+   "quote": "I don't hate it short term, but this is why this is why I hate it long term"
+  }
+ ],
+ "notes": "Host says \"It is October 1st\". Skipped \"Stonk.fun\" token (he added to it) because ticker unclear. NEAR long entry not stated."
+}

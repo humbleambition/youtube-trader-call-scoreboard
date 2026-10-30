@@ -1,0 +1,462 @@
+{
+ "video_id": "Tg_a3Qd_cEE",
+ "channel": "Money Making Market",
+ "title": "IS THIS JUST A HIGHER LOW FORMING? OR IS ALL THE FEAR JUSTIFIED? SPY QQQ.",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Mixed signals, no daily confirmation yet",
+   "view": "Daily charts close to rolling negative but without solid confirmation; QQQ still strong, so watch for bear traps; be cautious with capital."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     758.38
+    ],
+    "resistance": [
+     770.2
+    ],
+    "invalidation": null
+   },
+   "condition": "Bearish if daily gets strong downside confirmation with follow-through; bullish if 30-min/2-hour curl up",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily MACD negative with a weak (zero-bar) 2-hour confirmation; RSI divergences held, so bulls not out; a 30-min curl up could pop it while a roll confirms downside.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "going into tomorrow, you're kind of in exactly the middle ground as far as confirmations go"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     729.6
+    ],
+    "resistance": [
+     746.26,
+     760.33
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish if 2-hour confirms up; fails if 30-minute rolls",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ trying to make a higher low of its own after an algorithmic push; confirmation up targets 746.26 and the 760.33 weekly expected move (new highs); a 30-min roll sends it to 729.60.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "It looks like the cues overall are saying, hey, this could be a higher low"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     296
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily on the struggle bus after breaking a low (lower highs expected), but triple RSI divergence suggests a relief pop; needs to reclaim 296 to turn constructive.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "we still need to take out that 296 for me to be convinced"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "DIA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     537.5
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily structure only repairs above 537.50",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke a daily low (looking for lower highs) but 2-hour triple divergence/double bottom makes a daily bounce more likely than a drop; leans toward a bear trap.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "you look like you are more likely to get a daily bounce than a daily drop"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     322
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower high with daily crossing down; dramatic 30-min selling and no turnaround signal; watch for weakening momentum near 322.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "we see no sign of turnaround right now for Apple"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Took out a critical level; a 2-hour roll would form a head and shoulders that distributes lower; needs a big squeeze to recover.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "you kind of would see the structure right in here of a head and shoulders that would then roll to the downside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Filled the gap and is making a slightly higher low with confirmed 30-min divergence; daily higher low; two pushes could be left.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "two pushes could be left in this bad boy"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible daily lower high with 2-hour divergence on a weak bar; 30-min curl up continues the party, a 2-hour confirmation down starts a downtrend.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "If the daily rolls here, I'm not necessarily happy"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     520
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sideways pullback after huge squeeze; daily pullback makes sense, could reach ~520 if bad, but a daily higher low is probable.",
+   "conviction": "low",
+   "timestamp": "18:00",
+   "quote": "a higher low for the daily chart, though, according to the technicals, would be pretty darn probable"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700,
+     630,
+     592
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Screamed higher with good buyers at 700/630/592; no 2-hour reversal signal, so calling a daily collapse is early.",
+   "conviction": "low",
+   "timestamp": "19:00",
+   "quote": "suggesting that the daily chart is going to collapse here is a little bit early in my opinion"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "30-min higher low confirmed suggests a 2-hour move up toward new highs, but fails if it rolls.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "if this can curl to the upside, I mean, hey, that's the high, go make a new one"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     536.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour rejection divergences could take over, but a daily roll is not a real problem until 536.50 breaks; weekly expected move implies new highs.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "It's not a huge problem until 53650 is taken out"
+  }
+ ],
+ "notes": "No date stated; posted after the close (post-market referenced), listing date used. Prices in ETF units (SPY/QQQ/IWM/DIA). Most views are explicitly conditional/two-sided. MSFT discussed only as either-way; omitted."
+}

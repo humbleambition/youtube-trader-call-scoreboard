@@ -1,0 +1,86 @@
+{
+ "video_id": "MJbPxCJ--Rc",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *ALL-TIME HIGH* Strategy is my CASH MACHINE Tomorrow!",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (JJ)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NASDAQ futures (hourly + 4000-tick charts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Prefers buying a deep two-legged pullback / bear trap into the prior all-time high and range breakout; shorts only on a crown-reversal failure at the 21 EMA.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hourly momentum firmly with buyers; after a big two-day rally expects a pullback to the prior ATH and range to be bought, then a retest of the high.",
+   "conviction": "medium",
+   "timestamp": "0:45",
+   "quote": "We're bullish overall. Big move higher says two-legged pullback."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "E-mini S&P 500 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7854
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy a deep pullback into the 7854 price-action gap / prior mid-late September high; all-time high (<10 pts away) acts as a magnet.",
+   "action": "buy",
+   "entry": 7854,
+   "stop": null,
+   "method": "technical",
+   "reason": "Buyers control hourly momentum; ATH less than 10 points above acts as a magnet; gap at 7854 aligns with prior major high.",
+   "conviction": "medium",
+   "timestamp": "12:15",
+   "quote": "we are less than 10 points right now off of that all-time high... price becomes magnetic up to that all-time high"
+  }
+ ],
+ "notes": "Date: recorded the evening before 'Wednesday's live stream' ('tonight's video'), so Tuesday 2026-10-06 after the close (listing approx_date 2026-10-07). Purely intraday technical game plan; no numeric NASDAQ levels given. ES entry 7854 is the gap/pullback zone, not a firm order."
+}

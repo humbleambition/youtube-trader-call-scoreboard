@@ -1,0 +1,695 @@
+{
+ "video_id": "pFoF_DvpDuA",
+ "channel": "Verified Investing",
+ "title": "Yield Surge Triggers Equity Drop! Your Next Trade Setup Is Here NOW",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosik (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Resilient market",
+   "view": "10y pierced its 2007 high yet stocks barely fell; market appears to have priced in Fed hikes."
+  },
+  {
+   "theme": "Yield pullback ahead",
+   "view": "Overbought 10y RSI suggests consolidation 5.021-5.289%; any yield pullback would spark bounces in IWM, semis, Nasdaq and metals."
+  },
+  {
+   "theme": "Micron as catalyst",
+   "view": "Micron earnings Wednesday are the key catalyst for memory/storage breakouts (MU, SNDK, STX, WDC, LITE)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 764.2,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     760.4
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed 764.20 inside its range without much selling despite the yield spike; support at the 760.40 pivot; the declining trendline is the line in the sand for upside momentum.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "That's telling them telling you the markets are being resilient, folks"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite (IXIC)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 28000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     27000,
+     28000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above the broken declining trendline; bulls want 27,000 for separation, with 28,000 still a possible target.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I was here ready for price action to keep hitting the gas pedal and push up... 28,000 points. That very well still could happen"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     607.58
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish consolidation after breaking the declining trendline and parallel; repeatedly testing the 61.8% retrace at 607.58.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "we're putting in bullish consolidation. That is the best scenario that you want to see after a breakout"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "In breakout mode above a horizontal trendline; expects a robust earnings report, with guidance the question.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "If we have a a robust report which I anticipate to to occur, it's just how good is the guidance going to be"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 2600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Micron earnings must not trigger a fake breakout",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke above key trendline and held two days; breakout measured move is $2,600, contingent on Micron earnings.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "this breakout comes with the measured move at $2,600"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consolidating on a potential breakout attempt ahead of Micron.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "it's just meandering right here putting in consolidation right on a potential breakout attempt"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consolidating on its declining trendline building momentum for a breakout.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "consolidating right here on this declining trendline trying to build momentum for a breakout"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.021
+    ],
+    "resistance": [
+     5.289,
+     5.293
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Narrow-body bar after piercing the June 2007 high (5.293% intraday) with RSI overbought; expects consolidation 5.021-5.289%.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "I anticipate the 10-year yield to likely consolidate amongst this range, 5.021 up to 5.289"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     274.52,
+     271.94
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling straight to the bottom of the channel from the April 2025 lows (274.52) with 50% Fib at 271.94 and RSI ~31; due for a bounce.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "that tells me IWM likely is getting ready for a bounce"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4104
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced after a one-candle breakdown without extension; may pause at the broken trendline but could reclaim it.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "we will be watching to see what pattern develops in the coming days here on gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     61.3
+    ],
+    "resistance": [
+     63
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Popped back above 61.30 support; expects a rally to ~63 to be rejected and a move toward $50, a buying opportunity.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "I anticipate price to get up to 63 and get rejected. I'm anticipating price on silver coming down here near the $50 range"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     89250
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chopping sideways; reclaiming the old head-and-shoulders neckline at 89,250 would flip it very bullish.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "We get price above that, man, that flips the switch uh to Bitcoin being very, very bullish"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     87.73
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down to test Sep 22-23 lows with channel-bottom support at 87.73 possibly tagged tomorrow; above the declining trendline the measured move target is $116.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "As long as price is still above this declining trend line, it does carry a measured move target off the charts... $116"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.08,
+     2.99
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sold off on mild weather and storage but stopped on top of breakout consolidation; would rather buy here at support, next support 2.99.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "I'd much rather be a buyer here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KMX",
+   "instrument_quoted": "KMX",
+   "price_at_call": 59.23,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     63.29,
+     64
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Earnings beat but gave back gains to 59.23; still in breakout mode from a 2021 trendline but significant resistance near $64.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "CarMax is still in breakout mode, but man, the institutions or investors taking profit is not necessarily a good sign"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "LITE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1100,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     952
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Breakout confirmation after Micron earnings",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ninth test of the rising channel line with a daily close above; if Micron confirms, pullbacks to 952 are buys toward new ATHs above 1,100.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "any sort of pullbacks down to X marks the spot at 952 can be a buying opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BE",
+   "instrument_quoted": "BE",
+   "price_at_call": 291.25,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 400,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     300,
+     314.94
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish consolidation repeatedly testing the channel midline; a breakout targets ~$400 at the channel top, near-term resistance 314.94.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "I anticipate BE to eventually push up here to $400"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DKNG",
+   "instrument_quoted": "DKNG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     19.15
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 7% on prediction-market share news into trendline support and the 78.6% Fib at 19.15 with daily RSI ~29; prime for a bounce though weekly not yet oversold.",
+   "conviction": "low",
+   "timestamp": "19:00",
+   "quote": "this is prime for a near-term potential bounce on the chart of DraftKings"
+  }
+ ],
+ "notes": "JOLTS this morning, PCE and Micron tomorrow => Tue Sep 29 after close (listing Sep 30). Nasdaq levels quoted on the Nasdaq Composite (IXIC), not NQ."
+}

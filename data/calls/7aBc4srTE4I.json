@@ -1,0 +1,1175 @@
+{
+ "video_id": "7aBc4srTE4I",
+ "channel": "Slope of Hope",
+ "title": "Is the Market Selloff Over? Chart Analysis with Tim Knight",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight",
+ "macro_themes": [
+  {
+   "theme": "PCE not credible",
+   "view": "Cool PCE and downward revision rallied the market, but he thinks the notion inflation is beaten is implausible."
+  },
+  {
+   "theme": "Midterm chaos",
+   "view": "Expects post-midterm-election mayhem; predicts the Anthropic IPO gets delayed in November."
+  },
+  {
+   "theme": "Bond rout",
+   "view": "Treasuries down eight days straight across the curve; anything rate-sensitive (utilities, REITs, financials, housing) is falling; a violent bond rally is possible if the administration intervenes."
+  },
+  {
+   "theme": "AI bubble growing",
+   "view": "XLK and QQQ near breakouts; AI bubble getting bigger; he has rotated away from tech into shorts on industrials and dull stocks."
+  },
+  {
+   "theme": "Precious metals breakdown",
+   "view": "Monday's drop broke principal support in gold and silver; hopes metals eventually decouple from equities."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     762
+    ],
+    "resistance": [
+     777.44
+    ],
+    "invalidation": null
+   },
+   "condition": "Below the 762 gap, more meaningful selling; above last week's high and the 777.44 lifetime high, bulls get an all-clear.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stuck in a trading range after a PCE pop that faded into a shooting star; expects post-midterm mayhem.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "If we crack... this gap that I mentioned yesterday, 762, then I think we've got a um perfectly good chance to see some more meaningful …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "DIA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Decent (B/B-) topping pattern and weeks of severe underperformance vs Nasdaq; expects a multi-month-low close.",
+   "conviction": "high",
+   "timestamp": "0:02",
+   "quote": "So, this remains my largest short."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Very close to a potential breakout (could happen Friday on the jobs report), but a first poke above often fails; the second attempt usually works.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near lifetime highs; October seasonality bullish; he warns of a breakout despite his bearish lean.",
+   "conviction": "low",
+   "timestamp": "0:25",
+   "quote": "So beware uh of a breakup there. It could well happen Friday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLI",
+   "instrument_quoted": "XLI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean price gap overhead and already broke its uptrend line; down twice as much as SPY.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "So, this is also looking quite good."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLK",
+   "instrument_quoted": "XLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     198.26
+    ],
+    "invalidation": null
+   },
+   "condition": "Above 198.26 is a lifetime-high breakout.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tech robust and less than half a percent from a breakout; he has been shying away from tech.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "It is very close to a potential uh breakout um which is terrifying but uh that level is 198.26"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EFA",
+   "instrument_quoted": "EFA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     105.88
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish engulfing today with a days-old price gap overhead at 105.88; his preferred ex-US short.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "EFA is more of my drug of choice... this is a bearish engulfing pattern today."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EEM",
+   "instrument_quoted": "Emerging markets ETF (EEM, inferred)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Another down day like today would break the trend line.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down >1%, near a potential trend-line break; he is not in it.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "we could have a potential trend line break... another day like this would do the trick."
+  },
+  {
+   "group": "stocks",
+   "ticker": "FXI",
+   "instrument_quoted": "China large-cap ETF (unnamed; FXI inferred)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 27,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Has been bleeding lower for months; expects it to keep falling.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I think $27, a little below would be my uh target for the next six months or thereabout."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWY",
+   "instrument_quoted": "EWY (South Korea)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Below Monday's low, selling may accelerate.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ugly (D+) pattern, down 2.5% despite semiconductor strength; already short.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I was already short uh South Korea"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KORU",
+   "instrument_quoted": "KORU (3x South Korea, inferred from 'KOU')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     11.67
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Pattern completes only below 11.67.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Large topping pattern about 85% complete; down 7.15% today.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "to get it to completion it would have to cut below 11.67"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWW",
+   "instrument_quoted": "EWW (Mexico)",
+   "price_at_call": 71,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     75.05
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 75,
+   "stop": null,
+   "method": "technical",
+   "reason": "Symmetric triangle breakdown on Sep 14 with a price gap at 75.05; short from ~75, now ~71.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "So the the short was at 75 and it's approaching 71 now."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT / ZB / IEF (Treasury bond prices)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the administration pulls a trick to prop up Treasuries, a very violent rally is possible.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Eighth straight red day; multi-year lows; IEF slashed below a quarter-century support zone. Not short himself.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "TLT continues to plunge to multi-year lows."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IYR",
+   "instrument_quoted": "IYR",
+   "price_at_call": 95,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ski-slope decline from 107 lifetime high (Jul 28) as rates rise.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "This is like a ski slope... it's just just sliding sliding sliding"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LEN",
+   "instrument_quoted": "Lennar stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gargantuan top, bigger than the prior floor; continues to sink.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "Lenar uh continues to sink... A gargantuan top on that."
+  },
+  {
+   "group": "stocks",
+   "ticker": "FND",
+   "instrument_quoted": "Floor & Decor stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Completed top and has tumbled; more downside expected.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "I think it's got a lot more sinkage to go."
+  },
+  {
+   "group": "stocks",
+   "ticker": "HD",
+   "instrument_quoted": "Home Depot stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Series of lower highs and lower lows since 2024 peak above 400, ~30% drop; housing names may lead the market lower.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "maybe home maybe the home builders and and associated companies will will lead the market lower."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "GLD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 360,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Monday's drop busted principal support; PCE pop failed just below the broken trend line, opening a trip lower.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "we really open up the the doorway here to a trip down to around round about 360 or so."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "Gold miners (GDX, inferred)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Own price gap with a 'trap door' beneath.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "it is just a trap door beneath that. Who knows how far they can fall."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "SLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     49.61
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 49.61 support breaks, expect a long bleed lower.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed support; down 1.79% today.",
+   "conviction": "medium",
+   "timestamp": "0:18",
+   "quote": "There is our failed support and this is the next support 49.61."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XME",
+   "instrument_quoted": "XME",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": 107,
+   "method": "technical",
+   "reason": "Shooting star after a bounce; clean stop for a short; hunch it weakens over the next couple of days.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "I'm going to throw out a hunch that we're going to see this weaken over the next couple of days."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "IBIT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Covered his Bitcoin (IBIT) short for a small profit because he distrusts the recent strength.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "I went ahead and covered my Bitcoin and strategy shorts this morning for a small profit."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Covered Strategy short along with IBIT.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "I went ahead and covered my Bitcoin and strategy shorts this morning"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "Ethereum (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Fine as long as it stays above support.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "No range, just drifting above a support level.",
+   "conviction": "low",
+   "timestamp": "0:20",
+   "quote": "provided it stays above this support level, it should be in pretty pretty decent shape."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     61
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Slipping under about 61 would bring more serious selling.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Energy getting its mojo back somewhat but needs clean news; not trading energy.",
+   "conviction": "low",
+   "timestamp": "0:20",
+   "quote": "XLE needs to avoid slipping under about 61 or so"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAT",
+   "instrument_quoted": "Caterpillar stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": 837,
+   "method": "technical",
+   "reason": "Not a bad top; short with stop at 837.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "Caterpillar for example um is uh I've got a stop on this of 837"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CIEN",
+   "instrument_quoted": "Ciena stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "In his list of shorts; down ~2% as the hyperscaler rally burns off.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "Sienna uh is also down almost 2%."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CNC",
+   "instrument_quoted": "Centene stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "One of three health insurers he is short; wants a break below the pink zone.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "hopefully we'll break down below this entire pink zone to start accelerate that selling."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRDO",
+   "instrument_quoted": "Credo Technology stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pushed above its gap Friday; shorted with a tight stop.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "I went ahead and shorted and I've tightened the stop probably ridiculously"
+  },
+  {
+   "group": "stocks",
+   "ticker": "UNH",
+   "instrument_quoted": "UnitedHealth stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Health insurer short, sinking nicely.",
+   "conviction": "low",
+   "timestamp": "0:22",
+   "quote": "United Health is another one of those health um insurance companies uh that I've shorted."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DKNG",
+   "instrument_quoted": "DraftKings stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     20.46
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed the important horizontal at 20.46.",
+   "conviction": "low",
+   "timestamp": "0:22",
+   "quote": "Uh plenty of potential extra downside there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GLW",
+   "instrument_quoted": "Corning stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     140
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs a failure of ~140 to complete a reversal pattern.",
+   "action": "short",
+   "entry": null,
+   "stop": 161.5,
+   "method": "technical",
+   "reason": "Volatile run sputtering into a horizontal pattern; stop tightened to 161.50.",
+   "conviction": "low",
+   "timestamp": "0:22",
+   "quote": "the stop on this one I've tightened up to 161 a half. But we really want to see a failure of like this 140 level."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Reports earnings today; no pattern and no position, but important for the AI narrative.",
+   "conviction": "low",
+   "timestamp": "0:26",
+   "quote": "I have no position in this at all."
+  }
+ ],
+ "notes": "Date from transcript: 'tomorrow is October' and 'see you on Thursday morning' (Wednesday Sep 30); listing approx_date was 2026-10-01. Recorded during the session after the PCE release. 'KOU' in the transcript is assumed to be KORU (3x Korea, down 7% vs EWY -2.5%). China ETF unnamed (FXI inferred); EEM and GDX also inferred from context. Bond view recorded under TLT (bond prices) rather than TNX to avoid inverting units; bearish TLT = bullish yields. Prices in ETF units (GLD 360, SLV 49.61). Passing mentions not recorded: XLU, HYG, LQD, XLF, SMH, palladium, silver miners, SpaceX (~150), USO, Centene/UNH third insurer unnamed. Medium-term SPY bearish reflects his post-midterm 'mayhem' view."
+}

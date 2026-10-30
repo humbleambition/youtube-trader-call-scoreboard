@@ -1,0 +1,54 @@
+{
+ "video_id": "p4TBCjwoTEM",
+ "channel": "Ross Givens",
+ "title": "Insiders Just Bought $48 MILLION of ONE Stock… No One Is Selling",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Insider buying",
+   "view": "Large, rare, record-size insider buys with a good track record are a strong signal to follow."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "GME",
+   "instrument_quoted": "GME",
+   "price_at_call": 24,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 35,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "CEO Ryan Cohen and three directors bought $48M (his largest ever); collectibles +57% y/y, record Q2 operating income; ~$7.5B net balance-sheet assets vs ~$12B cap = ~7x free cash flow.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "GameStop trades around 24. Last May, it hit 35. If it gets back there, it's about 50% above the current price"
+  }
+ ],
+ "notes": "'Three weeks ago, on September 10th' implies ~Oct 1, matching listing. Target 35 is the prior May high he frames as the upside, not a firm price target; 'buy' is implied by his insider-buying framework rather than said outright."
+}

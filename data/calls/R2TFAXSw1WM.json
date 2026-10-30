@@ -1,0 +1,447 @@
+{
+ "video_id": "R2TFAXSw1WM",
+ "channel": "StockedUp",
+ "title": "This Is Only The BEGINNING…",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp)",
+ "macro_themes": [
+  {
+   "theme": "Energy supply shock",
+   "view": "Russia-Ukraine energy ceasefire failed, Saudi facilities struck again, Hormuz tanker attacks; physical Brent near $160 with a record $50+ premium over futures; pressure will intensify."
+  },
+  {
+   "theme": "AI selloff on China DRAM news",
+   "view": "CXMT next-gen DRAM progress hit memory and AI names; AI is 49% of S&P cap, a bubble-like concentration."
+  },
+  {
+   "theme": "Weak breadth",
+   "view": "84% of S&P stocks are 10%+ below highs while the index is 0.46% off its high."
+  },
+  {
+   "theme": "Consumer strain",
+   "view": "20% of families behind on loans; home sellers outnumber buyers by record margin."
+  },
+  {
+   "theme": "Week ahead",
+   "view": "Big banks report Tue premarket, ASML/BlackRock Wed, TSMC Thu; CPI Wed 8:30 ET could shift Fed outlook; PPI and retail sales Thu."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     777,
+     772.5,
+     770
+    ],
+    "resistance": [
+     781.62,
+     782,
+     785,
+     790
+    ],
+    "invalidation": 777
+   },
+   "condition": "If SPY holds 777 and bounces, retest ATH 781.62 then 785/790; if 777 breaks, pullback to the 770-772.50 zone",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY held key 777 support several times; double top near ATH 781 from premarket.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "If the SPY could hold this and make a good bounce, I think that we could come back up and test the all-time high very …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMR",
+   "instrument_quoted": "SMR",
+   "price_at_call": 6.7,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7.0,
+     7.2
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed break below the mid-July support ~7.20, closed 6.70 down 6.9%; AI infrastructure names breaking.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I'm definitely going to be looking for a downside continuation play into tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     660
+    ],
+    "invalidation": null
+   },
+   "condition": "Use a stop in case it rips higher",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Aggressive valuation, bearish momentum, profit taking after China DRAM news; ATH ~660 is major resistance.",
+   "conviction": "medium",
+   "timestamp": "10:30",
+   "quote": "I am looking at it in a downside sense for the coming weeks and months"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BIIB",
+   "instrument_quoted": "BIIB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     237,
+     240
+    ],
+    "invalidation": null
+   },
+   "condition": "Continued upside if it pushes through 237-240 resistance",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$1.3M buy of Mar 2027 220 calls Friday; gapped up, consistent uptrend; biotech may hold up if AI falls.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "if we start to see it push through this resistance, we could see a continued move to the upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trying to come up off recent dip and hold key support; good year for biotech.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "I kind of like this sector going forward"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE (also CRAK)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Middle East supply disruption escalating and Russia-Ukraine ceasefire failing; XLE holding structure, pushing recent high.",
+   "conviction": "medium",
+   "timestamp": "13:30",
+   "quote": "XLE and CRK are still on the upside radar"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude (quoted ~117 futures; physical ~160)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Aramco says inventory cushion is barely a cushion; pressure will intensify until Hormuz reopens.",
+   "conviction": "low",
+   "timestamp": "0:30",
+   "quote": "until Hormuse fully reopens and confidence returns, the pressure across the energy chain will only intensify"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WMT",
+   "instrument_quoted": "WMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     113.2
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks above 113.20",
+   "action": "watch",
+   "entry": 113.2,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong short-term run-up; momentum play for next session.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "If it breaks out above 11320, keep watching it up for tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "OKLO",
+   "instrument_quoted": "OKLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     32.0
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks below 32",
+   "action": "short",
+   "entry": 32.0,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rough move today; downside momentum play.",
+   "conviction": "low",
+   "timestamp": "15:10",
+   "quote": "If it breaks down under $32 even, continue watching Oaklow lower"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1464
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks below 1464",
+   "action": "short",
+   "entry": 1464,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasty drop at open on China DRAM news; downside continuation play.",
+   "conviction": "low",
+   "timestamp": "15:20",
+   "quote": "If it breaks down under $1,464, keep watching it to the downside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ALGN",
+   "instrument_quoted": "ALGN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 128.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     138,
+     130,
+     127
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Scale out below 138; cut before Oct 28 earnings",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$765K buy of Nov 20 140 puts; multi-year downtrend, filled July 2025 gap and rejecting resistance.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "I'm definitely going to be watching for ALGN to make this downside continuation towards... $127 to $130 over the next month or so"
+  }
+ ],
+ "notes": "Host says 'tomorrow starts the earnings season' with banks reporting, CPI Wednesday, Trump posted Sunday -> Monday Oct 12 after close (listing said Oct 13). Brent 'above $17' assumed ~$117 (transcription). ALGN medium target recorded as midpoint of 127-130 zone. Fed chair speech listed for Thursday."
+}

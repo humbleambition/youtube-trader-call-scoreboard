@@ -1,0 +1,175 @@
+{
+ "video_id": "aRc0BJA8QwE",
+ "channel": "Sean Foo",
+ "title": "US Empire WITHDRAWAL Begins as Bonds Break, Bessent Defeated & Trump Escalates BIG",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Bond crisis",
+   "view": "10y at 5.34% (25-year high), 30y at 5.7% and the move toward 6% probably not over; Treasury avoiding long-dated issuance."
+  },
+  {
+   "theme": "Inflation entrenched",
+   "view": "Energy-driven inflation (diesel ~$6.50, gas >$4.30) is entrenched; consumers stretched, sentiment in the gutter."
+  },
+  {
+   "theme": "US equities overvalued",
+   "view": "S&P dividend yield at a record-low 1.07% (below dot-com peak); stocks are not a safe haven and will be hit when earnings reflect consumer damage."
+  },
+  {
+   "theme": "Middle East escalation",
+   "view": "Houthi strikes on Saudi Aramco and fighting spilling to the Red Sea - brace for more energy price shocks; Iran war costs add to bond issuance."
+  },
+  {
+   "theme": "Bessent credibility",
+   "view": "Bessent's forecasts have failed; if Iran outlasts his '2 weeks to collapse' claim, investors may dump more US bonds."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": 5.34,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Spending will not stop, inflation entrenched, Treasury credibility falling; bond values could crash further.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "if you stay in dollar bonds, values could crash even further, because the spending is not going to stop."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "US 30-year yield",
+   "price_at_call": 5.7,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "30-year just hit 5.7% with the move toward 6% likely not finished.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "the 30-year just hit 5.7%, and the move towards 6% is probably not over yet."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil / energy prices (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Conflict spreading from the Persian Gulf to the Red Sea with Houthi attacks on Aramco; US refineries at 92.5% leave no buffer.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "So, brace for more energy price shocks in the weeks immediately ahead."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields keep pushing toward 6%, the real economy and then stocks get hit.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Record-low dividend yield, stretched consumers and rising yields; stocks will be hammered when earnings reflect the damage.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "US stocks will also get hammered when earnings eventually reflect the damage to consumer spending."
+  }
+ ],
+ "notes": "Livestream; no date spoken, listing approx_date used. Equity bias is 'sooner or later' with no timing; recorded medium/long term bearish. Oil bias inferred from 'energy price shocks' (CL used as proxy; he mostly quotes gasoline/diesel retail prices)."
+}

@@ -1,0 +1,169 @@
+{
+ "video_id": "wLyyheMbmoM",
+ "channel": "Ross Givens",
+ "title": "The Market Is Hitting RECORD HIGHS… I’m Only Buying THESE Stocks",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Narrow market breadth",
+   "view": "Index at all-time highs but more net 52-week lows than highs, only ~56% of Nasdaq stocks above the 200-day and a rolling A/D line: weak beneath the surface, not a crash call."
+  },
+  {
+   "theme": "Leadership groups",
+   "view": "Focus only on cybersecurity (top group on 1-12 month ranks) and photonics, the next leg of the AI trade helped by a Washington ban on Chinese makers."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "RPD",
+   "instrument_quoted": "RPD",
+   "price_at_call": 12,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     11.95
+    ],
+    "resistance": [
+     13.1
+    ],
+    "invalidation": 11.9
+   },
+   "condition": "Buy stop at 13.25, triggered only on a break above the prior day high of 13.10.",
+   "action": "buy",
+   "entry": 13.25,
+   "stop": 11.9,
+   "method": "technical",
+   "reason": "Small-cap cyber stock (~$800M, >7% ADR) after a 107% run, forming shallowing consolidations like a coiled spring with institutional buying.",
+   "conviction": "medium",
+   "timestamp": "4:30",
+   "quote": "if we trigger at 13 and a quarter, I'll be long RPD with a stop at 1190"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRNS",
+   "instrument_quoted": "VRNS",
+   "price_at_call": 49,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     44.5
+    ],
+    "resistance": [],
+    "invalidation": 44.5
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 48.8,
+   "stop": 44.5,
+   "method": "technical",
+   "reason": "Top group, mid-cap with strong earnings/sales growth; tight consolidation after a 140% move with a shakeout and return to highs.",
+   "conviction": "high",
+   "timestamp": "8:00",
+   "quote": "I'm going to take this trade 10 days out of 10"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": 280,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Group leader; triggered a breakout buy on Sep 14 and ran from 230 to 280.",
+   "conviction": "medium",
+   "timestamp": "2:20",
+   "quote": "the leader of this group, the big kahuna is Crowd Strike"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking out to new highs with a pattern similar to CRWD.",
+   "conviction": "low",
+   "timestamp": "2:50",
+   "quote": "The other big name, Palo Alto Networks, also breaking out through new highs."
+  }
+ ],
+ "notes": "Date: host says it is 8:08 Central on Wednesday, 30 min premarket => Wed 2026-10-07 (matches listing). Levels transcribed as '1325','1310','1190' = 13.25, 13.10, 11.90. VRNS: buy limit 48.80-49, stop 44.50 (he says 46 works for a tighter stop). PANW described as 'much more viable' (possibly 'valuable'), unclear. Photonics stocks deferred to a later video, none named. Sells a $5 'Black Ops' service."
+}

@@ -1,0 +1,91 @@
+{
+ "video_id": "pZV1ppLQSW8",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *BEAR TRAP* Could Be a HUGE PAYDAY Tomorrow!",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (Trading With JJ)",
+ "macro_themes": [
+  {
+   "theme": "Buy the dip toward ATHs",
+   "view": "Strong summer run means buyers are targeting all-time highs; any flush lower into gaps/ranges is a bear trap to buy."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily strong run with gap and range support below; hourly bullish range rotation; wants a flush below the overnight low to buy a bear trap and ride the rotation back toward the all-time high.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "it looks like buyers are going to be buying up those dips on the way up to reaching that psychological magnet, the all-time high"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7675
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If price falls, 7675 area is where buyers are expected",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily strong move and range rotation point to a retest of the all-time high; worst case the range projection lands near 7675 with gaps below, a place to buy not sell; would short only a crown reversal at range underbelly.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "all signs right now, they all point to a retest of the all-time high"
+  }
+ ],
+ "notes": "Recorded Monday night for \"Tuesday morning\" = Mon Sep 28 (listing Sep 29). Several levels on audio garbled (\"790 and a quarter\" ATH, \"3838\", \"3356\", \"3275\", \"447\") and not recorded."
+}

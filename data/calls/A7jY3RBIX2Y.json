@@ -1,0 +1,281 @@
+{
+ "video_id": "A7jY3RBIX2Y",
+ "channel": "Verified Investing",
+ "title": "White House AI Rally Update: The Next Targets On Nvidia And Palantir",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "White House AI meeting rally",
+   "view": "Stocks of CEOs at the Sept 30 White House AI meeting are surging and have further upside to next pivot/pattern targets."
+  },
+  {
+   "theme": "Brazil election",
+   "view": "Pro-business result in Brazil's first round lifted its market sharply; bullish for Brazilian names like NU."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 350,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     347,
+     350
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pushing up again toward prior Sept 22 rejection level ~347; area to take some profits, could creep to ~350.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "I am watching this level for Apple. This could be a potential area for, you know, maybe some profits if we continue to push up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 172,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     172
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke above long-standing pivot line in the sand; next level is the June 30 pivot high ~172, which price is pushing into.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "I would just simply go to the next pivot high. It's going to be from the June 30th high. That's right around 172."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 541,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 541,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     541
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line from July 2025 sits around 541; next level if the post-meeting rally continues (~6% further).",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "that level if we're to continue, uh this is going to be right around 541."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 263.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     263,
+     264
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Prior 195 target hit; inverse head and shoulders measured move targets ~263-264 after a breakout and retest of the neckline; take profits/short there.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "that level is going to be right around $263, 264... that's definitely going to be an area to take some profits"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 276,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Loose inverse head and shoulders at a pivot resistance; a ~20% run-up projects to ~276.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "If we do see a you know, a run up, you're looking at right around $276."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     796,
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rallying since the AI summit; pivot top ~796 next to the $800 psychological level could be tested soon.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "we could be testing $800 soon."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NU",
+   "instrument_quoted": "NU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Brazil election optimism (pro-business candidate) and Berkshire ownership; expects price to knock on the next pivot top within 24 hours and then a higher pivot.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "Might be knocking on this door within the next 24 hours."
+  }
+ ],
+ "notes": "No explicit date; host refers to 'Friday' as the last session and to Brazil's first-round vote (Oct 4), so possibly Monday Oct 5 rather than listing Oct 6. Chipotle (CMG) bounce call from that morning ('hit our $30 target', gap fill + 0.786 retrace) was already played out and he says it is flattening; not recorded. No price levels given for NU. MELI mentioned in passing."
+}

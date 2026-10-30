@@ -1,0 +1,387 @@
+{
+ "video_id": "tTrfWJ1lnjY",
+ "channel": "Arete Trading",
+ "title": "Wall Street Is Selling to You (The S&P Tells the Truth)",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Rotation out of tech into defensives",
+   "view": "Breadth ratio (S5FI/NDFI) flipped; money leaving semis/optics/software and going to staples, utilities, financials and value (VTV/VUG rising)."
+  },
+  {
+   "theme": "AI trade uncertainty",
+   "view": "The 'OpenAI bar' news last Thursday unlocked doubt about AI circular financing and valuations; take bad news at face value."
+  },
+  {
+   "theme": "Margin debt / leverage",
+   "view": "Margin debt growth is extreme and net exposure low; forced deleveraging can make declines worse faster than expected."
+  },
+  {
+   "theme": "Week catalysts",
+   "view": "ASML earnings (Tue night/Wed), CPI and TSMC; a low CPI could improve equity risk premium and spark rotation back into tech; watch Korea overnight."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Could reverse if CPI is very low and ASML bookings are strong",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq down ~70-80bp, closed below the Thursday 'OpenAI bar'; broad semiconductor selling and rotation out of tech.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "this close is somewhat troubling because we're lower than this bar on Thursday, which we'll now refer to as the open AI bar"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P (down ~6-9bp) should outperform Nasdaq on relative basis per breadth ratio, but relative not absolute; both can fall.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "When the S&P outperforms, it's relative. It's not absolute. So, it does not mean that the S&P is going to go up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "SOX semiconductor index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Proprietary indicator gave a sell signal on semis; every AI-semi name down, rising wedges breaking.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "So you have a sell signal on semiconductors"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     980
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch 980 put wall; break opens further downside",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Shorted off the open; bounced off 980 put wall then trended down; sitting on 55 MA in a breaking rising wedge.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "980 is your new put wall... So watch 980 there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SanDisk",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Fell to the 1500 put wall at close, broke the 55 MA; rising wedge ending.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "SanDisk, 1500 was your put wall and you went right to it at the end of the day"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWY",
+   "instrument_quoted": "EWY (Korea ETF, transcribed 'EWI')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 140,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Depends on whether Korea buys or sells overnight",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed below 55 MA, trendline broke; trendline-low target ~140; SK Hynix failed to hold 165.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "you could get back down to like this 140 which would be absolute carnage for people"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trying to hold the 22-day MA, may drop to the 55-day MA and be defended there.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Nvidia's try and hold on to the 22. Maybe we can come down to the 55"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     600
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Undercut 600 after a negative divergence and top.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "AMD coming down, undercutting 600, is it dead? Well, I mean, here's your negative divergence and here's your top."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLK",
+   "instrument_quoted": "XLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "No new tech exposure until CPI and Korea's reaction",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pattern setting up to break down while defensives outperform.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "it's pretty clear that we're setting up to break"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLP",
+   "instrument_quoted": "XLP (also utilities, WMT, COST, SO, VZ)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Defensive rotation: staples, utilities, value and yield names being bought; doesn't see why it stops.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "here's XLP and XLP is absolutely ripping... the utilities are ripping"
+  }
+ ],
+ "notes": "Listing date Oct 13 but host says 'today' with Columbus Day references -> Monday Oct 12 after close. 'start breaking like 515' in CPI context is ambiguous (possibly a yield level) and was not recorded. 'DRAM, 55 put wall' (below put wall) not recorded: ticker unclear. Also mentions Dell long trade at 65-RSI level, CIEN bought earlier, short CRWV-like 'CBRS' (garbled)."
+}

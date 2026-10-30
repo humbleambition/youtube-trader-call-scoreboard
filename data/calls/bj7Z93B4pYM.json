@@ -1,0 +1,387 @@
+{
+ "video_id": "bj7Z93B4pYM",
+ "channel": "ShadowTrader",
+ "title": "Stepping Gingerly into Q4",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Pete Reznicek (ShadowTrader)",
+ "macro_themes": [
+  {
+   "theme": "Rates rising",
+   "view": "10-year keeps riding up with no pullback and 'doesn't look like it's going to back off'; 30-year at 5.63%."
+  },
+  {
+   "theme": "Low-confidence chop",
+   "view": "Sector rotation (tech strong, financials/staples/industrials weak) makes a choppy, low-confidence market; cautiously bullish, not shortable."
+  },
+  {
+   "theme": "QE expectations",
+   "view": "Thinks the market is pricing in some form of QE, which he expects in early 2027."
+  },
+  {
+   "theme": "Oil/Iran",
+   "view": "Crude weakening toward trend line on Iran wrap-up talk; a break would be bullish for stocks."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 cash / ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weak close at new trend line blamed on quarter-end rebalancing; overall cautiously bullish, market not shortable.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "I think overall you have to look at this as cautiously bullish uh you know going forward"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures / NDX cash",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "NQ futures back above the trend line overnight and look 'quite bullish'; tech sector poised to move higher.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "continue to focus on the strength in the NASDAQ"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "RUT (Russell 2000)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Russell weakest index and will stay under pressure from rising rates; stay away from small caps.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "RUD is going to continue to be under pressure due to interest rates ... I would kind of stay away from small caps"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "TNX (10-year yield)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yield keeps riding the 8-period average higher with no pullback; 30-year at 5.63.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "rates are just not stopping. It's just going straight up and it doesn't look like it's going to back off anytime soon"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     86
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If crude breaks below the ~86 area / trend line it gets weaker, which would be bullish for stocks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Crude drifting lower on Iran wrap-up talk but hasn't reached its trend line.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "You really have to break this 86 area to get it uh a little bit weaker"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 4000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [
+     4260
+    ],
+    "invalidation": 4260
+   },
+   "condition": "Strengthens again only on daily closes back up around 4260; a strong dollar could push a retest of 4000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold has broken its uptrend line as a rising dollar (off higher rates) weighs on it.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "gold has broken this uptrend line. I don't know ... if it's going to retest the 4,000 area, but it could"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar not backing off, keyed off higher rates.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "some action in the dollar which is not backing off causing weakness in gold"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLK",
+   "instrument_quoted": "XLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tech (~40% of market) chart 'looks phenomenal', poised to move higher.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "It looks phenomenal. I mean, it really looks like it's just poised and trying to make a move higher next"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLF",
+   "instrument_quoted": "XLF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Financials 'getting tanked'; big-body candle suggests they go past the 50% fib retracement toward the 52 area.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "we probably are not going to stop at the 50. And you're probably going to see financials move a bit lower"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLP",
+   "instrument_quoted": "XLP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consumer staples 'really really weak' along with XLI and XLY.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "XLP is really really weak here"
+  }
+ ],
+ "notes": "Recorded evening of Sep 30 (last trading day of Q3), published Oct 1. Speaker name garbled as 'Peter Resnichek' (= Pete Reznicek). 'RUD' = RUT. XLF '52' target unclear (likely fib 0.52/0.5-0.618 zone), not recorded as a price target. XLI, XLY, XLC also called weak in passing."
+}

@@ -1,0 +1,511 @@
+{
+ "video_id": "8oCPuyVdKVM",
+ "channel": "Verified Investing",
+ "title": "Rates And Oil Fall, S&P Set To Blast Through All-Time Highs, Here Are The TOP Trades",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "10-year yield at multi-decade resistance",
+   "view": "Yields stuck at the ~5.3% pivot (2007 high); he is bearish on yields and expects a pullback toward 5% as the economy weakens."
+  },
+  {
+   "theme": "Fiscal responsibility",
+   "view": "Dismisses Bessent's promise of fiscal discipline; forced austerity only comes if yields reach 7-10%."
+  },
+  {
+   "theme": "Oil and midterms",
+   "view": "Administration will talk oil down into the midterms; oil breaking double support."
+  },
+  {
+   "theme": "China stocks",
+   "view": "Most bullish group: beaten down, cheap forward P/E, strong technical setups."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures / S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above 7575 with yields, dollar and oil all falling; expects new all-time highs then ~8000 before the next big correction.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "I think we're going above all-time highs and all the way to 8,000, maybe a little bit above on the S&P before our next big …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": 5.3,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 5.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.28,
+     5.3
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Yield struggling at major pivot high going back to 2007; overbought and economy weakening.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "I'm personally bearish on yields. I think we are due for a pullback, a retrace back down to 5% or maybe just below."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "spot crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 78,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If oil fails to get back above the broken trendlines today",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Breaking double support (horizontal + ascending trendline); administration talking oil down before midterms.",
+   "conviction": "high",
+   "timestamp": "6:00",
+   "quote": "that would be the signal to me to expect $78 a barrel on oil, likely buy early November into the midterms."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar overbought and pulling back, supportive of gold and stocks.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "both yields and dollar are overbought, so they're due for a pullback."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     255,
+     256
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if NVDA trades up to the 255-256 wedge resistance",
+   "action": "short",
+   "entry": 255.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Every touch of the upper wedge trendline has led to a big corrective move.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I will be looking to short Nvidia if it gets up to this 256 255 level"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BIDU",
+   "instrument_quoted": "BIDU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bounced off merged descending parallel and major support; forward P/E ~8; China stocks his top bullish group.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "I'm expecting further upside on Baidu and Alibaba in the coming days."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BABA",
+   "instrument_quoted": "BABA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Grouped with Baidu as cheap China stocks with good technical setups.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "I'm expecting further upside on Baidu and Alibaba in the coming days."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 56,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 58,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rare ~17% drawdown (64 to 53) into major technical support on a high-quality name; expects a technical bounce.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "I am still long Bank of America... I would say minimum 56, maybe if we're lucky, 57 to 58"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPACEX",
+   "price_at_call": 172,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     172,
+     187
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up from 148 to 172 into a pivot high; parallel and gap fill give secondary resistance ~187; looking for pullback trading opportunities.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "we do have resistance on SpaceX right there. This would be where I start to really eye resistance."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": 4100
+   },
+   "condition": "Daily close below ~4100 trendline opens 3950 then 3500",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bouncing on falling yields/dollar while sitting on a major trendline from May 2025; long-term debt story bullish.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "If this trend line breaks, which is around 4100, that's where trouble starts... I'm a huge, epic, long-term bull on gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     59.5,
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": 59.5
+   },
+   "condition": "Close below 59.50 likely leads to 55, possibly 50",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding long-term trendline but a possible bear flag is forming.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "A close below 5950 to me would be detrimental and likely spin off further downside to 55, potentially as low as 50"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed breakdown reversed by a large engulfing candle, then two more green candles; expects retest and maybe breakout.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "I remain long nat gas here. Um again, expecting it to go up and retest and maybe break out"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 97000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81300,
+     75500
+    ],
+    "resistance": [
+     87200,
+     87300
+    ],
+    "invalidation": 81300
+   },
+   "condition": "Daily close above 87,200-87,300 targets 97-98k; close below 81,300 opens 75,500",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish consolidation pattern; measured move target 97-98k.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "We break, have a daily close above that, 97,000, 98,000 is likely the target... this generally looks to be a bullish consolidation pattern."
+  }
+ ],
+ "notes": "Date: oil trendline touches listed through October 5 and \"yesterday\" (Mon) close ~0.5% below ATH -> Tue 2026-10-06 premarket. SpaceX price path (\"Monday to 159, yesterday to 172\") is internally inconsistent; prices kept as quoted. Silver \"5950\" read as $59.50."
+}

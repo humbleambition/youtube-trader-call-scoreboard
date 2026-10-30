@@ -1,0 +1,272 @@
+{
+ "video_id": "K1Jc-rHqrJA",
+ "channel": "TheTechnicalTraders",
+ "title": "Where stocks, yields, bonds, dollar, and gold are headed next week",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [
+  {
+   "theme": "Cycle low in stocks",
+   "view": "Short and longer-term cycle lows are in; with NYSE bullish percent at 36% and weak sentiment, the market is primed for a big push higher, led by AI/tech."
+  },
+  {
+   "theme": "Yields pausing",
+   "view": "After a 100% measured move, yields should pull back, dragging the dollar lower and helping bonds, stocks and metals over the next 5-10 sessions."
+  },
+  {
+   "theme": "Eventual tech top",
+   "view": "The AI boom will end eventually, offering a short opportunity, then rotation into precious metals and energy."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Cycle low in; Fibonacci extension targets after the pullback; weak sentiment turning, money to push back in.",
+   "conviction": "high",
+   "timestamp": "3:00",
+   "quote": "We're at the 618 and then all the way up to the 5800 on the S&P 500 futures"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Expected ~20% Nasdaq rally has ~14-15% left before a pause; AI funding deals keep tech leading.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "It's got about 14 15% left in that fuel tank"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields hit a 100% measured move and should pause or pull back.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "What I am expecting is for more or less yields to start to pull back a little bit"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "A pullback in yields should pull the dollar lower; it is fading today.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "I think will also pull the dollar down a little bit"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "If yields pause, bonds put in a bottom and bounce or trade sideways.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "we'll probably see bonds start to move higher a little bit"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (and silver)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Short-term bounce supported by lower yields/dollar, but still gunning for lower prices.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "Gold, silver are going to try to find a little bit of a bounce. Again, I still think they're they're gunning for lower pricing."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARKK",
+   "instrument_quoted": "ARK Innovation ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 99.72,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fibonacci extension from rally/pullback points to ~98-100, about 7% upside; tech-heavy innovation fund near its peak.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "we could see this rally up to around 9972, which is roughly a 7% move from where we are"
+  }
+ ],
+ "notes": "Host says 'Tuesday, October 6'. ES target '5800 on S&P 500 futures' (~8-12% move) is garbled/inconsistent with current ~7,500+ levels, so target left null. ARKK '9972' read as $99.72. GC call also covers silver (stated jointly). Horizon stated as next 5-10 sessions; medium-term index bias from 'markets hitting all-time highs next week' and longer cycle view. Dow/Russell/RSP noted as laggards, no separate call."
+}

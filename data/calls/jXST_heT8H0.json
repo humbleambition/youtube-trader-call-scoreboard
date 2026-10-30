@@ -1,0 +1,138 @@
+{
+ "video_id": "jXST_heT8H0",
+ "channel": "Meet Kevin",
+ "title": "The Market Collapse Shock",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Japanese repatriation driving yields",
+   "view": "TS Lombard data show record Japanese selling of US Treasuries; a BoJ hike while the Fed holds widens the spread and could worsen it before it gets better."
+  },
+  {
+   "theme": "Economy strong",
+   "view": "Challenger layoffs down, PMI/ISM strong, lending standards loose and GPU rental prices rising: the AI boom is mid-cycle, not rolling over."
+  },
+  {
+   "theme": "Breadth weak",
+   "view": "Breadth and equal-weight S&P at extreme fear and financials breaking down while a few tech names carry the Nasdaq."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "90-95% confident of an Iran deal by the election; once that and Japanese selling end, bond yields fall and stocks rocket."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs an Iran deal and an end to Japanese Treasury selling; volatility possible for ~3 weeks",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bought the dip heavily at 700-715; once Japanese repatriation and the Iran war end, yields drop and stocks go to the moon; expects record highs and QQQ above 800 by year-end.",
+   "conviction": "high",
+   "timestamp": "21:00",
+   "quote": "we'll probably exceed 800 on the NASDAQ 100 by the end of the year"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.32,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Called 5.27% as near the peak (it reached 5.32); Japanese selling may persist short term, but an Iran deal brings yields down.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "5.27 is when I called the 10-year Treasury as we are pretty damn close to peak"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil pricing pressure has slowed after peaking at 107-109 in early September, declining back toward $100, and should go lower on an Iran deal.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "We've got oil declining back to $100. And honestly, it's probably once we get an Iran deal, it's going to go even lower"
+  }
+ ],
+ "notes": "\"Happy October\" with Challenger and ISM reports this morning => Thu Oct 1 (listing Oct 2). \"Nasdaq 100 exceed 800\" interpreted in QQQ units (consistent with his 735/715 QQQ levels)."
+}

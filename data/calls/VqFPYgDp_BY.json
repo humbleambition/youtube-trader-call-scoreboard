@@ -1,0 +1,57 @@
+{
+ "video_id": "VqFPYgDp_BY",
+ "channel": "StockedUp",
+ "title": "This Week Could Get VERY Interesting",
+ "video_date": "2026-10-11",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Mike",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 778,
+   "short_term": {
+    "bias": "bullish",
+    "target": 781.62,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [
+     778,
+     777,
+     775
+    ],
+    "resistance": [
+     779.37,
+     781.62,
+     785
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY broke out Friday testing ATH 779.37; break targets ATH 781.62 then 785; below 778 watch 777/775/774.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

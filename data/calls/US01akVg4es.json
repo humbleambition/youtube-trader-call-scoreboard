@@ -1,0 +1,172 @@
+{
+ "video_id": "US01akVg4es",
+ "channel": "Gareth Soloway",
+ "title": "Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?",
+ "video_date": "2026-10-05",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Crypto make-or-break week",
+   "view": "Bitcoin bull flag intact; expects resolution this week."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC (Coinbase spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 97000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81500,
+     75500,
+     67000
+    ],
+    "resistance": [
+     87370,
+     87500
+    ],
+    "invalidation": 81500
+   },
+   "condition": "Break above ~87,500 -> 97,000 (measured move); break below ~81,500 pivot -> 75,500, then 67,000 if that fails.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull flag with highs from Sept 20, Sept 22 and Oct 1 stalling at 87,370; measured move of ~$20K points to 97K pivot high.",
+   "conviction": "medium",
+   "timestamp": "6:10",
+   "quote": "If you can break 87,500 up, you are going to go to 97,000"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2545,
+     2350,
+     1960
+    ],
+    "resistance": [
+     3000
+    ],
+    "invalidation": 2545
+   },
+   "condition": "Daily close below 2545 -> 2350, then 1960; upside breakout -> 3000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same bullish-pattern structure as BTC; prior breakout level 2545 must hold.",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "You got to hold this level. 25 thou uh $2,545. A daily close below that, that would be problematic"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZEC spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pulled back sharply after huge run; possible bear flag; he covered his short and is waiting.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "Zcash has made such an incredible move that I'd be inclined to be careful here"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish pattern but no levels given.",
+   "conviction": "low",
+   "timestamp": "14:05",
+   "quote": "Salana doesn't look bad. Bullish pattern"
+  }
+ ],
+ "notes": "No date stated; references Oct 1 high and 'this week', likely recorded around the weekend of Oct 3-4. BTC overall lean bullish above pivot ('As long as you remain above here, I would remain bullish')."
+}

@@ -1,0 +1,274 @@
+{
+ "video_id": "E55v_8Jq504",
+ "channel": "Verified Investing",
+ "title": "Bitcoin TRAP Revealed: Inflation Data WIPES Traders",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Inflation",
+   "view": "PCE came in better than feared, lowering odds of drastic Fed action and squeezing shorts."
+  },
+  {
+   "theme": "ETF flows",
+   "view": "Wall Street keeps buying BTC via spot ETFs (9 straight days of inflows)."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Expects a pullback in November: Middle East escalation plus a split Washington raises shutdown/gridlock risk."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84600,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short liquidations may pull price to ~84.6k magnet; expects a pullback in November around midterms",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Cooler-than-feared PCE squeezed shorts above the Sep 25 high; spot ETF inflows 9 straight days; liquidation heat map cluster ~84.6k. Sees November pullback from Middle East escalation and split-government gridlock.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "This line is going to act as a magnet for Bitcoin's price."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long on another interaction with the rising trend line from the Aug 21/27 wicks",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend line has repeatedly acted as resistance then support; price keeps pressing resistance.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "I really like a long entry if we interact with this level again."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     118
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 118,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke descending trend line, retested and bounced, new trend line forming; looking to long the pullback.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I will definitely be looking to maybe open a long somewhere around maybe 118 and some change."
+  },
+  {
+   "group": "crypto",
+   "ticker": "AVAX",
+   "instrument_quoted": "AVAX/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Doubts fundamentals amount to much; possible head-and-shoulders forming (bearish).",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "Avalanche, you know, a I don't think this is good long-term."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull-flag measured move to 15.75 hit (15.88), retested and bounced, but a trend line overhead is acting as resistance.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "I'm looking at this other trend line, though. It's just going to act as resistance."
+  },
+  {
+   "group": "crypto",
+   "ticker": "QNT",
+   "instrument_quoted": "QNT/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 426,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it continues to bounce off the rising trend line",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rising trend line support; W-V pattern.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "If we do continue to bounce, I'm looking at 426."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SUPER",
+   "instrument_quoted": "SUPER/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Double top rejection; down 91% long term; take profits at next consolidation area.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "If you're in Super early, I would be looking at taking some profits."
+  }
+ ],
+ "notes": "Date implied: PCE released at 8:30 'today' (HJTrades 9/30 video confirms PCE was Wed 9/30); stream 1:30pm ET; listing approx 2026-10-01. XRP only levels (descending trend line resistance, no bias) -> skipped. Stacks (STX crypto) scalp skipped: direction unclear and ticker collides with Seagate STX."
+}

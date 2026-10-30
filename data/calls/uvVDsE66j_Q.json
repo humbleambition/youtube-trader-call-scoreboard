@@ -1,0 +1,206 @@
+{
+ "video_id": "uvVDsE66j_Q",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Get Fooled! The Truth About The $5,000 Dividend Plan",
+ "video_date": "2026-10-03",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Fed hike odds collapse",
+   "view": "Weak jobs and soft PCE cut October hike odds from ~75% to ~23%; market is data-driven."
+  },
+  {
+   "theme": "Hot CPI risk",
+   "view": "Expects CPI (Oct 13-14) likely to come in higher than expected because of oil, which could revive hike odds."
+  },
+  {
+   "theme": "Elevated bond yields",
+   "view": "Bond yields still incredibly high and a concern he is watching."
+  },
+  {
+   "theme": "Fiscal/debt",
+   "view": "Criticises $5,000 'dividend' pledge and Trump embracing inflation to pay off $41T debt."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 754,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq at fresh highs but trading elevated/overbought; cautious near term, bullish long term since markets are more bullish than bearish.",
+   "conviction": "low",
+   "timestamp": "9:54",
+   "quote": "don't be overleveraged at these overbought levels where you can't tolerate a pullback"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Record profits, >50% margin, 14.3 P/E and ~24% analyst upside; risk is memory cyclicality and new supply (Toshiba ramping).",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "there's still 24% upside based off of current value"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ALL",
+   "instrument_quoted": "ALL stock",
+   "price_at_call": 223,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flagged by his Grok bot scan as oversold on larger time frame, down from 276; wants fundamental check first.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "technically speaking, I do agree. They do look oversold and they look like decent deals"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC stock",
+   "price_at_call": 53,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "On the same oversold scan list, down from $65 highs.",
+   "conviction": "low",
+   "timestamp": "15:25",
+   "quote": "Bank of America, a really nice draw down from highs of $65 per share, now trading at lows of 53"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RTX",
+   "instrument_quoted": "RTX stock",
+   "price_at_call": 185,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "On the same oversold scan list, down from 226.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "RTX from highs of 226, now currently trading at lows of 185"
+  }
+ ],
+ "notes": "Date: says 'tomorrow' is Sunday stock talk and refers to Friday's jobs data, so recorded Saturday 2026-10-03 (listing 10-04). Oversold list also named GD (no prices, skipped) and 'PCR' (139 -> ~110) which is likely a transcription garble (possibly PGR); excluded. Watch-list biases are implied/low conviction."
+}

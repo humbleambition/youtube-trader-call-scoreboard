@@ -1,0 +1,97 @@
+{
+ "video_id": "H7tnS3540aY",
+ "channel": "tastylive",
+ "title": "Cem Karsan Says You Can Bet on a Big Drop Without Shorting a Thing",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Cem Karsan (Kai Volatility) with Jamal Chandler",
+ "macro_themes": [
+  {
+   "theme": "Managed market into midterms",
+   "view": "Markets are being proactively supported into the midterms; the natural course is lower."
+  },
+  {
+   "theme": "Coming Treasury crisis",
+   "view": "A runaway bond market and currency stress (euro, French bonds) lead to a Treasury crisis, after which authorities deploy QE at scale and a stock-buying sovereign wealth fund."
+  },
+  {
+   "theme": "Asymmetric crash bet",
+   "view": "A steep, volatile 25-40%+ decline in a narrow window within ~9 months can be played asymmetrically with options instead of shorting."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX / S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Market pulled higher into the midterms, then a steep 25-50% decline within ~9 months",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Leverage, malinvestment and a bond-market crisis; authorities will step away after midterms and use the crisis for QE. Jamal sees only 2-5% downside.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "I'm telling you not only that that this is a a big decline. I'm telling you also that it's a very short uh narrow window."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "Treasury bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Runaway train in the bond market with 10y ~5.3%; a Treasury market crisis is coming.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "a treasury market crisis is coming"
+  }
+ ],
+ "notes": "Guest is Cem Karsan (transcript garbles to 'Jim Caron', 'Kai Wealth'). No date stated; listing approx used. ES short-term 'bullish' reflects the agreed rally into midterms. Crash magnitude given as 25-40% / 25-50% in next 9 months; no index level target. TLT used for bond-price view."
+}

@@ -1,0 +1,315 @@
+{
+ "video_id": "hrlc7fgcUdg",
+ "channel": "David Lin",
+ "title": "The 'Black Swan' That Wipes 50% Of Market Value | Mark Skousen",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Mark Skousen (Oxford Club / Skousen Report)",
+ "macro_themes": [
+  {
+   "theme": "Economy strong on B2B spending",
+   "view": "Gross output and B2B spending surged (+13.8% Q2), a leading indicator that GDP will accelerate; consumer sentiment can be ignored."
+  },
+  {
+   "theme": "Permanent inflation",
+   "view": "Inflation is stubborn and in a permanent era; core inflation is a misleading concept, and the Iran war and deficits add to it."
+  },
+  {
+   "theme": "Treasury market crisis risk",
+   "view": "$2T deficits and $7T of rollovers could trigger a no-bid Treasury crisis, forcing much higher rates; a black-swan that could cut stocks 50%, timing unknown."
+  },
+  {
+   "theme": "Fed under Warsh",
+   "view": "Admires Warsh as a potential Volcker; to cut rates the Fed must slow 5% money-supply growth and tighten."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Democrats likely win the House, maybe the Senate, on affordability and an unpopular war."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Inflation and rates move together over the long run; deficits and heavy issuance mean investors must be paid more, risking a Treasury crisis.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "over the long term uh inflation, the rate of inflation and interest rates tend to move together."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Stays fully invested while the trend holds; a rates-driven crisis could bring a ~50% retracement, timing unknown.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "AI-driven boom keeps stocks rising with yields, but the debt/Treasury black swan is a predictable-but-untimed tail risk.",
+   "conviction": "low",
+   "timestamp": "0:31",
+   "quote": "the stock market will tank and uh once it gets going, you could see a 50% retracement like that we've seen in the past"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLK",
+   "instrument_quoted": "XLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Owns the tech sector fund for AI exposure (Apple, Microsoft, Nvidia); says it has beaten QQQ, though tech is richly valued.",
+   "conviction": "medium",
+   "timestamp": "0:33",
+   "quote": "I'm into XLK, the uh uh State Street Technology Fund."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "AI-driven security risk makes cybersecurity a beneficiary; added to his portfolio.",
+   "conviction": "medium",
+   "timestamp": "0:32",
+   "quote": "AI is fighting AI with security risks. So, I've added um Palo Alto network and and Crowd Strike to my portfolio."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Same AI-security thesis; added to portfolio.",
+   "conviction": "medium",
+   "timestamp": "0:32",
+   "quote": "I've added um Palo Alto network and and Crowd Strike to my portfolio."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin spot",
+   "price_at_call": 87000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bullish on Bitcoin as an alternative to Treasuries.",
+   "conviction": "medium",
+   "timestamp": "0:33",
+   "quote": "I'm also bullish on Bitcoin. Bitcoin is now up to $87,000 per coin."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BLOK",
+   "instrument_quoted": "Amplify blockchain ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Prefers the Amplify blockchain fund as a way to invest in the Bitcoin theme.",
+   "conviction": "low",
+   "timestamp": "0:33",
+   "quote": "I like uh the Amplify Technology Blockchain Fund uh BL as a way to invest with that."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold not behaving well and in a kind of bear market; disagrees with Hanke's $6,000 call, which fits Warsh fighting inflation.",
+   "conviction": "medium",
+   "timestamp": "0:34",
+   "quote": "I think it's in a kind of a bare market right now"
+  }
+ ],
+ "notes": "No date stated; references his Oct 1 WSJ column and the September jobs report (+29k), so recorded ~Oct 2-6; listing date used. Fund ticker heard as 'BL'; mapped to BLOK (Amplify Transformational Data Sharing ETF), so verify. Also likes energy income stocks (no tickers) and avoids utilities/staples/retail; welcomed silver falling but gave no forecast."
+}

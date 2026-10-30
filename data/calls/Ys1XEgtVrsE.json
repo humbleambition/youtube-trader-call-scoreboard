@@ -1,0 +1,554 @@
+{
+ "video_id": "Ys1XEgtVrsE",
+ "channel": "Verified Investing",
+ "title": "Stock Market Takes a Breather: QQQ Topping Tail Warning Signal",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek",
+ "macro_themes": [
+  {
+   "theme": "10-year yield topping",
+   "view": "Daily topping tail at 5.365%; a weekly close under 5.28% would print a weekly topping tail and yields should ease, helping stocks and gold."
+  },
+  {
+   "theme": "Inverse head-and-shoulders everywhere",
+   "view": "Index charts carrying bullish measured moves if yields pull back."
+  },
+  {
+   "theme": "Don't chase runners",
+   "view": "Big runners (META) pull back; big drops (RTX, CW) bounce."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800.92,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     794.64
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still holding inverse H&S neckline after an 11:30 recovery; measured move 800.92 if 10-year pulls back; needs a confirming follow-through close.",
+   "conviction": "medium",
+   "timestamp": "1:40",
+   "quote": "It's still maintaining this pattern which does carry a measured move target all the way up here just above $800"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite (IXIC)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 28000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     27722
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Topping tail yesterday led to a breather; if 10-year pulls back he sees a push above 28,000 before selling returns.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "I see a scenario where the NASDAQ can push above 28,000 points"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     635.84,
+     607.58
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pulled back 1.18% after piercing 78.6% fib; sleeper-hold pattern pulled it down; bouncing at probable support.",
+   "conviction": "low",
+   "timestamp": "3:50",
+   "quote": "now we find ourselves bouncing at probable spots."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": 5.365,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.365
+    ],
+    "invalidation": null
+   },
+   "condition": "If Friday's weekly close is at/below 5.28%, a weekly topping tail prints and yields should pull in over the next 1-2 weeks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily topping tail plus sleeper-hold pattern; near a weekly topping tail.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "high probabilities next week and the following are going to start pulling in ever so slightly on that 10-year yield."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 4384,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4104.14,
+     4066
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long lower wick back above 4,104 support; easing yields support a bounce to retest the bottom of the parallel channel.",
+   "conviction": "medium",
+   "timestamp": "7:10",
+   "quote": "starting to scoop up some gold for a potential bounce up to retest the bottom of this parallel channel at $4,384."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     66.5
+    ],
+    "invalidation": 66.5
+   },
+   "condition": "A push above the ~66.50 neckline voids the H&S target.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still in bear flag with active H&S targeting 53.26, though a near-term reprieve likely if yields fall; bounced at 50% of channel from 2008.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "That does tell me target could still push down here to 5326."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 100000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     89440
+    ],
+    "invalidation": null
+   },
+   "condition": "If BTC gets above 89,440 (H&S neckline), he becomes a buyer and sees >100,000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chopping since Sep 21 breakout near low of range; reclaiming 89,440 negates H&S.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "That's where I'm going to start angling to be more of a buyer"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI, $)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     86.9,
+     78.06
+    ],
+    "resistance": [],
+    "invalidation": 78.06
+   },
+   "condition": "Needs to close back inside the parallel (~89.31); breaking the channel bottom moves it away from the inverse H&S target.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag but holding channel support at 86.90; inverse H&S with 116 measured move and 78.06 neckline.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "that does have a targeted measured move folks up here at $116."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas ($/MMBtu) / BOIL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.89,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.22,
+     3.25
+    ],
+    "resistance": [
+     3.6
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": 3.24,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakout; sold all BOIL into it; will rebuy on dip to ~3.22-3.25 for 3.60 then cup-and-handle 3.89.",
+   "conviction": "medium",
+   "timestamp": "12:50",
+   "quote": "I'll be looking to be a buyer on NAC gas with any sort of dips."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RTX",
+   "instrument_quoted": "RTX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 194,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     170
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nine weeks straight down, daily RSI under 20; aggressive nibble here or conservative support at 170 (gap fill + 50% fib) for a bounce to the broken trendline ~194.",
+   "conviction": "medium",
+   "timestamp": "15:30",
+   "quote": "I certainly would be interested in picking up some RTX for a retrace uh back up to the broken trend line roughly right around $194."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CW",
+   "instrument_quoted": "CW",
+   "price_at_call": 591.1,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     502.31,
+     500,
+     473.65
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly RSI 28.5 oversold at prior pivot tops; a pierce of 500 could give a ~$100 technical bounce.",
+   "conviction": "medium",
+   "timestamp": "17:40",
+   "quote": "that very well may be a nice spot for a clean technical bounce"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     690,
+     668
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big blowout run now forming a bear flag; expect pullback to 690 then 668 channel bottom, which could be long entries.",
+   "conviction": "medium",
+   "timestamp": "19:30",
+   "quote": "So now we're forming a bare flag."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     258.09
+    ],
+    "invalidation": null
+   },
+   "condition": "If a weekly topping tail prints Friday atop the 2-year channel, expect downside; otherwise next resistance 258.09.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pierced top of a channel since 2024 but fell back inside; rising wedge; potential weekly topping tail.",
+   "conviction": "low",
+   "timestamp": "21:30",
+   "quote": "that likely tells me we should be coming down on Nvidia."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 391.81,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     391.81
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated hits on declining trendline with good consolidation suggest a pierce, next target the inclining channel.",
+   "conviction": "low",
+   "timestamp": "23:00",
+   "quote": "near-term potential breakout on AVGO with an overhead cap of resistance not that far away"
+  }
+ ],
+ "notes": "Date: host says 'today is Wednesday' => 2026-10-07 (listing approx 2026-10-08, 'streamed 18 hours ago'). Show airs 4:20 pm ET but oil commentary was '30 minutes left in trading'. Transcript number garbling fixed by context: SPY '$79,464' -> 794.64; gold '$4,10414' -> 4104.14, '$4,66' -> 4066 (low, uncertain); silver '5326' -> 53.26, '6650' -> 66.50; AVGO '$39,181' -> 391.81; CW '$5910' -> 591.10 price, bounce target '$68' garbled (implies ~600, ~$100 gain) so left null; Nasdaq 'down 22%' means ~0.22%. NG entry 3.24 is midpoint of his 3.24-3.25 rebuy zone."
+}

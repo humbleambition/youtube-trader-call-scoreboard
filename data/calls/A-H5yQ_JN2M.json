@@ -1,0 +1,57 @@
+{
+ "video_id": "A-H5yQ_JN2M",
+ "channel": "tastylive",
+ "title": "Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "tastylive host (Options Math Check), citing Tom Lee",
+ "macro_themes": [
+  {
+   "theme": "Tom Lee ETH 10x",
+   "view": "Tom Lee's 10x Ethereum call only starts if ETH first breaks 5,000, above the 4,946 all-time high."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH (via ETHA options)",
+   "price_at_call": 2700,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 5000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     4946,
+     5000
+    ],
+    "invalidation": null
+   },
+   "condition": "Tom Lee: if ETH breaks 5,000 it could go 10x (~50,000). Host: options price 5,000 as a ~1 SD move by Dec 2027, unlikely by year-end.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "ETHA options: year-end 2 SD range only reaches the low 30s (ETH ~4,000s), but Dec 2027 1 SD reaches ~38 ETHA (= ETH 5,000), so 5,000 looks probable over about two years.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "So it's looking pretty probable over the next two years or so that we get to that level up at 38"
+  }
+ ],
+ "notes": "Host is analyzing Tom Lee's conditional claim and notes his conflict (Bitmine chair). Long-term 5,000 target is the options-implied 1 SD by Dec 2027, not a forecast with conviction. ETHA 38 equivalent to ETH 5,000. No date stated; listing Oct 6."
+}

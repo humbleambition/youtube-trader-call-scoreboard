@@ -1,0 +1,1247 @@
+{
+ "video_id": "HSNyItKJQsg",
+ "channel": "Ross Givens",
+ "title": "The Market Is SPLITTING… These Are the ONLY Stocks I’m Buying",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "10y/30y/2y yields spiking in September on weak Treasury demand, pressuring gold and stocks; he expects yields to calm down."
+  },
+  {
+   "theme": "AI memory & photonics leadership",
+   "view": "Memory/storage and photonics are the only two groups he's focusing on as institutional money flows there."
+  },
+  {
+   "theme": "Midterm-year seasonality",
+   "view": "Q4 of a midterm year is historically the strongest quarter, healthcare the most consistent sector."
+  },
+  {
+   "theme": "Bull market weakening",
+   "view": "Still a bull market with S&P near highs, but breadth is weakening."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "LITE stock",
+   "price_at_call": 1110,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Leading photonics name breaking out of a 'shallowing' consolidation above ~$1,000 resistance; one of his two favourite photonics charts; stop at the swing low.",
+   "conviction": "high",
+   "timestamp": "0:15",
+   "quote": "when it gets above a thousand, we now know that we have cleared a resistance... that's exactly where I want to buy"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK stock",
+   "price_at_call": 1700,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Memory/storage is a leading group; SanDisk tightening into a clean continuation pattern after a 500->2400 run and pullback.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "Look at how clean this is with SanDisk... until this party is over, I'm going to keep playing this."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consolidated July-September and now trying to break out; long 10 shares risking ~10%.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "It's consolidating again July, August, September, and now it's trying to break out, right? So, I'm long"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Memory name forming structure after bad news pullback but not ready yet.",
+   "conviction": "low",
+   "timestamp": "0:18",
+   "quote": "Seagate is not ready. It had bad news pulled back but we see it is kind of forming that structure."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMCI",
+   "instrument_quoted": "SMCI stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought Friday; big dip bought, consolidation at highs, pushing higher; pending order to sell half at highs (4x his risk).",
+   "conviction": "medium",
+   "timestamp": "1:23",
+   "quote": "Super Micro. I bought this one. I like it... looks clean. Pushing higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CIEN",
+   "instrument_quoted": "'CN' (garbled; likely Ciena)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Photonics stock sold off on earnings, got bought and tightened; trying to get in early on the turn higher.",
+   "conviction": "low",
+   "timestamp": "0:23",
+   "quote": "CN, another photonic stock... trying to get in a little bit early here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AEHR",
+   "instrument_quoted": "AEHR stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought on a similar setup but he calls it the weakest of his buys; got ahead of itself and pulled back inside the base.",
+   "conviction": "low",
+   "timestamp": "0:23",
+   "quote": "AEHR similar although looking back it's probably the weakest of them."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 274,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tight week-and-a-half consolidation then gap up, same pattern as SanDisk/Micron; agentic AI memory demand; one of his two favourite photonics picks.",
+   "conviction": "high",
+   "timestamp": "0:24",
+   "quote": "This is exactly what we want to see... I'm long from 274."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GLW",
+   "instrument_quoted": "GLW stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 175,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shallowing pullback; bought a mini breakout over 175, a bit early versus the main breakout.",
+   "conviction": "low",
+   "timestamp": "0:29",
+   "quote": "I'm going to buy one at corny. It was over 175."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PSTG",
+   "instrument_quoted": "'Everpure' (Pure Storage) stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     127,
+     128
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Cup-with-handle breakout, soaring; hard to place a stop, ~127-128 for 10% risk.",
+   "conviction": "medium",
+   "timestamp": "1:09",
+   "quote": "What he's calling a cup with handle... But yeah, I mean it's it's it's soaring."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NTAP",
+   "instrument_quoted": "NTAP stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     160
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean cup with handle; earnings gap down to 160 was bought aggressively ('tennis ball'), showing strong demand.",
+   "conviction": "medium",
+   "timestamp": "1:10",
+   "quote": "NetApp. Yeah, very clank cup with handle... So, yeah, I think it looks really good."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DRAM",
+   "instrument_quoted": "DRAM (memory ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 95,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     63.5
+    ],
+    "invalidation": 58
+   },
+   "condition": "Buy only on a break above 63.5",
+   "action": "buy",
+   "entry": 63.5,
+   "stop": 58,
+   "method": "technical",
+   "reason": "Memory ETF in a picture-perfect shallowing base; looking for 50%+ upside (target ~95 = 63.5 x 1.5, derived).",
+   "conviction": "high",
+   "timestamp": "1:07",
+   "quote": "I would buy DRAM of above 63 and a half. I'd have a stop at 58 and I'd be looking for probably 50% plus"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HNGE",
+   "instrument_quoted": "HNGE (Hinge Health) stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     95
+    ],
+    "resistance": [],
+    "invalidation": 89
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Six-month consolidation breakout in healthcare, historically the best sector in Q4 of a midterm year; out below ~89.",
+   "conviction": "medium",
+   "timestamp": "1:16",
+   "quote": "So, yeah, I still like Hinge. Looks great."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     160
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Admits his bearish unlock call was wrong; now breaking out above 160 with possible short squeeze, but final big unlock first week of November could pressure it into year-end.",
+   "conviction": "low",
+   "timestamp": "0:55",
+   "quote": "now we're starting to see that same breakout pattern. And here it is coming out the top side at 160."
+  },
+  {
+   "group": "stocks",
+   "ticker": "JACK",
+   "instrument_quoted": "JACK stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sold at the $22 trapped-supply target (+60% in 48 days); rolled over below the 50-day so he is out.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "I sold it all... I was like, that's it. It's over, right? I'm out of this thing."
+  },
+  {
+   "group": "stocks",
+   "ticker": "APLD",
+   "instrument_quoted": "APLD stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 15,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     23
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower highs hammering a $23 shelf, below the 200-day moving average.",
+   "conviction": "medium",
+   "timestamp": "1:22",
+   "quote": "Everything I've got says this stock falls to 15."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STRL",
+   "instrument_quoted": "STRL stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 700,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 900,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     505
+    ],
+    "resistance": [
+     525
+    ],
+    "invalidation": 482
+   },
+   "condition": "Second target 900 if it pushes through 700",
+   "action": "buy",
+   "entry": null,
+   "stop": 482,
+   "method": "technical",
+   "reason": "Coiling off the bottom against 525 resistance; catching turn into new stage two; ~9% risk for ~33% first leg.",
+   "conviction": "high",
+   "timestamp": "1:28",
+   "quote": "if you're right... you've probably got to move to 700. If it pushes through there, you've likely got to move to 900."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAT",
+   "instrument_quoted": "CAT stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 915,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Infrastructure play with the same coiling chart as Sterling.",
+   "conviction": "medium",
+   "timestamp": "1:29",
+   "quote": "You buy CAT, I'd be targeting about 9:15 for the first part."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SBLK",
+   "instrument_quoted": "SBLK stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     28.8
+    ],
+    "resistance": [],
+    "invalidation": 28.8
+   },
+   "condition": "Bullish while above 28.80; below that expects 26 then the 20s",
+   "action": "buy",
+   "entry": null,
+   "stop": 28.8,
+   "method": "mixed",
+   "reason": "Bounced off 50-day; late in shipping trade, risk of correction once the Iran situation resolves.",
+   "conviction": "medium",
+   "timestamp": "1:29",
+   "quote": "I like Starbul as long as it holds above 2880. Okay? Below that, I think it rolls."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DHT",
+   "instrument_quoted": "DHT stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Likes shipping breakout but today's gap-up is being sold; use today's low as new stop.",
+   "conviction": "low",
+   "timestamp": "1:23",
+   "quote": "whatever the low today is be the stop because I want to see gap and runs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     31.97
+    ],
+    "resistance": [],
+    "invalidation": 31.8
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": 31.8,
+   "method": "mixed",
+   "reason": "'Dumpster fire' fundamentals but bought gap-down could be a turn; small speculative long risking ~3%, doesn't expect it to work.",
+   "conviction": "low",
+   "timestamp": "1:32",
+   "quote": "If you want to buy Nike, your stop is $31.80... I don't think it's going to work out, but it might."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Cyber security stocks reversing to new highs on agentic AI security demand.",
+   "conviction": "medium",
+   "timestamp": "1:26",
+   "quote": "Crowd strike. Absolutely. All of the cyber security stocks have made a massive reversal here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean correction tightening and holding the 50-day; thinks it's overvalued and may eventually go to zero.",
+   "conviction": "low",
+   "timestamp": "1:25",
+   "quote": "Nebius. Yeah, looks strong. I think it's overvalued and I think one day it's probably going to be a zero"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HNST",
+   "instrument_quoted": "HNST stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pullback to the 50-day after a gap-and-run is a buy; stop at the dip low, risk 40-50 cents.",
+   "conviction": "medium",
+   "timestamp": "1:27",
+   "quote": "So, pull back to the 50s. A buy on honest in my opinion."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ZS",
+   "instrument_quoted": "ZS stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Earnings gap down recovered, consolidation above rising 20/50/200-day; start of new stage two.",
+   "conviction": "medium",
+   "timestamp": "1:31",
+   "quote": "Yeah, I still like Zcaler... Should be the start of a new stage two."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Not the cleanest chart but first pullbacks to the 50-day are usually good.",
+   "conviction": "low",
+   "timestamp": "1:23",
+   "quote": "Salesforce. Yeah... I I think it looks good."
+  },
+  {
+   "group": "stocks",
+   "ticker": "OKLO",
+   "instrument_quoted": "OKLO stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Supply overwhelming demand now, unlike its earlier clean breakouts.",
+   "conviction": "low",
+   "timestamp": "1:24",
+   "quote": "Oaklo, nope."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASTS",
+   "instrument_quoted": "ASTS stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lightning-round rejection, no reason given.",
+   "conviction": "low",
+   "timestamp": "1:25",
+   "quote": "A Space Mobile. Nope."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TTWO",
+   "instrument_quoted": "TTWO stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Vicious downtrend, nobody buying.",
+   "conviction": "low",
+   "timestamp": "1:22",
+   "quote": "Take two. Absolutely not. Vicious downtrend. Nobody's buying it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LWLC",
+   "instrument_quoted": "Lightwave Logic stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower lows, below 50 and 200-day; looks like rolling over rather than a base.",
+   "conviction": "low",
+   "timestamp": "0:51",
+   "quote": "it's it's it's more of a rolling over to me."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RXRX",
+   "instrument_quoted": "RXRX (Recursion) stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows, breaking an all-year resistance on heavy up-volume and light pullback volume.",
+   "conviction": "low",
+   "timestamp": "0:52",
+   "quote": "Yeah, recursion looks good. Yeah, much stronger."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot / futures ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     4200
+    ],
+    "resistance": [],
+    "invalidation": 4100
+   },
+   "condition": "Buy zone 4,100-4,200; if it breaks below, likely down to ~3,400",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gold hit by surging bond yields pulling money into Treasuries; sees it as a gift, buying physical; long-term bullish super cycle.",
+   "conviction": "medium",
+   "timestamp": "0:35",
+   "quote": "still bullish on gold long term... The chart, however, does not say we're about to go up."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields spiking on weak Treasury demand; he expects the move to calm down rather than continue.",
+   "conviction": "low",
+   "timestamp": "0:37",
+   "quote": "Now, I do not think rates will continue at this trajectory. I think they will get calmed down."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Bull market (weakening) near highs; Q4 of a midterm year is historically strongest, positive 12 months after midterms.",
+   "conviction": "medium",
+   "timestamp": "1:14",
+   "quote": "So you do have some seasonality tailwinds."
+  }
+ ],
+ "notes": "Date stated: 'Monday, October the 5th' (listing approx 2026-10-05). 'CN' mapped to CIEN (could be another photonics name). Excluded as garbled/ambiguous: 'Hell' (dropped 11%, exit below 11; maybe HL/Hecla), 'AP' ('yes, looks clean'), 'Burn', 'Maine' (4.5B midcap), 'HTFL' (doubled, breakout 352?), 'Vera', 'JHT', 'Hullet Packard' (HPE vs HPQ unclear, bullish). Skipped 50/50 or passing: FIX, FN, GRAB, LPTH, PL, LUNR, KYTX, SLS, CV, AXTI, HIMX. DRAM target 95 derived from '50% plus' above 63.5 entry. SpaceX price ~105 low then breakout at 160; current price not stated."
+}

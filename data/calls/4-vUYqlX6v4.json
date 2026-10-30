@@ -1,0 +1,493 @@
+{
+ "video_id": "4-vUYqlX6v4",
+ "channel": "Meet Kevin",
+ "title": "buy now.",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Past peak fear",
+   "view": "Breadth, put/call and new-high/low indicators at extreme fear; he says peak fear was two weeks ago and this is the last chance to buy the dip."
+  },
+  {
+   "theme": "Mid-cycle, not end of AI bubble",
+   "view": "Agrees with Morgan Stanley's Mike Wilson: classic mid-cycle transition, Fed only modestly behind the curve, quality large caps lead; problems 6-12 months away at earliest."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "Very confident (95%+) a US-Iran deal is coming; it would send markets higher and yields lower."
+  },
+  {
+   "theme": "Fed hikes overpriced",
+   "view": "Market prices ~4.8-5 hikes by Sep 2027; he thinks fewer (possibly one) if an Iran deal happens; bond market overly hawkish."
+  },
+  {
+   "theme": "Yield spike unsustainable",
+   "view": "10-year at 5.27% rising near-vertically; something may break first, then yields plummet on an Iran deal."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715,
+     699
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sentiment past peak fear, S&P multiples back near March lows with mid-teens EPS growth, Iran deal expected; calls Nasdaq-100 up 8.5% by year end.",
+   "conviction": "high",
+   "timestamp": "0:19",
+   "quote": "we're going to break $800 on the triple Qs... That's 8 and 1/2% that I'm calling for on the Nasdaq 100 by the end of …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (general market)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Markets would be well above all-time highs without Iran drama; valuation compression already prices in risks.",
+   "conviction": "high",
+   "timestamp": "0:19",
+   "quote": "I think this market will be at the craziest all-time highs by Black Friday."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.27,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Yields fall when an Iran deal is made; something may break first.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rate of change in yields is near-vertical and unsustainable; bond market overly hawkish.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "These are going to come plummeting down, I suspect, when we make a deal on Iran."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "Meta stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Large-cap quality pick for a mid-cycle market; thinks Meta is really undervalued (he holds exposure).",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "I think Meta is really undervalued."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "Netflix stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Large-cap quality; has lagged, so can be bought cheaply.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Netflix has been a dog. I think you can get it cheaply."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "Nvidia stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Named repeatedly as large-cap quality and AI beneficiary; he has exposure.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "Some names that I like for large cap quality, I like Nvidia and I have exposure to these"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "Apple stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Large-cap quality; expects the new 'duo' product to sell out.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Apple, I think the duo is going to sell out like crazy."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "Microsoft stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Listed among his large-cap quality names.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Meta, Microsoft, Apple, Netflix, Nvidia."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LLY",
+   "instrument_quoted": "Eli Lilly stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Large-cap quality; 'the S&P 500 of health care'.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "you could make the argument for Eli Lilly. Oh, they're the S&P 500 of health care in my opinion."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TEAM",
+   "instrument_quoted": "Atlassian stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Agrees with Morgan Stanley's mid-cycle quality pick in software.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "Atlassian. I actually like this one. Uh this is this is a good one."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "Broadcom stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Quality AI/photonics beneficiary.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "Broadcom, Marvell, Nvidia. Those are still quality and even photonic beneficiaries."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "Marvell stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Quality AI/photonics beneficiary.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "Broadcom, Marvell, Nvidia. Those are still quality and even photonic beneficiaries."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Thinks AMD has run too much on the CPU-for-agentic-AI play.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "I think AMD's run a little bit too much in CPU play is a little overdone"
+  }
+ ],
+ "notes": "No date or weekday spoken; video_date from listing approx_date (2026-09-30, may be off by a day). QQQ price at call not stated; the 800 target is described as +8.5%, implying ~737, and QQQ was 'about 20 points higher' than the 699/715 area of two weeks earlier. Support levels 715/699 are where QQQ bounced two weeks prior. Stock list views are brief 'large-cap quality' mentions (low conviction). He also likes Moderna but calls it mid-cap risky (not recorded). Morgan Stanley's own picks (AMT, CNP, DAL, NOC, KNX, EQT, TGT, WMT) are Wilson's, not Kevin's, except Atlassian which he endorsed."
+}

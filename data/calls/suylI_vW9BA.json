@@ -1,0 +1,130 @@
+{
+ "video_id": "suylI_vW9BA",
+ "channel": "Ricky Gutierrez",
+ "title": "ALERT: HUGE LOSS SHORTING THE MARKET OR OPPORTUNITY!?",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Overbought market",
+   "view": "With Nasdaq and S&P at all-time highs, markets are 'incredibly overbought'; avoid leverage and welcome pullbacks as buying chances."
+  },
+  {
+   "theme": "Fed hike odds",
+   "view": "FedWatch shows a 19% chance of a rate hike at the FOMC in about three weeks; Fed minutes due the next day."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq / SPY (both indices)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would buy a pullback as a long-term investor",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Indices at all-time highs and overbought with red flags; markets always pull back after a rip. He stays invested but unleveraged.",
+   "conviction": "low",
+   "timestamp": "6:30",
+   "quote": "Markets are incredibly overbought. We see all the red flags presenting themselves as soon as sentiment begins to change, so does the market."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "He has an open, just-added short but admits MSTR has been more bullish than bearish lately and plans to close it and take a break; still expects it to crash eventually.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "We all know that eventually MSTR does a great job crashing, but that time will come when it present itself."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC (transcribed as 'WWDC')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     465
+    ],
+    "invalidation": null
+   },
+   "condition": "Overbought-reversal gap fill back to previous lows",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Overbought reversal after a big push up; expects a sell-off to fill the gap back down, especially on the Toshiba supply news. He closed his short daily and did not hold it.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "the goal was a big push up. And as it sold off that it could fill this gap right back down"
+  }
+ ],
+ "notes": "Host says 'happy Tuesday' -> 2026-10-06 (listing approx_date 10-07 is a day off). 'WWDC' is almost certainly a garbled WDC (Western Digital), given the Toshiba hard-drive supply news; the 465 'previous highs' level is assumed to be WDC's. The Marvell (MRVL) trade was a completed intraday short with no forward call; Dell's 'gap down potential' is mentioned in passing. Neither is recorded."
+}

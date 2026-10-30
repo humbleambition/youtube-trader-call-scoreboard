@@ -1,0 +1,514 @@
+{
+ "video_id": "Gen9QsFfClg",
+ "channel": "Verified Investing",
+ "title": "Jobs Report Miss Sends Stocks Surging, Yields Falling, Oil Collapses As Bull Thesis Remains Intact",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Jobs report",
+   "view": "NFP 29k vs 89k forecast, unemployment 4.2%, wages +0.1%: good for markets as it kills an October hike; December now ~50/50."
+  },
+  {
+   "theme": "Bond yields",
+   "view": "10-year failed to confirm above 2007 high; weekly topping tail implies lower yields and more equity upside."
+  },
+  {
+   "theme": "Oil and midterms",
+   "view": "Political push to lower oil before midterms (France SPR release)."
+  },
+  {
+   "theme": "Insider leaks",
+   "view": "Suspects pre-release leaks of jobs data and Nike earnings."
+  },
+  {
+   "theme": "Memory/storage supply",
+   "view": "Toshiba ramping production threatens storage/memory pricing."
+  },
+  {
+   "theme": "China",
+   "view": "Underinvested; Hang Seng could form a big inverse head-and-shoulders if the dollar falls."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures (ES)",
+   "price_at_call": 7800,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weak jobs report cuts hike odds; daily chart above neutral zone with ascending trend line toward ~8,000.",
+   "conviction": "high",
+   "timestamp": "0:04",
+   "quote": "I still have an upside target of about 8,000 on the S&P to this upper trend line right here."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.174,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.3
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pierced but never confirmed above the 2006-07 highs; weekly topping tail at a major pivot high signals reversal lower.",
+   "conviction": "high",
+   "timestamp": "0:06",
+   "quote": "this to me, folks, is a signal we're likely seeing downside in yields coming and further upside in the charts."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 78.77,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.8,
+     78.77
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Close below 88.80 trend line -> 78.77 by the midterms (~1 month)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "France may release 50M barrels from SPR; administration pushing oil down before midterms; trend-line break target.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "I don't mind going out on a limb that I think oil will touch this 7877 a barrel level by the midterms."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Upside while holding the trend line from May 2025; if it chops along the line into mid-next week, risk of bear-flag breakdown",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding a major multi-touch trend line as yields fall.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Right now, we're respecting this level, meaning that upside is potentially in order."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "On trend-line support but possible bear flag; more downside risk than gold if economy slows (industrial angle).",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "We'll give the benefit of the doubt to silver."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "Copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart 'dead on short'; in the money on the short with members.",
+   "conviction": "high",
+   "timestamp": "0:11",
+   "quote": "And copper to me looks dead on short. I'm short with smart money commodity members on copper."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     89000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish pattern trying to play out but near ~89k resistance from prior bear flag; upside slightly favored but not enough reward; flat on swing basis, long-term long.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "for a swing trade upside is favored slightly here but not enough with enough reward to get me involved."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "Spot natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2.85
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Remains long and accumulating; wants recapture of 2.85 after trend-line break.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I remain long that gas here... I'm still in in accumulation mode."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     32,
+     28
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Contrarian at max negativity after guidance cut; added in after-hours; turnaround thesis tied to China recovery. Could dip to 28-29.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "I am long Nike and I continue to like it. In fact, I've added to it as it dipped"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Financials and equal-weight S&P beaten down and due for a bounce; bought as a swing trade.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I bought Bank of America yesterday as a swing trade."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 800,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dropping on Toshiba ramping storage supply; gap fill and ascending trend line at ~800 for a day-trade bounce.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "I love this $800 level if it gets there today."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 411,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     411
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same storage-supply drop; gap fill around 411 as the level.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "WDC, same sort of drop ... probably gap fill around 411"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BIDU",
+   "instrument_quoted": "BIDU ('BYU'/'BU')",
+   "price_at_call": 85,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     85
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending parallel with flat support at $85; China most underinvested; Hang Seng could form inverse H&S if USD falls.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "I'm a buyer with buy down here. I like this level"
+  }
+ ],
+ "notes": "Date from transcript: 'this Friday' jobs report day = 2026-10-02 (listing approx agrees). Ticker 'BYU'/'BU' interpreted as BIDU (Baidu) given 'BU and Alibaba' and $85 level; moderately confident. Hang Seng inverse H&S idea not recorded as a separate call (no canonical ticker)."
+}

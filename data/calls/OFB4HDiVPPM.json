@@ -1,0 +1,1074 @@
+{
+ "video_id": "OFB4HDiVPPM",
+ "channel": "HJTrades",
+ "title": "STOCK MARKET UPDATE FOR 10/6/26",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Henry (HJTrades)",
+ "macro_themes": [
+  {
+   "theme": "Post-breakout pullback odds",
+   "view": "After breakouts from larger corrections QQQ pulled back 2.7-4% in 4 of the last 6 cases (~66%), so a shakeout is likely before the real rally; buy it when buyers step back in."
+  },
+  {
+   "theme": "Rising yields hurt small caps",
+   "view": "TNX keeps climbing and that is why IWM is weak; a pullback in yields would give the market breathing room."
+  },
+  {
+   "theme": "Market breadth (RSP)",
+   "view": "Equal-weight S&P is testing its 21 EMA; a reclaim would confirm broad participation and a stronger rally beyond the Mag 7."
+  },
+  {
+   "theme": "Semis leadership",
+   "view": "SMH is near all-time highs and any pullback should be a buying opportunity; AMD is the mega-cap leader."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 735,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     759.1,
+     756.92,
+     754.54,
+     748.65,
+     744.67,
+     730
+    ],
+    "resistance": [
+     762.86,
+     765,
+     770
+    ],
+    "invalidation": null
+   },
+   "condition": "Expects a 2.7-4% pullback to ~730-735 (66% historical odds); buy once buyers step in. Bullish while above the weekly 21 EMA.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shooting-star candle after gapping to new highs; historical pattern of 2.7-4% pullbacks after breakouts from larger corrections, then continuation; expects at least ~7% rally over next two months.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "if we do get a 4% sell, just realize we're going to come down to 730 to 735"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     777.96,
+     776.61,
+     775.3,
+     772.47,
+     769.54
+    ],
+    "resistance": [
+     779.37,
+     781.62,
+     785,
+     790,
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "Pullback likely if QQQ pulls back; retest of the 775.30 inverse head-and-shoulders neckline is where buyers expected. Bullish while above the daily 21 EMA.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shooting star, swept highs without a close over 779.37; just broke out of an inverse head and shoulders.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "If you retest that, that's where we would expect buyers to start stepping in from."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would turn bullish only on a sweep of the low and red-to-green reversal off the 200-day MA.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rejected daily 21 EMA with bearish engulfing candle; weakness due to rising rates.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "IWM rejected the daily 21 EMA today. We're in a bearish engulfing candlestick. Might be coming back down to a low."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Pullbacks should be bought until proven otherwise.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Very close to all-time highs; not expected to fall off a cliff.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "If it pulls back until proven otherwise, it should be a buying opportunity."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 260,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ideal path: pullback/retest, then next leg up while above 21 EMA.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapped up then pulled back; structure intact above daily 21 EMA.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "As long as you're holding above the 21 EMA, I'd say it's perfectly intact. And yeah, 250 to 260 incoming up next."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 400,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     384.04,
+     392,
+     400
+    ],
+    "invalidation": null
+   },
+   "condition": "Break over 384.04; 200-day MA ~392; expects test of 400.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Poised for breakout, monthly reclaim of 21 EMA; but prefers easier names, only small-size weeklies.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "Tesla looking like 38404 break can happen in the short term above there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 360,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     330.81,
+     325.81,
+     323,
+     320
+    ],
+    "resistance": [
+     336.21,
+     339.5,
+     345,
+     355,
+     360
+    ],
+    "invalidation": 330.81
+   },
+   "condition": "Above 339.50 -> 345 (ATH), above 345 targets 355-360; below 330.81 -> 325.81 then 320-323.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Basing at the 21 EMA; equal highs left behind at all-time high likely revisited.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "above 345. I'm targeting 355. 360 in the short term."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 275,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     258.6,
+     266.4,
+     277.3
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 258.60.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Basing under 258.60; tends to make quick 1-2 week pushes.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "break above there. I'm pretty sure this is going to get a quick move. 270 275 in the short term."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     750.58
+    ],
+    "invalidation": null
+   },
+   "condition": "Break over 750.58 ends six-inside-bar consolidation.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Five/six inside bars compressing.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "You need to break over 75058 for that consolidation to break. Wouldn't be surprised to see that over the next two sessions."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 780,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     584.73
+    ],
+    "resistance": [
+     700,
+     750,
+     780
+    ],
+    "invalidation": null
+   },
+   "condition": "May pull back toward the 9 EMA with QQQ into 10/16 monthly opex, holding above prior ATH 584.73, then next leg.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Mega-cap chip leader at all-time highs, strongest relative strength; holds 750-strike calls.",
+   "conviction": "high",
+   "timestamp": "0:21",
+   "quote": "AMD is send 750 to 780 over the coming weeks."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     350.15
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs to break over 350.15.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Unchanged setup.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "It needs to break over 35015."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke up from consolidation; expects slow grind higher, trade pre-market-high breaks.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "It broke up from that consolidation. I'm pretty sure this is just going to keep grinding higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     160,
+     175
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Either a pullback into 160-175 then add size when buyers step in, or keeps going and trades it small with weeklies.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Got slammed after a run; exited remaining position near break-even; wants a second-round entry.",
+   "conviction": "low",
+   "timestamp": "0:25",
+   "quote": "I'm either looking for this move into 160 to 175 and then I'm going to wait for buyers to start stepping back in"
+  },
+  {
+   "group": "stocks",
+   "ticker": "COST",
+   "instrument_quoted": "COST",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 960,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     931.09
+    ],
+    "resistance": [
+     960
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of falling wedge over 931.09; 200-day MA at 960 next; choppy name, small size only.",
+   "conviction": "low",
+   "timestamp": "0:26",
+   "quote": "960, 200 DMA. That's the next big spot. And it can also fail."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ALAB",
+   "instrument_quoted": "ALAB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 499.48,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     436.47,
+     499.48
+    ],
+    "invalidation": null
+   },
+   "condition": "Expect dips to be bought until proven otherwise.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking out of a ~2.5-month base after a weekly pennant into prior ATH.",
+   "conviction": "medium",
+   "timestamp": "0:29",
+   "quote": "I'm expecting you to trek towards all-time highs over the coming few weeks here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAT",
+   "instrument_quoted": "CAT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 887.91,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 931.35,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     887.91,
+     931.35
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held 200-day MA, broke base, retested, now new highs; buyers in control; choppy day to day.",
+   "conviction": "medium",
+   "timestamp": "0:31",
+   "quote": "Next stop is 88791 and then 93135."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 299.86,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     249.19
+    ],
+    "resistance": [
+     254.74,
+     280.83,
+     299.86
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs daily close over 254.74.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Cleanest range since the Nvidia endorsement; expects a 30-50% weekly candle this week or next.",
+   "conviction": "high",
+   "timestamp": "0:34",
+   "quote": "I think we're about to have a 30 to 50% move, like a 30 to 50% weekly candle either this week or next."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 1108.72,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1035.5
+    ],
+    "resistance": [
+     1074.88,
+     1108.72
+    ],
+    "invalidation": 1035.5
+   },
+   "condition": "Break over 1074.88 -> 1108.72 and ATH; break under 1035.50 is bearish short term (may cut calls) unless reclaimed.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Being sold despite tech strength (concerning short term) but still in a 3-month inverse head and shoulders; holds shares.",
+   "conviction": "medium",
+   "timestamp": "0:35",
+   "quote": "I'm still pretty sure this is going to break out into alltime highs in a big way."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "LITE (spoken \"light\")",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "New high; measured-move target from ~200-point range breakout.",
+   "conviction": "medium",
+   "timestamp": "0:38",
+   "quote": "light 1,200 bucks. That's your measure move target from the range it just broke out from."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAOI",
+   "instrument_quoted": "AAOI (spoken \"AOI\")",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 140,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     116.9
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapping and going; move just started, heading back to highs.",
+   "conviction": "medium",
+   "timestamp": "0:39",
+   "quote": "I'm thinking we get 140 plus going this week."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AXTI",
+   "instrument_quoted": "AXTI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 97.79,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     88.36,
+     97.79
+    ],
+    "invalidation": null
+   },
+   "condition": "Over 88.36.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking out of consolidation though lagging other photonics names.",
+   "conviction": "medium",
+   "timestamp": "0:41",
+   "quote": "Over 8836 though, you got 9779. That's my target."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 595.51,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     573.8
+    ],
+    "resistance": [
+     595.51
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke over 573.80; expects push to ATH 595.51 and breakout for next leg.",
+   "conviction": "medium",
+   "timestamp": "0:42",
+   "quote": "You're probably going to be pushing up there over the coming sessions."
+  },
+  {
+   "group": "stocks",
+   "ticker": "HPE",
+   "instrument_quoted": "HPE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Dips into the 9 EMA expected to be bought.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of a 23-point base; has barely moved relative to base size.",
+   "conviction": "medium",
+   "timestamp": "0:43",
+   "quote": "I think it is likely to continue tracking higher there. I'm expecting that dips continue getting bought."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARM",
+   "instrument_quoted": "ARM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 336.98,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     318.36,
+     336.98
+    ],
+    "invalidation": null
+   },
+   "condition": "Break over 318.36.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily closes back above base; expects a fast 50-100 point move.",
+   "conviction": "medium",
+   "timestamp": "0:44",
+   "quote": "I'm pretty sure ARM has one of its larger moves... could be a nice 50 to 100 point move very quick."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL (spoken \"Marvel\")",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Very close to all-time highs after a strong day.",
+   "conviction": "medium",
+   "timestamp": "0:44",
+   "quote": "Expect that dips get bought. This is going to all-time highs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ZS",
+   "instrument_quoted": "ZS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 259.61,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     217.84
+    ],
+    "resistance": [
+     259.61,
+     336.99
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out, retested, breaking to new high; slow grinder.",
+   "conviction": "medium",
+   "timestamp": "0:45",
+   "quote": "The next big spot is going to be 25961, however, and I do think we can get that move going over these coming weeks on …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOW",
+   "instrument_quoted": "NOW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 149.6,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     142.1,
+     149.6,
+     159,
+     168.01
+    ],
+    "invalidation": null
+   },
+   "condition": "Break over 142.10 breaks consolidation.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed breakdown then consolidation.",
+   "conviction": "low",
+   "timestamp": "0:45",
+   "quote": "Now guys, watch for the break over 14210... it would likely be pushing up from there."
+  }
+ ],
+ "notes": "Date taken from the title '10/6/26' (host-stated); listing approx_date 2026-10-07. QQQ/SPY levels quoted in ETF units, transcript drops decimals (e.g. '76286' = 762.86); stock levels likewise normalised (e.g. 'MU 103550' = 1035.50, 'NOW 14210' = 142.10). QQQ short-term target 735 is the bottom of a 730-735 pullback zone he expects (66% odds), not a sell call; medium-term he expects at least ~7% rally over two months. MRNA: '160 to 175' read as a pullback zone; current price unclear ('swept 2890' garbled). Skipped: an unnamed stock called 'the beast' (~0:31, ticker lost in transcript); 'TLTR' break over 19.46 -> 19.88, 20.752 (~0:42, garbled ticker); SK Hynix, FTNT, RSP, TNX mentioned in passing (RSP/TNX in macro_themes). Ticker spellings 'light'=LITE, 'AOI'=AAOI, 'Marvel'=MRVL, 'now'=NOW are inferred."
+}

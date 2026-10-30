@@ -1,0 +1,412 @@
+{
+ "video_id": "Vt7iMl7JHFE",
+ "channel": "StockedUp",
+ "title": "This Is Big: Saudi Arabia Launches Major Military Operation",
+ "video_date": "2026-10-04",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp)",
+ "macro_themes": [
+  {
+   "theme": "Middle East escalation",
+   "view": "Saudi-led strikes on Houthis after Aramco attacks; tankers hit in Hormuz; Iran says strait stays closed; war not de-escalating."
+  },
+  {
+   "theme": "US debt",
+   "view": "Debt above 100% of GDP, similar to 1946 when stocks peaked and went flat for years."
+  },
+  {
+   "theme": "Weak jobs / Fed",
+   "view": "September payrolls +29k cut odds of an October hike to ~22%."
+  },
+  {
+   "theme": "Seasonality",
+   "view": "Q4 higher 95% of the time when the S&P made a new high every quarter; first 3 weeks of October strong in midterm years."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Clear uptrend from July lows; pullback to support is a dip-buy; Middle East escalation.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "this recent pullback to support could be a good dip buy opportunity."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     768,
+     767
+    ],
+    "resistance": [
+     770,
+     772.5,
+     779.37
+    ],
+    "invalidation": null
+   },
+   "condition": "Break of 772.50 double top bullish; break below 768 bearish",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY breaking its short-term downtrend; strong Q4 seasonality.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "if we start to break that clear double top at 772.50, I think that we could see much more bullish price action come into play."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     345,
+     350
+    ],
+    "resistance": [
+     375
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks the 375 intraday double top",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Delivery beat (486k vs 463k expected) and strong Friday momentum.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "if we're able to break that resistance tomorrow, keep watching Tesla to the upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "War not de-escalating, fuel prices high; energy sector bounced.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "XLE is still on the upside radar as it appears that energy companies have a lot to gain with fuel prices still this high."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVTS",
+   "instrument_quoted": "NVTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 15,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     13.2,
+     15
+    ],
+    "invalidation": null
+   },
+   "condition": "Break of Friday high ~13.20",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off long-term trendline and consolidating; prior post-bounce peak at 15.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "we could see a bigger move at least up to around $15."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 164,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     153
+    ],
+    "resistance": [
+     163,
+     164,
+     168,
+     169
+    ],
+    "invalidation": null
+   },
+   "condition": "Assuming 153 support holds",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Approaching major support in a broader uptrend; biotech strong this year.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "if this ETF can hold support right around 153 and strengthen back closer to that 163 area, maybe 164"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     636
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks past 636",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play after new all-time high Friday.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "break past 636 tomorrow, go ahead and keep watching AMD for another upside move."
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "COIN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     180
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks down under $180",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play after a large Friday pullback.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "if it breaks down under $180, continue watching it lower"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DKNG",
+   "instrument_quoted": "DKNG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     18.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the 18.50 double bottom breaks",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~4% Friday, testing Thursday low.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "if that double bottom breaks at $18.50, watch for Draft DraftKings to continue its overall downside move."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ALKS",
+   "instrument_quoted": "ALKS",
+   "price_at_call": 42,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     55,
+     56
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$1.18M of Jan 2028 55-strike calls; pulled back from ~56 high; potential FDA catalysts.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "I think that it's providing a good buy the dip opportunity to the upside."
+  }
+ ],
+ "notes": "Released Sunday 6pm ET (\"tomorrow on Monday\" ISM) -> 2026-10-04 weekend; listing approx 2026-10-05."
+}

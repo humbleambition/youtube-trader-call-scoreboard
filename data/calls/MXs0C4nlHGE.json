@@ -1,0 +1,436 @@
+{
+ "video_id": "MXs0C4nlHGE",
+ "channel": "David Lin",
+ "title": "Stocks To Surge 40%, Then Crash 80%—10-Year Yield To 0% | David Hunter",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "David Hunter (Contrarian Macro Advisors)",
+ "macro_themes": [
+  {
+   "theme": "Late-stage secular melt-up",
+   "view": "The 44-year secular bull market ends with a parabolic run (S&P ~10,000) in Q4 2026/Q1 2027."
+  },
+  {
+   "theme": "Global bust 2027",
+   "view": "Leverage (debt, derivatives, private credit, possibly Japan/China/Europe) triggers a bust bigger than 2008-09 with up to 80% equity declines and deflation."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "Bond bear sentiment is extreme; yields are near a double top with 2007 and a big bond bull market is next."
+  },
+  {
+   "theme": "Fed",
+   "view": "Recent hike is likely one-and-done, at most two-and-done."
+  },
+  {
+   "theme": "Oil/Iran",
+   "view": "Oil has peaked after the Iran war; flows recovering, Iran cornered."
+  },
+  {
+   "theme": "Inflation",
+   "view": "Moves to 2% and deflation in the bust over the next 18 months."
+  },
+  {
+   "theme": "Real estate",
+   "view": "Has peaked; possible bounce on lower rates but hit hard in the bust."
+  },
+  {
+   "theme": "Japan",
+   "view": "JGB yield breakout is a wild card that could crack over 12-18 months."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 10000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": 2000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Melt-up to 10,000 within ~3-6 months (possibly Q1 2027), then a global bust with up to 80% peak-to-trough decline (10,000 -> 2,000)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Late stage of a 44-year secular bull market going parabolic; cautious institutions/sentiment wall of worry, strong AI and reshoring earnings; leverage will drive a later bust likely in 2027.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "Currently, my S&P target is 10,000, believe it or not... a target that I think can be reached within the next 3 to 6 months"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 36000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same parabolic late-cycle melt-up thesis; ~34% upside.",
+   "conviction": "high",
+   "timestamp": "0:04",
+   "quote": "my target on the Nasdaq's been raised a few times, and it's currently 36,000"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "Dow Jones index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 70000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Melt-up thesis; Dow hit hardest by rising rates but not reversing.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "my target on the Dow is 70,000"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 4000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Melt-up thesis; ~43% upside, small caps helped once rates fall.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "And my target on the Russell is 4,000."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.32,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 4.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 0.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Yields could fall below 4%, maybe toward 3%, within ~6 months; 0% 10-year possible in a global bust",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Extreme bearish bond sentiment at a double top with 2007 highs; oil and inflation to roll over; bust would force massive QE.",
+   "conviction": "high",
+   "timestamp": "0:13",
+   "quote": "I do believe we could see a 0% 10-year uh in a global bust."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude oil",
+   "price_at_call": 92,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 35,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Lower, maybe sharply, over the next few months/Q4; as low as the 30s if a global bust hits in 2027",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil has peaked after the Iran-war spike to 120; Gulf flows nearly back to pre-war levels, Iran cornered.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "I am again uh bearish on oil. I think oil is has peaked and and will roll over here"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 90,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 83,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Next leg down over ~9 months to 82-84, possibly pausing at 90; dollar rallies in second half of the bust",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "15-month consolidation resolving lower like prior countertrend rallies.",
+   "conviction": "medium",
+   "timestamp": "0:33",
+   "quote": "I have a target uh down in the you know, low to mid-80s, you know, 82, 3, 4-ish"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1.3,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Pair trade with dollar falling to 82-84; says 1.35 possible.",
+   "conviction": "low",
+   "timestamp": "0:36",
+   "quote": "I have the euro going to 130 and I think I'm probably too conservative there."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "GBPUSD",
+   "instrument_quoted": "GBP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1.5,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar weakness pair trade; thinks 1.50 may be too low.",
+   "conviction": "low",
+   "timestamp": "0:36",
+   "quote": "the British pound can probably go I have 150 and I think probably I'm I'm too low there"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 7000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "7,000 this cycle; 20,000 by ~2032-33 in the next cycle",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Consolidation after the January blow-off; July lows (under 4,000) were the bottom; expects another sharp run soon.",
+   "conviction": "high",
+   "timestamp": "0:39",
+   "quote": "I think we will see another sharp run up here very soon... What's your target now for gold? Uh 7000."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     56
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "200 this cycle; 1,000 by ~2032-33",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same consolidation thesis as gold; lows in July just under 56.",
+   "conviction": "high",
+   "timestamp": "0:39",
+   "quote": "Those are my numbers now is 200 for gold 7000 for I mean 200 for silver"
+  }
+ ],
+ "notes": "Date: interviewer cites a CNBC piece 'just this morning on October 1st' (and '530 or 534 this morning on the 10-year'); listing approx 2026-10-02. 10y yield 5.30-5.34 quoted. Oil price 'low 90s' approximate. No time-bound short-term calls beyond gold/stocks Q4 bullishness."
+}

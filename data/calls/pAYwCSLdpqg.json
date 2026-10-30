@@ -1,0 +1,401 @@
+{
+ "video_id": "pAYwCSLdpqg",
+ "channel": "Verified Investing",
+ "title": "Yields Stall Triggering Market Jump, Bullish Bias Remains, Micron Earnings Moves And Top Trades",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "Market trading tick-for-tick with the 10-year (5.31-5.34%), now above 2007 highs."
+  },
+  {
+   "theme": "Market breadth",
+   "view": "Equal-weight S&P getting crushed while mega caps hold the index near highs."
+  },
+  {
+   "theme": "Window undressing",
+   "view": "Beaten-down names sold into quarter end tend to snap back at the start of the new quarter."
+  },
+  {
+   "theme": "Memory glut",
+   "view": "AI efficiency and new fabs will create a memory glut within 12-18 months."
+  },
+  {
+   "theme": "Fed",
+   "view": "Fed likely to raise again in October (pre-jobs report view)."
+  },
+  {
+   "theme": "Altcoins",
+   "view": "Rising BTC dominance warns of an altcoin pullback."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (daily chart / ES futures)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish while above the neutral zone; may stall as mega caps lag and equal weight catches up",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still above neutral zone, ~2% off ATH despite 20+ year high yields, $90 oil and midterms.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "We're still above the bullish zone. So the neutral zone here, we remain above it. That keeps me bullish on the S&P."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RSP",
+   "instrument_quoted": "RSP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     204.7
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 205,
+   "stop": null,
+   "method": "technical",
+   "reason": "Equal-weight S&P ~7% off highs; former pivot, unfilled gap and 50% Fib retrace align at ~204.70-205; should outperform mega caps.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "if we get a little bit more weakness basically to 205, this would be the level to pick up the equal weight."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Window undressing into quarter end at multi-factor support; expects new-quarter snapback, though earnings tonight probably bad.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I'm looking to potentially, you know, for a Nike bounce, which is at major multi-factor support."
+  },
+  {
+   "group": "stocks",
+   "ticker": "FICO",
+   "instrument_quoted": "FICO",
+   "price_at_call": 640,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought at parallel trend line after window undressing; ~10% premarket bounce (592 -> ~640), sold premarket.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "I bought this in smart money stocks and ETFs. We actually just sold it pre-market."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 300,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1015
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Possible day-trade long near 1,015 gap fill; longer term memory glut within 1-1.5 years",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Beat and raised but CEO unsure on new supply timing; efficiency (Google Argon model) and new fabs will create a memory glut, margins collapse to 10-20%.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "Micron probably eventually within a year and a half is down to $300 a share."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AGNC",
+   "instrument_quoted": "AGNC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     8.95
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 8.95,
+   "stop": null,
+   "method": "technical",
+   "reason": "Horizontal and ascending trend lines merge at 8.95 with RSI below 20 (~80% bounce odds historically).",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "this would be a very interesting opportunity for us as swing traders on AGNC Investment Corporation."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3900,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 13000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3900,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": 4100
+   },
+   "condition": "Break below 4,100 -> test 3,900 and opens door to 3,500; long-term model target ~13,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Approaching ascending trend-line support after coming well off highs; worst-case scenario planning.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "If we break this 4100 level, I think not only do we test the 3900 area, but the it opens the door to 3500 on …"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If trend line breaks, opens $50; buy orders at 50 or below",
+   "action": "buy",
+   "entry": 50,
+   "stop": null,
+   "method": "mixed",
+   "reason": "High rates and oil weakening the economy and industrial demand; not trusting current levels.",
+   "conviction": "medium",
+   "timestamp": "0:16",
+   "quote": "I'm actually getting more and more inclined to think that $50 an ounce is still in the cards"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "Natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 2.9,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding short-term support; seasonality and European deficit; re-long around 2.90 average.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "I am long nat gas again after being long here, dumping on the pop, I'm re-long in this lower vicinity."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flat for 1-2 weeks: bull flag or micro bear flag unclear; rising BTC dominance suggests BTC stalls/slightly lower while altcoins could pull back hard.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "this could tell us that Bitcoin is going to stall or go slightly lower, but all coins could have a major pullback."
+  }
+ ],
+ "notes": "Date implied: jobless claims today, NFP 'tomorrow', Nike earnings after the bell today, Micron reported last night -> Thursday 2026-10-01 (listing approx agrees). Yields mentioned without a directional call. GOOGL 'Argon' model mentioned as news only."
+}

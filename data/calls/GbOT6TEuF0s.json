@@ -1,0 +1,175 @@
+{
+ "video_id": "GbOT6TEuF0s",
+ "channel": "CPM Group",
+ "title": "Gold and Silver ALERT: The Derivatives Fight That Never Really Ended",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian",
+ "macro_themes": [
+  {
+   "theme": "Long-dated Treasury yields",
+   "view": "10-year breaking above 5% spooked all asset markets via valuation models; rates are rising for bad reasons (deficits, oil, weakness), though still historically low."
+  },
+  {
+   "theme": "Political dysfunction",
+   "view": "Midterms and expected legal challenges will produce a hostile, ineffectual government and erode respect for policymakers, ultimately positive for gold and silver."
+  },
+  {
+   "theme": "OTC derivative regulation",
+   "view": "OTC derivatives remain poorly regulated, enabling Enron-style hidden balance-sheet abuses, now in AI/crypto."
+  },
+  {
+   "theme": "State capitalism",
+   "view": "US government investments (Intel, Venezuelan gold, steel mills) without business plans are a worrying drift toward state-run business."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold spot (USD/oz)",
+   "price_at_call": 4187,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3960,
+     3800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ultra-short-term: stand aside and re-enter long after slightly lower prices / a base forms.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Short-term negative sentiment and rising yields may push gold lower, but political and economic factors should drive investor buying over 2-4 months; uptrend since 2019 intact.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "we still expect political and economic factors to drive investors to buy more gold over the next two to four months"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Fell sharply over the month back to the top of the June-July range; expected to rise over the next 2-4 months on political and economic concerns.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "our expectation is that the price will rise over the course of the next two to four months"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "Platinum spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "'Very similar situation' to silver: sharp September drop, expected to rise over 2-4 months.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Platinum prices very similar situation as are palladium prices"
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "Palladium spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Grouped with platinum as 'very similar' to silver.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Platinum prices very similar situation as are palladium prices"
+  }
+ ],
+ "notes": "Recorded ~1:30pm NY Tuesday Sept 29 (transcript). Speaker says 10-year 'gotten up to about 10%' at 0:01, evidently misspoke for ~5% (later: 'broken above that 5%'). Gold short-term bearish = 'could fall a little bit further' to 4,000/3,960/3,800 (recorded as support, not targets). He personally remains long gold. PL/PA tickers are not in spec list; used standard futures roots."
+}

@@ -1,0 +1,136 @@
+{
+ "video_id": "udawjNM12Ao",
+ "channel": "Sean Foo",
+ "title": "USA PANICS as Bond Collapse FORCES a Global Monetary Reset",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "China exiting Treasuries for gold",
+   "view": "China's Treasury holdings fell from $1.3T to below $620B, rotated into gold; PBoC bought 23 tons last month, buying accelerated after the Iran war."
+  },
+  {
+   "theme": "US gold revaluation / remonetization",
+   "view": "Bessent's appointment of Judy Shelton opens the door to revaluing US gold (261M oz at $42 official) or issuing gold-convertible Treasury Trust bonds, which would hurt Treasuries and the dollar but boost gold."
+  },
+  {
+   "theme": "Deficit trap",
+   "view": "US 2026 deficit ~$2T (~6% of GDP) with spending growing twice as fast as revenue, forcing more issuance and higher yields."
+  },
+  {
+   "theme": "Central bank reserve shift",
+   "view": "Gold now ~25% of central bank holdings vs Treasuries 21%, a reversal from 9% vs 33% a decade ago."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "China dumping Treasuries and buying gold (23t last month), central banks now hold more gold than Treasuries, US deficit ~$2T; possible US gold revaluation or gold-convertible Treasury Trust bonds (Judy Shelton) would spark an explosion in gold demand. Central bank buying puts a floor under price.",
+   "conviction": "high",
+   "timestamp": "15:00",
+   "quote": "if it happens, we could see an explosion in gold demand globally. And that means prices will be way higher down the road."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Endless bond issuance and falling foreign demand push yields higher; cites PIMCO that the 10y could hit 6% by end of this year or early 2027 (attributed view he endorses as a risk).",
+   "conviction": "medium",
+   "timestamp": "9:20",
+   "quote": "According to PIMCO, the 10-year yield could hit a crazy 6% soon. It might even happen by end of this year or early 2027."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Collapse in confidence in US fiscal discipline and sanctions push countries away from the dollar; gold-backed bonds would amount to admitting the dollar is toast.",
+   "conviction": "medium",
+   "timestamp": "11:40",
+   "quote": "They just essentially admitted that the dollar is toast."
+  }
+ ],
+ "notes": "No date stated in transcript; listing approx_date 2026-10-13 ('10 hours ago' at catalog time just after midnight Oct 13 Santiago) suggests it was actually posted Oct 12. No price levels beyond gold 'over $4,000'; all views are long-horizon macro. 6% 10y target is PIMCO's, cited approvingly."
+}

@@ -1,0 +1,204 @@
+{
+ "video_id": "KqGdGn4HLQg",
+ "channel": "Verified Investing",
+ "title": "The 10-Year Is The Only Thing Stopping These Breakouts",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosik",
+ "macro_themes": [
+  {
+   "theme": "10-year yield blocking breakouts",
+   "view": "10-year at ~5.29%, highest since 2002; until it consolidates toward 5%, inverse head-and-shoulders breakouts in stocks will struggle."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 218.35,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     155,
+     154.87
+    ],
+    "resistance": [],
+    "invalidation": 154.87
+   },
+   "condition": "Two daily closes back under the neckline (~154.87) would negate the pattern.",
+   "action": "buy",
+   "entry": 155,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse head and shoulders broke its neckline Oct 2 and extended Monday; a pullback to the neckline should act as support for the measured move.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "You can see that all the way up here the target is $218.35."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 391.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     300,
+     305.8
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs a daily close above $300 to trigger the inverse H&S measured move to $391.50; a close above $305.80 negates the bear flag.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Google $4.3B power deal pumped the stock, attacking the top of a bear flag that also forms an inverse head-and-shoulders neckline.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "If we get a daily close above $300, that triggered it that triggers this inverse head and shoulders measured move at $391.50."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 1083,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 1300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1035.5
+    ],
+    "resistance": [],
+    "invalidation": 1035.5
+   },
+   "condition": "Breakout from the neckline targets ~$1,300 (50% of the parallel channel, new ATH); daily closes under $1,035.50 raise odds of a move down.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Messy inverse H&S; neckline repeatedly tested and pierced today, weakening it.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "Daily closes underneath this trend line at $1,035.50 actually start increasing probabilities of a move down."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": 1663,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 2625.02,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the breakout continues, inverse H&S measured move to ~$2,625; held back while the 10-year yield stays elevated.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse H&S holding above its neckline after closing under it yesterday.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "this inverse head and shoulders pattern has a target and measured move near the top of the parallel at $2,625.02"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": 5.29,
+   "short_term": {
+    "bias": "bearish",
+    "target": 5.0,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.249,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.289
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Overbought at highs not seen since 2002; expects consolidation toward 5% before a monthly breakout toward the 6.249% Fibonacci level.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I still anticipate with this overbought status, we should have some sort of consolidation close down to the 5% level"
+  }
+ ],
+ "notes": "No weekday stated. Date inferred from the transcript: CEG's Google deal pump was \"yesterday\" (that news hit 2026-10-06 per other videos) and the SpaceX breakout was \"Monday\"; listing approx_date 2026-10-08 (\"20 hours ago\") is likely a day late. SpaceX recorded as SPACEX (existing files use both SPACEX and SPCX). The 5.29%/5.289% figures are as spoken."
+}

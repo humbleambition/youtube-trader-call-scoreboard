@@ -1,0 +1,474 @@
+{
+ "video_id": "jhg-nN5GDkc",
+ "channel": "Slope of Hope",
+ "title": "Slope of Hope",
+ "video_date": "2026-09-27",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "deep_dive_stock",
+ "speaker": "Tim Knight (Slope of Hope)",
+ "macro_themes": [
+  {
+   "theme": "AI fear overblown",
+   "view": "Computers barely work, so AI won't take everyone's jobs."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "AAOI",
+   "instrument_quoted": "AAOI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Applied Optoelectronics"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ACN",
+   "instrument_quoted": "ACN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Accenture"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BTU",
+   "instrument_quoted": "BTU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Peabody Energy"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CAT",
+   "instrument_quoted": "CAT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Caterpillar"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CNC",
+   "instrument_quoted": "CNC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated). Mocks health insurers.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "Centene"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SATS",
+   "instrument_quoted": "SATS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "EchoStar"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HUM",
+   "instrument_quoted": "HUM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated). Mocks health insurers.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "Humana"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IBM",
+   "instrument_quoted": "IBM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "Big Blue"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated). Calls it a money-losing experimental quantum company.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "IonQ"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KLAC",
+   "instrument_quoted": "KLAC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "KLA-Tencor ('Klack')"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated). Says it is 'puking' on hyperscaling concerns.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "Oracle"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RCL",
+   "instrument_quoted": "RCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated).",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "Royal Caribbean"
+  },
+  {
+   "group": "stocks",
+   "ticker": "UNH",
+   "instrument_quoted": "UNH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Part of his 34-name short portfolio with a stop-loss (dashed red line, level not stated). Mocks health insurers.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "UnitedHealth"
+  }
+ ],
+ "notes": "Re-recording of Friday-night shorts survey (original had no audio), so recorded the weekend; listing date kept. Only names, no prices/stops read aloud; bias is 'short' with stops. 'Sienna' (likely Ciena CIEN, possibly Sienna) excluded as unidentifiable. 34 shorts claimed; only these were named."
+}

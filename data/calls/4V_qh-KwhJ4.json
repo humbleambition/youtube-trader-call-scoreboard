@@ -1,0 +1,372 @@
+{
+ "video_id": "4V_qh-KwhJ4",
+ "channel": "Verified Investing",
+ "title": "Oil Spikes On Trump Comments, Markets Sell Hard But Bullish Setup Remains!",
+ "video_date": "2026-10-08",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Markets climbing a wall of worry",
+   "view": "Bearish sentiment, oil, Iran, midterms, yields and France are all being absorbed; stay bullish until key supports break."
+  },
+  {
+   "theme": "Yield top signal",
+   "view": "10y printed a daily topping tail at a 20-year high after strong auction demand and less-hawkish Fed minutes (no October hike)."
+  },
+  {
+   "theme": "Strong earnings season",
+   "view": "Expects phenomenal earnings starting with banks next week, though sky-high expectations cap reactions (Samsung, TSMC)."
+  },
+  {
+   "theme": "Oil headline immunity",
+   "view": "Trump's anti-deal comments lifted oil only ~3.7%; markets are becoming immune to war headlines."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Only 0.5-1% off a new all-time high; double top resolving into a cup-and-handle breakout; bearish sentiment is fuel.",
+   "conviction": "high",
+   "timestamp": "2:00",
+   "quote": "So I re I remain with a bullish bias on the S&P 500."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": 5.3,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.27,
+     5.26
+    ],
+    "resistance": [
+     5.36,
+     5.365
+    ],
+    "invalidation": null
+   },
+   "condition": "A daily plus weekly topping tail (needs selling to ~5.26-5.27% this week) would make it a very powerful top signal.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily topping tail at a 20-year high (5.365% high, ~5.286% close); with a weekly tail, >80% chance of further downside in coming days and weeks.",
+   "conviction": "high",
+   "timestamp": "7:00",
+   "quote": "Probably over 80% chance that yields will have more further downside in the coming days and weeks."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.75
+    ],
+    "resistance": [],
+    "invalidation": 88.75
+   },
+   "condition": "A daily close below ~88.75 would send oil 'much, much lower' (prior target $78).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil held its trend line Tue/Wed, then popped on Trump comments; trend line is the level to watch.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "If we break basically below 8875 on a daily closing basis... oil should go much, much lower."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 3.33,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.18,
+     3.19,
+     3.33
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above the 3.18-3.19 trend line opens 3.33 and potentially a much bigger move.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Five straight up days into a multi-touch resistance trend line; took half profits, holding half for a bigger breakout.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "If we can break above this 318, 319 area, we then easily test 333"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Breakdown confirmed by a close below yesterday's low; bulls need a daily close back above the orange trend line.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed below key trend line but needs confirmation; pivotal level, resolution within a few days.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "We probably know within the next few trading days, is this a breakdown or are we going to see a bigger bounce in gold?"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it closes below the ascending trend line and confirms the next day, targets 55 then 50.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver weaker, borderline breaking its ascending trend line.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "If it's a real breakdown, you're going to 55, then you're going to 50."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75500
+    ],
+    "resistance": [
+     87200,
+     95000,
+     97000
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 87,200 targets 95-97k; break below 81,000 targets 75,500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price between his two key levels; not in a swing trade either way.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "If we break this probability spikes that we will go to 95 to 97,000. If we break below 81,000... a move down to where? To …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     400
+    ],
+    "invalidation": null
+   },
+   "condition": "A break above ~$400 channel resistance would be a breakout.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still trading within a parallel channel.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "If it surges up, there will be some resistance around $400. That's going to be a breakout line"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     459
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if TSM fills the gap at 459 today (day-trade scalp).",
+   "action": "buy",
+   "entry": 459,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong preliminary revenue but stock slightly down; gap fill would be a high-probability intraday scalp.",
+   "conviction": "low",
+   "timestamp": "4:45",
+   "quote": "if we were to fill this gap today at 459, I actually would consider a day trade scalp."
+  }
+ ],
+ "notes": "Date: references 'the Fed minutes' yesterday and 'on Tuesday' oil test, i.e. Thursday 2026-10-08 (matches listing). Natural-gas levels quoted as '318, 319' and '333' interpreted as $3.18-3.19 and $3.33 (NG is not in the canonical list; ticker 'NG'). Oil '8875' = $88.75. TNX price_at_call is approximate (~5.29-5.30%, yesterday's close 5.286%). PEP earnings discussed but no call."
+}

@@ -1,0 +1,97 @@
+{
+ "video_id": "ettUhq-38xA",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Trade the Inflation News Until You See This!",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "PCE methodology change",
+   "view": "Core PCE fell to 3.0% vs 3.3% expected, but a methodology change to three categories could account for ~20bp of the 30bp drop; he finds the timing suspicious."
+  },
+  {
+   "theme": "Fed hike odds",
+   "view": "October hike odds fell from ~75% to ~30-41%; strong ADP (+90K vs 73K) actually supports a hike more than a pause."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     900
+    ],
+    "resistance": [
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "If MU breaks above 1,100 on earnings/guidance, expect a breakout; if it disappoints, a pullback to ~$900 would not be surprising.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Fair-value estimate shows 21.4% upside at a historically low ~24 P/E, but it is overbought into earnings with no margin for error; testing 1,100 resistance with 900 support.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "if it breaks above 1,100, I can easily see a breakout"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closing his long (up ~$900) because the chart looks incredibly weak; prefers cash into Micron earnings.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "I'm going to close out this trade. It's looking incredibly weak."
+  }
+ ],
+ "notes": "Date: 'happy Wednesday' and the promo 'ends at the end of September. That's today' = Wed 2026-09-30 (listing approx 10-01). Recorded intraday (PCE out, 'Nasdaq market is in the green', MU reports after close). Long-term MU bias inferred from his fair-value upside comment; he explicitly has no open MU trade. Nasdaq rising mentioned but he is sceptical and gives no directional view (no NQ call). Timestamps are the transcript's minute markers (m:00), so accurate to the minute only."
+}

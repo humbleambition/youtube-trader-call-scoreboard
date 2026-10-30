@@ -1,0 +1,97 @@
+{
+ "video_id": "cevpGyjZfKk",
+ "channel": "Meet Kevin",
+ "title": "The Iran War is Flipping | Warning.",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "US-Iran war / negotiations",
+   "view": "Thinks the US now has the upper hand (blockade working, Iran oil exports collapsing) and a nuclear deal with Iran is likely before the midterms."
+  },
+  {
+   "theme": "Oil flows recovering",
+   "view": "Gulf oil exports are ~70-100% back to pre-war levels while Iran exports less than a tenth; Iran's grip on Hormuz is loosening."
+  },
+  {
+   "theme": "Treasury yields",
+   "view": "Yields fell after the jobs report then rose intraday; no sustained decline in the 10-year until an Iran deal is actually reached."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 750,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Move past 800 framed as following an Iran nuclear deal",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Near-term 750 QQQ target already hit ahead of schedule without an Iran deal; a deal would push it much higher.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "we hit our all-time high target and we don't even have a deal yet on Iran. Imagine when we get the deal. This is going …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Meaningful decline in the 10-year only once an Iran deal is reached",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields tend to rise intraday and the Iran war is not over, so he bet yields rise again near term; a deal would let yields stay meaningfully lower.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "I sent a trade alert on this bet this morning that treasury yields would likely go up again before they come down"
+  }
+ ],
+ "notes": "Date: host references \"that jobs report this morning\" (September NFP released Fri 2026-10-02); listing approx 2026-10-03. Also considering buying a Kalshi \"Iran nuclear deal\" contract (prediction market, not recorded as a ticker)."
+}

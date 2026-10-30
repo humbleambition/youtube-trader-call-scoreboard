@@ -1,0 +1,213 @@
+{
+ "video_id": "FF3UJqCEMPY",
+ "channel": "Gareth Soloway",
+ "title": "Gold & Silver Forecast: Fake-Out or Real Breakdown? + Platinum, Palladium And Copper",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Oil up, yields up",
+   "view": "Oil +2.1% on the day; with the bond market closed, traders are front-running higher yields by selling gold."
+  },
+  {
+   "theme": "Economic slowdown risk",
+   "view": "High oil, fuel and rates could deteriorate the global economy, which is bearish for industrial metals (copper, and silver short term)."
+  },
+  {
+   "theme": "Confirmation signal",
+   "view": "A trend-line close beyond a level is 50/50; a second close beyond that candle's low/high confirms ~70% of the time."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If gold closes below 4,100 with confirmation, then 3,950 and 3,500",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding the long-term ascending trend-line support after last week's unconfirmed close below (fake-out). A confirmed close below 4,100 targets 3,950 then 3,500; first resistance is the descending trend line from the all-time high. Holds a small swing long on support, net long long-term; would buy big only near 3,500.",
+   "conviction": "medium",
+   "timestamp": "5:30",
+   "quote": "any close with confirmation below 4,100. Then I think we're headed to 3950 and honestly to 3500"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50,
+     48
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If silver breaks the trend line and confirms, then 48-50",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pierced and closed below the long-term trend line without confirming, then got back above; on the sidelines for swing trades (no long, no short) due to oil/rate pressure on the economy. Confirmed collapse targets 48-50 (1980/2011 pivot highs), where he would buy; long-term still bullish.",
+   "conviction": "medium",
+   "timestamp": "6:50",
+   "quote": "If silver does collapse and confirms, it's likely going back to about the $50 level."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bigger drop once the wedge trend line breaks and confirms",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Short copper (front-running): ascending wedge with barely-higher highs showing lost strength; a confirmed break of the lower trend line should bring a much bigger drawdown, and a weakening economy hurts a purely industrial metal.",
+   "conviction": "high",
+   "timestamp": "9:20",
+   "quote": "I am short copper. Uh, I love this. This is what we call an ascending wedge pattern."
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1350
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the long-term trend line breaks, then ~1,350",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sitting on the long-term trend line inside a tightening band; breakout or breakdown expected within October. A break targets about 1,350.",
+   "conviction": "low",
+   "timestamp": "10:10",
+   "quote": "If this breaks, where are we going? We're likely going back to about 1350 on this chart."
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 1000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Small swing long off the 0.786 Fibonacci retracement (up a bit), but thinks it goes lower first; a breakdown targets the 0.886 Fib near 1,000 (matching the 2018 low area), his longer-term buy level.",
+   "conviction": "medium",
+   "timestamp": "11:30",
+   "quote": "I actually like palladium, but I think it's going to go lower first."
+  }
+ ],
+ "notes": "Recorded Monday Oct 12 (bond market closed, oil up ~2.1%). No current prices stated. Gold resistance is a descending trend line from the ATH with no number given. Palladium short-term 'bullish' reflects his small swing long; medium-term bearish reflects 'lower first' to ~1,000."
+}

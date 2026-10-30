@@ -1,0 +1,101 @@
+{
+ "video_id": "bpBLHXloZYI",
+ "channel": "A1 Trading",
+ "title": "Get Ready: Bond Yields are Exploding",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "A1 Trading host with guest Marilly",
+ "macro_themes": [
+  {
+   "theme": "Bonds compete with stocks",
+   "view": "10y above 5.2% (and 5.5% psychologically) draws profit-taking into risk-free yield, pulling liquidity from equities and gold."
+  },
+  {
+   "theme": "2-year overpricing Fed hikes",
+   "view": "Market prices Fed funds near 5% vs Fed projections of 4-4.25% even as oil eases; a sustainable Iran/oil resolution could collapse that fear premium."
+  },
+  {
+   "theme": "Strong underlying growth",
+   "view": "PMIs and new orders at multi-year highs; the Iran/oil black cloud is what hangs over markets."
+  },
+  {
+   "theme": "Mag 7 strength",
+   "view": "Mag 7 can borrow near or below Treasury yields and have levers on free cash flow; their relative strength is positive for the broader market."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Requires a sustainable Iran/oil resolution while growth stays strong",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Russell has traded inversely to the 2-year; extreme bearish sentiment (AAII 48% bears) means a tangible Iran deal would drop the 2-year and give small caps a bigger upside move than the Nasdaq.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "the upside to the Russell is um more like that's more of an outsized move in my opinion than something like the Nasdaq"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Guest sees no sustainable decline in long-end yields unless the AI capex buildout slows or reverses, which she does not expect anytime soon.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "what would make me think that yields would be sustainably coming down from there would be a reversal or a pause... which I just don't …"
+  }
+ ],
+ "notes": "No date stated; listing date used. Mostly a macro discussion; the 2-year yield view (could fall on an Iran deal) is not a canonical ticker and is kept in macro_themes. Speaker names as heard (\"Marilly\", \"Nick\")."
+}

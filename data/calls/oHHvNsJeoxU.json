@@ -1,0 +1,344 @@
+{
+ "video_id": "oHHvNsJeoxU",
+ "channel": "Verified Investing",
+ "title": "Where Bulls Push Next After A Wild Week",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Jake Sweeney (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Yields at 2007 highs",
+   "view": "10y pierced 5.212% (highest since 2007); further rise would pressure SPY/QQQ; next resistance 5.524%."
+  },
+  {
+   "theme": "Big money positioned higher",
+   "view": "Options market suggests big money positioned for a move higher in equities."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 770,
+   "short_term": {
+    "bias": "bullish",
+    "target": 779.37,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     761.69
+    ],
+    "resistance": [
+     775,
+     779.37
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs to clear 775 first",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gapped above descending trendline, held it on the selloff; options flow suggests positioning for a move higher toward double top at ATH.",
+   "conviction": "medium",
+   "timestamp": "2:30",
+   "quote": "this now puts in play next week double top of the SPYders getting to this level at 779.37"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 750,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     725,
+     722
+    ],
+    "resistance": [
+     745.87,
+     750
+    ],
+    "invalidation": null
+   },
+   "condition": "Confirmation above 745.87 opens a break of 750",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapped above horizontal and down-sloping trendlines; polarity flip makes 725-722 support.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "I want to see confirmation above the 74587 level and that could also give us a play to break the 750"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.212,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.212
+    ],
+    "resistance": [
+     5.524
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Wedge breakout to highest since 2007; bouncing off 5.212; next major resistance 5.524%.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "the next major resistance I'm watching on the US 10-year ... 5.524"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI)",
+   "price_at_call": 93,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88,
+     90
+    ],
+    "resistance": [
+     99.45,
+     104,
+     105
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hovering at 0.5 Fib ~93 amid US-Iran truce talks; indecision; resistance 99.45 and long-term downtrend line ~104-105.",
+   "conviction": "low",
+   "timestamp": "8:30",
+   "quote": "It's kind of more indecision"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4240
+    ],
+    "resistance": [
+     4300,
+     4402
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Capped by 4,402 pivot and a descending trendline (~4,300 Monday); holding 4,240 low pivot.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "This is the main resistance level gold has to take down"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000
+    ],
+    "resistance": [
+     87395
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rallied 7-8% Monday, now retesting; trendline flipped to resistance; next resistance 87,395.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "Next major resistance level I have for Bitcoin is this 87,395 level"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     744,
+     719,
+     720
+    ],
+    "resistance": [
+     796.25
+    ],
+    "invalidation": null
+   },
+   "condition": "Short setup into the 796.25 double top/ATH; if 744 breaks, look for bounce at 719-720 trendline",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sharp 12-17% move up into all-time-high double top favors a pullback.",
+   "conviction": "medium",
+   "timestamp": "13:45",
+   "quote": "this is a great setup for a short here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": 565,
+   "short_term": {
+    "bias": "bullish",
+    "target": 600,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 700,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     516,
+     520
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up-sloping channel with third touch; expects $600 next week and channel could carry to 650-700.",
+   "conviction": "medium",
+   "timestamp": "14:45",
+   "quote": "this could take Dell upwards to 650 700"
+  }
+ ],
+ "notes": "Host says 'happy Friday' and 'last Friday the 18th' -> Friday 2026-09-25, recorded into the close. Dell medium target 700 is top of 650-700 range given."
+}

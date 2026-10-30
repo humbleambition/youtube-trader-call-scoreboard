@@ -1,0 +1,261 @@
+{
+ "video_id": "LfIbptPM1KM",
+ "channel": "Crypto World",
+ "title": "BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Stocks at all-time highs",
+   "view": "Nasdaq-100 new ATH is a bullish signal that should help crypto attempt a breakout in the coming 1-2 weeks."
+  },
+  {
+   "theme": "Crypto short-term cool-off",
+   "view": "Daily bearish divergences across BTC/ETH/SOL/XRP mean choppy sideways action under resistance over the weekend, not a crash; larger trend still bullish."
+  },
+  {
+   "theme": "Bitcoin dominance range-bound",
+   "view": "BTC dominance sideways for a year; no altcoin or Bitcoin season, high correlation across crypto."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (4h chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ just hit a new all-time high after a short cool-off; bigger picture more bullish than bearish, expects follow-through next week.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "the larger bigger picture situation at the moment is technically more bullish than it is bearish"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 97000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000,
+     82400
+    ],
+    "resistance": [
+     86000,
+     88000,
+     87400
+    ],
+    "invalidation": null
+   },
+   "condition": "If BTC breaks and holds above 88K, next target 96-98K later in October; a break below ~80-82K back into the 70Ks would confirm a double top and multi-week correction. Warns a larger bearish divergence could form later in October leading to a ~20% pullback into November.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected again at 86-88K resistance; daily bearish divergence still active so range over the weekend; weekly bullish divergence and supertrend green imply multi-year bull market.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "the next price target to watch out for is sitting in between 96,000 to 98,000"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "Possible breakout attempt over 2.8K in next 1-2 weeks if stocks follow through.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Struggling at 2.8K resistance with active daily bearish divergence; larger structure bullish.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "expect mostly sideways price action chopping around sideways possibly a slight little pullback"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6,
+     1.7
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range between 1.30 and 1.60-1.70 on the weekly; daily bearish divergence means cool-off for rest of week, then follows BTC/ETH.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "just expect a little more of a cool off for the rest of this week"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     119,
+     124
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still at 119-124 resistance with active daily bearish divergence; closed his SOL short (added ~122 then exited in profit) because stocks hit ATH; larger structure bullish.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "I'm now completely out of the trade, completely out of the short position in profits"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     13.2,
+     13.3
+    ],
+    "resistance": [
+     14.1,
+     14.3
+    ],
+    "invalidation": null
+   },
+   "condition": "Push higher in coming weeks if BTC and US stocks show strength; forming (unconfirmed) 3-day bearish divergence.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected and back under 14.10-14.30; larger trend bullish; follows BTC.",
+   "conviction": "low",
+   "timestamp": "0:25",
+   "quote": "expect a little more struggle in the short term for chain link"
+  }
+ ],
+ "notes": "Recorded just after Friday close ('closed for the week'); listing approx_date 2026-10-03 is the publish day. BTC price at call not stated (just rejected from 86-88K). SOL short exit trade documented on LBank."
+}

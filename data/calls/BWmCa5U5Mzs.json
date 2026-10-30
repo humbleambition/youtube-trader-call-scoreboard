@@ -1,0 +1,209 @@
+{
+ "video_id": "BWmCa5U5Mzs",
+ "channel": "Verified Investing",
+ "title": "Which Market Movers Have Momentum And Which Will Fade",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Drew Nosaki",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 780,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     722.58,
+     687.17
+    ],
+    "resistance": [
+     790.8,
+     796.25,
+     798.46
+    ],
+    "invalidation": null
+   },
+   "condition": "Buy on retrace to 0.382 fib 687.17 (aggressive 722.58); won't chase at overbought",
+   "action": "buy",
+   "entry": 687.17,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke declining trendline and ripped toward all-time high/50% of rising channel with RSI >70; expects consolidation/retrace before next leg.",
+   "conviction": "medium",
+   "timestamp": "2:45",
+   "quote": "If Meta comes back down into that level, I'm a buyer at 687"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 550,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     517,
+     550
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily close above 517 pivot increases odds of next leg to ~550",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Already consolidated at 50% of channel working off overbought RSI; better breakout odds than META.",
+   "conviction": "medium",
+   "timestamp": "4:30",
+   "quote": "this has a better shot of continuing to break out compared to Meta"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ALAB",
+   "instrument_quoted": "ALAB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 426,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     426
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily close above the Aug 4 pivot high",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "RSI 66 not yet overbought; room to tag 50% of channel at 426 before consolidating.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "A-lab's got a little bit more gas left in the tank"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARM",
+   "instrument_quoted": "ARM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 363.58,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     311.5
+    ],
+    "resistance": [
+     336.04,
+     363.58
+    ],
+    "invalidation": null
+   },
+   "condition": "Hold the 50% channel line (~311.50) and break the 0.618 fib at 336.04",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed in top half of channel; consolidation wedge building momentum for next leg.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "if you're bull on ARM, watch this level closely"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRDO",
+   "instrument_quoted": "CRDO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     219.79,
+     222.44
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retrace into the breakdown level/50% of channel generally gets rejected; expects fade starting next week.",
+   "conviction": "medium",
+   "timestamp": "8:30",
+   "quote": "high probability chance of a fade here on CRDO starting next week"
+  }
+ ],
+ "notes": "References 'Monday, September 21st' and 'next week on Monday'; weekly movers recorded Fri 2026-09-25 (listing 09-26). MSFT pivot transcribed as '$5.17', interpreted as 517. 'A-Lab' = Astera Labs (ALAB). Speaker surname also transcribed 'Dosik'."
+}

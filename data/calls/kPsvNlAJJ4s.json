@@ -1,0 +1,57 @@
+{
+ "video_id": "kPsvNlAJJ4s",
+ "channel": "BitcoinHyper",
+ "title": "BITCOIN: This Pattern Is About To Break! (almost time) - BTC Price Prediction Today",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 85500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82800,
+     75000,
+     74000
+    ],
+    "resistance": [
+     84400,
+     85500,
+     87400
+    ],
+    "invalidation": 82800
+   },
+   "condition": "A wedge breakout up targets the golden Fib ~85,500, then above 87,400. A dip below the recent low that reclaims on 30m-2h is a long; daily closes below the 82,800 range top invalidate the wedge and target 75,000-74,000.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling wedge on declining volume with gold-pocket Fib hit, oversold stochastic CCI and an imminent HyperWave bullish cross, versus a bearish Elliott ABC count possibly complete.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "potentially right here our falling wedge pattern is going to get a break toward the upside very very soon"
+  }
+ ],
+ "notes": "Date inferred from 'one-to-one Fibonacci time on 28th of September ... surpassed by two days' = Sep 30 (listing approx 2026-10-01). Host currently holds short positions on BTC, ETH and HYPE (stop if wedge breaks up) while leaning toward a breakout and planning longs on a liquidity grab, hence 'mixed'. action 'hold' refers to his existing BTC short. ETH and HYPE mentioned only as open shorts. No current price stated."
+}

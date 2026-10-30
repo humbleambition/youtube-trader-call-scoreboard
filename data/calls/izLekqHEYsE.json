@@ -1,0 +1,498 @@
+{
+ "video_id": "izLekqHEYsE",
+ "channel": "The Traveling Trader",
+ "title": "A Once in a Lifetime Rotation is Here. Stocks Will do the Unthinkable",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Z (The Traveling Trader)",
+ "macro_themes": [
+  {
+   "theme": "Bifurcated market",
+   "view": "Every S&P sector except tech is near a correction; historically this bifurcation is bullish 6-12 months out."
+  },
+  {
+   "theme": "Valuation cheap",
+   "view": "S&P PEG ratio cheapest ever and forward P/E 18.8; watch earnings estimates."
+  },
+  {
+   "theme": "Credit calm",
+   "view": "High-yield spreads tight; would worry above 3.5."
+  },
+  {
+   "theme": "Yields at resistance",
+   "view": "10y hit 5.34% (2006 equal highs); soft PCE raises odds of a Fed hold on Oct 28, which could cool yields."
+  },
+  {
+   "theme": "Midterm Q4 seasonality",
+   "view": "Q4 of a midterm year is historically one of the strongest periods."
+  },
+  {
+   "theme": "Rotate into beaten-down sectors",
+   "view": "Tech no longer asymmetric; look for investments in staples, financials and other corrected sectors."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish view depends on credit spreads staying below ~3.5, earnings estimates holding and yields cooling; further index weakness would mean tech falling but would be a buyable dip.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sector bifurcation historically followed by 12-month rallies; cheapest PEG ever; midterm-year Q4 seasonality.",
+   "conviction": "medium",
+   "timestamp": "5:40",
+   "quote": "when we see this type of bifurcation where one sector is leading and the other sectors are down, historically that is actually a bullish signal"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.34,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.34
+    ],
+    "invalidation": null
+   },
+   "condition": "If the Fed holds on Oct 28, yields could cool off from resistance.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10y at 2006 equal-high resistance; soft PCE; 75% odds of Fed hold.",
+   "conviction": "low",
+   "timestamp": "9:40",
+   "quote": "I don't think the Fed is going to raise again in October, and this could allow yields to cool off a bit"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLP",
+   "instrument_quoted": "Consumer staples (XLP)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Defensives fell on a rate shock rather than recession; corrected sector offers investing opportunities.",
+   "conviction": "medium",
+   "timestamp": "11:55",
+   "quote": "Now, the one sector that I'm interested in are consumer staples"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLF",
+   "instrument_quoted": "Financials (XLF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Sector in correction; better bet than tech for new investment.",
+   "conviction": "low",
+   "timestamp": "15:58",
+   "quote": "consumer staples or financials, is a much better bet if you're looking for something to invest in, in my opinion."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WMT",
+   "instrument_quoted": "Walmart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy if it drops below $100.",
+   "action": "watch",
+   "entry": 100,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Staples name he has wanted to own on a dip.",
+   "conviction": "low",
+   "timestamp": "12:30",
+   "quote": "If we can get Walmart below $100, I think that would that would be a steal."
+  },
+  {
+   "group": "stocks",
+   "ticker": "COST",
+   "instrument_quoted": "Costco",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Wanted to own; never got to buy the dip.",
+   "conviction": "low",
+   "timestamp": "12:25",
+   "quote": "I just never got the chance to buy the dip on. So, Costco's one of them."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "Google",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Tech names still 10-15% off highs remain buyable even if tech overall is not asymmetric.",
+   "conviction": "low",
+   "timestamp": "11:35",
+   "quote": "are you going to go wrong buying these stocks that are currently down 10%, 15% from highs? No, of course you could still buy them."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "Amazon",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Same as Google: still in correction, buyable.",
+   "conviction": "low",
+   "timestamp": "11:35",
+   "quote": "if you take certain tech stocks in isolation that are still in corrections like Amazon or like Google"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "Meta",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it retests all-time highs at the 21 EMA, expects another leg higher; not a good buy at current levels for investing.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke resistance after the Muse release.",
+   "conviction": "low",
+   "timestamp": "14:40",
+   "quote": "If we can get a retest on Meta of these all-time highs here at the 21 EMA, I do think Meta has a leg higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DRAM",
+   "instrument_quoted": "Memory ETF (DRAM)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Micron killed earnings; memory setup.",
+   "conviction": "low",
+   "timestamp": "14:30",
+   "quote": "DRAM, which is the ETF that handles memory. Micron just reported earnings yesterday as of the time of this recording, absolutely killed it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "Marvell",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Relative strength, holding steady through tech volatility.",
+   "conviction": "low",
+   "timestamp": "14:55",
+   "quote": "One stock that I'm intently watching is Marvell"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARM",
+   "instrument_quoted": "Arm Holdings",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Coiling at the EMAs.",
+   "conviction": "low",
+   "timestamp": "15:05",
+   "quote": "And ARM as well is just coiling here at the EMAs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "Coinbase",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an everything rally comes in Q4, Bitcoin participates.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Expects Bitcoin to join a Q4 everything rally.",
+   "conviction": "low",
+   "timestamp": "15:10",
+   "quote": "I'm definitely looking for another setup on Coin soon because I do think that if we get an everything rally"
+  }
+ ],
+ "notes": "Date inferred from \"Micron just reported earnings yesterday\" (Micron reported 2026-09-30) and \"10-year hit 5.34% today\", so recorded Thursday 2026-10-01 during/after the session; listing approx_date was 2026-10-02. No price levels except WMT $100. Holdings mentioned (NFLX, NVO, OXY, DVN, UNH, NVDA, ASML, QQQ) and bond ETFs (TLT, VGIT, SGOV) treated as passing. Oil ~$93 mentioned only as context."
+}

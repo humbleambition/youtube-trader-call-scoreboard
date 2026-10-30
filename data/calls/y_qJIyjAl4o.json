@@ -1,0 +1,376 @@
+{
+ "video_id": "y_qJIyjAl4o",
+ "channel": "StockedUp",
+ "title": "Tomorrow Will Be Crazy (Major Reversal)",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "StockedUp hosts (Mike and co-host)",
+ "macro_themes": [
+  {
+   "theme": "Inflation",
+   "view": "PCE cooler than expected (3.4% headline, 3.0% core) but methodology change muddies it."
+  },
+  {
+   "theme": "Fed independence",
+   "view": "Trump attacking Powell triggered the late reversal."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "10-year above 5.3%, highest since 2002; Fed may need to keep hiking."
+  },
+  {
+   "theme": "Warning signs",
+   "view": "Record equity issuance (SpaceX, Google) and a top-heavy S&P echo 2020-21 pre-drop."
+  },
+  {
+   "theme": "Seasonality",
+   "view": "Q4 of election cycle and early October historically strong."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     762,
+     760,
+     758,
+     756,
+     752,
+     750
+    ],
+    "resistance": [
+     765,
+     766.5,
+     768,
+     770
+    ],
+    "invalidation": null
+   },
+   "condition": "Losing 762 over next few sessions confirms downside to 760/758 then 756/752/750; reclaim 765/766.50 opens 768-770. SPXS (3x inverse) on radar if lows pressured",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "End-of-day reversal below this week's lows on Trump/Powell post and surging yields; but Q4 seasonality (Q3 gain <4% -> Q4 higher 17 of 18) is bullish.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "we are setting up for a good Q4 based on a lot of historical stats, but there certainly are some important warning signs"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XOM",
+   "instrument_quoted": "XOM ('ZOM')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 165,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     165
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Crude bouncing off its uptrend line after a measured pullback; Iran news could lift oil stocks.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "I'll be watching for ZOM to get a breakout up to 165, if not even past it tomorrow"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Crude oil futures / USO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If crude bounces off the uptrend line over the next 2-3 sessions",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pullback matches prior pullback depth and sits on the trend line in a multi-month uptrend.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "if we start to see crude oil make a bounce off of this line over the next two to three trading days or so, I …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     159,
+     160
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Biotech resilient all year; bouncing off key support; wants retest of 159-160.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "It's on my bullish radar for a potential continuation up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPCX ('SPC-X')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Recovering after last week's downtrend; TD Cowen buy initiation ($200 PT, analyst's); launch catalyst tomorrow night.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "I'm looking at SPC-X or SpaceX to the upside yet again."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AI",
+   "instrument_quoted": "AI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     11.05
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 11.05",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play that held up despite late selloff.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "If it breaks out above $11.05, continue watching for another upside push."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ZM",
+   "instrument_quoted": "ZM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     91.65
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 91.65",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum continuation setup.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "If ZM breaks out above 9165, continue watching it up as well."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GM",
+   "instrument_quoted": "GM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     76.9
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Break below 76.90",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fell through $80 support, closed down 4%.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "General Motors really fell through that $80 support range today ... If it breaks down under 7690, continue watching it lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AKAM",
+   "instrument_quoted": "AKAM 105C Nov 20 2026",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100,
+     105
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$2M block of Nov 105 calls; $7.6B Anthropic cloud deal; basing at 100-105 support with ~2.6 R:R to nearby resistance.",
+   "conviction": "medium",
+   "timestamp": "0:16",
+   "quote": "I think that the risk-reward ratio is very enticing with this trade if we do see an AI recovery."
+  }
+ ],
+ "notes": "Date implied: PCE released 'today' and 'tomorrow will be the start of the fourth quarter' -> 2026-09-30 after close (listing approx 2026-10-01). SPXS bearish hedge idea merged into the ES call. SpaceX quoted as 'SPC-X'; TD Cowen $200 target is an analyst's, not the hosts'."
+}

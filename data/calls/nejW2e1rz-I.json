@@ -1,0 +1,230 @@
+{
+ "video_id": "nejW2e1rz-I",
+ "channel": "Crypto World",
+ "title": "BITCOIN WARNING: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "Josh",
+ "macro_themes": [
+  {
+   "theme": "US stocks below ATH",
+   "view": "Nasdaq bounced into Friday close but still under ATH; a breakout next week could lift crypto, otherwise more short-term struggle."
+  },
+  {
+   "theme": "Crypto cool-off within bull market",
+   "view": "Bearish divergences on daily charts point to 1-2 weeks of chop/slight pullback, then the larger bull trend resumes."
+  },
+  {
+   "theme": "BTC dominance ranging",
+   "view": "No altcoin or Bitcoin season; high correlation across crypto."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 82750,
+    "horizon": "over the weekend / next ~1 week"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "breakout likely within a couple of weeks / October"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "months to next year"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000,
+     82750,
+     80900
+    ],
+    "resistance": [
+     86000,
+     88000,
+     87500
+    ],
+    "invalidation": null
+   },
+   "condition": "Short-term cool-off of 1-2 weeks; slight pullback toward 82.7-82.8k liquidity, bounce in low 80k; then resumption of bull trend.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejection from 86-88k resistance with daily/3-day RSI bearish divergence; downside liquidity at 82.7-82.8k closer than upside at 87.5k. Weekly supertrend green and weekly bullish divergence = longer-term bull market.",
+   "conviction": "high",
+   "timestamp": "0:08",
+   "quote": "right now we do have a key level of liquidity building just below the price of Bitcoin at around 82.7k to 82.8k ... a likely …"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "coming days / ~1 week"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3300,
+    "horizon": "after breakout above 2.8k"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800,
+     3300
+    ],
+    "invalidation": null
+   },
+   "condition": "If daily close holds well above 2.8k, next target ~3.3k.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Struggling at 2.8k resistance with daily bearish divergence; expects choppy sideways/slight pullback, not a crash, within a multi-month bull trend.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "Bit more of a cool off like this, not a huge crash, but just remaining underneath the highs, underneath that 2.8K resistance"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRPUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "coming week"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "coming months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6,
+     1.7
+    ],
+    "invalidation": null
+   },
+   "condition": "If price breaks higher, waits for daily bearish divergence to reconfirm before shorting.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ranging between 1.30 support and 1.60-1.70 resistance; daily bearish divergence likely to reconfirm and cause a cool-off; looking for a short-term short.",
+   "conviction": "medium",
+   "timestamp": "0:16",
+   "quote": "I'll be looking out for a possible short position opportunity just as a very short-term trade"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOLUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 144.5,
+    "horizon": "after breakout above 124"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "months and years"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     119,
+     124,
+     144,
+     145
+    ],
+    "invalidation": null
+   },
+   "condition": "If a candle closes and holds above 124, next target ~144-145.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Outperforming BTC as dominance dips; testing 119-124 resistance; daily bearish divergence temporarily invalidated so short term now more bullish than bearish.",
+   "conviction": "medium",
+   "timestamp": "0:18",
+   "quote": "once we eventually confirm the breakout, ideally above 124 ... the next major price target ... roughly $144 to $145"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINKUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 16.8,
+    "horizon": "a few weeks"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     12
+    ],
+    "resistance": [
+     14.1,
+     14.3,
+     16.8
+    ],
+    "invalidation": null
+   },
+   "condition": "If breakout confirmed and holds above ~14.30, next target 16.80.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit long-standing 14.10-14.30 resistance target; may struggle briefly, larger bullish structure intact.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "Don't say I didn't warn you when the price is trading at around $16.80 potentially in a few weeks from now"
+  }
+ ],
+ "notes": "Host says the market is 'closed for the week' after 'the Friday close' with a weekend outlook, so dated Friday 2026-09-25 (listing 09-26); could have been recorded early Saturday. Long BTC swing entry idea: wait days to ~1 week for cool-off before accumulating."
+}

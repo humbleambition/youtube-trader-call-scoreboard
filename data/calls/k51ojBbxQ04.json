@@ -1,0 +1,806 @@
+{
+ "video_id": "k51ojBbxQ04",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Index Levels and Stocks to Watch",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Shakeout, not breakdown",
+   "view": "Morning weakness is set up to scare traders out before a rip higher; no reason to panic."
+  },
+  {
+   "theme": "Hardware and semis leadership",
+   "view": "Semiconductors, optics and hardware (NTAP, HPE, DELL) look the strongest."
+  },
+  {
+   "theme": "Energy names toppy",
+   "view": "Tankers and refiners show divergences and news risk; he is close to shorting tankers."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures / SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke the hourly trend line but already bouncing off October volume-profile levels on the 15- and 5-minute; setup designed to shake people out; SPY looks great.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "I don't know that you'd really want to be getting out of that"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures / QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If QQQ breaks his marked level (~747 as transcribed) maybe there is an issue.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Grossly oversold with a divergence again; undercut-then-rip pattern as yesterday; not in panic mode.",
+   "conviction": "medium",
+   "timestamp": "5:40",
+   "quote": "If anything, you're grossly oversold"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SOX / semis",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Semis look fantastic, nothing looks as good; SOX ran right to a call wall after a huge move.",
+   "conviction": "medium",
+   "timestamp": "19:00",
+   "quote": "I don't have anything that looks as good as semiconductors, candidly"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Goldman upgrade is interesting and the chart looks fantastic, but a huge call wall at 200 will be fought tooth and nail.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "you have a ton of calls up here at 200. I don't know that you're going to get through that"
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dropped ~$7 on Elon saying Terafab will be built in-house; not yet reacting; worth watching.",
+   "conviction": "low",
+   "timestamp": "9:30",
+   "quote": "it's not really affecting Intel to the upside yet so you might want to watch that today"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "At highs where it usually backs off; 50% year-over-year growth; watch the premarket low.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "usually what it does hits highs and then it kind of backs off"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WOLF",
+   "instrument_quoted": "WOLF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Government loan and Department of War 7% stake are interesting, but thin stock with a lot of work to do.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "I think you're going to bonk around and I think there might be something to that"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Heavy buying on the dip yesterday suggests a bottom.",
+   "conviction": "low",
+   "timestamp": "11:10",
+   "quote": "you probably are bottoming there"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     550
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Three divergences and devil-horns pattern; better names elsewhere; not playing it.",
+   "conviction": "low",
+   "timestamp": "11:50",
+   "quote": "I'm starting to get these divergences now and I'm getting three of them. So, for me, it's not it's not really worth playing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "LABD / LABU (biotech)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "When biotech bottoms (LABD above ~55 is usually the spot) he will short LABD again; not yet.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Biotech names closed at hourly lows with no bounce (institutional selling); let it burn, then play the bottom via shorting LABD.",
+   "conviction": "low",
+   "timestamp": "15:40",
+   "quote": "I'm seeing no signs whatsoever of any kind of of rally uh whatsoever in them"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NTAP",
+   "instrument_quoted": "NTAP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hardware space on fire; he is in NTAP; chart looks fantastic.",
+   "conviction": "medium",
+   "timestamp": "17:20",
+   "quote": "the hardware space is just on fire"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HPE",
+   "instrument_quoted": "HPE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hardware strength stood out.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "you start looking at these names like P, NTAP, um, you know, HPE, Dell, like they just look they look fantastic"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hardware strength stood out.",
+   "conviction": "low",
+   "timestamp": "17:05",
+   "quote": "HPE, Dell, like they just look they look fantastic"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1070,
+     1072
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Looks fantastic; 1070-1072 is a huge level he does not expect to be taken out; prefers MU over SK Hynix.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "Micron looks fantastic. You know, 1072 is a huge level for it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Looks fantastic though may come in a little.",
+   "conviction": "low",
+   "timestamp": "19:40",
+   "quote": "I think Crowd looks fantastic. I think they're going to come in a little bit"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Probably bottoming and setting up for earnings, though Toshiba news still scares people.",
+   "conviction": "low",
+   "timestamp": "20:20",
+   "quote": "you probably are bottoming in here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart looks fine, no issues.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "I don't see any issues with it at all"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ANET",
+   "instrument_quoted": "ANET",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Looks fantastic.",
+   "conviction": "low",
+   "timestamp": "22:05",
+   "quote": "Annette, I mean, it looks fantastic"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "LITE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Optics names look fantastic; Lumentum looks amazing.",
+   "conviction": "low",
+   "timestamp": "22:10",
+   "quote": "Light looks amazing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "APLD",
+   "instrument_quoted": "APLD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     55
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs a close back above 55.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Broke 55 and has been falling apart since; neoclouds face margin compression from Terafab-type builds.",
+   "conviction": "low",
+   "timestamp": "22:20",
+   "quote": "since that break, you've never come back from it. And since then, you can just see how you're falling apart"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Among neoclouds facing margin compression, the one that makes the most sense.",
+   "conviction": "low",
+   "timestamp": "22:40",
+   "quote": "The one that makes the most sense is NBIS"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BTI",
+   "instrument_quoted": "BTI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Long-term value holding; add when it sells off.",
+   "conviction": "low",
+   "timestamp": "22:50",
+   "quote": "I own it long term"
+  }
+ ],
+ "notes": "No date stated; listing date used (live premarket stream, 'Streamed 2 hours ago'). Host not named in transcript. Opening chart's instrument is unclear ('If we want to bond...' – possibly ES or bonds); recorded as ES with low conviction. Garbled: QQQ level '7 747' unclear units; 'the P I own ... got in at like 130 ... up 20 bucks' – ticker not identifiable, skipped; 'NTI ... 250 260' unidentified, skipped; 'Noia ... 11:20' (possibly Nokia) skipped; MU level 1070-1072 taken as stated. XBI used as canonical ticker for his biotech/LABD idea. Tankers and refiners viewed as toppy but no ticker given, so not recorded as calls. 'Crowd' read as CRWD, 'Annette' as ANET, 'Light' as LITE (Lumentum, inferred)."
+}

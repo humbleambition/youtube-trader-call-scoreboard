@@ -1,0 +1,89 @@
+{
+ "video_id": "N_j6oTZwygs",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *PERFECT PULLBACK* Could Be EASY MONEY on Tuesday!",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (JJ)",
+ "macro_themes": [
+  {
+   "theme": "Buy pullbacks in an uptrend",
+   "view": "Nasdaq and S&P bullish but at highs/resistance; expects a pullback to buy rather than chasing."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures (hourly/4000-tick charts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish bias but at all-time high resistance; prefers buying a deep two-legged pullback (or bear trap on a shallow one), target retest of the high; crown reversal short off the high only after a deep pullback.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hourly bullish momentum, big move, V bottom and breakout-pullback ranges.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "we're quite bullish overall. That gives the buyers control of momentum. That's my directional bias for tomorrow's live stream."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Wait for a deep pullback into lower ranges, trap bears, then target retest of high.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Buyers in control on hourly; at recent highs, recipe for a deep pullback.",
+   "conviction": "medium",
+   "timestamp": "14:45",
+   "quote": "it's pretty obvious right now we are bullish here."
+  }
+ ],
+ "notes": "Evening video for Tuesday's session -> recorded Monday 2026-10-05 (listing approx 2026-10-06). Fib extension levels '115' and '170' are truncated (not usable)."
+}

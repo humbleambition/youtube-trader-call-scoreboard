@@ -1,0 +1,305 @@
+{
+ "video_id": "Mqr473JfYdE",
+ "channel": "Verified Investing",
+ "title": "Is Bitcoin's Pump a FAKEOUT? Confirmation Signal REVEALED",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Jobs data whipsaw",
+   "view": "BTC pumped on the 8:30 jobs print then faded; odds of an October Fed hike lower, likely no change."
+  },
+  {
+   "theme": "Golden cross history",
+   "view": "After past golden crosses BTC sometimes made one final lower low before running; a break below 75K would bring out bears."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     75000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A daily close below 75K would be a lower low (possibly a final low, per 2019/2022 history).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull-flag breakout attempt failed at the January (2026 high) level with a near 10-minute topping tail; would not be surprised by a sharp correction.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "I would not be surprised at all if we get a very sharp correction from that level"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 2672,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long limit entries at 2675/2669 on the 1h ascending trendline where longs were liquidated.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "looking at this for a potential ETH long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If a 1h head-and-shoulders breakdown reaches the daily trendline, he goes heavy long there.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible bearish H&S on 1h but daily trendline support below.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "if we do break down, I'm heavy, heavy long. I'm going in long right here on Salana"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long at the lower trendline.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit descending trendline above; likes the bottom trendline as a long entry.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "This would be where I would want to step in for a long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse head-and-shoulders forming; went long 1,000 LINK live.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "this one is also looking pretty good for a long. Oh, I'm I'm longing it"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADA/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 0.29,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it confirms above the resistance it wicked to, talk of a 29-cent ADA; may take some profits over the weekend.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pumped on jobs data, now pulling back from resistance.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "if we could confirm above, that's when you start talking about a 29 cent Cardano"
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEAR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 4.8,
+   "stop": null,
+   "method": "technical",
+   "reason": "Reviewing prior day's long at 4.85-4.75 which partly filled and bounced.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "It was right around the 485 to 475. 485 to 475 long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "UNI",
+   "instrument_quoted": "UNI/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Trade the wedge (ends ~Oct 3): breakdown then retest = short; breakout then retest = long.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Neutral wedge with reset RSI; no directional bias.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "It's a neutral read. It's a neutral read"
+  }
+ ],
+ "notes": "Friday live stream (jobs report 8:30, 'casual Friday', wedge ends 'October 3rd'), so 2026-10-02; listing approx 2026-10-03. Excluded garbled speculative 'Quantis' (unidentified quantum-resistant altcoin he bought at 120-130, units unclear) and 'Stonk'. NEAR call was made the prior day; recorded here as the review."
+}

@@ -1,0 +1,49 @@
+{
+ "video_id": "wOUZKKSbAWA",
+ "channel": "Arete Trading",
+ "title": "The SpaceX News Wall Street Hopes You Miss!",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NDX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Stacking data points that market may have bottomed; Nasdaq can outperform if breadth stalls",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "maybe this market did bottom"
+  }
+ ],
+ "notes": ""
+}

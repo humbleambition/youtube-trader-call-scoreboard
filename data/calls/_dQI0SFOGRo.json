@@ -1,0 +1,136 @@
+{
+ "video_id": "_dQI0SFOGRo",
+ "channel": "HJTrades",
+ "title": "STOCK MARKET UPDATE FOR 10/8/26",
+ "video_date": "2026-10-08",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "HJ",
+ "macro_themes": [
+  {
+   "theme": "Breadth broadening",
+   "view": "More S&P stocks participating; bear case is yields and oil"
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 773.9,
+   "short_term": {
+    "bias": "bullish",
+    "target": 779.37,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 790,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     777.09,
+     779.37,
+     781.62,
+     785,
+     790
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish while above daily 21 EMA",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "First pullback after all-time-high breakout, holding daily 21 EMA; broad participation.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "until proven otherwise, guys, yeah, we just got our all-time high breakout. This is the first pullback"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 762.86,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 770,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     758.3,
+     762.86,
+     770
+    ],
+    "invalidation": null
+   },
+   "condition": "Above daily 21 EMA",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same structure as SPY; watch break over 758.30.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "watch for the break over 75830. Above there, we have 762.86. Then... 770"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     275.45
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Swept 275.45 low, reclaimed 200-day MA, bullish RSI divergence.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "I got the daily close above there and you got the bullish divergence there on the daily RSI"
+  }
+ ],
+ "notes": ""
+}

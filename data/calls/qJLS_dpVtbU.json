@@ -1,0 +1,58 @@
+{
+ "video_id": "qJLS_dpVtbU",
+ "channel": "Meet Kevin",
+ "title": "holy moly... Anthropic financials JUST dropped",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Anthropic as AI canary",
+   "view": "Anthropic's 2025 losses and possibly flattening ARR matter; if AI funding stops the build-out (and economy) is cooked, but he's 'realistically bullish' the bubble hasn't ended."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "Still expects an Iran deal that sparks a euphoric market rally."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "broad market (no instrument quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an Iran deal is reached",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Believes an Iran deal is coming and the AI bubble isn't at its end yet.",
+   "conviction": "low",
+   "timestamp": "14:25",
+   "quote": "we're going to end up getting an Iran deal, and uh the market will have a glorious euphoric rally"
+  }
+ ],
+ "notes": "Main subject is Anthropic (private, pre-IPO) so no ticker recorded; he is undecided on investing pending ARR growth. Says 'Have a great night' -> after_close assumed; date from listing."
+}

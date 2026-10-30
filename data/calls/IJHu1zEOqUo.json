@@ -1,0 +1,56 @@
+{
+ "video_id": "IJHu1zEOqUo",
+ "channel": "Slope of Hope",
+ "title": "Tim Knight Breaks Down the Three Things That Made Him Short China",
+ "video_date": "2026-10-05",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Tim Knight",
+ "macro_themes": [
+  {
+   "theme": "China downtrend",
+   "view": "Chinese large caps and the Hang Seng are in a long downtrend of lower highs, uncorrelated to US politics."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "FXI",
+   "instrument_quoted": "FXI",
+   "price_at_call": 34,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 27,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     36
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated rounded-top-then-drop history, broken 20-year support trend line now acting as resistance, and low correlation to US election noise; a half-year-plus trade.",
+   "conviction": "high",
+   "timestamp": "5:00",
+   "quote": "it could be well into February or sometime early next year when uh I believe it could reach my target, which is something like down …"
+  }
+ ],
+ "notes": "Hang Seng index shown as supporting chart (bearish, descending trend line); not recorded separately. No date stated; listing Oct 5."
+}

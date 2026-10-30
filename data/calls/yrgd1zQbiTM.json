@@ -1,0 +1,93 @@
+{
+ "video_id": "yrgd1zQbiTM",
+ "channel": "Sean Foo",
+ "title": "Bessent STUNNED as Bond Collapse Just UNRAVELED Entire Financial System",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Bond rout",
+   "view": "10-year at 5.35%, 24-year high, +120 bp since March; Treasury buybacks failing"
+  },
+  {
+   "theme": "Oil supply risk",
+   "view": "Hormuz tanker attacks and possible post-midterm strikes keep oil elevated"
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield %",
+   "price_at_call": 5.35,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "War-driven oil and insurance costs keep yields elevated; interventions failing.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "that is why bond yields remain very elevated"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Iran conflict, tanker strikes, possible Kharg Island strike.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "oil prices are still stubbornly elevated"
+  }
+ ],
+ "notes": ""
+}

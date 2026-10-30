@@ -1,0 +1,128 @@
+{
+ "video_id": "vGgl3jEi70g",
+ "channel": "Meet Kevin",
+ "title": "Avoid THESE AI Stocks, Buy THIS",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Agentic commerce",
+   "view": "Deutsche Bank sees $2.5-5.5T of spend via AI agents by 2030; he thinks adoption estimates are low; commoditised goods lose pricing power, unique goods/entertainment ad platforms win."
+  },
+  {
+   "theme": "Economy",
+   "view": "Reducing the pain of paying increases velocity of money and GDP — bullish for the S&P 500 broadly."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 745,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1822,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Meta Muse/agentic commerce take rates could add revenue (DB: +$36B by 2030, he thinks more); ~21x earnings, PEG 1.3; 20% growth at 2.6 PEG → $1,822.",
+   "conviction": "high",
+   "timestamp": "0:13",
+   "quote": "I take a 20% growth rate... multiply that by a PEG that's closer to 2.6, I get to my $1,822 price target"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Agentic commerce could erode Google search ad revenue (>50% of revenue), though YouTube benefits and 'all ships lift' in the boom.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "I personally see this as a potential loser for companies like Amazon and Google because they're going to lose some of those sponsored"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Agentic commerce raises velocity of money and GDP, feeding all S&P 500 companies.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "Ultimately, broader economy here, S&P 500 even, all of this is relatively bullish."
+  }
+ ],
+ "notes": "No date spoken; listing date. META '7:45 today' read as $745. Amazon, Etsy, eBay, DoorDash, Wingstop mentioned in passing as winners/losers, not recorded."
+}

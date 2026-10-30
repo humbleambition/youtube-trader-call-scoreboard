@@ -1,0 +1,66 @@
+{
+ "video_id": "Ec_NKuF9Txs",
+ "channel": "A1 Trading",
+ "title": "Is it Time to Buy Gold & Bonds?",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Chris and Nick (A1 Trading)",
+ "macro_themes": [
+  {
+   "theme": "Fed path",
+   "view": "Fed pauses through October, maybe another hike in December; CPI/PPI next week are key."
+  },
+  {
+   "theme": "Yield curve steepening",
+   "view": "2s10s jumped from ~20 to ~46 bp; over 80-100 bp would be a recession warning."
+  },
+  {
+   "theme": "High yields cure themselves",
+   "view": "Like oil, sharply higher yields eventually break the economy (Europe first), which then makes bonds attractive."
+  },
+  {
+   "theme": "Market concentration",
+   "view": "Watching SMH and MAGS largely determines whether the market has a bullish or bearish day."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Despite a pop on soft jobs data, gold may come back in to test its previous lows.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "I still think gold might be coming in to check those previous lows."
+  }
+ ],
+ "notes": "Date inferred: 'today's data' was the soft jobs report (Friday 2026-10-02); listing approx 10-03. Gold is the only directional call; yields/euro discussion is descriptive (in macro_themes). No price levels given."
+}

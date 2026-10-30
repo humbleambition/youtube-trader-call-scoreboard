@@ -1,0 +1,132 @@
+{
+ "video_id": "ouENieeI9Xs",
+ "channel": "Meet Kevin",
+ "title": "The Warning Signal: The AI Bubble TOP.",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "AI bubble funding gap",
+   "view": "Per WSJ, a bubble ends when companies can no longer raise money to survive; that funding window is still open, so the party continues."
+  },
+  {
+   "theme": "Concentration",
+   "view": "Microsoft plus Nvidia alone match dot-com bubble share of the market."
+  },
+  {
+   "theme": "Canaries",
+   "view": "Anthropic/OpenAI IPO delays and a coming SpaceX raise (~$50B within 6 months) are signals to watch; weak demand there would be a warning."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "AI trade / stock market (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Until companies become unable to raise capital",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Market is a bubble but the capital window has not closed (CoreWeave debt oversubscribed), so he stays bullish.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "my opinion is you should buy it cuz the bubble ain't over yet."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "About $18B of bills due within 12 months vs ~$10.5B cash and receivables; keeps raising debt because losses are large.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "In other words, morons are still buying this trash, which means the bubble and party is still going."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Current bills ($95.8B) exceed cash and short-term investments ($76.8B); relies on ~$14.4B quarterly FCF. He holds exposure.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "this is getting a little tighter here."
+  }
+ ],
+ "notes": "No date stated; listing date used. 'Cororeweave' = CoreWeave (CRWV). Aura/Oura ring IPO criticized but no ticker. MSFT view is a balance-sheet caution, not a sell call."
+}

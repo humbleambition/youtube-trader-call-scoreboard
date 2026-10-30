@@ -1,0 +1,474 @@
+{
+ "video_id": "7E74PgZRqTk",
+ "channel": "VRIC Media",
+ "title": "Chris Vermeulen: Gold Could Drop To As Low As $3,100",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Chris Vermeulen (The Technical Traders), interviewed by Daryl Thomas",
+ "macro_themes": [
+  {
+   "theme": "Bond yields breaking out",
+   "view": "5-, 10- and 30-year yields above 5% have started a new secular bull market in yields that charts project to 8%+, driven by falling trust."
+  },
+  {
+   "theme": "Yields as equity headwind",
+   "view": "The yield breakout is not yet priced into stocks; within a month or several it should pressure equities and real estate and eventually start a bear market."
+  },
+  {
+   "theme": "Fed/Treasury intervention futile",
+   "view": "Treasury long-end buybacks are token amounts; a global deleveraging cannot be stopped by the Fed once it starts."
+  },
+  {
+   "theme": "Strong dollar",
+   "view": "Rising yields are pulling foreign money into USD and US stocks; dollar could rise ~17%, pressuring metals."
+  },
+  {
+   "theme": "Metals bear market",
+   "view": "Gold and silver are in stage-4 downtrends after an early-2026 blow-off top; a sharp drop would be a long-term buying opportunity."
+  },
+  {
+   "theme": "Rate-sensitive sectors",
+   "view": "Utilities and dividend stocks are down ~10% as cash yields compete with them; real estate faces difficult times."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 8.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short term he expects yields to pause/pull back as 'overdone'; trend then resumes higher into year-end.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Monthly chart: 40-year downtrend reversed, moving averages crossed, fresh breakout above 5%; measured move points to 8%+ (5y and 30y show the same pattern).",
+   "conviction": "high",
+   "timestamp": "4:30",
+   "quote": "what the charts are pointing to, they're they're pointing to eight plus percent on the 10-year"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 8.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same breakout pattern as the 10-year; he says the 30-year chart also points to 8%.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "the five-year has the same chart pattern and it points to 8%. And the third here points to 8%"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 80.0,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 60.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     80,
+     81
+    ],
+    "invalidation": null
+   },
+   "condition": "Counter-trend bounce/bear flag to ~80-81 at best, then lower if yields keep rising into year-end.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~56% from peak, all moving averages sloping down; Oct 1 gap-down looks like an exhaustion move before a small bear-flag bounce; another 20-30% downside.",
+   "conviction": "high",
+   "timestamp": "12:00",
+   "quote": "I think we're going to see this down around maybe 60 bucks a share"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold spot (USD/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3600,
+     3100
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields and the dollar keep rising and equities crash, a sharp, short-lived flush to 3,100 is possible; he would buy there.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stage-4 bear market: price below a falling 150-day MA after a euphoric blow-off top early 2026; Fibonacci measured move to 3,600 (~12% lower) over roughly a month.",
+   "conviction": "high",
+   "timestamp": "18:00",
+   "quote": "the next downside measured move for gold based on Fibonacci is 3600"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver spot (USD/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 39.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     40,
+     39
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same stage-4 bear market as gold (long-term MA down, price below); still points to about $39-40, which he would view as a long-term buying opportunity.",
+   "conviction": "medium",
+   "timestamp": "19:30",
+   "quote": "it's still pointing to about 40 or $39 per ounce"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rising yields are strengthening the dollar and foreign money is flowing into USD assets; he sees potential for a ~17% upside move, which would pressure metals.",
+   "conviction": "medium",
+   "timestamp": "20:15",
+   "quote": "We could see like a 17% move in the US dollar to the upside"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (index/SPY)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long now; but rising yields expected to become a major headwind over the next several months and eventually start an equity bear market.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Equities breaking out with nice trends and money flowing into stocks; his position strategy is long and expects an 8-10% move up.",
+   "conviction": "high",
+   "timestamp": "22:15",
+   "quote": "We're longing the S&P 500 here. We've got some nice trends. I'm expecting, you know, an 8 10% move up"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq / QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Same as ES: long for a FOMO leg (Anthropic IPO, tech/semis), but expects yields to eventually trigger a bear market.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq breaking out to all-time highs after four months sideways since June; first target already hit, expects further upside on FOMO.",
+   "conviction": "high",
+   "timestamp": "22:30",
+   "quote": "we're also longing the NASDAQ... we're expecting the markets to continue to go higher"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 95000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     95000
+    ],
+    "invalidation": null
+   },
+   "condition": "If it tags 95,000, lock in profits / raise stops as it may reverse there.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Turned from stage-4 bear to bull market; successive bull flags point to a Fibonacci measured move and prior high at ~95,000 (~9% upside).",
+   "conviction": "medium",
+   "timestamp": "27:45",
+   "quote": "it's popping and it's building another bull flag and it's pointing to about 95,000"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     200
+    ],
+    "invalidation": null
+   },
+   "condition": "Take profits/close at 198-200, then wait for a bull flag to play the next leg.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price above all moving averages in a bullish environment; 200 is a prior high, a round number and the next Fibonacci measured move, so strong resistance.",
+   "conviction": "medium",
+   "timestamp": "30:30",
+   "quote": "if MSTR hits 198, 199, 200, like lock in some profits or just close it out"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "Copper (USD/lb)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Once the monthly uptrend (5-period MA) breaks, expects a big correction to around $5; in a recession it would crash with everything else.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Choppy monthly uptrend near all-time highs with a strong fundamental story already priced in; trend still up.",
+   "conviction": "low",
+   "timestamp": "31:45",
+   "quote": "the trend is up and um, you got to expect it's going to continue to to chop its way higher"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "Gold miners (general, no instrument quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Agrees miners will come under pressure as gold, silver and copper fall.",
+   "conviction": "low",
+   "timestamp": "33:50",
+   "quote": "But I wonder if the the uh miners are going to come under pressure ... >> They will."
+  }
+ ],
+ "notes": "No date stated on air; 'NASDAQ hitting all-time highs today as you and I are speaking' suggests intraday recording near the listing date 2026-10-07. Prices for gold/BTC at time of call not stated: 3,600 is described as ~12% lower (implies gold ~4,090) and 95,000 as ~9% upside (implies BTC ~87,000). '30 years over 5 1.5%' (garbled) and 'the third here' read as the 30-year. GDX call is generic 'miners', not a quoted instrument. ES/NQ long-term 'bearish' reflects his expectation that yields eventually trigger a bear market 'over the next several months'."
+}

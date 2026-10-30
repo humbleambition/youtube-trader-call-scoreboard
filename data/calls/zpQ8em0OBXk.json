@@ -1,0 +1,142 @@
+{
+ "video_id": "zpQ8em0OBXk",
+ "channel": "TheDailyGold",
+ "title": "If You’re Waiting for the Silver or Gold Crash, You Need to See This",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "metals",
+ "speaker": "Jordan Roy-Byrne",
+ "macro_themes": [
+  {
+   "theme": "Secular precious-metals bull market",
+   "view": "Gold's 2024 breakout from a 13-year cup and handle launched a multi-year secular bull; current drop mirrors the 2008 correction and most price damage is done."
+  },
+  {
+   "theme": "No capital rotation yet",
+   "view": "Allocation to precious metals (~3.7%) and miners is far below 2008; the big rotation into gold needs a major stock-market decline, which he sees possible in 18-24 months as the AI bubble nears a secular top."
+  },
+  {
+   "theme": "Fed and 2-year yield",
+   "view": "Fed (max 4%) is well behind the ~5% 2-year yield and likely hikes 2-3 more times; a peak and rollover in the 2-year yield will mark the impulsive gold low."
+  },
+  {
+   "theme": "Low gold volatility",
+   "view": "GVZ near an 8-month low and Bollinger width at an 18-month low: no crash or huge move for the next couple of months; volatility subdued into 2027."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold (spot/futures, unspecified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 5000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Likely retests its low, possibly a false break lower that becomes the bottom; first low possibly in October, another before the Fed's last hike; then grinds back to 5,000 once the market sniffs the Fed is done.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Secular bull market intact; correction has more time to run; low volatility rules out a crash; 2-year yield peak is the signal for the next leg.",
+   "conviction": "high",
+   "timestamp": "0:13",
+   "quote": "then the market sniffs the Fed is probably done, then it grinds higher back to 5,000"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver (spot/futures)",
+   "price_at_call": 60,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50.55
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Likely comes back to the prior low near 55 for a double bottom, or a false break below 55 that marks the low before rebounding.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout came all the way back to the trend line; technical support for the breakout at 50.55; still in a secular bull market after a ~55% correction similar to 2008.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "This looks like it's going to come back down here. It's ripe to make a double bottom"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDXJ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     103,
+     106
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Low-risk entry when % of GDXJ stocks above the 200-day falls to ~20% or lower (now 52%) along with price at support.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price action short-term bearish below the 50/200-day MAs, but % above 20-day near zero suggests a short-term bounce; strong support at 103-106 and rising long-term MAs.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "that, along with the price action here, is going to signal a low risk entry point in minors."
+  }
+ ],
+ "notes": "No calendar date spoken; host says silver 'closed today' and wishes viewers 'a great weekend ahead', implying recorded after the close on Friday Oct 2, 2026 (listing approx_date 2026-10-03). Silver price 60 is his rough close ('I think it's 60 bucks'). GDXJ (junior miners) normalised to GDX per spec; levels are in GDXJ units. Gold short-term 'bearish' reflects his expected retest of the lows, though he also flags a possible near-term bounce; no current gold price given. He rejects a 50% crash to 3,200."
+}

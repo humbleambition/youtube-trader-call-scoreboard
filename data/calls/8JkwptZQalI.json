@@ -1,0 +1,264 @@
+{
+ "video_id": "8JkwptZQalI",
+ "channel": "Crypto World",
+ "title": "BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "US stocks pulling back from all-time high",
+   "view": "Slight premarket weakness after the Nasdaq-100 record high is a short-term negative for crypto, though the stock trend remains bullish."
+  },
+  {
+   "theme": "Crypto range-bound, altcoins tracking Bitcoin",
+   "view": "Bitcoin dominance has been in a sideways range for a year, so major altcoins simply follow Bitcoin's moves."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 82000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000,
+     83000,
+     82500
+    ],
+    "resistance": [
+     86000,
+     87000,
+     87300,
+     88000
+    ],
+    "invalidation": 82000
+   },
+   "condition": "If BTC breaks and fails to reclaim ~82K, a double top confirms and the pullback likely extends 1-2 weeks; otherwise expect the 82-88K range to hold for another week or so.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Another rejection at 86-88K resistance with an active daily bearish divergence and downside liquidity at ~82K; weekly supertrend green and weekly bullish divergence keep the long-term trend bullish.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "we're now obviously moving back down towards the downside liquidity at roughly 82,000. So that is a key target to watch out for."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Slight pullback from a fresh all-time high in premarket; overall trend still bullish.",
+   "conviction": "low",
+   "timestamp": "1:30",
+   "quote": "the overall trend technically can still remain bullish ... But in the very short term ... a small amount of weakness"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2550,
+     2380,
+     2390
+    ],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected again at ~2.8K with an active daily bearish divergence; follows Bitcoin; larger bullish structure not yet broken.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "expect either a little more of a pullback or potentially some sideways price action"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.43,
+     1.33,
+     1.27,
+     1.28,
+     1.3
+    ],
+    "resistance": [
+     1.6
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly range 1.30-1.60 and an active daily bearish divergence point to more pullback or chop for days to a week.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "expect either a little more of a pullback, potentially some choppy sideways price action here and there, but overall just weakness"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     114,
+     109,
+     110
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Struggling at key resistance with an active daily bearish divergence; still within a larger bullish trend.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "expect either more choppy sideways price action or likely now a little more of a pullback within the next 1 to two weeks"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     13.2,
+     12.1,
+     12.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Cooling off in line with Bitcoin; larger bullish structure not yet broken.",
+   "conviction": "low",
+   "timestamp": "18:50",
+   "quote": "expect that short-term cool off to continue likely over the next few days, possibly even another 1 or 2 weeks"
+  }
+ ],
+ "notes": "No date stated in transcript; listing date used (recorded premarket). XRP levels transcribed as '$130 to $160', '$143', '$133', '$127-128' — interpreted as $1.30-$1.60, $1.43, $1.33, $1.27-1.28. Chainlink levels '1320' and '1210 to 1220' interpreted as $13.20 and $12.10-12.20. Host exited his small BTC long (small loss) and is flat. Medium-term 'neutral' reflects his expectation of the 82-88K range persisting for 1-2 weeks."
+}

@@ -1,0 +1,128 @@
+{
+ "video_id": "LEUNV7-HZx4",
+ "channel": "Slope of Hope",
+ "title": "The 7-Year Bond Bear Market: Why It’s Not Done Yet",
+ "video_date": "2026-10-04",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Tim Knight",
+ "macro_themes": [
+  {
+   "theme": "Bond bear market",
+   "view": "TLT is in year seven of a bear market and it won't be the last year; war-driven rate shock aborted a rates top."
+  },
+  {
+   "theme": "Rates at multi-decade highs",
+   "view": "30-year at a data-set high, 10-year at 2007 levels, 2-year near 5%; mortgages above 7% and BBB yields ~6.2%."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Grinding bear market since 2020 with a dramatic breakdown to multi-year lows; long-term futures chart says year seven will not be the final year.",
+   "conviction": "high",
+   "timestamp": "5:00",
+   "quote": "I don't think that year seven of this bond bear market will be the final year by any stretch."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Inverse head and shoulders from the 2020 1.2% low led to an explosive move to new multi-decade highs.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "this is as high as it's been in this entire data set. So, this is a new multi-decade high."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "At levels last seen in 2007 and above the recent green horizontal; rates across the curve broke out because of the war and he expects them to eventually beat prior highs.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I think we're on our way to beating even those rates, ultimately."
+  }
+ ],
+ "notes": "Quote on beating 1980s rates was said about the 2-year but framed for rates generally. No date stated; listing Oct 4."
+}

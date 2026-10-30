@@ -1,0 +1,136 @@
+{
+ "video_id": "TfWWhsuJoUw",
+ "channel": "Figuring Out Money",
+ "title": "The Losers Might Be Next.",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Figuring Out Money host",
+ "macro_themes": [
+  {
+   "theme": "Rotation into laggards",
+   "view": "Growth vs value is extended; expects a mean-reversion rotation into beaten-down value, small caps, equal-weight and rate-sensitive names."
+  },
+  {
+   "theme": "10-year yield",
+   "view": "Yield closed 5.24%, a multi-year high; expects it to consolidate or pull back between now and after the midterms, which would fuel rotation."
+  },
+  {
+   "theme": "Weak breadth / volatility risk",
+   "view": "Only ~26% of S&P stocks above 50-day MA and 42 sessions without a 1% down day; volatility often follows, but he stays long-focused."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     760.5
+    ],
+    "resistance": [
+     770
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Still a 'bull strong' environment near highs, but below declining 5-day MA; expected move 760.50-770 for next session.",
+   "conviction": "low",
+   "timestamp": "12:50",
+   "quote": "We are still in a bull strong environment"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.24,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yield parabolic to decade highs; compares to 2018 midterm pattern and expects consolidation/pullback through the midterm seasonal period.",
+   "conviction": "low",
+   "timestamp": "5:20",
+   "quote": "I think it's going to come off the back of a consolidating 10-year yield or some sort of a pullback"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RSP",
+   "instrument_quoted": "equal-weight S&P (RSP)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Equal weight ~7% off its high while cap-weight near highs; positive divergence suggests an equal-weight bounce/rotation.",
+   "conviction": "low",
+   "timestamp": "8:15",
+   "quote": "perhaps we get into some sort of equal weight bounce as well as the market potentially pauses on the mega caps"
+  }
+ ],
+ "notes": "Host says 'It is September 28th' (Monday). Mentions casinos/gaming (DJUSCA), Nike, McDonald's as rate-sensitive bounce candidates without specific calls."
+}

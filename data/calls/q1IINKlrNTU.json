@@ -1,0 +1,278 @@
+{
+ "video_id": "q1IINKlrNTU",
+ "channel": "tastylive",
+ "title": "Tim Knight Says Fewer and Fewer Stocks Are Carrying This Whole Market",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (Slope of Hope) on tastylive",
+ "macro_themes": [
+  {
+   "theme": "Narrow market breadth",
+   "view": "Fewer and fewer stocks (e.g. Micron) are carrying the market; breadth at war lows - something has to give."
+  },
+  {
+   "theme": "Complacent volatility",
+   "view": "VIX in the mid-teens is too low; expects a surprise and a psychological/volatility inflection around the Nov 3 election."
+  },
+  {
+   "theme": "Rising rates",
+   "view": "Equities rising despite rates going up almost daily; a relief rally in rate-sensitive assets (XLU, XLF, TLT) could even push equities higher."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bulls are in control until price slips back below the breakout line (prior high).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "NQ closed above the prior high on Friday and padded gains since; he finds nothing bearish on QQQ/NVDA/SMH charts except that they are high.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "the bulls control this until they don't until it slunks below that yellow line which may or may not happen."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Stunned how low volatility is in the mid-teens; expects a surprise between now and year-end around the election.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I think you're in for a surprise between now and the end of the year."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     791.75
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A break below Friday's low (~791.75) would complete failure of the symmetric triangle and could accelerate the drop.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Island reversal top on lifetime-high day; shorted in size yesterday; down ~8% today.",
+   "conviction": "high",
+   "timestamp": "3:00",
+   "quote": "I shorted this in size yesterday not because it was some amazing pattern but I felt that uh something's up with this"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Better-looking short pattern than STX with a well-defined ~400 support; down ~50% from summer and still a dynamite short.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "it just goes to show you can have a stock down 50% and it's still a dynamite short. So I might just get into this …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still chugging along after a big rally but getting long in the tooth; profit taking likely; crucial support ~150 for the rest of the year.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "It's probably getting close to some profit taking here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "Brazil ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shorted after an explosive one-day rally on the Brazil first-round election result; shooting star; ambitious target is filling the price gap below.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "So I shorted EWC. Um it had just exploded higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KORU",
+   "instrument_quoted": "KORU (3x bull South Korea ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~4.5% even with semis up - relative weakness; if semiconductors sell off the leveraged fund accelerates down; stop tightened.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "if semiconductors do start to sell off the acceleration downward of this is going to be a sight to see."
+  }
+ ],
+ "notes": "Date: 'today is four weeks to the day until the election' (Nov 3) -> Tue 2026-10-06; Brazil first round 'this weekend', runoff in 3 weeks (listing approx_date 2026-10-07). Garbled: 'shorted EWC' is clearly the Brazil ETF EWZ (confirmed in next day's video 6DE1sUT-q6s); 'Ko Ru' = KORU; STX trigger '70 791.75' read as 791.75; SpaceX ticker unknown (recorded as 'SPACEX'). Gold/silver mentioned only descriptively (gold beaten, silver trying to turn) - not recorded. ES said to have broken out only today, no explicit bias."
+}

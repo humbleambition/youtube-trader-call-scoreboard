@@ -1,0 +1,93 @@
+{
+ "video_id": "7CL7FTnQJQk",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *BREAKOUT PULLBACK* Could Be Our BIGGEST WIN of the Week!",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (Trading With JJ)",
+ "macro_themes": [
+  {
+   "theme": "Event risk",
+   "view": "PCE/GDP at 8:30 ET Wednesday, ISM Thursday, jobs Friday and Micron earnings Wednesday night; PCE key to whether the Fed hikes again in October."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily strong May-June run means buyers are targeting all-time highs; hourly triangle and range rotating higher; plans to buy a breakout-pullback bear trap below the 21 EMA and add on separation toward recent highs and gap fill.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "the Nasdaq daily tells us we're definitely bullish overall right now. We know exactly now where the buyers are trying to go"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7707
+    ],
+    "resistance": [
+     7760
+    ],
+    "invalidation": null
+   },
+   "condition": "If PCE triggers a strong drop, buy the retest/bear trap below swings rather than chase",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily range rotating back toward all-time highs; on the tick chart a bearish range broke out so he wants to buy the breakout pullback; upside to the ~7760 gap; a news flush to ~7707 would be bought.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "Bullish overall, we know the all-time highs are where these buyers are hunting for right now"
+  }
+ ],
+ "notes": "Recorded Tuesday night for Wednesday Sep 30 (last day of September/quarter). NQ levels on audio (\"741\", \"3759 3/4\") appear garbled and were not recorded."
+}

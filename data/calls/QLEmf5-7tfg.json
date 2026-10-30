@@ -1,0 +1,208 @@
+{
+ "video_id": "QLEmf5-7tfg",
+ "channel": "Gareth Soloway",
+ "title": "Warning: Oil Falls But Yields Still Rise: A Stock Market Breaking Point?",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Yields rising without oil",
+   "view": "10-year yields rising even as oil falls signals fear of debt and entrenched inflation, a concern that could predate a bigger sell-off."
+  },
+  {
+   "theme": "US debt unsustainable",
+   "view": "Adding $2-3T debt a year with ~$1T interest is unsustainable; he is very bearish on the next few years and expects rates to rise long term."
+  },
+  {
+   "theme": "Weak data, rising rates",
+   "view": "JOLTS and consumer confidence missed yet yields rose; ADP, Micron earnings and Friday NFP are the key catalysts this week."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575
+    ],
+    "resistance": [],
+    "invalidation": 7575
+   },
+   "condition": "Bullish while S&P holds above ~7575 (neutral-zone trend line); below it expects a sharp 5-10% sell-off in days. Rejection of 10y at 5.28% could send S&P to 8000; 10y breakout above 5.28% could push S&P into neutral/bearish zone.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still above white trend line marking top of neutral zone; near-term gap fill acting as short-term support. Long term bearish on US debt/macro.",
+   "conviction": "medium",
+   "timestamp": "2:28",
+   "quote": "as long as we hold above this level, which is around 7,575 on the S&P, the chart is saying to me, remain bullish."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.285,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 5.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.28
+    ],
+    "invalidation": null
+   },
+   "condition": "If 10y breaks above the 2007 pivot at 5.28%, target 5.5%; rejection there would be bullish for stocks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Piercing the 2007 high pivot / long-term trend line; possible cup and handle on weekly; unsustainable US debt implies higher rates.",
+   "conviction": "medium",
+   "timestamp": "3:13",
+   "quote": "If we get above this, we are going to 5.5% on the 10-year yield."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude oil futures ($/bbl)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 88,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 70,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects drop to ~$88 lower parallel channel line in next couple days; only breaks below on an Iran deal, then $70 or below; otherwise likely stays in rising channel.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Upward-sloping parallel channel; heading to lower trend line at $88; crude down 3% today.",
+   "conviction": "medium",
+   "timestamp": "6:06",
+   "quote": "oil again, I think we're headed down to $88 a barrel, this lower parallel trend line"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CLX",
+   "instrument_quoted": "Clorox",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Gravitating to beaten-up high-quality names that have stood the test of time.",
+   "conviction": "low",
+   "timestamp": "7:32",
+   "quote": "I'm generally gravitating towards high quality names like a Clorox. Now Clorox has been beaten up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "Nike",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Beaten up at multi/near-decade lows, still pays a nice dividend.",
+   "conviction": "low",
+   "timestamp": "7:37",
+   "quote": "it still pays a nice dividend and it's at multi almost decade lows"
+  }
+ ],
+ "notes": "Host says \"on this Tuesday\" (listing approx_date 2026-09-30 was a day late). Recorded intraday (S&P near lows of the day, down ~0.33%). Clorox/Nike are positioning mentions without levels. Micron earnings mentioned only as a catalyst."
+}

@@ -1,0 +1,575 @@
+{
+ "video_id": "6jJaBG0_UkE",
+ "channel": "Meet Kevin",
+ "title": "don't get left behind",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Market breadth / equal weight",
+   "view": "RSP's 7-week losing streak mirrors the 2002 and 2022 bottoms, so he reads it as a broad-market bottoming signal rather than a bear signal."
+  },
+  {
+   "theme": "Peak fear priced in",
+   "view": "Oil, rate, corporate-yield shocks are already priced in; as they fade the rally broadens into a euphoric year-end move."
+  },
+  {
+   "theme": "Bond yields peaking",
+   "view": "10-year near 5.27-5.34% is roughly the peak; fewer Fed hikes being priced after a weak jobs report."
+  },
+  {
+   "theme": "Oil shock fading",
+   "view": "Brent back under $100 (~98) relieves pressure on yields."
+  },
+  {
+   "theme": "AI capex boom",
+   "view": "AI infrastructure and agentic AI spending is the positive 'economic shock'; AI names are leading; Anthropic/OpenAI financing is the main red flag."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "Another weak payrolls print would make the Fed one-and-done, unpricing further hikes and lifting stocks."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 762,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Peak fear was 3 weeks ago at ~700; shocks priced in, rally broadening into year-end; they've been buying dips under ~735.",
+   "conviction": "high",
+   "timestamp": "20:20",
+   "quote": "Dude, the Qs are going to smash through 800 this year."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "S&P at all-time highs; as oil/rates fade, laggards join and you get 'mega new all-time highs' and a euphoric rally into year-end.",
+   "conviction": "high",
+   "timestamp": "11:00",
+   "quote": "That's how you get mega new all-time highs. That is how you get the euphoric rally."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RSP",
+   "instrument_quoted": "RSP (S&P 500 equal weight ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Seventh straight weekly decline and record-low breadth match the 2002/2022 October bottoms; may have bottomed Friday Oct 2.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "Is it possible that RSP just bottomed out on Friday?"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.27,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27,
+     5.34
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yield ran to ~5.34%, highest since 2002; oil under 100 and fewer hikes priced mean yields are near the peak.",
+   "conviction": "medium",
+   "timestamp": "9:20",
+   "quote": "I think we're really close to peak yields. We're not off it yet"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude",
+   "price_at_call": 98,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil shock already priced in ($109 priced at peak fear); Iran deal or rerouted supply brings prices down, which he sees continuing.",
+   "conviction": "medium",
+   "timestamp": "10:50",
+   "quote": "Oil prices go down, whether you get an Iran deal or you just reroute supplies for oil."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 566,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out through 500 and has been up every day for a week; still room to run.",
+   "conviction": "medium",
+   "timestamp": "19:20",
+   "quote": "Microsoft, I still think is going to 566, 562-ish dollars."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Lower yields lift software and left-behind tech in a broadening rally.",
+   "conviction": "low",
+   "timestamp": "21:30",
+   "quote": "I think Palantir's going over 200."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": 252,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 339,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     216
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Climbed out of the 'data center hole' below 216; breaking out of a converging triangle; data-center bottom called Sep 11.",
+   "conviction": "medium",
+   "timestamp": "25:30",
+   "quote": "I think this is going to break up to 339 soon."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "May have bottomed around Sep 11-14 with other data-center names, but he is more worried given its debt load.",
+   "conviction": "low",
+   "timestamp": "25:55",
+   "quote": "they may have also found their bottom right here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sep 11 earnings marked a bottom for data-center plays; price still near that level, hasn't lifted yet.",
+   "conviction": "low",
+   "timestamp": "25:10",
+   "quote": "this was in my opinion a bottom marker for Oracle."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": 378,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 355,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought the breakout just under 355; AI beneficiary now at 378.",
+   "conviction": "medium",
+   "timestamp": "17:55",
+   "quote": "We bought the breakout on Broadcom just under 355. It just ran up to 378."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     227
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Called a breakout off 227 and it is breaking out; AI winner.",
+   "conviction": "medium",
+   "timestamp": "18:05",
+   "quote": "Nvidia, we've been calling for a breakout over here off of 227. It's breaking out."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": 294,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": 266,
+   "stop": null,
+   "method": "technical",
+   "reason": "Called breakout at 266; moved line-to-line to 294 today.",
+   "conviction": "medium",
+   "timestamp": "18:20",
+   "quote": "Called for a breakout at 266 on Marvell."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 650,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": 466,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout called at ~466, now ~650; still room in these AI names.",
+   "conviction": "medium",
+   "timestamp": "19:10",
+   "quote": "I think it was at 466 we called it. The thing's at like 650 bucks now."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Cybersecurity breakout tied to AI-driven security concerns.",
+   "conviction": "low",
+   "timestamp": "18:15",
+   "quote": "You could look at a company like CrowdStrike. This is an insane breakout."
+  }
+ ],
+ "notes": "Date: host never states the date (he reasons that 'Friday was the 2nd'); ADP weekly 'this morning' and listing approx_date both point to Wed 2026-10-07, used listing. QQQ price inconsistent: he says Nasdaq-100/QQQ at 762 at 2:00 and 'it's at 780 now' at 5:55; used 762. 10-year: 'ran up to 534', '527 will be roughly peak', '5.29%' risk-free rate — used 5.27 as his call level. A December call option (ticker withheld, ~1656 underlying) is not recorded. Bank/utility/small-cap weakness discussed as context, no calls."
+}

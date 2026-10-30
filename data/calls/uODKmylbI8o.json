@@ -1,0 +1,221 @@
+{
+ "video_id": "uODKmylbI8o",
+ "channel": "Geeks of Finance",
+ "title": "The Market Is Setting Up For Its Next Move",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Anthony and Shawn (Geeks of Finance)",
+ "macro_themes": [
+  {
+   "theme": "Gamma positioning",
+   "view": "SPX flipping between positive and negative GEX, oscillating 7550-7650 around the 7700 gamma strike; end-of-day flows positive."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7650,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7633,
+     7550
+    ],
+    "resistance": [
+     7700,
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Close breached 10/20-day SMA but 50-day EMA (7633) and uptrend from July lows remain support; largest GEX at 7700 and big gamma at 8000; buying at 7650/7700 late.",
+   "conviction": "medium",
+   "timestamp": "2:04",
+   "quote": "Our bet is that we'll see buyers stepping in in the coming sessions off of these moving averages and head back towards higher prices."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 739,
+   "short_term": {
+    "bias": "mixed",
+    "target": 750,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 760,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     740,
+     730,
+     725
+    ],
+    "resistance": [
+     745,
+     747,
+     750
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs over 747 for a quicker move to 750 or 760; dips to 725-730 GEX support would be bought.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Closed above 9 SMA at 739; rejection near daily HMA; positive GEX with strong support clusters at 730/725.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "maintain a positive possibility that QQQ retakes 745, reaches 750, and potentially as high as 760."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron",
+   "price_at_call": 1065,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1050,
+     1040,
+     1000
+    ],
+    "resistance": [
+     1100,
+     1200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Muted post-earnings reaction, tight consolidation above moving averages, series of higher lows, positive GEX up to 1300; short Oct 16 1050/1040 put credit spreads.",
+   "conviction": "medium",
+   "timestamp": "4:28",
+   "quote": "has a decent probability of making a move to that 11 and 1200 strike."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "DIA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Contrarian buy only near DIA 500 (50 EMA / big GEX cluster) with signs of reversal; otherwise could fall to lower weekly Keltner channel.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Four red weekly candles, strongly negative GEX, but large GEX clusters 500-540 and 50 EMA near 500.",
+   "conviction": "low",
+   "timestamp": "7:05",
+   "quote": "I think uh DIA is probably getting toward an interesting buy spot from a contrarian standpoint, but we really need to watch price action"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOW",
+   "instrument_quoted": "ServiceNow",
+   "price_at_call": 134.01,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 150,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     128.54
+    ],
+    "resistance": [
+     150
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pullback bounced off 50-day EMA with positively skewed gamma up to 150 and positive options flow; holds put credit spread, considering OTM call debit spread.",
+   "conviction": "medium",
+   "timestamp": "7:55",
+   "quote": "coming down here into support actually offers a decent opportunity to reenter a position on ServiceNow."
+  }
+ ],
+ "notes": "Date inferred: Micron reported after hours \"today\" and they rolled the Sept 30 SPX puts, so recorded Wed 2026-09-30 after close; matches listing. MU units at ~1065 as quoted (strikes 1050/1040, targets 1100-1200)."
+}

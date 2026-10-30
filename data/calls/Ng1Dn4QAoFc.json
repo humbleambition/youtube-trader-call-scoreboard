@@ -1,0 +1,119 @@
+{
+ "video_id": "Ng1Dn4QAoFc",
+ "channel": "Verified Investing",
+ "title": "MACD Flips Bearish: Short Setups On Microsoft, Bitcoin And ARM",
+ "video_date": "2026-10-11",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Lawton Ho",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short only if the daily MACD closes below its signal line (currently still bullish, ~4% below all-time highs)",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 53% since June and extended; MACD currently above signal, will short on a bearish daily MACD cross rather than chase momentum.",
+   "conviction": "medium",
+   "timestamp": "2:45",
+   "quote": "Should this blue line come below and actually close on a daily basis below this orange line, I will initiate a short on Microsoft"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Invalidated by a MACD close back above the signal line",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily MACD flipped well below its signal line and a head-and-shoulders pattern is forming (right shoulder not yet made).",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "So my move on Bitcoin is a short on Bitcoin, right?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARM",
+   "instrument_quoted": "ARM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Stop out on a MACD close back above the signal line",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "After a 40%+ run, MACD closed below its signal; up-sloping trend lines breaking and a potential large head-and-shoulders on the higher time frame.",
+   "conviction": "high",
+   "timestamp": "5:30",
+   "quote": "So, for me, I absolutely love ARM for a short"
+  }
+ ],
+ "notes": "Host says 'happy Sunday' so dated Sun Oct 11 (listing said Oct 12). No price levels, entries or stops given; invalidation is indicator-based (MACD vs signal close)."
+}

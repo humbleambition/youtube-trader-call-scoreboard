@@ -1,0 +1,140 @@
+{
+ "video_id": "Zos_xChmqCc",
+ "channel": "Money Making Market",
+ "title": "THIS IS WHERE MISTAKES ARE MADE... SPY QQQ",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host (unnamed)",
+ "macro_themes": [
+  {
+   "theme": "Expected moves",
+   "view": "Price reached the upside weekly expected move, which acts as heavy resistance (top of the 68% zone) but also a magnet; monthly expected moves are the next magnets."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 794.55,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     774.95,
+     770
+    ],
+    "resistance": [
+     783.23
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 2-hour chart curls down, expect a pullback toward ~770 to be bought; a 2-hour pullback may be the last before the monthly expected move.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY hit the upside weekly expected move (heavy resistance); no MACD/RSI divergence on the 30-min so maybe one more push, then a 2-hour pullback met by buyers; above 5-day MA, positive trend.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "this is all looking like continuation is the most probable"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 782.67,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     753.59
+    ],
+    "resistance": [
+     765.79
+    ],
+    "invalidation": null
+   },
+   "condition": "Watch the 2-hour reversal signal/divergence; even a daily pullback still allows upside into year-end.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour reversal signal with divergence, but VIX not exploding so another 2-hour push is probable toward the monthly expected-move magnet 782.67.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "the Q's can withstand a daily pullback and still head to the upside into the end of the year. Very strong look for the Q's."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     279.02
+    ],
+    "resistance": [
+     283.66,
+     287,
+     289,
+     296
+    ],
+    "invalidation": null
+   },
+   "condition": "If IWM carves a higher low and turns up, it can test the high and run to 287-289; another 2-hour leg down crosses MACD negative and opens a lower low.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily chart still in negative territory trying to curl up; needs a daily higher low before any lasting positivity; 296 level not taken out.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "IWM got to be a little bit more cautious with that for the time being."
+  }
+ ],
+ "notes": "No date spoken; host references Thursday/Friday/weekend and 'tomorrow', 'rest of your night' -> after close on a weekday early in the week; listing approx_date 2026-10-07 used (could be 2026-10-06). Garbled levels: SPY daily EM '78323'/'77495' read as 783.23/774.95; QQQ '76,579'/'75359' as 765.79/753.59; monthly EMs '79455' (SPY) and '78267' (QQQ, described as a monthly magnet) as 794.55/782.67; IWM '29 27902' read as 279.02 and '28366' as 283.66. 'shoot this all the way down to 1212' is garbled/unclear and was not recorded. Confusing passage 'confirmation of a downside move' while overall bias is continuation."
+}

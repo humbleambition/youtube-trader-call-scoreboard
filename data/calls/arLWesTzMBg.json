@@ -1,0 +1,184 @@
+{
+ "video_id": "arLWesTzMBg",
+ "channel": "David Lin",
+ "title": "Gold Falls To $3,600 If Yields Do THIS Next | Nicky Shiels",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Nicky Shiels (MKS PAMP), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Rising real yields headwind for gold",
+   "view": "Real yields back at 2007 levels and a higher dollar are headwinds, but the selloff is near its end."
+  },
+  {
+   "theme": "Fed hike pricing too aggressive",
+   "view": "Markets pricing hiking cycles in 2026 and 2027 is too aggressive; Williams' dovish comments matter."
+  },
+  {
+   "theme": "Fiscal debasement",
+   "view": "G10 fiscal paths are irresponsible; the only way out is currency debasement, which supports a gold premium."
+  },
+  {
+   "theme": "Central bank / ETF buying",
+   "view": "PBOC and Asian central banks backstop gold around 4,000; ETF inflows steady."
+  },
+  {
+   "theme": "Risk-asset selloff",
+   "view": "A 10-20% equity drawdown would drag gold down initially, which would be the low to buy."
+  },
+  {
+   "theme": "Copper not signalling slowdown",
+   "view": "Copper at 15k reflects tight fundamentals and policy uncertainty, not growth."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4100,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 3600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3200
+    ],
+    "resistance": [
+     4500
+    ],
+    "invalidation": null
+   },
+   "condition": "If 10-year real yields rise another 50bp, gold falls about $500 (to ~3,600).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Model: gold $840 above real-yield/DXY fair value (~3,200), a low premium for the Trump era; debasement, de-dollarization and central-bank buying persist, and the hawkish repricing looks overdone.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "if we see sort of you know is 50 basis points higher in that in that real 10 years absolutely I think gold is down …"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Outperforms if the dollar weakens.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Multi-year deficit and critical-metal status, but trading as a high-beta gold proxy; industrial thrifting above ~75.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "I think if you get a weaker dollar silver really outperforms on that um so it looks interesting here"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper (LME, $/t)",
+   "price_at_call": 15000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Structural deficit, no new mines, AI/electrification demand and tariff-driven US inflows; investors want real assets.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "that demand story is really attractive to investors"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar at a resistance level it has failed at several times; hike pricing too aggressive.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "dollar just seems to be up at that resistance level. It's failed that several times before."
+  }
+ ],
+ "notes": "Host states 'today on the 30th of September'. Gold 'local high' transcribed as '$45' (likely ~4,500), recorded as resistance. Copper 15k assumed LME $/tonne. Yields: she expects hike pricing to be overdone but gives no explicit TNX call, so it is in macro_themes only. Bitcoin mentioned in passing (rerated 65k to 85k). Medium-term gold target 3600 is conditional on real yields."
+}

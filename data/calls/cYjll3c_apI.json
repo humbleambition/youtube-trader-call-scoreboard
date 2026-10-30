@@ -1,0 +1,252 @@
+{
+ "video_id": "cYjll3c_apI",
+ "channel": "Crypto World",
+ "title": "BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Stocks lead crypto",
+   "view": "US stocks near all-time highs; follow-through in the next 1-2 days would likely trigger a crypto breakout attempt."
+  },
+  {
+   "theme": "Bearish divergence fakeout",
+   "view": "Expects a short push above highs to grab liquidity, then a cool-off in the second half of October while the multi-month trend stays bullish."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82300
+    ],
+    "resistance": [
+     86000,
+     88000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Liquidity at 87.3-87.5k likely gets taken with a small breakout, but daily/3-day bearish divergence likely leads to a cool-off later this month; weekly supertrend green.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "a likely scenario is honestly a little push higher to basically wipe out this liquidity here, but then possibly somewhat of a fakeout"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800,
+     3300
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near 2.8k resistance; small breakout possible but bearish divergence could cut it short; larger trend bullish.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "we might push a little higher maybe this week or next week, but just be warned that will likely continue to form a bit of …"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range 1.30-1.60 with confirmed daily bearish divergence; will follow BTC/ETH.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "don't necessarily expect a huge crash, but yes, expect a bit of a cool off remaining underneath the local highs"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     119,
+     124,
+     144
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing 119-124 resistance; breakout possible this or next week but divergence could cut it short later this month.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "start another cool off potentially later this month."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     14.1,
+     14.3
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Struggling at 14.10-14.30 with a forming 3-day bearish divergence; follows BTC.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "potentially a slight little push higher, but not necessarily a huge bullish move, and then another cool off"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend still bullish near ATH, but a 4-hour bearish RSI divergence is forming (unconfirmed).",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "overall, the trend is technically still bullish."
+  }
+ ],
+ "notes": "Recorded premarket, \"about to open for the day, for the week\" -> Mon 2026-10-05."
+}

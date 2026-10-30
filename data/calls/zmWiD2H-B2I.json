@@ -1,0 +1,251 @@
+{
+ "video_id": "zmWiD2H-B2I",
+ "channel": "Ricky Gutierrez",
+ "title": "TOP 5 STOCKS TO WATCH THIS WEEK | CPI REPORT",
+ "video_date": "2026-10-11",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "CPI week",
+   "view": "A hotter-than-expected CPI would raise the (18.4%) odds of a Fed hike and likely trigger a market drop; markets may de-risk into the report."
+  },
+  {
+   "theme": "Nasdaq overbought",
+   "view": "Nasdaq is bullish but overbought and at the high end of a resistance range; proceed with caution this week."
+  },
+  {
+   "theme": "AI vs everything else",
+   "view": "Big disconnect: AI/hyperscaler names at highs while well-known consumer names (Netflix, Nike, Lulu, McDonald's) sit in bear markets."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (NQ futures)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If CPI comes in hot, markets likely drop",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq bullish but overbought at the upper end of a resistance range; thinks consolidation is setting up a pullback, unconfirmed.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "we're a little bit on the you know um higher end of this common resistance range"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares (ticker not stated)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": 205,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     104
+    ],
+    "resistance": [
+     205,
+     215
+    ],
+    "invalidation": null
+   },
+   "condition": "Drops if CPI is bad and markets fall",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Momentum play, fundamentally overvalued; risk/reward about 1:1, upside to prior highs 205-215 balanced by downside to recent lows.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "I don't really see the edge with SpaceX right now. Not fundamentally, and not technically either"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 700,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [
+     1100
+    ],
+    "invalidation": 1100
+   },
+   "condition": "Reassess if it breaks above 1,100; sells off hard if Nasdaq sells off",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stagnant sideways since July after a 200% run, strong resistance at 1,100, overbought; memory names were the biggest losers in the last pullback. Upside 9% to 1,100 vs 31% risk to prior lows.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "during this consolidation, I think that markets are getting ready to pull on back. But we'll see."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "397x earnings, ~33% fair-value downside, sales and revenue down, overpromising; won't short or buy it.",
+   "conviction": "low",
+   "timestamp": "11:30",
+   "quote": "33% downside, incredibly overvalued, 397 times its earnings"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Down ~50% from 2025 highs in a descending pattern of lower highs/lows; relief rally looks to be rolling over. Cheap on PE (21x) but cheap can get cheaper; would not buy short term, would not short either.",
+   "conviction": "medium",
+   "timestamp": "21:00",
+   "quote": "would I care to buy Netflix? Of course not. It's a continuous descending pattern with lower highs, lower lows."
+  },
+  {
+   "group": "stocks",
+   "ticker": "QCOM",
+   "instrument_quoted": "QCOM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     170,
+     142
+    ],
+    "resistance": [
+     250
+    ],
+    "invalidation": 170
+   },
+   "condition": "Possible dip buy with ~15% upside, but cut if it breaks below 170",
+   "action": "watch",
+   "entry": null,
+   "stop": 170,
+   "method": "technical",
+   "reason": "Choppy 142-250 range; rejected after a 42% run and now testing support; a break below 170 opens a long way down.",
+   "conviction": "low",
+   "timestamp": "25:00",
+   "quote": "I would manage and mitigate risk if there's a break below 170 because if it breaks below this, we have a long way down to …"
+  }
+ ],
+ "notes": "Sunday Oct 11 live stream (4:38pm Arizona). SpaceX is discussed as a traded stock but no ticker is stated; recorded as SPACEX (may need exclusion in scoring). One unnamed stock (high 133, low ~50, -$811M net loss) skipped because the ticker is garbled ('Ass.'). MU support 700 = prior pullback low. Telecoms (VZ -8.7%, T -9.8%, TMUS -13%) mentioned as past moves only."
+}

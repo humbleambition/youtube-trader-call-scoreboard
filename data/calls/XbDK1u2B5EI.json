@@ -1,0 +1,175 @@
+{
+ "video_id": "XbDK1u2B5EI",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Races Toward Its Neckline As Hyperliquid Holds Strong",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Drew Dosk",
+ "macro_themes": [
+  {
+   "theme": "Crypto recovery",
+   "view": "Bitcoin and Ethereum were saved by the bottoms of long-term parallel channels and are rallying into major resistance."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 89363,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 105000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     85240,
+     80500
+    ],
+    "resistance": [
+     89363,
+     100000,
+     105000
+    ],
+    "invalidation": null
+   },
+   "condition": "Expects a fade at the 89,363 neckline and consolidation down toward 80,500; a later break above the neckline targets 100k and 105k resistance.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rallying straight into the neckline of a multi-year head and shoulders whose 37k target never hit; prefers consolidation under the neckline before a healthier breakout.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "once and if we get price above this neckline, then I think Bitcoin actually hits the gas... hitting resistance here at 105,000."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3041.67,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 3600,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2400,
+     1800
+    ],
+    "resistance": [
+     3041.67,
+     3600
+    ],
+    "invalidation": null
+   },
+   "condition": "If ETH holds/consolidates above 2,400 it can attack ~3,000, then 3,600 (channel midline).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Recovered back into the parallel channel from June 2022; next major resistance is the Jan 26 weekly high 3,041.67 meeting an inclining trend line.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "If it can do so, it can build momentum to attack the $3,000 level"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "HYPE/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 110.52,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     89.14,
+     78.17
+    ],
+    "resistance": [],
+    "invalidation": 89.14
+   },
+   "condition": "Above all-time highs, next target is the channel top at 110.52; consecutive closes below 89.14 shift toward 78.17.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong momentum breakout holding the upper half of a rising parallel channel; 50% line at 89.14 is the key support.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "the next target is going to be the top of this parallel channel at $110.52."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZEC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below its upward parallel and formed a bear flag on top of prior pivot highs; expects 7-8 more days of chop, a move lower to the top of the older parallel, then a bounce.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "that could lead to another move lower and catch support right here on the top of the parallel"
+  }
+ ],
+ "notes": "No date stated; listing Oct 6. BTC support '$8,524' in transcript is garbled, recorded as 85,240 (inferred). ZEC support level garbled ('$,047'), omitted. BTC short-term target = neckline 89,363; medium term he expects consolidation (mixed)."
+}

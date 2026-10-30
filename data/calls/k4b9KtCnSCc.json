@@ -1,0 +1,126 @@
+{
+ "video_id": "k4b9KtCnSCc",
+ "channel": "Verified Investing",
+ "title": "Head and Shoulders Trade Setups on (BTC, JPM, UNH)",
+ "video_date": "2026-09-27",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Lawton How",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 98000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     98000,
+     100000,
+     107500
+    ],
+    "invalidation": null
+   },
+   "condition": "Enter long on a retest of the inverse head-and-shoulders neckline",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily inverse head-and-shoulders breakout; measured move ~107.5k, may take 20-30 days.",
+   "conviction": "medium",
+   "timestamp": "3:45",
+   "quote": "buy Bitcoin on a retrace to the neckline of that inverse head and shoulders pattern looking for a move up closer to that 98,000"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JPM",
+   "instrument_quoted": "JPM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short on break of the neckline (or retest after break) once right shoulder forms",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Forming head-and-shoulders; measured move ~10.5% lower to June 3 gap fill; prior H&S fulfilled.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "should it come down this coming week? I think it's a good short"
+  },
+  {
+   "group": "stocks",
+   "ticker": "UNH",
+   "instrument_quoted": "UNH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 346,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     346,
+     323.56
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Re-short on full retrace to broken H&S neckline",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Head-and-shoulders broke and only ~15-20% of measured move done; targets 346 pivot then 323.56 April earnings gap.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "my entry would be a re-short at the retrace, a full retrace to this neckline"
+  }
+ ],
+ "notes": "Host says 'wonderful Sunday' -> 2026-09-27 (listing 09-28). JPM target given only as ~10.5% measured move / June 3 gap fill, no price; neckline not quoted. Second UNH target 323.56."
+}

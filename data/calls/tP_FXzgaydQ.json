@@ -1,0 +1,101 @@
+{
+ "video_id": "tP_FXzgaydQ",
+ "channel": "David Lin",
+ "title": "The Shocking Reason Gas Prices Can’t Come Down Anytime Soon | Rory Johnston",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Rory Johnston (Commodity Context), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Hormuz throttled",
+   "view": "Flows recovering (~14-16.5 mb/d) but still millions of barrels short and very costly; Iran losing control but not out of the woods."
+  },
+  {
+   "theme": "Inventory deficit",
+   "view": "Stock-and-flow: six to seven months of deficits have drained buffers; need a prolonged surplus/contango before prices fall."
+  },
+  {
+   "theme": "Diesel squeeze",
+   "view": "Crack spreads at records due to lost Middle East and Russian supply; China is the only swing source of relief; a full US export ban is unlikely, partial restriction a coin flip."
+  },
+  {
+   "theme": "Rates",
+   "view": "If high fuel prices persist, central banks will keep raising rates to cool the economy."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude (Brent also cited)",
+   "price_at_call": 91,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "As long as the war continues and Hormuz remains throttled",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Persistent supply deficit has eaten inventories; steep backwardation shows physical tightness; need a year of surplus to normalize.",
+   "conviction": "high",
+   "timestamp": "17:30",
+   "quote": "throttled and under threat, I see prices of crude oil uh and all products continuing to grind higher"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "HO",
+   "instrument_quoted": "NYMEX heating oil / diesel",
+   "price_at_call": 228,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Unless China loosens export quotas (bearish relief) ; a US export restriction would spike global diesel",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "1.5-2 mb/d of diesel supply lost from Middle East and Russia; demand inelastic; prices stay high until economy slows.",
+   "conviction": "medium",
+   "timestamp": "40:40",
+   "quote": "it's more likely that the price will just kind of stay high or continue rising until the overall economy begins to slow."
+  }
+ ],
+ "notes": "Host states 'Wednesday, September 30th'. HO price ~$227-228/bbl flat on expiring contract. WTI quoted 'just shy of $91' at open, ~90 later."
+}

@@ -1,0 +1,213 @@
+{
+ "video_id": "5Oeq8cLr4mg",
+ "channel": "Verified Investing",
+ "title": "Oil's $116 Target Still Active As Metals Slide",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Drew Dosek (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Higher yields pressure metals",
+   "view": "Gold and silver under pressure from higher yields, breaking supports."
+  },
+  {
+   "theme": "Middle East stabilisation",
+   "view": "Some de-escalation has pulled oil off its highs but the bullish pattern remains active."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116.21,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.02
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Target stays active only while price holds above the inverse head-and-shoulders neckline; below it the bullish target goes away.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broken-out inverse head and shoulders with measured move to 116.21; rising parallel support at 88.02 should give a near-term bounce.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "as long as price remains above this declining trend line, that targeted measured move is still active"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "nat gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 2.99,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sep 24 breakout lacked follow-through and price fell back; robust inventories and hedge funds trimming longs; repeated tests weaken support.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "likely lead to another push push to the next level lower ... Just a breach of $3 at $2.99"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3943,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3943
+    ],
+    "resistance": [
+     4104
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below declining support line under pressure from higher yields; 4104 is the line in the sand, near-term support 3943; also has a head-and-shoulders break.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "that is the line in the sand for further downside in the marketplace for gold with the near-term support down here at 3,943"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 53.6,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53.6,
+     50
+    ],
+    "resistance": [
+     61.03
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 50,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broken head and shoulders below 61.03 points to ~53.6; around $50 (trend line confluence) he would buy physical silver to hold.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "Anything around 50 bucks, I would be a happy buyer"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 6.33,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     6.33,
+     5.59,
+     4.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the bullish consolidation fails, first support 6.33, bigger bounce zone 5.59.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong chart with higher lows at top of a parallel channel, but such consolidations usually fail first; expects a dip then a rocket back up as in June.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I'm almost anticipating a similar move. Now, the near-term, it'll be very minor, $6.33"
+  }
+ ],
+ "notes": "No explicit date; listing used. Garbled prices: '8802'=88.02, '11621'=116.21, '6103'=61.03, '$536'=53.6 (silver), '633'/'559'=6.33/5.59 (copper). Silver 'buy' is for physical silver near $50, not at current price."
+}

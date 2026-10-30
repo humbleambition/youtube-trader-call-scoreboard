@@ -1,0 +1,89 @@
+{
+ "video_id": "_NV2vf48JSI",
+ "channel": "tastylive",
+ "title": "The Bearish Trade That Blows Up When You're Actually Right",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Tom Preston (TP) and Chris (tastylive hosts)",
+ "macro_themes": [
+  {
+   "theme": "Low VIX in a risk-on market",
+   "view": "VIX near 15 reflects the collective judgment of the market; it could spike to 45-50 only briefly in a cataclysm or election selloff."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Hosts had been saying the market is going to go up; leaning more bullish into October has worked.",
+   "conviction": "low",
+   "timestamp": "0:58",
+   "quote": "you just heard Chris and me talking about, well, gee whiz, the market's going to go up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 15.36,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "In a cataclysm or Brexit-like election selloff the VIX could hit 45-50, very briefly.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "TP holds small long VIX call spreads, losing daily; admits he does not know when VIX turns.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "my little long call spread loses money every single day. Okay. Because I'm long the VIX."
+  }
+ ],
+ "notes": "Viewer Q&A, mostly education (put verticals vs butterflies, trade logs). Date: listing '11 hours ago' on 2026-10-08 puts upload at or before ~01:40 2026-10-08 Santiago, so likely recorded 2026-10-07; no on-air date. VIX quoted as '1536' = 15.36. Speaker attribution of VIX position is TP, the risk-budget points are Chris."
+}

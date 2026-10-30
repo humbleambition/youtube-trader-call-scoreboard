@@ -1,0 +1,54 @@
+{
+ "video_id": "hUuAu79QvV4",
+ "channel": "Verified Investing",
+ "title": "What Is A Call Option? A Live Nvidia Trade, Explained",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (Verified Investing), with Tabby Pierce",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA stock / Nov 20 2026 245 call",
+   "price_at_call": 236.83,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 245,
+    "horizon": "by Nov 20 2026 expiry"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     237.5,
+     240,
+     245,
+     254.97
+    ],
+    "invalidation": null
+   },
+   "condition": "Bet is that the 240 call wall breaks, leading to price discovery toward 245.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows consolidating under all-time high; 245 confluence of 2024 trendline resistance and parallel-channel midline, Fib 1.13 extension 254.97; IV rank 0% makes calls cheap. Bought Nov 20 245 call ~8.30.",
+   "conviction": "medium",
+   "timestamp": "17:45",
+   "quote": "We have the 245 strike on Nvidia a call."
+  }
+ ],
+ "notes": "Educational options show. Date implied: 'this Monday' and Oct 16 expiry '11 days out' -> 2026-10-05 (listing 2026-10-06). Option premium ~8.30 ($830/contract); entry field left null since quoted on option not stock."
+}

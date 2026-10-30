@@ -1,0 +1,175 @@
+{
+ "video_id": "1y9JuHMvkyc",
+ "channel": "Meet Kevin",
+ "title": "Holy Sh*t Tesla",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Peak yields",
+   "view": "Calls 5.27% the peak 10-year yield; falling rates would boost rate-sensitive names like Tesla and Enphase."
+  },
+  {
+   "theme": "Iran deal catalyst",
+   "view": "An Iran deal plus peak yields could send Tesla sharply higher."
+  },
+  {
+   "theme": "Chinese EV competition",
+   "view": "Risk to Tesla's European share, but no one rivals FSD yet."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 414,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 824,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     347
+    ],
+    "resistance": [
+     414
+    ],
+    "invalidation": null
+   },
+   "condition": "Iran deal / peak yields help it reach 414.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Q3 deliveries 486,532 nearly matched tax-credit-boosted prior year; bottoming above 347; DCF ~$824 by end-2030. Valuation still elevated (PEG ~4.8).",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "the next line is 414 and I think we'll uh we'll we'll head on over there um soon enough."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.26,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Believes 5.27% is the peak in yields.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "I think 527 is peak yields."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ENPH",
+   "instrument_quoted": "ENPH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields have peaked and its data-center converter option plays out.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Bottoming after brutal rate-hike decline; ~$4.4B with a data-center call option.",
+   "conviction": "low",
+   "timestamp": "17:45",
+   "quote": "if we get peak yields and Nphas's data center call option plays out, this is a dirt cheap competitor."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     227
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Dirt cheap with robotics/vehicle verticals; breaking out of the 227 line to all-time highs.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "I've been very, very, very bullish on Nvidia... they're at alltime highs today. Finally breaking out of that 227 line."
+  }
+ ],
+ "notes": "Recorded the day Tesla reported Q3 deliveries (stock +5%, SpaceX up with it); matches Friday 2026-10-02 (listing approx 2026-10-03). Date inferred from context, not stated. 10y quoted as '527/526' = 5.27%/5.26%. SpaceX mentioned only as moving with Tesla."
+}

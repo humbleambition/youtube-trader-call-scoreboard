@@ -1,0 +1,349 @@
+{
+ "video_id": "jN5eiidPGG4",
+ "channel": "David Lin",
+ "title": "‘Panic Selling’ Today: Yields To 8%, Gold To $3,100, What Happens To Stocks? | Chris Vermeulen",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders.com)",
+ "macro_themes": [
+  {
+   "theme": "Yields spiraling",
+   "view": "Multi-year bull flags on 5/10/30-year yields point to 6.5% then 8% on the 10y, which would trigger a global financial crisis and an eventual stock market top."
+  },
+  {
+   "theme": "Equities still the place to be",
+   "view": "Stage-three topping/sector rotation with weak breadth, but tech, Mags and semis still bullish; panic selling signals a 1-3 day bottom."
+  },
+  {
+   "theme": "Strong dollar",
+   "view": "Higher yields and safe-haven flows push the dollar much higher; USD/CAD could reach 1.73."
+  },
+  {
+   "theme": "Precious metals in stage-four bear market",
+   "view": "Gold and silver have rolled over; rising yields, strong dollar and margin calls could force a sharp flush."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.259,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 6.5,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     6.5,
+     8.0
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Monthly bull flag breaking out above the 150-period MA; Fibonacci extensions give 6.5% as first target and 8% as the second.",
+   "conviction": "high",
+   "timestamp": "2:00",
+   "quote": "It is pointing to potentially 6 and 1 half yield as the first level all the way up to 8%"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same bull-flag-and-pullback pattern as the 10-year, pointing to a significant previous high.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "if we go look at the 30-year... We've got the same bull flag pattern and pullback."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "bond prices",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bond prices are in a major bear market and starting a huge drop; do not hold bonds for price.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "if you're looking at bond prices themselves, they're in a major bare market. You don't want to hold bonds"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 120,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Monthly chart channeling higher in a pattern like prior run-ups; higher yields and safe-haven demand pull capital to the dollar; could rise 14-16%.",
+   "conviction": "high",
+   "timestamp": "11:00",
+   "quote": "I believe we are going to see the dollar push higher... I see it going back up to a$120"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 35100,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Suggested stop roughly 5% below, under recent lows",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Panic-selling indicator spiked above 3 (usually a bottom within 1-3 days); bull flags and a 61.8% Fib pause point to an easy 3-5% pop this week and ~15% to 35,100.",
+   "conviction": "high",
+   "timestamp": "17:00",
+   "quote": "there's a I think an easy 3, four, 5% move to the upside... by the end of this week"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": 7677,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Major top risk if 10y yield pushes over 6-6.5%",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Long equities; panic selling marks a short-term cycle low and the trend is still up, though yields above ~6-6.5% could put in a major top.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "we're long the equities market... tomorrow, we should probably see the market rebound and start to run up"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3100,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "150-day MA turned down: stage-four bear market like 2011-13; target ~3,100 where he would re-accumulate for the next long-term bull.",
+   "conviction": "high",
+   "timestamp": "25:00",
+   "quote": "I have the downside move for for gold is about 3,100 uh an ounce if this pattern is to play out"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver is in the same stage-four downtrend as gold.",
+   "conviction": "medium",
+   "timestamp": "24:00",
+   "quote": "Silver's doing doing the exact same thing. You don't want to hold an asset that is moving lower"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 94500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Turned from bearish to bullish above the long-term MA; paused at the 61.8% Fib, so a 100% measured move of ~13% to 94,500, possibly within 2-3 days.",
+   "conviction": "medium",
+   "timestamp": "31:00",
+   "quote": "it's got about a 13% move up to 94,500"
+  }
+ ],
+ "notes": "Host states Monday September 28. S&P 500 level 7,677 quoted by host. NQ 35,100 target is ~15% above; current NQ level not stated. Also bearish CAD (USD/CAD to 1.73), not recorded as a call."
+}

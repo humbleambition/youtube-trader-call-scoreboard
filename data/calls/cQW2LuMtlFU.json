@@ -1,0 +1,181 @@
+{
+ "video_id": "cQW2LuMtlFU",
+ "channel": "Meet Kevin",
+ "title": "CRAP: Worst Since 2000.",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Iran deal getting closer",
+   "view": "Despite the selloff, details (nuclear inspections, dispute now over unfrozen funds) suggest a deal is closer; until then there is pain."
+  },
+  {
+   "theme": "Yield spike risks a break",
+   "view": "10y up ~8-10bp to ~5.26-5.27%; rapid rate-of-change spikes historically break something (credit event), but the underlying economy and productivity are holding up."
+  },
+  {
+   "theme": "Fear is opportunity",
+   "view": "Extreme fear in breadth and sentiment are buying opportunities leading to a V-shaped recovery over 6-12 months and eventually a real AI bubble top."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "Markets price ~68% odds of an October hike; he leans that a 'no' could be the better bet if an Iran deal comes."
+  },
+  {
+   "theme": "Warsh not a money printer",
+   "view": "Warsh will cut rates rather than print money, which is bearish gold, bullish low-build real estate, and eventually drives the 10y to record lows."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 732,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715,
+     710,
+     700
+    ],
+    "resistance": [
+     735
+    ],
+    "invalidation": null
+   },
+   "condition": "Depends on an Iran deal; \"If we don't get a deal, we're all screwed\"",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "DCA buying dips at 700/710/715/735 on QQQ into a hoped-for Iran deal; extreme fear readings signal opportunity; 735 is the key line being rejected.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I'm a big fan of buying this these dips... over the next six to 24 months this will look like a buying opportunity"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 102000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to hold the trend line",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding and bouncing off a trend line is what is needed to get Bitcoin up to its 102K level.",
+   "conviction": "low",
+   "timestamp": "24:00",
+   "quote": "That is the bounce you want to see to get Bitcoin up to its 102 level"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold peaked under Warsh; he will cut rates rather than print money, so the debasement trade does not work.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "I personally maintain gold peaked under Worsh and Worsh is not going to be a money printer"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.26,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Without money printing, disinflation/deflation forces market yields lower than ever, even below what the zero Fed bound implies.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "market function 10ear Treasury could go even lower"
+  }
+ ],
+ "notes": "Micron earnings \"tomorrow\" and ADP \"Wednesday the 30th\" => recorded Tue Sep 29. QQQ ~732 at recording. SocGen allocation/consumer-discretionary ideas are attributed to SocGen, not recorded as his calls."
+}

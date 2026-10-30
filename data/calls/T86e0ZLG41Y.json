@@ -1,0 +1,256 @@
+{
+ "video_id": "T86e0ZLG41Y",
+ "channel": "Geeks of Finance",
+ "title": "Option Traders Are Already Positioning for the Next Move",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance team (host, Anthony, Shawn)",
+ "macro_themes": [
+  {
+   "theme": "Rising rates hurt small caps",
+   "view": "Rising rates make it hard for debt-reliant small businesses to grow, keeping IWM in a downtrend."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7819.04,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7825,
+     7840
+    ],
+    "resistance": [
+     7850,
+     7900
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "New all-time high on four straight up days with +$161M delta-weighted call buying at 7850-7870; the largest GEX is at 7850 and sellers sit at 7900, so dealer selling may cap it above 7850.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "total flows in the options market were very positive in the SPX options chain."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": 281.29,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     280
+    ],
+    "resistance": [
+     283.71,
+     288.58
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "IWM has been in a downtrend for months, stalling at the 20-day SMA under the 50-day EMA; rising rates hurt small caps. They rolled short puts down to the 280 strike.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "We think that's likely to push IWM lower in the coming sessions."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 14.9,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     15.75,
+     17
+    ],
+    "invalidation": 17
+   },
+   "condition": "A weekly close above the 15 EMA (~15.75) could spike VIX toward 20; 17 is the line in the sand",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX hit the 15 target, closed just above the 9 SMA at 14.92 and has not closed above the weekly 15 EMA since mid-July.",
+   "conviction": "medium",
+   "timestamp": "3:15",
+   "quote": "as long as we don't see the VIX moving over that 1575 area, we don't really see any immediate cause for concern."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": 255,
+   "short_term": {
+    "bias": "bullish",
+    "target": 260,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     245
+    ],
+    "resistance": [
+     260
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Heavy bullish 260-265 call buying for this week, with an interim bottom near 245 and the largest GEX at 260.",
+   "conviction": "medium",
+   "timestamp": "4:30",
+   "quote": "this looks like a potential continuation for Amazon up through the 260 level by this Friday's expiration."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": 430,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 450,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     400
+    ],
+    "resistance": [
+     450,
+     500
+    ],
+    "invalidation": 400
+   },
+   "condition": "Re-enter on a dip toward 400; continuation to 450 as long as it holds above 400",
+   "action": "take_profit",
+   "entry": 400,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Took profit on the 400/425 call debit spread at 17.42 (+121%); still positive GEX up to 450 with some at 500.",
+   "conviction": "medium",
+   "timestamp": "5:45",
+   "quote": "as long as it holds above 400, the odds would seem to favor a continuation up toward 450."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 649.55,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     650
+    ],
+    "resistance": [
+     700
+    ],
+    "invalidation": null
+   },
+   "condition": "Re-enter on further consolidation or a pullback; dealer selling expected near 700",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Momentum stock hugging the 10-day SMA with positive GEX at 650 and 700, but more selling at higher strikes may cap it.",
+   "conviction": "low",
+   "timestamp": "6:45",
+   "quote": "We're not chasing AMD here, but I am watching this carefully for any kind of further consolidation or a pullback to reenter"
+  }
+ ],
+ "notes": "Date not spoken. Inferred as 2026-10-06 (Tuesday): profits were locked on 'October 6th IWM 285 puts' today, the 7819.04 close is the prior session to kGBcOKtltLU's 7801.72 (-0.22%), and the listing approx_date is 10-07. AMZN price ~255 and PANW ~430 are approximate levels from the commentary, not exact closes. Multiple presenters."
+}

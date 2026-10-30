@@ -1,0 +1,344 @@
+{
+ "video_id": "a-HGgKsr9mA",
+ "channel": "TheTechnicalTraders",
+ "title": "Gold and Silver Bounce, while Stocks Rally",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [
+  {
+   "theme": "Contrarian sentiment",
+   "view": "Sentiment is depressed while stocks grind higher, setting up a big upside leg as sidelined investors chase."
+  },
+  {
+   "theme": "Weak NFP",
+   "view": "29k jobs means rates may not rise as far, supporting stocks and metals."
+  },
+  {
+   "theme": "Yields and dollar at resistance",
+   "view": "Yields and the dollar are at short-term exhaustion and should pull back, giving metals and stocks room."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq testing all-time highs with bullish patterns; semis and MAGS ETFs breaking out with ~7% upside to highs; positioned long equities.",
+   "conviction": "high",
+   "timestamp": "0:02",
+   "quote": "We're long equities anticipating a higher move."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "S&P grinding higher despite bearish sentiment; contrarian setup for a very big leg up; all moving averages in uptrend.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "We're going to see a very big leg to the upside, which is what we've been talking about"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields had a reversal day and are at resistance/short-term exhaustion, expected to pause and pull back.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "probably going to see yields pull back and pause and uh have a little bit of a correction"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "bond market",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big-volume exhaustion gap down yesterday signals a short-term turning point; looking for a bounce. Not trading it.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "It had a big exhaustion gap down yesterday... a turning point shortterm and we're looking for that bounce."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar at resistance and short-term exhaustion; a pullback would help metals and stocks.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "we're probably going to see the dollar pull back."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Counter-trend bounce within a downtrend; all moving averages still sloping down, so not long metals yet.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "gold is having a counter trend rally meaning it's a bounce within a downtrend and that is... we don't want to bet our money on …"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 1.6% on the bounce but all moving averages sloping down.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "silver real quick up 1.6% again all the moving averages are sloping down."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "miners",
+   "price_at_call": 88.65,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     88.65
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Miners bouncing to ~88.65, right at the 150-day and 50-day moving averages; a bounce within an overall downtrend.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "a bounce more or less within a overall downtrend. All the moving averages are sloping downward."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Moving averages flipped above the long-term average; forming successive bull flags and picking up speed.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "they have formed a large bull flag... It's forming another bull flag and it's starting to pick up speed to the upside"
+  }
+ ],
+ "notes": "Host states 'Friday, October 2nd'. Speaker name assumed (channel's usual host, not said). TNX and TLT calls describe the same view (yields down / bonds bounce). Miners level '8865' read as 88.65 (also the moving-average level). 'Semiconductor ETF and MAGS' blend not recorded as its own ticker; oil segment cut off."
+}

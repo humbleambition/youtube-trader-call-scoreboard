@@ -1,0 +1,377 @@
+{
+ "video_id": "hqwwyPo7HXw",
+ "channel": "TheTechnicalTraders",
+ "title": "Short-term top for stocks and start of a leg down for metals",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "TheTechnicalTraders host (name not stated in transcript; channel is run by Chris Vermeulen)",
+ "macro_themes": [
+  {
+   "theme": "Bonds breaking down",
+   "view": "Bonds at multi-year lows; 10- and 30-year yields spiraling higher on distrust of US debt, lifting the dollar."
+  },
+  {
+   "theme": "AI spending boom",
+   "view": "Huge AI spending (SpaceX raising another $40B for Nvidia chips); Dalio calls it a classic bubble."
+  },
+  {
+   "theme": "Precious metals bear market",
+   "view": "Gold, silver, platinum, palladium and miners are in a bear market; rallies are counter-trend."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "FOMO gap to all-time highs yesterday put in a short-term top; gap now filled. Expect a 1-3 day pause or pullback within a larger uptrend.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "Whenever we get a spike of FOMO we have to expect a short-term pause or pullback that could last a day to three days."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit all-time highs alongside the S&P in a FOMO gap; same short-term top and pullback expected.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "the Nasdaq hitting all-time highs and that created a bit of a feeding frenzy"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bonds breaking to multi-year lows; 10-year up 1.5% back at highs, 30-year making higher highs.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "the yields continue to kind of spiral out of control to the upside"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rising yields support the dollar, up 0.6% this morning.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "As the yields go up you can tend to see the dollar follow suit."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 4000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 1.5%, breaking down from a small bear flag in a longer-term downtrend and bear market for metals.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "breaking down from this little bear flag pattern we talked about. The next downside target is 4,000."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 54,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 3.6%, breaking down from a small bear flag; measured move ~54-55.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "It's actually gunning for about 54 or something like that based on this little bear flag pattern."
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Counter-trend rally fading and rolling over; acts as a leading indicator for gold/silver.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "this is definitely got a bearish bias to it. That's platinum."
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~4% and already breaking down; has the most bearish chart pattern of the group.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "If we take a look at palladium, down 4%. ... it's already breaking down."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": 85.52,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A drop below current lows would put price under all moving averages, including the 150-day: a stage-4 bear market.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking the lows from a small bear flag; risk of a 3-4 day waterfall drop.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "we could see this the bottom drop out of this very quickly"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Moving averages crossed bullish, price above them, series of bull flags; but likely pulls back with the Nasdaq short term.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Overall, the trend is up, but if the stock market's pulling back like the Nasdaq, we're probably going to see this pull back"
+  }
+ ],
+ "notes": "Host states \"Wednesday, October 7th\", \"this morning\"; GDX quoted at 85.52 implies the cash session was open. The speaker's name is not in the transcript. Silver target said as \"around 55... about 54\"; 54 used. PL here = platinum, following existing files (PL is also a stock ticker, Planet Labs)."
+}

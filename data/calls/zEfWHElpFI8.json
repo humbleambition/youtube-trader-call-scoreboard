@@ -1,0 +1,107 @@
+{
+ "video_id": "zEfWHElpFI8",
+ "channel": "VRIC Media",
+ "title": "Nomi Prins: We’re Forecasting $6,000 Gold - By The End Of The Year",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Nomi Prins (guest); host Daryl Thomas",
+ "macro_themes": [
+  {
+   "theme": "Gold ETF inflows returning",
+   "view": "Retail/Western confidence returning after Iran-war headline selling; ETF buying of gold and silver to continue into year-end rebalancing."
+  },
+  {
+   "theme": "Central banks diversify to gold",
+   "view": "Central banks will keep accumulating physical gold and repatriating it rather than chase 5% Treasury yields."
+  },
+  {
+   "theme": "US debt crisis already here",
+   "view": "Fewer buyers for growing US debt; Treasury buybacks and eventual Fed QE will grow."
+  },
+  {
+   "theme": "Fed hikes are political posturing",
+   "view": "Rate hikes cannot fix oil-driven inflation; more hikes depend on oil prices, not core inflation."
+  },
+  {
+   "theme": "Oil drives inflation",
+   "view": "Lower oil (e.g., Iran resolution) would cut CPI/PPI and boost gold."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold spot ($/oz)",
+   "price_at_call": 4350,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4300
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Iran resolution / lower oil would add further upside momentum.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Stable base at 4300-4400 after digesting Fed hike; returning ETF inflows, central-bank buying, strong miner margins, debt crisis; target $6,000 by end of 2026 or mid-January.",
+   "conviction": "high",
+   "timestamp": "9:20",
+   "quote": "we're still predicting $6,000, um, for gold by the end of the year."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "Gold miners (producers)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "All-in costs 1800-2200 vs gold at 4300-4400 imply excellent profits and cash flow; upcoming quarterly reports should add momentum.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "So we will continue to see good reports from these companies."
+  }
+ ],
+ "notes": "No date stated in transcript (\"October is already upon us\"), so listing approx_date used. Gold price_at_call is the midpoint of the 4300-4400 range she cited. Target $6,000 by year-end (~3 months) placed in medium_term. Silver mentioned only alongside gold ETF flows; not recorded. She never recommends bonds."
+}

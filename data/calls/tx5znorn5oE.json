@@ -1,0 +1,209 @@
+{
+ "video_id": "tx5znorn5oE",
+ "channel": "tastylive",
+ "title": "The Upside Thrust Is There and Waiting for One Thing",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Brent Kochuba (SpotGamma), with tastylive hosts",
+ "macro_themes": [
+  {
+   "theme": "Rates capping equities",
+   "view": "10-year at 5.3% keeps equities stuck; the upside thrust is there but needs cooling macro data/rates."
+  },
+  {
+   "theme": "Right-tail market",
+   "view": "Upside realized vol exceeds downside; call volumes contracted, traders waiting for an all-clear to pile into upside."
+  },
+  {
+   "theme": "Election vol premium",
+   "view": "VIX will price the Nov 3 election and stay somewhat elevated versus ~10 realized vol."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If rates/macro data cool off, the upside thrust seen Friday after jobs data can resume.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Market holds right-tail risk; upside realized vol higher than downside; call buying suppressed by higher rates rather than downside bets.",
+   "conviction": "medium",
+   "timestamp": "2:45",
+   "quote": "the ups thrust in this market, it's it's there and it's waiting. It just needs, you know, some cooling of the macro data."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": 165,
+   "short_term": {
+    "bias": "bullish",
+    "target": 170,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     162,
+     163,
+     145
+    ],
+    "resistance": [
+     170,
+     200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bank upgrades and launches; positive gamma gives stability with mean-reverting chips higher; call wall 170-200; IV near lows (~50%, IV rank ~10) so call buying makes sense; hosts hold Jan short 125 put/long 250-300 calls.",
+   "conviction": "medium",
+   "timestamp": "7:45",
+   "quote": "I think it has legs. I think that you can kind of get again 170 before you get a little bit of a harder rejection."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA options",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "NVDA implied vol rank near zero, lowest of the year; cheap long options to express either upside or downside market view.",
+   "conviction": "medium",
+   "timestamp": "11:15",
+   "quote": "the vol in Nvidia just seems like kind of a gift for uh playing either side"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "EWZ up 12-13% with call implied vol spiking; expects pace of upside to slow, suggests broken-wing call flies to monetize call skew.",
+   "conviction": "low",
+   "timestamp": "0:45",
+   "quote": "I believe that the pace of change, particularly for us for an index like that, uh is is likely to slow down"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "into the Nov 3 election"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "VIX-to-realized spread of 5-6 pts vs typical 3.5 reflects election premium, which should hold and keep VIX elevated.",
+   "conviction": "medium",
+   "timestamp": "14:15",
+   "quote": "that's going to hold, which is going to keep the VIX I think even a bit more elevated."
+  }
+ ],
+ "notes": "Date implied: references Friday's jobs data, guest normally on Tuesday 'tomorrow', banks report 'next week on the 13th' -> Mon 2026-10-05 (listing 2026-10-06). 10y at 5.3% noted without forecast. EWZ bias is a vol/pace view, recorded neutral. Tesla mentioned only in passing."
+}

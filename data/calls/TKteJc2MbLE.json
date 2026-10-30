@@ -1,0 +1,93 @@
+{
+ "video_id": "TKteJc2MbLE",
+ "channel": "Ricky Gutierrez",
+ "title": "URGENT: TRUMP WARNS IRAN DEAL COMING SOON?!",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "US-Iran talks",
+   "view": "Market rallied on talks entering 'technical stage'; host thinks it's Trump talk to bring down yields and oil, deal unlikely."
+  },
+  {
+   "theme": "Global bond yield crisis",
+   "view": "10y yield at a 19-year high; 30y mortgage ~7.45%."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (index)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Overbought on the day but won't short against Iran-deal headlines because markets can keep pushing higher.",
+   "conviction": "low",
+   "timestamp": "6:45",
+   "quote": "Nasdaq market, in my opinion, is overbought on the day"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapped up and became overbought intraday, so he opened a short (currently down ~$700).",
+   "conviction": "low",
+   "timestamp": "5:45",
+   "quote": "Gapped up, became overbought, opened up a short"
+  }
+ ],
+ "notes": "Host says 'today, Friday' (last giveaway day before Sunday draw) -> Fri 2026-09-25 (listing 09-26). Oil (UCO) sold off on deal hopes; he doubts the deal but gives no oil bias."
+}

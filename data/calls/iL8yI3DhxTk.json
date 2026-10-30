@@ -1,0 +1,62 @@
+{
+ "video_id": "iL8yI3DhxTk",
+ "channel": "ShadowTrader",
+ "title": "NQ Runs the fade with the long end!",
+ "video_date": "2026-10-10",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Scott Schneider",
+ "macro_themes": [
+  {
+   "theme": "Tech resilient despite long yields",
+   "view": "NQ made all-time highs this week despite significant long-term yields, a testament to the strength of the tech auction, though at some point yields may hit sentiment."
+  },
+  {
+   "theme": "OpenAI revenue headline",
+   "view": "Thursday's sell-off on the OpenAI revenue shortfall was later questioned by Bloomberg as accounting differences; Friday just balanced inside Thursday's range."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures (Dec)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     31204
+    ],
+    "resistance": [
+     31220
+    ],
+    "invalidation": null
+   },
+   "condition": "Above Thursday's ETH high: resume the upward auction toward all-time highs; below Thursday's low: revisit the two-sided trade/value of two weeks prior.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Friday was an inside day balancing within Thursday's double-distribution range; watching last week's POC (31,220), weekly midpoint (31,204), the drifting Sept FOMC-anchored VWAP (~825 shorthand), Thursday's low (~792 shorthand), an unrepaired gap and a virgin POC (~235 shorthand) from the all-time-high day.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "it's either going to head us back up towards those alltime highs and continue the upward auction, or we will potentially revisit some of this …"
+  }
+ ],
+ "notes": "Recorded the weekend after the Fri Oct 9 session (exact day not stated; Sat Oct 10 used). Several levels were given in shorthand (792 = Thursday low/VWAP touch, 825 = FOMC-anchored VWAP, 235 = virgin POC); full handles not stated (likely 30,792 / 30,825 and 31,235 given the 31,220 POC) so they are not in key_levels. No directional bias given."
+}

@@ -1,0 +1,128 @@
+{
+ "video_id": "tahoOJB7YlE",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Get Caught in the Crash: My Trading Plan",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "10-year at 24-year high",
+   "view": "10-year at 5.35%, highest in 24 years: mortgages and home ownership get more expensive."
+  },
+  {
+   "theme": "Fed minutes",
+   "view": "Fed minutes at 2pm ET today; markets likely to react."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Holding the short without adding until a reversal is confirmed; otherwise he will manage risk and accept the loss.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sees more downside than upside once MU starts selling off, but admits it is very bullish with no confirmed reversal; his short is underwater.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "I still think that there's more downside than there is upside if and when Micron Technologies begins to sell off"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "After the recovery markets are overbought; a return toward prior lows/gap gives shorts room. Suggests trimming longs at overbought levels.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Red open recovered quickly; markets now overbought.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Now that we've given it time, markets have recovered a decent amount. Now they're overbought."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Waiting for confirmation of a sell-off; still in an ascending uptrend.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "BTC dropping, pulling MSTR down.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "We're going to be waiting for confirmation for this thing to actively begin to sell off as it's still in ascending uptrend pattern."
+  }
+ ],
+ "notes": "Host says \"happy Wednesday\" -> 2026-10-07 (listing approx 2026-10-08, \"23 hours ago\"). Self-intro is garbled (\"Rookie with Techbook Solutions\"). The MSTR call is doubtful: \"this thing\" may refer to BTC/MSTR or back to MU. The NQ view is a general overbought remark."
+}

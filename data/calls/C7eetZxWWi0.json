@@ -1,0 +1,136 @@
+{
+ "video_id": "C7eetZxWWi0",
+ "channel": "tastylive",
+ "title": "Why You Should Be Bullish on Copper Right Now",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Clem Chambers (guest), host Ilya Spivak",
+ "macro_themes": [
+  {
+   "theme": "Copper supercycle",
+   "view": "Copper is the nervous system of AI and electrification; supply stays tight for a decade, so it will boom, bubble and bust, and it is only at the bottom of the hockey stick now."
+  },
+  {
+   "theme": "Fed after the midterms",
+   "view": "The Fed will avoid acting before the midterms, then pull the lever soon after to bring long-end yields down; reflationary, medium-to-high inflation but not hyperinflation."
+  },
+  {
+   "theme": "AI bubble only one-third done",
+   "view": "AI has had a boom and first-impulse correction but no full bubble or bust yet; another leg is coming (end of this year or mid next year), signalled by names like Nokia turning back up."
+  },
+  {
+   "theme": "Broad market not bubbly",
+   "view": "About half the S&P 500 is down 10%; the bubble is concentrated in AI leaders."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper, $/lb (~$7) and $/ton (~14,000)",
+   "price_at_call": 7,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 15,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "AI/electrification demand vs glacial new mine supply; copper has not yet had its commodity 'hockey stick' blow-off like gold and silver. Sees 30,000/ton (vs ~14,000 now) over ~10 years, an ex-pit trader says 40,000.",
+   "conviction": "high",
+   "timestamp": "0:45",
+   "quote": "it's about 14,000 a ton. And I see it going to 30,000."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAL.L",
+   "instrument_quoted": "Anglo American (merging with Teck)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "His main copper holding; the Anglo-Teck merger shows how strategically vital scale in copper is, and the miner pays a dividend while you wait.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "the one part of my portfolio which is the shiniest copper as far as I'm concerned is um Anglo-American"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "long bond yield (no level)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "After the US midterm elections (early Nov 2026)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects the Fed to ease soon after the midterms to bring long-end yields down, since the US cannot afford to lose the AI race.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "I would guess you're going to see all of a sudden a fall in the long bond after the midterms. Right or wrong?"
+  }
+ ],
+ "notes": "No date stated; listing date used. HG long-term target 15 $/lb is a conversion of his 30,000 $/ton (about 2.1x current), not a figure he said in $/lb. 'Fall in the long bond' read as long-end yields falling (context: lever pulled 'to bring down those bond yields'). Anglo American ticker given as AAL.L (also NGLOY ADR). Nokia mentioned only as a signal of a second AI leg; Freeport (FCX) liked but not held, passing mention."
+}

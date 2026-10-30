@@ -1,0 +1,74 @@
+{
+ "video_id": "rDtKZgZvol8",
+ "channel": "David Lin",
+ "title": "Gold Is Getting Crushed—Is This The Start Of A Bigger Downturn? | Jeff Christian",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Jeff Christian (CPM Group)",
+ "macro_themes": [
+  {
+   "theme": "Yield curve",
+   "view": "10y-2y flattening signals weakening economy but is a poor recession timer; recession likely sometime before 2028, possibly 2027 and shallower than feared."
+  },
+  {
+   "theme": "Rising rates and gold",
+   "view": "Rates rise because of inflation and debt, which are more positive for gold than higher rates are negative; 5% 10y with 3.4% inflation is only ~1.6% real."
+  },
+  {
+   "theme": "Fed",
+   "view": "Expects at least one, maybe two more Fed hikes, dependent on a weakening economy."
+  },
+  {
+   "theme": "US fiscal cuts and midterms",
+   "view": "Big Beautiful Bill spending cuts in Q4 2026-early 2027 and a nasty midterm environment will hurt US growth."
+  },
+  {
+   "theme": "Dollar and gold",
+   "view": "Dollar and gold can both rise as havens; not surprised if both keep rising over the next several years."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3900,
+     3800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Secular bull market intact: debt, inflation and unprecedented geopolitical risk; central banks and value buyers step in around 3,800-4,100.",
+   "conviction": "high",
+   "timestamp": "19:00",
+   "quote": "from a fundamental longer term perspective, the gold market is still very much in a bull market"
+  }
+ ],
+ "notes": "Recorded Monday Sept 28 (\"today on the 28th of September\"), gold down ~3.5% intraday at ~4,100. Short-term direction not given; he notes short-term traders are bearish. No view on TNX direction beyond not being concerned about 5%."
+}

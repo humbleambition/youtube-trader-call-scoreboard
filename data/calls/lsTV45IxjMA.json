@@ -1,0 +1,96 @@
+{
+ "video_id": "lsTV45IxjMA",
+ "channel": "Gareth Soloway",
+ "title": "Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)",
+ "video_date": "2026-10-08",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "High yields hurt crypto",
+   "view": "10-year near 5.3% gives big money an alternative to Bitcoin; AI trade cracking adds sell signal"
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC (Coinbase)",
+   "price_at_call": 80000,
+   "short_term": {
+    "bias": "bearish",
+    "target": 75500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 175000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     75500
+    ],
+    "resistance": [
+     83000
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily close below 81,000 opens retest of 75,500 pivot low",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend line at 81k breaking; high yields drawing money away. Long-term target 175k in 1-2 years.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "81,000 a daily close below. It opens up the door to retest this low pivot at 75,500."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 2000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Key break line lost; main accumulation below 2,000.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "this is where majority of my buy is going to be sitting... anything below 2,000"
+  }
+ ],
+ "notes": ""
+}

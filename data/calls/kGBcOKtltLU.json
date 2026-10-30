@@ -1,0 +1,222 @@
+{
+ "video_id": "kGBcOKtltLU",
+ "channel": "Geeks of Finance",
+ "title": "The Market Is Starting to Reveal What's Coming",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "Positive gamma / volatility compression",
+   "view": "The S&P is in positive gamma territory and VIX options are in negative gamma compression, which points to higher prices in the near term."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7801.72,
+   "short_term": {
+    "bias": "bullish",
+    "target": 7850,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7750,
+     7800
+    ],
+    "resistance": [
+     7850,
+     8000,
+     8150,
+     8180
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Positive GEX skew up to 7850 this week and a big GEX magnet at 8000 for Oct 30; Dec 31 positioning at 8150-8180 suggests a push above 8000 by year-end.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "I think the market's going to make another attempt to get back up to that 7,850 level heading into the end of the week."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 15.08,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     17,
+     18
+    ],
+    "invalidation": 17
+   },
+   "condition": "A spike back above 17-18 would change their analysis",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Negative gamma at the 15-17 strikes for two months keeps volatility compressed below all major moving averages.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "at this point we are still in compression mode in terms of volatility."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": 336.62,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     320,
+     325
+    ],
+    "resistance": [
+     340
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Positive gamma concentrated at 340, daily bullish net flows, stacked rising 10/20/50-day MAs and higher lows; positive holiday seasonality. Holding 325/320 put credit spreads.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "this series of higher lows ... is really pointing in the direction of a potential breakout into year-end"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 1087.84,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1100,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1050,
+     1040
+    ],
+    "resistance": [
+     1100,
+     1200
+    ],
+    "invalidation": 1050
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Strong positive gamma at 1100 with growing GEX at 1200, rising stacked MAs and steady bullish flows; holding Oct 16 1050/1040 put credit spread.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "our bet is that over the next week, Micron continues upwards through the 1,100 strike"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": 529.57,
+   "short_term": {
+    "bias": "bullish",
+    "target": 550,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 575,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     500
+    ],
+    "resistance": [
+     530,
+     550,
+     575
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Breakout above 500 after consolidation; GEX stair-steps at 530, 550 (Oct 16) and 575 (Dec 18); earnings in coming weeks add volatility.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "market participants basically betting that Microsoft's just going to grind higher towards those higher strikes in the year-end."
+  }
+ ],
+ "notes": "Date not spoken; inferred from transcript: they 'closed out our October 7th 7750 puts' today and shorted Oct 9 (Friday) puts; the S&P close of 7801.72 (-0.22%) matches the prior day's 7819.04 close in T86e0ZLG41Y, and the listing ('14 hours ago') agrees. The 550 MSFT target is tied to the Oct 16 expiry, so it is recorded as short/medium. The 8150-8180 Dec 31 GEX is kept as resistance; the 8000 year-end call is recorded as the medium-term target (just under 3 months)."
+}

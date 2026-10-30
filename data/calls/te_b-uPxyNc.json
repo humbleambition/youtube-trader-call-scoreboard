@@ -1,0 +1,179 @@
+{
+ "video_id": "te_b-uPxyNc",
+ "channel": "Sean Foo",
+ "title": "US Bond Crash Triggers MORTGAGE PANIC; Russia DECREE Blindsides Trump; AI Just Got Dangerous",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Treasury market breakdown",
+   "view": "US Treasuries are imploding; Treasury buybacks are too small and over-issuance is the cause, so yields keep driving borrowing costs higher."
+  },
+  {
+   "theme": "Housing affordability",
+   "view": "7.58% mortgages and a 47% affordability gap put home prices under heavy downward pressure."
+  },
+  {
+   "theme": "Consumer squeeze",
+   "view": "Confidence at a 12-year low and 6% inflation expectations threaten the consumer-driven economy."
+  },
+  {
+   "theme": "Oil crisis",
+   "view": "A 40M-barrel SPR release covers only ~10 days of a ~4M bpd shortfall; Russia's data blackout adds supply-shock risk."
+  },
+  {
+   "theme": "De-dollarization",
+   "view": "Russia hiding energy data conceals growing non-dollar energy trade with China and India."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "US economy is betting on unsustainable debt-funded AI capex; revenue math 'is not mathing' and it may not end well."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year Treasury yield (%)",
+   "price_at_call": 5.2,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Endless Treasury issuance into a saturated market; buybacks can't control yields; borrowing costs being driven relentlessly higher.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "every critical borrowing cost in the United States is being driven relentlessly higher by all these yields"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "US 30-year Treasury yield (%)",
+   "price_at_call": 5.6,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same Treasury-breakdown thesis; 30-year near 5.6%, highest since 2001.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "the 30-year is sitting at nearly 5.6% the highest level recorded 2001"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Crude oil (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "SPR release is 'essentially meaningless' vs a ~4M bpd shortfall, Trump telegraphing more Iran bombing after midterms, Russia data blackout risks hidden supply loss.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "the planned release only covers approximately 10 days of that gap. Now, that is essentially meaningless"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "none (AI/big tech sector)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Debt-funded AI build-out lacks revenue to self-fund; Chinese open-source models threaten pricing; IPO rush signals a hype peak.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "if that revenue does not materialize at the required scale and speed, this story does not end well for the United States"
+  }
+ ],
+ "notes": "No date stated in transcript; listing approx 2026-10-01. Solo macro commentary, not an interview; video_type set to macro_interview as the closest fit. Bias on yields/oil implied from 'crisis' framing rather than explicit forecasts. NQ call is an inferred bearish view on the AI trade, not an index forecast. Mortgage rate 7.58% noted only as theme."
+}

@@ -1,0 +1,287 @@
+{
+ "video_id": "3_r9qMmfV2U",
+ "channel": "BitcoinHyper",
+ "title": "Bitcoin LIVE: No Reclaim Of $86,000. That's Bearish. (here's why) - BTC, ETH, XRP Price Prediction",
+ "video_date": "2026-09-25",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [
+  {
+   "theme": "Crypto B-wave top",
+   "view": "Host thinks BTC finished a larger B wave at ~87k (0.5 retrace, 1.236 extension) and a C wave down toward 55k-41.5k is next, bottoming around Jan 22 2027."
+  },
+  {
+   "theme": "Bearish divergences across crypto",
+   "view": "Daily/2-day bearish divergences on BTC, ETH, HYPE, NEAR and Zcash argue for caution after the recent pump."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 55141,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 41500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     83000,
+     82600,
+     76200,
+     74000
+    ],
+    "resistance": [
+     87383,
+     95000
+    ],
+    "invalidation": 87383
+   },
+   "condition": "Bearish confirmed by daily closes below ~83,000 (top of range); above recent high ~87,383 invalidates, next target then golden ratio ~95,000",
+   "action": "short",
+   "entry": 85800,
+   "stop": null,
+   "method": "technical",
+   "reason": "Elliott wave: B wave likely topped at the 0.5 retracement/1.236 extension near 87k; C wave targets 0.618 ext 55,141 and 1:1 ext ~41,500 (Fib time bottom ~Jan 22 2027); bearish divergences on daily oscillators.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "fire a brand new short or a sell position of Bitcoin at approximately $85,800"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at anchored VWAP resistance and golden ratio; awesome oscillator about to confirm daily bearish divergence.",
+   "conviction": "low",
+   "timestamp": "40:30",
+   "quote": "Ethereum at a major area of resistance"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.23
+    ],
+    "resistance": [
+     1.9
+    ],
+    "invalidation": null
+   },
+   "condition": "If BTC drops (~to 75k), XRP likely ~20% down to ~1.23 support; if it continues higher, next target near golden pocket/anchored VWAP (spoken as \"$19\", likely ~$1.9)",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off support where host went long; 1:1 extension and daily support ~1.2-1.23 below.",
+   "conviction": "low",
+   "timestamp": "43:30",
+   "quote": "approximately 20% push down, it is definitely on the table here"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BNB",
+   "instrument_quoted": "BNB/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     810
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 810,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading at golden pocket and anchored VWAP resistance; will re-enter short on a push to ~810.",
+   "conviction": "low",
+   "timestamp": "42:50",
+   "quote": "I will be looking for a short position uh once again at approximately $810"
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEAR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5,
+     6
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "At weekly and daily resistance near $5 with RSI heavily overbought and a regular bearish divergence; would not buy here.",
+   "conviction": "low",
+   "timestamp": "53:00",
+   "quote": "I personally definitely wouldn't be buying this one here"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "HYPE/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rising wedge played out; daily/2-day/3-day bearish divergences and a possible finished five-wave structure.",
+   "conviction": "low",
+   "timestamp": "56:30",
+   "quote": "it is going to be a bearish indication of hype"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZEC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2169
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still pushing higher with hidden bullish RSI divergence but daily bearish divergences suggest a top is close; no buy.",
+   "conviction": "low",
+   "timestamp": "50:45",
+   "quote": "would I buy it right here? Definitely not"
+  }
+ ],
+ "notes": "Date from listing (Friday stream; host references the coming weekend and a Sunday stream). Daily close in ~3h49m implies ~20:10 UTC. BTC spot not stated cleanly (bounced from ~82.6k, short entry 85.8k). XRP upside target spoken as '$19' (garbled, probably $1.9). ZEC '$2,169' target as spoken, unverified. 'ono' (likely ONDO) and SOL shorts mentioned in passing, skipped."
+}

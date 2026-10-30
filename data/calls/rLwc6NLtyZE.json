@@ -1,0 +1,210 @@
+{
+ "video_id": "rLwc6NLtyZE",
+ "channel": "Sean Foo",
+ "title": "US STUNNED: World DUMPS Bonds to WORST Levels as Bessent Orders EU SELL Oil Reserves",
+ "video_date": "2026-10-03",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Treasury selloff",
+   "view": "10-year at 5.32% and climbing; foreign and retail holders dumping Treasuries; worst confidence since 2007."
+  },
+  {
+   "theme": "Oil and inflation",
+   "view": "Iran escalation pushed oil back above $100; rate-hike odds by December ~82%."
+  },
+  {
+   "theme": "Gold as safe haven",
+   "view": "Investors rotating from bonds into gold; buying rising despite ~10% drop."
+  },
+  {
+   "theme": "Equity fragility",
+   "view": "US stocks propped by AI spending story but sit on a fragile foundation if high rates persist."
+  },
+  {
+   "theme": "Diesel/energy squeeze",
+   "view": "EU reserve releases are short-term relief; diesel could go higher when stockpiles deplete."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.32,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Investors demanding more compensation for sticky inflation and war-driven deficits; buyers dumping or refusing new issuance.",
+   "conviction": "high",
+   "timestamp": "3:00",
+   "quote": "the 10-year Treasury yield just hit a new disaster level. We are now at 5.32% and it's still climbing"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Long-duration Treasuries down 55% from 2020 peak; could take a decade to recoup as bonds keep losing value.",
+   "conviction": "medium",
+   "timestamp": "4:55",
+   "quote": "Bonds could continue losing value for years given its trajectory"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Retail, funds and institutions buying gold as a store of value despite the dip, fleeing bonds.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "people want gold. They want exposure as a hedge against all the craziness happening right now"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (headline price)",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Iran tanker strikes and blockade keep oil above $100; EU reserve releases only short-term relief, diesel could rise when stockpiles deplete.",
+   "conviction": "low",
+   "timestamp": "2:05",
+   "quote": "the price of diesel could could really hit higher once stockpiles are depleted"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If higher rates persist.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Equities held up by AI narrative but fragile if rates stay high.",
+   "conviction": "low",
+   "timestamp": "8:10",
+   "quote": "the US stock market sits on a fragile foundation that could crack badly if higher rates persist"
+  }
+ ],
+ "notes": "Transcript repeatedly renders 'Bessent' as 'Biden' (garble). No date stated; listing date used. Sean Foo is the solo host (no guest)."
+}

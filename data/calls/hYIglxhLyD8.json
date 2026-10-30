@@ -1,0 +1,95 @@
+{
+ "video_id": "hYIglxhLyD8",
+ "channel": "Meet Kevin",
+ "title": "wtf... Starbucks buying Chipotle Stock?!?!?!",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Starbucks-Chipotle takeover report",
+   "view": "He calls a Starbucks bid for Chipotle desperate and value-destroying for the combined company, but a premium floor for Chipotle holders."
+  },
+  {
+   "theme": "Menu complexity as a peak signal",
+   "view": "Restaurants that add verticals and complicate menus historically mark a peak or go bankrupt."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CMG",
+   "instrument_quoted": "CMG (weekly chart)",
+   "price_at_call": 31.62,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 46,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     31.62
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Takeover talk puts a floor near 31.62 until the deal fails; if a deal goes through he expects about $46/share (~43% premium).",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "To win Chipotle shareholders Starbucks would have to pay a big premium, so the FT report creates a technical floor with upside to the deal price.",
+   "conviction": "medium",
+   "timestamp": "7:40",
+   "quote": "bearish Starbucks, bullish Chipotle, bearish the whole damn thing put together"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SBUX",
+   "instrument_quoted": "SBUX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Short-term bills exceed liquid assets, revenue down 1.4% y/y, ~35 P/E and 1.8 PEG; a Chipotle deal would need new debt and share issuance.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "Starbucks is going to have to raise a lot of debt to do that because they are broke"
+  }
+ ],
+ "notes": "Date: '4 minutes ago' listing, no on-air date. CMG levels transcribed as '3162' and '$46': read as $31.62 (current, post-split price) and $46 deal-price guess; 46/31.62 = ~45% vs his stated ~43% premium, so roughly consistent. He says AVGO and GLW (Corning, ~1.7 PEG) are better value than SBUX, a passing comparison not recorded as calls. Ends with a Reinvest One sales pitch."
+}

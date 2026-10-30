@@ -1,0 +1,208 @@
+{
+ "video_id": "rLBV9f54Ch4",
+ "channel": "Figuring Out Money",
+ "title": "It's Only Calm On The Surface",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Figuring Out Money host (name not stated)",
+ "macro_themes": [
+  {
+   "theme": "Calm surface, stressed bonds",
+   "view": "S&P at highs with VIX ~15 while bond volatility (MOVE) and high-yield bonds are stressed: a divergence."
+  },
+  {
+   "theme": "Rare low-volatility streak",
+   "view": "49 sessions without a 1% S&P down day; similar streaks preceded the Aug 2024 unwind and COVID crash, so a 1%+ down day soon is likely."
+  },
+  {
+   "theme": "Yields vs 2018 analog",
+   "view": "Following the 2018 analog, yields consolidate and pull back, and did not truly come off until after the midterms."
+  },
+  {
+   "theme": "Treasury auctions move markets",
+   "view": "Auctions drove today's reversal; more auctions tomorrow."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     780.84
+    ],
+    "invalidation": null
+   },
+   "condition": "Upper daily expected move 780.84 brings price back into the weekly zone; on downside breaks watch month-to-date anchored VWAP and the rising 5-day MA.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Above gamma flip, Nasdaq 10/20 DMAs sloping up, still a bull-strong environment, though a 1%+ down day may be near.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "So, we're still bullish in the shorter term as it stands right now."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "New yearly high but no new closing high; the 2018 analog shows consolidation/pullback here with yields coming off after the midterm election.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "we are within that area where you typically see that consolidation and pullback"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 241,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Pullback to the rising 5-day MA; could rally back to the upper weekly expected move ~241.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tagged upper weekly expected move and pulling back to a rising 5-day moving average.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "this one could be one to watch to play back into that 241."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to recover, or the short-term trend could turn lower.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Slightly down on the week and starting to turn over.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "Meta needs to recover here or it's going to be shorter term trend could potentially change"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above a rising 5-day MA, similar to NVDA.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Tesla pretty similar situation. It's holding above that rising fiveday there as well."
+  }
+ ],
+ "notes": "Host says \"it's only Wednesday, October 7th\"; recorded after the close. 780.84 assumed to be SPY (spoken \"78084\"). The NVDA \"241\" level is presumably the weekly expected move."
+}

@@ -1,0 +1,421 @@
+{
+ "video_id": "6DE1sUT-q6s",
+ "channel": "tastylive",
+ "title": "Tim Knight Says Stocks Just Flashed a Reversal Right After Lifetime Highs",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (Slope of Hope) on tastylive",
+ "macro_themes": [
+  {
+   "theme": "Bonds lead stocks",
+   "view": "Bond market has historically led equities lower; stocks run on the AI narrative but will eventually wake up."
+  },
+  {
+   "theme": "Rising rates / debt",
+   "view": "Rates keep trending higher; interest is 14% of the federal budget - a vicious cycle."
+  },
+  {
+   "theme": "Cross-asset correlation",
+   "view": "Gold, silver, stocks and crypto are tethered; only crude oil trades on its own geopolitical drivers."
+  },
+  {
+   "theme": "Complacency",
+   "view": "Stunned the VIX is so low; expects a very interesting rest of 2026."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish engulfing pattern and a small failed bullish breakout back below the breakout horizontal after lifetime highs.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "we've got a bearish engulfing pattern at the moment um based on today's action"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Holds bullish structure while above the breakout level.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gave back recent gains but has not sunk below the breakout level.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "the ENQ hasn't given up the ghost yet."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "YM futures / DIA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dow in a down channel since an Aug 5 shooting star, thousands of points from record highs; reshorted DIA, his biggest position.",
+   "conviction": "high",
+   "timestamp": "3:00",
+   "quote": "I I reshorted the DIIA yesterday and it was my biggest uh position and my only meaningful ETF position"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KORU",
+   "instrument_quoted": "KORU (3x bull South Korea ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Topping pattern and fell even on a record-high day; added to the short; could hold weeks or months; stop tightened.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "if if if something's down and it should be up, sell it, or in my case, short more of it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Opportunistic short after the politically driven pop on Monday; plans to exit before the runoff election.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "This was just opportunistic because it popped so high um on Monday based on that."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bitcoin stalled after a big run-up and is down ~$3,000 today; MSTR short held below a horizontal ray, added and stop tightened to just above yesterday's low.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "you could do worse than shorting MSTR if you wanted to be short crypto."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 150,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 115,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150,
+     100
+    ],
+    "resistance": [
+     170
+    ],
+    "invalidation": null
+   },
+   "condition": "Real test is whether ~150 holds; does not expect a break under 100.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed at the ~170 July high; weak market plus news of raising $40B to buy Nvidia chips; could slump to ~150 and to 110-120 by around March.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I wouldn't be surprised to see this kind of slump uh back down to the 150ish area."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong run in recent months with lots of overhead supply; trades highly correlated with SpaceX.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "I'm short Tesla, not based on SpaceX"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long-term enthusiastic, but gold is moving with equities and is down with them today.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "as enthusiastic as I'm about gold and silver in the long term, um they still seem to be sort of at the mercy of whatever …"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~2.5% but today's low perfectly kissed the supporting trend line; long-term enthusiastic.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "silver is at least respecting um that trend line."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "bond futures (ZB) chart - yields inverse",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bond downtrend is clear; rates just keep going higher amid rising debt needs.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "the trend is clear. You know, we get occasional green bars just just to be nice from time to time, but uh, rates just keep …"
+  }
+ ],
+ "notes": "Date: 'runoff elections in 18 days' (Brazil runoff Oct 25) and ES 'closed at lifetime highs yesterday' -> Wed 2026-10-07 (listing approx_date 2026-10-08). SpaceX ticker unknown (recorded as 'SPACEX'; 'basics' in transcript = SpaceX); 110-120 range recorded as midpoint 115 medium-term target (by ~March, so arguably long_term). 'DIIA' = DIA, 'KU'/'KRU' = KORU, 'Alain factor' = Elon factor. Bitcoin view expressed only via MSTR short. Crude described as geopolitically driven, no bias."
+}

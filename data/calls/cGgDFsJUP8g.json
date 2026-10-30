@@ -1,0 +1,99 @@
+{
+ "video_id": "cGgDFsJUP8g",
+ "channel": "Ross Givens",
+ "title": "Diesel Prices Are About to CRASH… Here’s the Trade I Just Put On",
+ "video_date": "2026-09-24",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Diesel shortage / refinery outages",
+   "view": "Drone strikes on Russian refineries and Gulf refinery damage left the world short diesel; US exports ~1.8m bpd to Europe."
+  },
+  {
+   "theme": "US diesel export ban",
+   "view": "Expects a 90-day US diesel export ban before the Nov 3 midterms, pushing US diesel down and European diesel up."
+  },
+  {
+   "theme": "Refiner margins",
+   "view": "Diesel crack >$100/bbl; a ban would cut refining margins sharply (Valero, Marathon, Phillips 66)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "GASOIL",
+   "instrument_quoted": "ICE Low Sulphur Gasoil futures (IBKR symbol 'G OIL'), $/metric ton",
+   "price_at_call": 1436,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1300
+    ],
+    "resistance": [],
+    "invalidation": 1300
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 1412,
+   "stop": 1300,
+   "method": "macro",
+   "reason": "A US diesel export ban removes ~1.8m bpd from the world market, so European diesel (gasoil) should rise while US diesel falls.",
+   "conviction": "high",
+   "timestamp": "9:00",
+   "quote": "that, in all likelihood, makes European diesel go up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "HO",
+   "instrument_quoted": "NYMEX heating oil (ULSD) November futures puts",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Export ban keeps US diesel at home, so US diesel price should plummet; bid on Nov HO puts (likely unfilled, illiquid).",
+   "conviction": "high",
+   "timestamp": "7:45",
+   "quote": "if US refiners can't export diesel, the price per gallon here will plummet"
+  }
+ ],
+ "notes": "Date: host says 'yesterday, on September 23rd' -> recorded Thu 2026-09-24 (listing 09-25). Trade horizon ~6 weeks into midterms. Implied bearish on refiners (VLO, MPC, PSX) margins but no stock call made; not recorded. HO puts orders were resting, likely unfilled."
+}

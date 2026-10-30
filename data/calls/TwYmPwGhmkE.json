@@ -1,0 +1,212 @@
+{
+ "video_id": "TwYmPwGhmkE",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Live Trading Non Farm Payrolls Data",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Post-rebalance risk",
+   "view": "After quarter-end window dressing they 'close the window'; funds could lock in the year by rotating into short-term bonds; be careful off the open."
+  },
+  {
+   "theme": "Breadth bifurcation",
+   "view": "S&P vs Nasdaq breadth divergence is extreme; defensives are weakening while semis are being bought heavily; selling semis would be a warning."
+  },
+  {
+   "theme": "Micron demand",
+   "view": "Micron says supply/demand stays tight until 2028 and NAND is accelerating; buildout continues (TSMC new plant)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7705
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "In a trading range after hitting all-time highs and backing off; higher lows and a divergence argue the 7705 area holds, but global financials rolling and 10y rising; no bias off the open.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "maybe that 77 holds. 7705 holds. um you'd have to lean that way"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1040
+    ],
+    "resistance": [
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "Risk-off below 1040",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought more and owns calls (sold puts) after earnings; expects a SanDisk-style flush that crushes IV then rips; trades at 5-7x earnings growing 100%; below 1040 is risk-off, 1100 likely fought hard.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "I'm using 1040 as a demarcation line. if I broke 1040, it's probably going to be riskoff"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "semiconductors / semicap",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Breadth indicator shows heavy semis buying; Micron/TSMC buildout means semicap goes higher; any rebalance selling is to be bought.",
+   "conviction": "high",
+   "timestamp": "24:00",
+   "quote": "semicap is definitely going to go higher. I mean I don't think there's any question about it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IGV",
+   "instrument_quoted": "software (IGV)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short a couple of leading software names expecting rotation out of software after the rebalance; wants to see buyers prove themselves first.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "I'm actually short a couple software names in here. Um because I think you could get a really red like red bar of death"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VICR",
+   "instrument_quoted": "VICR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     212
+    ],
+    "resistance": [
+     220
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Raised guidance and exploding premarket; watch 220 rejection and 212 hold but would not chase.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "do I really want to chase this thing up so much? Probably not"
+  }
+ ],
+ "notes": "Host says titles got mixed up: this stream is the Micron earnings-reaction day (Thu Oct 1; NFP \"tomorrow\"), while LvgWnebfXPs titled \"MU Earnings Reaction\" actually contains the NFP release (Fri Oct 2). Skipped: unspecified \"put wall at 800\", \"315 level\" semicap name, unnamed short at all-time lows."
+}

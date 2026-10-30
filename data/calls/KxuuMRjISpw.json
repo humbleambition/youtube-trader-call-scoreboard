@@ -1,0 +1,74 @@
+{
+ "video_id": "KxuuMRjISpw",
+ "channel": "David Lin",
+ "title": "Yields At 5.3%; Is Another 2008 Banking Crisis Next? | Ben Chabot",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ben Chabot (ex-Chicago Fed economist), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Long-end yields",
+   "view": "He is more pessimistic than optimistic: yields have not reached equilibrium and should stay high and keep rising as long as the AI investment boom continues."
+  },
+  {
+   "theme": "Treasury can't control the long end",
+   "view": "Small buybacks or jawboning only work at the margin; yield-curve control would be inflationary; cutting the deficit is what would help."
+  },
+  {
+   "theme": "Self-fulfilling bond 'slow-moving run'",
+   "view": "Round-number thresholds like 5% can coordinate investors into a high-rate, rising-debt equilibrium; not his base case for the US but possible."
+  },
+  {
+   "theme": "Bank system risk",
+   "view": "As of the 2023-24 exploratory stress tests most large banks were well hedged and earn more when rates rise; the real risk is a steep curve inversion or deposits becoming rate-sensitive (e.g. AI agents)."
+  },
+  {
+   "theme": "Rising term premium and policy path",
+   "view": "Fed path has repriced ~100bp higher over the year and term premium is rising; weaker auction tails show buyers demanding more yield, but no failed auction, just higher rates."
+  },
+  {
+   "theme": "AI borrowing crowding out",
+   "view": "Heavy long-duration AI/data-center borrowing must be absorbed by non-natural buyers, pushing yields up and crowding out other construction."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.311,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "As long as the AI investment boom continues and the stock market stays high.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Supply of long-duration government and AI corporate debt exhausts natural buyers, so 'tourists' must be paid higher yields; policy path and term premium both rising.",
+   "conviction": "low",
+   "timestamp": "39:50",
+   "quote": "I expect yields to stay high and keep rising"
+  }
+ ],
+ "notes": "Host states 'Wednesday, October 7th' and the 10-year at 5.311%; mentions a 10-year auction 'this afternoon', so recorded before it (intraday/morning). Guest name transcribed as 'Shabbo'; title gives Chabot. Conviction set low because he hedges ('Talk about a hard question... more pessimistic than optimistic'). Brent > $100 and VIX/put cheapness are host/descriptive remarks, not calls."
+}

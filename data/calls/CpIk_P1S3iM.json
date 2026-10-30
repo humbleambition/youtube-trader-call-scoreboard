@@ -1,0 +1,128 @@
+{
+ "video_id": "CpIk_P1S3iM",
+ "channel": "David Lin",
+ "title": "‘Very Similar To 1987': Here's What Bonds Break Next | Mike McGlone",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Mike McGlone (Bloomberg Intelligence)",
+ "macro_themes": [
+  {
+   "theme": "Bond liquidation",
+   "view": "Like 1987: leveraged money liquidating; yields will fall as fast as they rose"
+  },
+  {
+   "theme": "Oil peak",
+   "view": "War surge is where markets peak"
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bonds are a buy-when-crying market; liquidation creates the opportunity.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "it's going to go down as fast as went up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Crude near 120 is a sell-when-yelling market; peaks mid-war.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "that's when markets make peaks"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects stock volatility to pick up into year-end and everything to tumble.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "we just get a little pick up in stock market volatility into the year end... then everything tumbles"
+  }
+ ],
+ "notes": ""
+}

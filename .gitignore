@@ -1,0 +1,17 @@
+# never commit captions or transcripts (copyrighted full text)
+transcripts/
+*.srt
+*.vtt
+# secrets
+.env
+.env.*
+!.env.example
+# local price cache
+.cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/

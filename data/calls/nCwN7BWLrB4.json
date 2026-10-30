@@ -1,0 +1,136 @@
+{
+ "video_id": "nCwN7BWLrB4",
+ "channel": "Sean Foo",
+ "title": "Bessent PANICS as US Bonds Wipe Out Investors - Japan Just Lit a BIGGER Fuse",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "US bond bear market",
+   "view": "10y at 5.27%, a 19-year high; one of the worst bond bear markets in history with no guarantee yields stop rising, as Q4 issuance (~$630B) and war spending pile on."
+  },
+  {
+   "theme": "Fed hikes vs Bessent",
+   "view": "Market prices ~99.7% odds of another hike by April; Bessent wants inflation to run hot and accepts a weaker dollar."
+  },
+  {
+   "theme": "Yen carry trade",
+   "view": "Coordinated US-Japan yen intervention and faster BOJ hikes could trigger a disorderly carry-trade unwind and broader US asset dump."
+  },
+  {
+   "theme": "De-dollarization",
+   "view": "Canada pivoting trade to China/EU amid tariffs; dollar dominance could fade faster than expected."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": 5.27,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "War deficits, heavy Q4 issuance, Fed hikes and foreign selling (Japan) keep pushing yields higher.",
+   "conviction": "medium",
+   "timestamp": "0:40",
+   "quote": "There's simply no guarantee that yields will not go even higher."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "US Treasury bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Investor confidence shattered; structural inflation; possible Japanese selling of Treasuries.",
+   "conviction": "medium",
+   "timestamp": "3:45",
+   "quote": "US bonds have officially entered one of the worst bare markets in the entire history."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar already fallen; Bessent accepts weaker dollar; coordinated yen intervention and trade diversion erode dollar demand.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "The dollar's dominance could start fading faster than anyone really expects."
+  }
+ ],
+ "notes": "Solo commentary (no guest). Yen strengthening expected via intervention but no instrument quoted, so not recorded. Date from listing; mentions oil fell ~$5 'yesterday'."
+}

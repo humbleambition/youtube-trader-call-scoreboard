@@ -1,0 +1,173 @@
+{
+ "video_id": "WIj4eNNUcBk",
+ "channel": "Verified Investing",
+ "title": "Support Levels To Set Alerts On This Week",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "RIVN",
+   "instrument_quoted": "RIVN",
+   "price_at_call": 13.75,
+   "short_term": {
+    "bias": "bearish",
+    "target": 13.51,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 15.72,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     13.74,
+     13.51
+    ],
+    "resistance": [
+     15.53,
+     15.75
+    ],
+    "invalidation": null
+   },
+   "condition": "Expects a slight pierce to ~13.51 at the bottom of a 2-year channel, then a bounce (possibly on Oct 29 earnings) to 15.53-15.75",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sixth test of the bottom of a parallel channel since April 2024; daily RSI ~31.85, nearly oversold; selling steep into earnings.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "I'm anticipating a slight pierce with price potentially coming down and touching this $13.51 marker."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SN",
+   "instrument_quoted": "SN",
+   "price_at_call": 194,
+   "short_term": {
+    "bias": "bearish",
+    "target": 185,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     184,
+     185
+    ],
+    "resistance": [
+     194,
+     199.55,
+     200
+    ],
+    "invalidation": null
+   },
+   "condition": "If it pierces the all-time high, expect resistance at ~$200 and a pullback to 184-185",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Double top at all-time high ~194 with bearish RSI divergence; top of rising channel 199.55 and round-number $200 should bring profit taking.",
+   "conviction": "medium",
+   "timestamp": "2:40",
+   "quote": "push price back down here into the 184 185 range on the chart of Shark Ninja."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ONTO",
+   "instrument_quoted": "ONTO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     256.41,
+     247.3,
+     250
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the rising trendline support gives way, buy zone ~247-256 offers a high-probability bounce",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bouncing off rising trendline from July 29/Sep 3 lows; capped by declining trendline from June weekly topping tail; $1.1B backlog.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "If price gets down there, that should be a high probability chance of a bounce."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMCI",
+   "instrument_quoted": "SMCI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 36.85,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     36.85
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A second close below the broken uptrend line confirms more downside toward the 36.85 gap fill, then a bounce to retest the trendline",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Uptrend from the June/July low violated over the last four sessions; gap fill at 36.85 just under the 38.2% Fib.",
+   "conviction": "medium",
+   "timestamp": "5:50",
+   "quote": "A second day pushing down lower would confirm that SMCI's near-term trend has broken and the likelihood for more downside would come."
+  }
+ ],
+ "notes": "No date stated; listing approx_date 2026-10-13 but posted '9 hours ago' just after midnight Oct 13 Santiago, so likely recorded intraday/after close Monday Oct 12. No index, metals or crypto views. SN price ~194 approximate (at the double top). ONTO current price not stated."
+}

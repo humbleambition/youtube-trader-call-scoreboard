@@ -1,0 +1,62 @@
+{
+ "video_id": "F6ds1vqtOTY",
+ "channel": "Tom Nash",
+ "title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Tom Nash",
+ "macro_themes": [
+  {
+   "theme": "Crash risk from geopolitics and rates",
+   "view": "Iran, Ukraine, Fed hikes and oil near $100 are real risks that could easily cause a 20-30% S&P drop."
+  },
+  {
+   "theme": "Wars don't break markets long term",
+   "view": "No war has ever brought down the S&P 500; past oil shocks were followed by large multi-year gains."
+  },
+  {
+   "theme": "Don't time the market",
+   "view": "Stay invested, dollar-cost average and double down on drawdowns rather than going to cash."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Double down if S&P falls 10% (or stocks fall 20%).",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Historical recovery after oil/war shocks, 75% of years and 100% of 20-year periods positive; S&P core holding via DCA.",
+   "conviction": "high",
+   "timestamp": "0:09",
+   "quote": "no war in history has ever brought down the S&P 500. That's a fact."
+  }
+ ],
+ "notes": "Educational investing video, no specific levels or near-term direction; host says a 20-30% S&P drop 'can easily happen' but explicitly refuses to predict timing, so short/medium bias set to none. Palantir used only as an example (near $200, beta 3). video_type 'daily_market' is the closest fit; it is not really a daily recap."
+}

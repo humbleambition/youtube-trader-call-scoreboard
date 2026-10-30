@@ -1,0 +1,58 @@
+{
+ "video_id": "G2s7fyGDtkk",
+ "channel": "Ross Givens",
+ "title": "Buffett Started Buying THIS Stock… Now Berkshire Is Going ALL IN",
+ "video_date": "2026-10-03",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "High rates hit housing",
+   "view": "Bond yields at the highest since 2002 crush homebuilder margins via mortgage buydowns."
+  },
+  {
+   "theme": "Fed boxed in to cut",
+   "view": "Expects the Fed to be forced to cut, maybe not October but definitely in 2027; rates fall as soon as markets anticipate it, lifting homebuilders first."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "LEN",
+   "instrument_quoted": "LEN (spoken as LM)",
+   "price_at_call": 80,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 80,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Berkshire built a ~10% stake at 75-82; trades ~0.9x book with low debt, buybacks and a 2.5% dividend; margins recover once rates fall, as in 2022 when the stock doubled the next year.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "this is one of the very few real value stocks in the market today."
+  }
+ ],
+ "notes": "Ticker spoken as 'LM' and name 'LAR/Lenar' = Lennar (LEN). Admits the stock is in a downtrend; this is a value/long-horizon buy, not a breakout. No date stated; listing Oct 3."
+}

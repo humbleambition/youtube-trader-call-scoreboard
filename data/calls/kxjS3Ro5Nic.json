@@ -1,0 +1,253 @@
+{
+ "video_id": "kxjS3Ro5Nic",
+ "channel": "Meet Kevin",
+ "title": "The Suckening Returns: SPCX $40b Raise, Markets, Fed, Iran, Houthi's, Fear",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "AI debt issuance ('the suckening')",
+   "view": "SpaceX seeking ~$40B of debt for Nvidia chips is expected and par for the course; it adds volatility and competes with equities for money, but the market will absorb it."
+  },
+  {
+   "theme": "10-year yield peaking",
+   "view": "His 'K-peak' call of ~5.27% on the 10-year stands; the slope of yields has flattened since ~Sep 27, an inflection that is bullish for stocks."
+  },
+  {
+   "theme": "Iran deal timing",
+   "view": "Trump has the luxury of time; expects a deal announcement ~Oct 20-27, before the Oct 28 Fed meeting and the election, bringing gas prices down."
+  },
+  {
+   "theme": "Weak breadth",
+   "view": "Low breadth is driven by Jackson Hole hawkishness and yields, not oil; agrees with Mike Wilson that breadth should catch up and yields and stocks can improve together."
+  },
+  {
+   "theme": "Fed / Warsh",
+   "view": "Kevin Warsh as Fed chair is bearish for gold; October Fed expected to hold (Kalshi ~82%)."
+  },
+  {
+   "theme": "California billionaire tax (Prop)",
+   "view": "Critical: says it is pitched as health/education/food but 90% goes to health; drives billionaires out of state."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     748.65
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish especially if the 10-year yield comes down; deal with Iran within ~20 days.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Qs only down ~0.6% on the SpaceX debt news and holding well above his 748 line; yield acceleration has stopped and an Iran deal is coming.",
+   "conviction": "medium",
+   "timestamp": "1:44",
+   "quote": "This is a nothing burger. And this is a really bullish setup especially if that 10 comes down."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (index, no levels)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Breadth at its weakest since the dot-com bubble should reverse as bond hawkishness fades; yields down and stocks up together still ahead.",
+   "conviction": "medium",
+   "timestamp": "1:46",
+   "quote": "I still think even where we sit now, a lot of that is ahead of us, not behind us."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Maintains his ~5.27% peak-yield call; slope of yields flattening since ~Sep 27; Wilson sees bond market overly hawkish.",
+   "conviction": "medium",
+   "timestamp": "1:43",
+   "quote": "I still maintain that around this level. I call 527 peak treasury yields."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Called the gold top on Jan 30; Kevin Warsh as Fed chair is bearish for gold and he expects that to continue.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "the choice of Kevin Warsh for Fed chair is bearish for gold. And I think that'll continue to be case."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil / gas prices (oil ~100)",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If a US-Iran deal is announced ~Oct 20-27 as he expects.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects Trump to strike an Iran deal in the final weeks before the election to bring gas prices down.",
+   "conviction": "low",
+   "timestamp": "1:38",
+   "quote": "That's the target window for striking a deal... Ideal time frame for gas prices to fall before the election"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Convergence/compression with barcoding sets up for a breakout.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "this right here I think sets up for a beautiful breakout on nebias"
+  }
+ ],
+ "notes": "Video date 2026-10-07 inferred from the transcript (FOMC minutes released 'today'; '27 days left' before the Nov 3 US election) and consistent with 'Streamed 23 hours ago' on 2026-10-08; listing approx_date says 2026-10-08. Post-open livestream, mostly news commentary. Nasdaq level 'five 53' is garbled (likely QQQ ~753), so price_at_call left null; '748 65' read as QQQ 748.65 support line. Oil 'around 100' price_at_call is approximate. SpaceX (SPCX) $40B raise discussed as a macro theme, no stock call; Marvell 280, Eli Lilly, UBS robotics list (ISRG, MDT, SYK, Autodesk, etc.) mentioned in passing, not recorded."
+}

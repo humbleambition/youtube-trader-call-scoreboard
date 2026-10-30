@@ -1,0 +1,66 @@
+{
+ "video_id": "ZiVO4x7YEz4",
+ "channel": "Meet Kevin",
+ "title": "What the Fed *JUST* Warned",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "FOMC minutes",
+   "view": "Hawkish headline but participants stressed data dependence; strong PDFP/AI capex economy, equity gains fully earnings-driven with falling P/Es."
+  },
+  {
+   "theme": "Rate hikes",
+   "view": "Markets price ~84% odds of one more hike by December; he thinks a real chance there is no second hike. Oct 14 and Nov 10 CPI reports are key."
+  },
+  {
+   "theme": "Labor",
+   "view": "Labor-force participation normalising could push unemployment up — a red flag, but at least ~6 months away."
+  },
+  {
+   "theme": "Liquidity",
+   "view": "Credit broadly available; Oura's shelved IPO is idiosyncratic, not a liquidity problem."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "stock market (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Economy booming on AI capex, earnings rising faster than prices so stocks getting cheaper; hikes may not be needed if Iran war ends / CPI behaves.",
+   "conviction": "high",
+   "timestamp": "0:16",
+   "quote": "I think Jerome Powell just sent us a big signal that the moon is coming, boys and girls."
+  }
+ ],
+ "notes": "No explicit date spoken; FOMC minutes released 'just' → same day as the minutes, 2026-10-07 (the StockedUp video eCJholxYeZE dates the minutes to Wed 10-07). Listing said 10-08 (20 hours ago). Recorded_when inferred after the 2 pm ET minutes release. Video type: macro commentary, no guest."
+}

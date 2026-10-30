@@ -1,0 +1,18 @@
+{
+ "video_id": "3dRRZFnzDSM",
+ "channel": "tastylive",
+ "title": "The Stock Split Trap: What Options Traders Need To Know Now",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (name not stated)",
+ "macro_themes": [
+  {
+   "theme": "Splits are non-economic",
+   "view": "Stock splits and reverse splits do not change a position's value; option deliverables adjust (ETHA options now deliver ~33 shares after its 1-for-3 reverse split)."
+  }
+ ],
+ "calls": [],
+ "notes": "Educational video about the ETHA (iShares Ethereum ETF) 1-for-3 reverse split and adjusted options. No directional calls. No weekday stated, so listing date used."
+}

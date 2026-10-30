@@ -1,0 +1,305 @@
+{
+ "video_id": "OjTrruxURuE",
+ "channel": "Verified Investing",
+ "title": "Toshiba Crushes Storage Stocks: Where Western Digital And Seagate Bounce",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Jake Sweeney",
+ "macro_themes": [
+  {
+   "theme": "Storage supply shock",
+   "view": "Toshiba saying it can double HDD production hammered WDC and Seagate."
+  },
+  {
+   "theme": "Weak consumer",
+   "view": "After Nike earnings the consumer is getting beat up; Lululemon likely trends lower."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     400,
+     390.99
+    ],
+    "resistance": [
+     463,
+     473.69,
+     475
+    ],
+    "invalidation": null
+   },
+   "condition": "If WDC reclaims the broken trend lines and reaches the 473-475 gap fill, short there.",
+   "action": "short",
+   "entry": 474,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sold off 14% on Toshiba news to near 396.57; support at $400/390.99 gap; must clear an ascending and a descending trend line; 473.69 gap fill is a short.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "I will be sitting here at the 475 473 level for a nice short at that gap fill."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     801,
+     800,
+     766.97
+    ],
+    "resistance": [
+     862.65,
+     912,
+     915
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapped down ~16% through $800 but bounced on Jan 29 trend line and 801 gap fill; must reclaim 862.65 then the descending trend line ~912-915.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "to the upside we will have to push past this 86265 level that we will have to reclaim first"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAOI",
+   "instrument_quoted": "AOI (Applied Optoelectronics)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 124.82,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     124.82,
+     154.89,
+     173.41
+    ],
+    "invalidation": null
+   },
+   "condition": "Short only after a breakout reaches the 173.41 pivot top / trend line zone.",
+   "action": "short",
+   "entry": 173.41,
+   "stop": null,
+   "method": "technical",
+   "reason": "On breakout watch, up 16%; 124.82 gap fill a quick scalp; swinging short at the 173.41 pivot top and flipped trend line.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "That is where I'm shorting a AOI. Well, first we got to break out"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 264.47,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     250,
+     264.47,
+     265
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 265,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows on a trend line since July with 250 being pressed repeatedly; expects a break up to 264.47, then shorts the third test of a down-sloping trend line at 265.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "I think this one's going to continue on higher rather soon. Definitely bullish on Nibius."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LRCX",
+   "instrument_quoted": "LRCX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 393.07,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     345
+    ],
+    "resistance": [
+     393.07,
+     434
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakout from a down-sloping trend line, finding support at 345; next resistance 393.07 pivot shelf and the 0.786 retrace zone (good short) or more conservatively the 434 gap fill.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "This would be a good short level here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     335,
+     331.42
+    ],
+    "resistance": [
+     375,
+     380
+    ],
+    "invalidation": null
+   },
+   "condition": "Short on a sharp move to 375-380; long on a drop to the 335 gap fill / 331.42 swing low.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Volatility has faded; two-factor setups: gap fill, 0.236 Fib and down trend line converge at 375-380; gap fill and swing low at ~331-335 for a long.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "That is where I'm going to short AVGO on a sharp move."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LULU",
+   "instrument_quoted": "LULU",
+   "price_at_call": 93.41,
+   "short_term": {
+    "bias": "bearish",
+    "target": 89.64,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 81.09,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     89.64,
+     81.09
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Broke to new 52-week lows after Nike earnings; weak consumer; daily gap fill 89.64 then major support 81.09.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "I think we might be trending lower for Lululemon."
+  }
+ ],
+ "notes": "'Happy Friday' plus 'stay tuned for Monday, October 5th' fix the date to Fri Oct 2 (listing said Oct 3). 'AOI' = Applied Optoelectronics (AAOI). Lam Research 0.786 short zone value not stated numerically (~$5 zone). WDC intraday low quoted '39657' = 396.57."
+}

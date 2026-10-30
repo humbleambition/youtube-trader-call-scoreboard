@@ -1,0 +1,524 @@
+{
+ "video_id": "lM3oTRICZQ4",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | JOLTs Job Openings + Stocks to Watch",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Quarter-end rebalance",
+   "view": "Resistance into the quarterly rebalance; rebalance is a risk but likely bullish for semis."
+  },
+  {
+   "theme": "Breadth and sentiment",
+   "view": "Overall breadth awful and sentiment negative, so the market is not frothy; such stretches usually end in a flush."
+  },
+  {
+   "theme": "Semis strengthening",
+   "view": "Semiconductor breadth improving (analog, semicap, ASML); outcome hinges on Micron earnings Wednesday night."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Battling the September anchored VWAP and rejecting resistance into the quarterly rebalance; dealers lowered the put wall ahead of NFP/ISM.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "we're starting to battle that VWAP again... not exactly where you want to be"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Repeatedly holding support at the September level and the put wall, bouncing each time; expects chop for a while.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "your put wall was down here and as soon as you got near it repeatedly, you're bouncing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "semiconductor sector (SOX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Depends on Micron earnings not being a disaster",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Private semiconductor breadth indicator improving; analog and semicap names being bought; rebalance likely bullish for semis.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "if you're betting against semis, I I wish you the best... I just don't see it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     230
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Being stair-stepped higher with a $150B buyback; expects the 230 call wall to break and all-time highs to be taken out; valuation not a bubble.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "I do think that, you know, you're going to eventually break out and take out all-time highs"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1000,
+     1050
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Heavy buying of the 1000 calls and call wall raised from 900 to 1050; looks better than WDC; Micron demand commentary could be the storage catalyst.",
+   "conviction": "medium",
+   "timestamp": "28:00",
+   "quote": "out of the names that you gave me, um I do think that's really interesting and I do think that's worth paying attention to"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRT",
+   "instrument_quoted": "VRT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "XLI-type names falling apart and breaking the 200-day moving average; no reason to buy.",
+   "conviction": "medium",
+   "timestamp": "24:00",
+   "quote": "I'm breaking the 200 day moving average. Like why in God's name would I buy anything in that space?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke 600 and bouncing through it; likes it but would not chase; bought ~550 and trimmed some ahead of rebalance and Micron risk.",
+   "conviction": "medium",
+   "timestamp": "30:00",
+   "quote": "I certainly wouldn't be chasing it, but I do I [snorts] do like it"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nobody is bringing gold up anymore; considers it pretty much toast.",
+   "conviction": "medium",
+   "timestamp": "31:00",
+   "quote": "Gold, no one's bringing up anymore. Uh you're pretty much toast."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Started buying/averaging in, but a nasty high-volume down bar means watching that low; if support fails he is wrong.",
+   "conviction": "low",
+   "timestamp": "32:00",
+   "quote": "I started picking at it yesterday... That's a really nasty bar"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BA",
+   "instrument_quoted": "BA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 177,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Shorted on FAA news of another 737 halt; cannot see how it does not come down to 177.",
+   "conviction": "medium",
+   "timestamp": "33:00",
+   "quote": "I don't see how you're not coming down the 177"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Likes Microsoft at current levels, pending the rebalance.",
+   "conviction": "medium",
+   "timestamp": "37:00",
+   "quote": "Microsoft I like a lot here. I really like Microsoft here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWY",
+   "instrument_quoted": "EWY (South Korea ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Owns it as a memory/Korea play; oil was the overhang keeping him out of Asia trades.",
+   "conviction": "low",
+   "timestamp": "27:00",
+   "quote": "I do own EWI. I do not own uh DRAM, but I kind of I kind of like it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Bought and owns very long term; will just sit with it.",
+   "conviction": "low",
+   "timestamp": "30:00",
+   "quote": "I bought it. I own it very long term. Um, I'll just sit with it"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Likes Bitcoin and crypto; buying a couple crypto names with a multi-year outlook.",
+   "conviction": "low",
+   "timestamp": "37:00",
+   "quote": "I like Bitcoin and I like crypto. Um I'm buying a couple crypto names actually. It's like super long term"
+  }
+ ],
+ "notes": "No date stated; JOLTS day with Micron earnings \"Wednesday night\" fits Tuesday Sep 29 = listing date. \"EWI\" assumed to be EWY. Skipped garbled/unclear: \"TXG\" monster stock (unclear ticker), \"the A\" 4-year base, \"NDIS\", \"Agelant\", \"Akami\", MDB \"football\", Intel/AWS passage (contradictory: \"Intel looks weak\" then \"started buying Intel... 11 handle\"), SanDisk range into MU earnings, CRDO."
+}

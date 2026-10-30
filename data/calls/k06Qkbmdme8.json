@@ -1,0 +1,91 @@
+{
+ "video_id": "k06Qkbmdme8",
+ "channel": "StockedUp",
+ "title": "Tomorrow Will Be Crazy: OpenAI's $20B Miss, Riyadh Airport Attacked",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom (StockedUp)",
+ "macro_themes": [
+  {
+   "theme": "OpenAI revenue miss",
+   "view": "Hit tech; Trump said no Iran attack before midterms; refiners benefit from fuel shortage"
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     777
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 777 is first bullish sign; downside break of channel favors UVXY",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY in downward channel; watching for break either way.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I would love to see the high of day from today break around $777"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRAK",
+   "instrument_quoted": "CRAK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Refiners benefit most from diesel/gasoline/jet fuel shortage.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "this ETF keeps on rising. It is still on the radar to the upside"
+  }
+ ],
+ "notes": ""
+}

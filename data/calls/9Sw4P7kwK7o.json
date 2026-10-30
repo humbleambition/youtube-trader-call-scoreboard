@@ -1,0 +1,500 @@
+{
+ "video_id": "9Sw4P7kwK7o",
+ "channel": "Arete Trading",
+ "title": "The Breakouts Wall Street Hopes You Don't Notice!",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Breadth extremely oversold",
+   "view": "Proprietary breadth model at 6.22% percentile — rare and usually followed by a bounce; strategic, not tactical."
+  },
+  {
+   "theme": "AI earnings intact",
+   "view": "AMD/MRVL raising guidance, TSMC over 100% utilization; the cycle ends only when orders get cancelled or borrowing seizes — no sign of that."
+  },
+  {
+   "theme": "Memory fear is noise",
+   "view": "Toshiba buildout/STX bid is not a demand problem; DRAM/NAND prices not dropping; MU ~7x earnings, NVDA ~20x vs dot-com 60-80x."
+  },
+  {
+   "theme": "Oil peaked",
+   "view": "He thinks the oil high is in unless escalation."
+  },
+  {
+   "theme": "Biotech flush",
+   "view": "Genomics crash looks like a margin call; control bars usually mark highs; wait for it to sort out."
+  },
+  {
+   "theme": "Bond market",
+   "view": "MOVE below 125 and 10-year holding under 5.35% are key; watch Fed minutes, 10y and 30y auctions."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq breakout with earnings crushing and macro headwinds easing; top-callers are noise.",
+   "conviction": "medium",
+   "timestamp": "11:20",
+   "quote": "you have a breakout of the NASDAQ and you have a bunch of people telling you it's over."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 breadth (S5FI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breadth model grossly oversold (rare sub-10% reading) which usually precedes a bounce; S5FI bounced off 18%.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "that means that we're grossly oversold. and we're usually due for some kind of bounce."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "SOX semiconductor index / proprietary indicator",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     600
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Up ~10% in two weeks; 600 call wall acts as resistance to work off, but he expects buyers to eat the supply.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "I think they're going to eat up supply and we're going to win and be victorious."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Hit all-time highs; raising guidance, comments show demand outstrips TSMC capacity.",
+   "conviction": "medium",
+   "timestamp": "6:40",
+   "quote": "They're raising their guidance up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Investor day guidance exploded the stock out of a base.",
+   "conviction": "medium",
+   "timestamp": "6:05",
+   "quote": "MRVL had their investor day stock absolutely exploded on the earnings and revenue guidance"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CIEN",
+   "instrument_quoted": "CIEN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 378,
+   "stop": null,
+   "method": "technical",
+   "reason": "Optical rotation; broke out and keeps running; bought around 378.",
+   "conviction": "medium",
+   "timestamp": "13:30",
+   "quote": "Sienna absolutely broke out and just continues to run."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "'light' (presumably LITE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Took out all-time highs in the optical rotation.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "If you take a look at light today what did it do? Oh it took out all-time highs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Memory selloff on Toshiba news is noise; DRAM/NAND pricing not dropping; ~7x earnings.",
+   "conviction": "medium",
+   "timestamp": "9:50",
+   "quote": "What you have is what I refer to as noise."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": 800,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Drop from 950 to 800 is on the Toshiba/third-party acquisition contest, not lack of demand; will still honor stops.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "It's not coming down for lack of demand of product."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     186
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If MRNA cracks below ~186 he becomes interested in buying, after the biotech selling sorts out.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Biotech/genomics flush looks like a margin call; let it play out then pick names.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "I like mRNA here. So, if mRNA starts cracking like the 186 and coming down, I'm going to be interested."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI / genomics",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Control bars after a gap break usually mark highs; hopers hold a day then flush.",
+   "conviction": "low",
+   "timestamp": "14:40",
+   "quote": "These are control bars and they tend to mark highs."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Repeated rejections at the same area; he believes the high is in barring escalation.",
+   "conviction": "low",
+   "timestamp": "12:20",
+   "quote": "I don't think we take out the high. I think the high for oil is it."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.35
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 10-year flips above 5.35%, equities could have a problem.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10-year holding below 5.35 and MOVE making a lower low are supportive.",
+   "conviction": "low",
+   "timestamp": "18:50",
+   "quote": "Then just watch 535. Cuz if you flip that, yeah, you might have a problem."
+  }
+ ],
+ "notes": "Date: host says Fed minutes and 10-year auction are 'tomorrow' and the 30-year 'on Thursday', so today is Tue 2026-10-06 (listing approx 2026-10-07); talks at '4:45 right after hours'. CIEN buy alert read as 'we bought this name on 3 10 101. We paid 378' — date garbled, price 378 assumed. 'light' read as LITE. 'TGX' (a genomics name down ~21%) and 'twist' (TWST), TEM mentioned as examples only. GLW, AAOI, AVGO mentioned in passing."
+}

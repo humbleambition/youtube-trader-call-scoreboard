@@ -1,0 +1,282 @@
+{
+ "video_id": "lPWsr15VKH4",
+ "channel": "TheTechnicalTraders",
+ "title": "Yields Are Breaking Things… But Stocks May Still Have One More Run",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (inferred from channel; host not named in transcript)",
+ "macro_themes": [
+  {
+   "theme": "Rising yields",
+   "view": "10-year above 5.25%; rising rates will eventually kill the stock market but not yet; bonds in a stage-4 bear market."
+  },
+  {
+   "theme": "Money moving to cash and dollar",
+   "view": "Cash and the dollar now pay as much as dividend stocks; dollar has more upside, keeping pressure on metals."
+  },
+  {
+   "theme": "Oversold breadth",
+   "view": "S&P bullish percent index near 34%, a level that usually marks a significant low followed by a multi-month rally."
+  },
+  {
+   "theme": "Record margin debt",
+   "view": "Margin debt at all-time highs signals late-stage bull market; major top possible by end of this year or next, bear market maybe 2027."
+  },
+  {
+   "theme": "IPO hesitation",
+   "view": "Oura and likely Anthropic delaying IPOs because of soft market appetite."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (index/futures, unspecified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A significant pullback in yields could trigger a bull-flag breakout of 3-4% within four to five sessions; headwinds if rates and oil keep surging.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Long the Nasdaq; tight bull flag, panic selling keeps getting bought, oversold bullish-percent reading; but record margin debt points to a major top by end of year/next year.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "I think the market is primed and ready for a move upwards."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (index/futures, unspecified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields pull back significantly, the market may break out of the bull flag (3-4% in 4-5 sessions).",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Long the S&P; oversold breadth (bullish percent ~34%) historically precedes multi-month rallies; long-term risk from margin debt.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "We're long both the Nasdaq and the S&P 500."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%) / bond prices",
+   "price_at_call": 5.25,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bonds are in a full stage-4 bear market, so yields keep exploding long term, but yields look overdone and due for a temporary pullback (bonds bounce to resistance/50-day MA).",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "I do think yields are about to pull back temporarily"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US Dollar Index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Money flowing into the dollar as yields rise; higher interest makes the currency attractive.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "There's a lot of upside potential for the dollar itself, the dollar index to keep climbing."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold (spot/futures, unspecified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If stocks enter a bear market, metals may get pulled down first, then bottom early and rally while stocks keep falling.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Strong dollar pressures metals; precious metals struggling and get sucked down in risk-off liquidations.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "as the dollar keeps moving up, this is going to keep some pressure on metals."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 120,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Back at a support level; next 100% measured move target around 120, at the previous high.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I'm expecting this is going to continue to drift and work higher. Our next target, well, our next target is around the 120."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 95000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     95000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Turned from bear to bull market with a strong uptrend and tight bull flag; 10% upside to 95,000 resistance (he is not taking the trade).",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "There is 10% upside move to $95,000. I am not taking this trade"
+  }
+ ],
+ "notes": "Date stated by host ('Tuesday, September 29th'). Recorded in the morning before/around the open ('Nasdaq up a third of a percent this morning'). Host name not spoken; inferred from channel. BTC target placed in short_term (bull-flag measured move), horizon not stated. Gold miners (GDX) mentioned at ~89.89 without a separate view; IYR and SPYD cited as examples of money leaving rate-sensitive assets (not recorded as calls)."
+}

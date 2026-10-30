@@ -1,0 +1,101 @@
+{
+ "video_id": "5DE1bNp9c1w",
+ "channel": "tastylive",
+ "title": "The CapEx Death Spiral: Why Markets Are More Fragile Than You Think",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "tastylive panel (hosts not named)",
+ "macro_themes": [
+  {
+   "theme": "Regional banks fragile",
+   "view": "Regional banks are levered ~10:1 'Ponzi schemes' facing disruption from AI, DeFi/digital dollars and options-based lending."
+  },
+  {
+   "theme": "AI bubble / two-customer risk",
+   "view": "Hyperscalers depend on OpenAI and Anthropic, both unprofitable; the whole market is a circular bubble that depends on them."
+  },
+  {
+   "theme": "CapEx death spiral",
+   "view": "Hyperscaler debt-funded capex is widening CDS and crowding out the long end; slowing capex would slow earnings and liquidity: a catch-22."
+  },
+  {
+   "theme": "Debt pushing 10-year up",
+   "view": "New debt issuance, including hyperscaler borrowing, is a major reason the 10-year yield keeps rising."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "KRE",
+   "instrument_quoted": "regional banks generally (no instrument quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Regional banks are 10x levered and their moat is eroding from DeFi, digital dollars and options-based lending; a run would collapse them.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Regional banks are Ponzi schemes."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hyperscaler borrowing crowds out the long end, which is a big reason the 10-year keeps rising.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "One of the biggest reasons the 10ear keeps going is because of the total amount of new debt that's being taken."
+  }
+ ],
+ "notes": "Panel discussion; no weekday or date stated, so listing date used. No explicit index call: they call the market a bubble but say \"markets can stay irrational longer than you can stay solvent\". KRE is used as a proxy ticker for \"regional banks\" and was not named. The TNX bias is an explanation of why yields are rising, read as implying they keep rising."
+}

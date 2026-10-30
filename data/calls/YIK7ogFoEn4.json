@@ -1,0 +1,53 @@
+{
+ "video_id": "YIK7ogFoEn4",
+ "channel": "Money Making Market",
+ "title": "Will this week be as easy as last week",
+ "video_date": "2026-10-11",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [
+     7370
+    ],
+    "resistance": [
+     7653
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly expected move 7365-7653 (SPX); 2-hr RSI divergence = pullback risk but no crash signals on daily.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

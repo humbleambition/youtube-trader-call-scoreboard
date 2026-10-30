@@ -1,0 +1,138 @@
+{
+ "video_id": "lKXedRKFve0",
+ "channel": "Meet Kevin",
+ "title": "This is a HUGE SHIFT",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "The 'suckening'",
+   "view": "Huge debt raises (SpaceX $40B for Nvidia chips) and high-yield preferreds pull money from stocks short term."
+  },
+  {
+   "theme": "Iran deal timing",
+   "view": "Trump is posturing; expects a deal announced roughly Oct 20-27, before the Oct 28 Fed meeting, so gas prices fall before the election."
+  },
+  {
+   "theme": "10-year inflection",
+   "view": "10y yield slope has flattened since ~Sep 27; maintains ~5.27% as peak yields; falling yields would lift stocks."
+  },
+  {
+   "theme": "Breadth to reverse",
+   "view": "Record-poor breadth (51% of Russell 3000 down >20% since June) driven by Fed hawkishness should reverse as yields ease."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     748
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "QQQ held well above his 748 line despite the SpaceX debt news; flattening 10y and a coming Iran deal set up a bullish move.",
+   "conviction": "high",
+   "timestamp": "2:45",
+   "quote": "The bottom line of all of this clown show is the market going to go up."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yield slope has flattened (foot off the accelerator); restates his ~5.27% peak-yield call; Morgan Stanley's Wilson says bonds overly hawkish.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "I still maintain that around this level I I called 527 peak Treasury yields."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (generic, ~$100)",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an Iran deal is struck in the Oct 20-27 window as he expects.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects Trump to time an Iran deal so gas prices fall before the midterms (implied lower oil).",
+   "conviction": "low",
+   "timestamp": "9:30",
+   "quote": "Ideal time frame for gas prices to fall before the election and Fed to hold. That would be my guess."
+  }
+ ],
+ "notes": "Date: Kevin says 'There are 27 days left before the election' (US midterms Tue 2026-11-03), giving Wed 2026-10-07; listing approx_date (2026-10-08, '23 hours ago') looks a day late. Oil bias is implied from the gas-price/deal thesis, not a stated oil forecast. '527' read as 5.27% yield."
+}

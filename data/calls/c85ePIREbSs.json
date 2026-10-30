@@ -1,0 +1,501 @@
+{
+ "video_id": "c85ePIREbSs",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Sector Rotation and Stocks to Watch",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host (Rocky)",
+ "macro_themes": [
+  {
+   "theme": "Oil drives equities",
+   "view": "The whole September drop was tied to crude; if crude keeps falling the market goes higher."
+  },
+  {
+   "theme": "Trending market",
+   "view": "Market is trending with island continuations instead of reversals; no sign of a big sell-off."
+  },
+  {
+   "theme": "Brazil election",
+   "view": "Brazil (EWZ) is an underappreciated binary event; leaning toward the conservative candidate winning."
+  },
+  {
+   "theme": "Taiwan / semis",
+   "view": "Strong UMC September sales bode well for TSMC's numbers on Thursday; Asian markets benefit if oil falls."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures (daily/bar chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Trending market grinding higher; the only thing holding it back was oil, which is now easing as tankers route around Iran.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "it's my belief you're in a trending market. The only thing that's really been holding the market back has been oil."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures / QQQ (gamma walls)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Expects some bouncing around and maybe a dip, but no massive sell-off; QQQ rejected the new call wall while the put wall was raised.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "do I see this massive sell-off? Not not like I thought I was going to see yesterday."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Crude peaked mid-September; shipping is working around Iran, so he sees the oil spike as over unless a new macro event hits.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I don't know how you're going to look at a crude oil chart right now and think it's going, you know, higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Accumulation (more buying days than selling days), capacity demand and strong news; Taiwan benefits from falling oil. Started buying the day before.",
+   "conviction": "high",
+   "timestamp": "0:09",
+   "quote": "TSM I like a lot. I started picking at it yesterday."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "SOX (call wall)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     600
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Breadth of the semiconductor index looks fantastic, though 600 is an enormous call wall overhead.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "the socks is at that 600 and that's an enormous call wall... but the breath of the socks looks freaking fantastic."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1700,
+     1650
+    ],
+    "resistance": [
+     1800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Range-bound between 1700 and 1800 with put wall at 1650; owns it and expects it to take time (maybe another earnings) as NAND prices keep rising.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "you're really wedged in between 1,800 and 17, you know, 1700 in my opinion... I like SanDisk."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CBRS",
+   "instrument_quoted": "CBRS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     160
+    ],
+    "resistance": [
+     220
+    ],
+    "invalidation": 160
+   },
+   "condition": "If trading it, premise is it won't break 160; upside to 220.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Support held despite heavy selling; would trade it with 160 as the line and 220 as target, but dislikes the CEO and sees better uses of capital.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "if I was to trade this, it'd be like with the premise of I'm not going to break 160 and maybe I can get up …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "UMC",
+   "instrument_quoted": "UMC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     23.25
+    ],
+    "resistance": [
+     24
+    ],
+    "invalidation": 23.25
+   },
+   "condition": "Over 24 and holding 23.25, after the convertible prices.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "September sales far above estimates; expects gap fill, then a cup-and-handle grind that takes out the highs once the convertible offering is priced.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "as long as I don't break, you know, 23 and a quarter, you're probably okay there... you probably take out the highs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 550,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Acting fantastic since blowout earnings, trending; sold near 505 on rebalance worries, may rebuy on a pullback.",
+   "conviction": "medium",
+   "timestamp": "0:33",
+   "quote": "it looks to me like you're heading right for those devil horns. You're probably getting back to that 550."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU (holds SO and DUK)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Thinks utilities probably bottomed; bought Southern Company and Duke and will sit with them.",
+   "conviction": "medium",
+   "timestamp": "0:34",
+   "quote": "XLU probably bottomed... I bought Southern Company. Um I bought Duke"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ (Brazil)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Binary on the Brazil election; thinks the conservative candidate wins.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "International money flowing into the real ahead of the election; gubernatorial/mayor results suggest the change happens.",
+   "conviction": "medium",
+   "timestamp": "0:34",
+   "quote": "I think it's going to work... I'm leaning that way with this... something that I'm probably going to, you know, get involved with."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Good news and Terafab shared with SpaceX; sees the companies converging, though he dislikes the robotaxi story.",
+   "conviction": "low",
+   "timestamp": "0:37",
+   "quote": "if I look at something like Tesla, I think you're moving on."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MA",
+   "instrument_quoted": "MA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Riding under a big downtrend line; wait for a breakout confirmed by RSI/MACD first.",
+   "conviction": "low",
+   "timestamp": "0:27",
+   "quote": "I wouldn't be in a hurry. I'd wait and see like make sure that they hold"
+  }
+ ],
+ "notes": "Date from listing (no explicit date; 'Happy October', TSMC numbers 'Thursday'). 'Get into the fives' (0:10) refers to an EWT/EWY/TSM chart, unclear which, so not used as a target. QQQ walls quoted as '54' and '47' (truncated) left out. STX discussion (hit 900, push back to 75, Toshiba bidding war) is garbled/inconsistent, so excluded. Passing mentions skipped: nuclear names (BWXT, LEU, CEG: not rushing in), NLST, TXG, PENG (possible earnings play), AMZN, steel."
+}

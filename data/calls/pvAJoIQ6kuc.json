@@ -1,0 +1,140 @@
+{
+ "video_id": "pvAJoIQ6kuc",
+ "channel": "Money Making Market",
+ "title": "IS THE SQUEEZE FINISHED? OR WILL SPY CONTINUE TO $800?",
+ "video_date": "2026-09-26",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Weekly expected moves",
+   "view": "Uses options-derived weekly expected moves as magnets; market in an 'uncomfortable spot' needing confirmation either way."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 782.05,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     767.93,
+     760.65
+    ],
+    "resistance": [
+     774.77,
+     782.05
+    ],
+    "invalidation": null
+   },
+   "condition": "If 2-hour chart confirms up, likely run to weekly expected move 782.05; if 30-minute curls down, risk to 760.65",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "4-hour futures confirmed upturn but 30-minute near center line; weekly expected moves act as magnets.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "that upside move looks juicy if that 2-hour confirms 782.05"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 760.33,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     739.46,
+     728.67
+    ],
+    "resistance": [
+     749.54,
+     760.33
+    ],
+    "invalidation": null
+   },
+   "condition": "Upside confirmation opens weekly expected move 760.33; a 2-hour curl down could take it to 728.67",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible lower high on 2-hour; daily chart shows no reversal signal.",
+   "conviction": "low",
+   "timestamp": "6:30",
+   "quote": "with confirmation here, it opens the door to that weekly expected move of 760.33"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     279.82
+    ],
+    "resistance": [
+     284.12
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "MACD confirmation weak; 2-hour divergence but no price confirmation; fewer than 3-5 reasons to trade.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "I do not believe I have three to five reasons yet to take a trade with IWM"
+  }
+ ],
+ "notes": "Weekend video for the coming week; no date stated, listing date used."
+}

@@ -1,0 +1,49 @@
+{
+ "video_id": "SLqVmZazReM",
+ "channel": "ShadowTrader",
+ "title": "Extended is not Exhaustion!",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Nathan (ShadowTrader)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Today's sell-off: the 8 EMA still hasn't crossed above the 21, so buyers haven't changed the short-term structure; extended is not exhaustion.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "Buyers have had the opportunities, but this 8 still hasn't crossed the 21."
+  }
+ ],
+ "notes": "Mostly an educational piece on extended vs exhausted moves; bias is implied, not an explicit forecast. No date or weekday stated; 'Monday rally a week ago' referenced."
+}

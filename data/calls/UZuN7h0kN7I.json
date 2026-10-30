@@ -1,0 +1,165 @@
+{
+ "video_id": "UZuN7h0kN7I",
+ "channel": "Ricky Gutierrez",
+ "title": "The S&P 500 Is At All-Time Highs... I'm Shorting It!",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Stock market vs economy disconnect",
+   "view": "Record highs driven by AI names mask weakness: worst 10-year bond returns, trade deficit at a 17-month high, foreclosures up 42% y/y."
+  },
+  {
+   "theme": "No leverage at overbought levels",
+   "view": "Markets always pull back; avoid margin at elevated levels."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Shorted the overbought move at record highs intraday (closed same day); warns markets always pull back and he is ready to strike on pullbacks.",
+   "conviction": "low",
+   "timestamp": "3:40",
+   "quote": "I'm telling you like markets always pull on back. I'm not here to predict anything, but they always do."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     396
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold after the Toshiba-news selloff from lows of 396; possible dip-buy for those bullish on markets.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "Now, it's oversold, possibly entertaining maybe a, you know, dip by opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short if it retests tomorrow and price action is in his favor.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Overbought reversal setup after a 7.5% rip; on his watch list to short.",
+   "conviction": "low",
+   "timestamp": "2:20",
+   "quote": "I still think that the setup is there. It's an overbought reversal."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stopped shorting MSTR because the trend has been incredibly bullish.",
+   "conviction": "low",
+   "timestamp": "2:50",
+   "quote": "It's been incredibly bullish lately, and I have to respect the trend."
+  }
+ ],
+ "notes": "Date: host says S&P hit new highs 'today' and the Fed minutes are 'tomorrow' => Tue 2026-10-06 after close (listing approx 2026-10-07). He garbles minutes timing ('2 p.m. Eastern ... about 2 hours before the markets open'). Calls are intraday-trader views, low conviction. WDC 'lows of 396' in WDC dollars. Includes a home-equity/foreclosure solicitation."
+}

@@ -1,0 +1,257 @@
+{
+ "video_id": "66v2ePtGjQo",
+ "channel": "Crypto World",
+ "title": "BITCOIN & CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Short-term cool-off in a larger bull trend",
+   "view": "Daily bearish divergences point to a 1-2 week cool-off, not a crash; would accumulate swing longs/spot after the cool-off."
+  },
+  {
+   "theme": "Stocks lead crypto",
+   "view": "Nasdaq cooling off just under the June all-time high; a confirmed breakout to ATHs later in the week or next would be a strong signal for crypto."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000,
+     81000,
+     80000
+    ],
+    "resistance": [
+     85300,
+     86000,
+     88000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": 81500,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bearish divergence and 86-88K resistance mean another ~week of range; liquidity building at 85.2-85.4K could be swept; weekly bullish divergence and Supertrend point to a 1-2 year bull; would buy around 80-82K.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "around that area, especially in the lower 80k range... I'd start to potentially accumulate a larger swing trade long position"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "Ethereum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "3.3K after breakout above 2.8K",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flat for 5-6 days under 2.8K with an active daily bearish divergence, like the July-August episode that ended in sideways action before the uptrend resumed; break above 2.8K targets 3.3K.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "if or when we eventually break out above 2.8K in that situation, of course, the next major target... 3.3K"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6,
+     1.7
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bearish divergence still active within the 1.30-1.70 range; took small profit on a shared short; expects mild cool-off then larger uptrend.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "it's possible we could continue a little more of a calloff, maybe a slight pullback"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "Solana",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 144,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     119,
+     124
+    ],
+    "invalidation": null
+   },
+   "condition": "144 after a confirmed breakout and hold above 124",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Struggling in 119-124 resistance; first daily close confirming a new bearish divergence; may slowly accumulate a small short; breakout above resistance targets ~144.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "I might even just slowly accumulate a small shorts position here for Salana"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "Chainlink",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 16.8,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     14.1,
+     14.3
+    ],
+    "resistance": [
+     16.5,
+     16.9
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Outperforming and breaking out above 14.10-14.30 resistance into new higher highs; next target ~16.80 (16.50-16.90).",
+   "conviction": "medium",
+   "timestamp": "20:00",
+   "quote": "the next price target is sitting at roughly 1680"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 (4h)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at the exact June all-time high; cool-off could continue a few days before a breakout to new highs later this week or next.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "if we could see a confirmed breakout into all-time highs potentially later in the week, maybe next week"
+  }
+ ],
+ "notes": "Recorded after the close on the first trading day of the \"new week\" = Monday Sep 28 (listing said Sep 29). Duplicate-ish of O9QpI4c-vYM (same host, next upload) with near-identical levels."
+}

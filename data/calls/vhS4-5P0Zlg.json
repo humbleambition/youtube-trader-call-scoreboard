@@ -1,0 +1,105 @@
+{
+ "video_id": "vhS4-5P0Zlg",
+ "channel": "David Lin",
+ "title": "Bond Yields Spike: What Happens To Your Wallet Next? | Steve Hanke",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Steve Hanke",
+ "macro_themes": [
+  {
+   "theme": "Money supply and inflation",
+   "view": "Divisia M4 growing 7.4%, above his 6% 'golden' rate, so inflation (CPI 3.4% y/y, 5.1% 6-month annualised) will not return to 2%; inflation is out of the bottle."
+  },
+  {
+   "theme": "Fed hikes ineffective",
+   "view": "Fed will keep raising rates while labor market holds, but hot AI credit demand keeps money supply accelerating."
+  },
+  {
+   "theme": "Bond yields",
+   "view": "Six drivers (money growth, AI credit demand, tariffs/ad hoc policy, Iran war, China policy, weak confidence) keep yields elevated; risk of a bond buyer strike."
+  },
+  {
+   "theme": "Economy",
+   "view": "No recession signs yet as money supply accelerates, but outside AI investment is falling; an AI bust would be a real problem."
+  },
+  {
+   "theme": "Housing",
+   "view": "Unaffordable for buyers, which supports investing in rental property."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "nominal Treasuries (10y at 5.28%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Would stay away from nominal bonds because of accelerating money supply, AI credit demand, tariffs, Iran war and weak confidence; only TIPS are attractive.",
+   "conviction": "medium",
+   "timestamp": "40:00",
+   "quote": "I I'd stay away from these nominal bonds... the nominals. I I I wouldn't get into them."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4200,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 6000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Secular gold bull intact despite rising yields; sees the eventual market top at $6,000-7,000.",
+   "conviction": "high",
+   "timestamp": "42:00",
+   "quote": "the secular bull is intact and and it'll continue to go up... the top of the market will be like $6,000 $7,000 an ounce"
+  }
+ ],
+ "notes": "Host states Tuesday, September 29th. Gold target given as a range $6,000-7,000 (recorded 6000). TLT used for his avoid-nominal-bonds view; he implies yields stay high but gives no explicit yield target."
+}

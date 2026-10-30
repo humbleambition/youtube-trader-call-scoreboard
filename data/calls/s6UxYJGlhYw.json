@@ -1,0 +1,90 @@
+{
+ "video_id": "s6UxYJGlhYw",
+ "channel": "Verified Investing",
+ "title": "Why A Great Chart Can Still Be A Bad Options Trade",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (Verified Investing)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "JNJ",
+   "instrument_quoted": "JNJ",
+   "price_at_call": 254,
+   "short_term": {
+    "bias": "bearish",
+    "target": 245,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     244.6,
+     245,
+     246.35
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Selling 4 days; target 244-246 zone = rising trendline from Apr 2025 (~245), pivot shelf 246.35, unfilled gap 244.60. Passed on the put trade due to low delta, 80th-pct IV and bullish put/call.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I think it has further downside, and with that, my target is roughly in between here from 244 to 246. Let's call it 245."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 243,
+   "short_term": {
+    "bias": "bullish",
+    "target": 245,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     240
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Follow-up on prior day's call buy: the 240 call wall broke and price pushing toward the 245 target.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "Well, guess what, Tabby? It broke and we're still pushing up to the upside today. Nvidia um at 243 intraday"
+  }
+ ],
+ "notes": "Date: Oct 16 expiry '10 days out' and Dec 18 '73 days out' → Tuesday 2026-10-06 (listing said 10-07); prices quoted intraday. JNJ 'trade' was explicitly passed; bias still recorded."
+}

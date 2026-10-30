@@ -1,0 +1,89 @@
+{
+ "video_id": "KYo1tzNRekc",
+ "channel": "CPM Group",
+ "title": "Is Now the Time to Invest? Market Signals & Opportunities",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian (CPM Group)",
+ "macro_themes": [
+  {
+   "theme": "Rates",
+   "view": "Yields plateauing, may rise a bit then fall in 2027"
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Uncertainty and rate backdrop favor metals; may recommend buying as early as tomorrow.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "we may recommend buying gold and silver as early as tomorrow"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same as gold.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "our view is that the price is going to rise"
+  }
+ ],
+ "notes": ""
+}

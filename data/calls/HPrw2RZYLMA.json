@@ -1,0 +1,95 @@
+{
+ "video_id": "HPrw2RZYLMA",
+ "channel": "Gareth Soloway",
+ "title": "Bitcoin Dominance Warning? Alts About To Collapse? Deep Dive Into Crypto",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Bitcoin dominance rising",
+   "view": "BTC.D retested its broken downtrend line; a push higher would mean alts drop 30-50% while BTC chops or pulls back ~10-20%."
+  },
+  {
+   "theme": "Cycle low in",
+   "view": "Still thinks Bitcoin's cycle low is in despite near-term risk."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000
+    ],
+    "resistance": [],
+    "invalidation": 81000
+   },
+   "condition": "A daily close below 81,000 fails the bull flag and opens a 10-20% pullback toward the mid-70s/~70,000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull flag gives a near-term bullish bias, but overhead trend line, prior bear-flag supply zone and a rising BTC dominance chart warn of a pullback.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "the bull flag ... gives me a bullish bias near term. But ... Bitcoin could be on the verge of the bull flag failing"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding his remaining short on Chainlink (in the money, break-even stop) because rising BTC dominance implies alts get crushed.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I have a short left on Chainlink ... I'm okay holding that based on what I'm seeing here"
+  }
+ ],
+ "notes": "Posted on the Gareth Soloway channel but introduced as verifiedinvesting.com. No date stated in transcript. Altcoins in general expected to fall 30-50% if BTC.D rises; BTC.D itself not recorded as a call."
+}

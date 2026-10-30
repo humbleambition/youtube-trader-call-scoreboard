@@ -1,0 +1,54 @@
+{
+ "video_id": "-e9je44Oju8",
+ "channel": "Meet Kevin",
+ "title": "Apple's Next Device.",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Subscription bundling",
+   "view": "Big tech bundling into 'One' subscriptions drives high-margin ARR; smart strategy."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": 337,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Smart-home hub, Duo and Apple One/AppleCare One drive ARR; he models 20% annual EPS growth vs ~9.9% consensus, implying $495-500.",
+   "conviction": "high",
+   "timestamp": "12:50",
+   "quote": "I look at this as about a $495 to $500 stock, which I know sounds crazy because the stock has already done quite well"
+  }
+ ],
+ "notes": "No date stated in transcript; Apple smart-home launch said to be Oct 13. Kevin owns AAPL; sent buy alert at 310-315 during Apple event."
+}

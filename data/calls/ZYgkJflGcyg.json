@@ -1,0 +1,579 @@
+{
+ "video_id": "ZYgkJflGcyg",
+ "channel": "Money Making Market",
+ "title": "HOW A CRASH SIGNAL FAILS!!! SPY TO $800!",
+ "video_date": "2026-10-04",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Failed crash signal",
+   "view": "The daily lower-high sell signal on SPY was violated by a 2-hour MACD cross up, so the bearish setup is failing and upside to new highs is favoured."
+  },
+  {
+   "theme": "Bond breakdown",
+   "view": "TLT broke 82.50, a level held since 2002, with no reversal signals: expect more downside in bond prices."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 780.9,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     766.13,
+     759.19
+    ],
+    "resistance": [
+     773.15,
+     780.9
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish while the 2-hour MACD stays crossed up; if it crosses down, expect a drop to the weekly expected move 759.19.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour MACD crossed up, violating the daily lower-high sell signal; targets the weekly expected move 780.9 and still expects 800 eventually.",
+   "conviction": "medium",
+   "timestamp": "5:30",
+   "quote": "you are more probable to go up to 7809 by the end of the week than you are to go to the downside"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 764.5,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     744.66,
+     734.66
+    ],
+    "resistance": [
+     754.5,
+     764.5
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish continuation unless the 2-hour MACD crosses down, which would open 734.66.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour confirmed up with no lower high or divergence; pullbacks into the gap should be bought, targeting weekly move 764.50.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "the more probable thing here is continuation from what we are seeing"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     279.63
+    ],
+    "resistance": [
+     283.41,
+     289
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs the 2-hour to go positive; failure means test the low and make a new one.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated 2-hour bullish divergences and a strong 30-minute chart favour a daily bounce; 289 is the critical level.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "the 30 minute is in such a good stance here that it could just keep curling to the upside"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "DIA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     518,
+     522.5
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 30-minute rolls over as the 2-hour divergence confirms, risk of a new low.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour divergences confirmed into week's end after a long daily decline that may need relief; weaker setup than IWM.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "we can start to dabble with 518. We can start to dabble with 52250"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 12.12,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     15.04
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour chart going negative suggests lower highs and a daily breakdown in volatility.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "it just looks like the daily scale wants to now break down to 1212"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     79,
+     82.5
+    ],
+    "invalidation": null
+   },
+   "condition": "A 30-minute higher low/divergence could give a bounce toward ~79 that may fail.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke the 82.50 level held since 2002 with no weekly or daily reversal signal and a failed daily divergence; expect more downside.",
+   "conviction": "medium",
+   "timestamp": "15:30",
+   "quote": "That means we should expect more and more downside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long only with care; a 30-minute cross down means the trade is failing.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "30-minute divergence suggests a 2-hour reaction, but the 2-hour is still negative, so caution and small size.",
+   "conviction": "low",
+   "timestamp": "17:30",
+   "quote": "I want to be very cautious with plays right now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     380
+    ],
+    "invalidation": null
+   },
+   "condition": "Risk if the 2-hour, sitting on the center line, crosses down.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "30-minute shows no weakness; pullback into buyers then confirm up to test the high and target ~380/weekly move.",
+   "conviction": "low",
+   "timestamp": "19:30",
+   "quote": "that would just say I'm continuing the positive trend. test the high, go make a new one. And now we're dabbling with 380"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 30-minute divergences confirm and the 2-hour rolls, risk of a new low.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher low set and price action took out critical levels; could test the high, but watch for a lower high.",
+   "conviction": "low",
+   "timestamp": "20:30",
+   "quote": "I don't mind this look at all"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Exit if the 2-hour MACD crosses down; re-enter on a higher low.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pop violated divergence points; can withstand a 30-minute pullback as buyers step in.",
+   "conviction": "low",
+   "timestamp": "21:30",
+   "quote": "I think you could withstand a 30-minute pullback for Nvidia and those buyers could step up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     525
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the 2-hour confirms down, risk of a daily pullback to ~525 or deeper.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong 30-minute move but 2-hour divergence on MACD and RSI.",
+   "conviction": "low",
+   "timestamp": "22:30",
+   "quote": "That daily pullback could take you all the way back down into like 525"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A confirming 2-hour bar up would target the weekly expected move; a continued flag risks further downside.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily screaming move; 2-hour lacks strong divergence but price is getting 'flaggy'.",
+   "conviction": "low",
+   "timestamp": "23:00",
+   "quote": "this is starting to be very very flaggy"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     513.76
+    ],
+    "invalidation": null
+   },
+   "condition": "A burst above 513.76 on the 30-minute could reach the weekly expected move.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily is tightening with divergences and could roll into a weekly pullback; not excited to buy now.",
+   "conviction": "low",
+   "timestamp": "24:30",
+   "quote": "am I dramatically excited about getting into Microsoft right this second? I think no"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows near the center line suggest the daily can curl up early next week.",
+   "conviction": "low",
+   "timestamp": "26:30",
+   "quote": "Google is going to attempt to see an upward move early on next week"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Screaming move up; daily divergence forming but not confirmed, 30-minute positive with no lower high.",
+   "conviction": "low",
+   "timestamp": "27:00",
+   "quote": "continuation would be the most probable here for the 30 minute"
+  }
+ ],
+ "notes": "Weekend video, no date stated; listing approx_date used. Expected-move numbers spoken without decimals ('7809'=780.90, '75919'=759.19, '76450'=764.50); QQQ levels as spoken look high relative to SPY but recorded as said. '800' long target is from title/opening ('we still have not hit 800'), assigned to medium term. VIX levels '1212'/'1504' interpreted as 12.12/15.04 (low confidence). 'Tesla low, go make a new one' is a transcription error for 'test the low', not a TSLA call. Ran out of time before AMC/GME."
+}

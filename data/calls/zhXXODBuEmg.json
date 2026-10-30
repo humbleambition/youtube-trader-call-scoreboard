@@ -1,0 +1,175 @@
+{
+ "video_id": "zhXXODBuEmg",
+ "channel": "Sean Foo",
+ "title": "Bessent PANICS as Bonds Collapse to 25 Year Low - Europe Just Confirmed the End Game",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Treasury bear market",
+   "view": "Bondholders lost ~-2%/yr over a decade; demand for Treasuries dropping; refinancing wave at 5.3% will balloon interest costs."
+  },
+  {
+   "theme": "Policy endgame",
+   "view": "Either demand destruction lowers yields or Fed QE and the dollar collapses."
+  },
+  {
+   "theme": "Euro/France bond crisis",
+   "view": "France has lost control of its bond market; euro at 17-month low; contagion risk to Italy and Spain."
+  },
+  {
+   "theme": "Central banks to gold",
+   "view": "ECB/Bundesbank voices urge diversifying reserves into gold."
+  },
+  {
+   "theme": "Equity bubble",
+   "view": "Inflows into US equities inflate an AI bubble that will unravel if rates keep climbing."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.3,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil-driven inflation, huge deficits and $15T refinancing wall keep pushing yields up; no credible fiscal fix.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "rates keep climbing nonstop"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bonds no longer a safe reserve; currency debasement; central banks urged to diversify into gold.",
+   "conviction": "medium",
+   "timestamp": "14:50",
+   "quote": "You cannot just rely on US bonds as your emergency backs stop anymore. You got to hold other things like gold"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "French bond rout and expected ECB rescue (rate cuts, QE or austerity) all negative for the euro.",
+   "conviction": "medium",
+   "timestamp": "9:55",
+   "quote": "whatever option Christine Lagard chooses, none of them are good for the currency"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US equities",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If interest rates keep climbing.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Equity inflows above 3% of GDP inflating an AI bubble vulnerable to higher rates.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "It just inflates an even bigger bubble that will still unravel badly if interest rates keep climbing"
+  }
+ ],
+ "notes": "No date stated; listing date used. EURUSD is outside the canonical list. Bond-price (TLT) view implied by bond losses but captured via TNX only."
+}

@@ -1,0 +1,214 @@
+{
+ "video_id": "VrIFAZnNvnE",
+ "channel": "Verified Investing",
+ "title": "Litecoin's 7x Volume Breakout: Key Levels On LTC, BTC, ETH, SOL and XRP",
+ "video_date": "2026-09-24",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Jake Sweeney",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "LTC",
+   "instrument_quoted": "LTC/USD",
+   "price_at_call": 74,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 90,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     64,
+     64.8,
+     71,
+     73
+    ],
+    "resistance": [
+     80,
+     84.84,
+     86.4
+    ],
+    "invalidation": null
+   },
+   "condition": "Break past 84.84/86.40 resistances and long-term trendline for 90-100; better buy on retest of 64-64.8",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout on 8th touch of descending trendline on 7x volume.",
+   "conviction": "medium",
+   "timestamp": "2:30",
+   "quote": "continue on higher past the 90 to $100 hopefully for Litecoin"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82814,
+     79500
+    ],
+    "resistance": [
+     88483
+    ],
+    "invalidation": null
+   },
+   "condition": "If it pushes higher, next key level 88,483; if lower, bounce near 79.5k",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flat; sitting on trendline after bounce from 82,814 pivot.",
+   "conviction": "low",
+   "timestamp": "5:15",
+   "quote": "that's the level I'm watching that 88,483"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 2880,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2880,
+     2940,
+     3000
+    ],
+    "invalidation": null
+   },
+   "condition": "If repeated tests break the down-sloping trendline from Dec 10, 2025",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated hits on a descending trendline tend to break upside, like LTC.",
+   "conviction": "low",
+   "timestamp": "6:30",
+   "quote": "If we do, I could see us getting to this pivot top at 2880"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 126.03,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     105
+    ],
+    "resistance": [
+     120,
+     126.03
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above the trendline (~120)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hammering trendline with converging support near 105 in a wedge.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "I could see us going to this low pivot here, consolidation area at 12603 for Solana"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1.771
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Needs to clear 1.7710 pivot; otherwise retrace to broken down-sloping trendline.",
+   "conviction": "low",
+   "timestamp": "8:45",
+   "quote": "What I want to see for ... XRP is to get past this low pivot right here. That is at $1.7710"
+  }
+ ],
+ "notes": "Host says 'happy Thursday' -> Thu 2026-09-24 (listing 09-25)."
+}

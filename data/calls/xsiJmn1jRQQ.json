@@ -1,0 +1,136 @@
+{
+ "video_id": "xsiJmn1jRQQ",
+ "channel": "tastylive",
+ "title": "Why Cem Karsan Says Stocks Ignore a Bond Market in Free Fall",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "macro_interview",
+ "speaker": "Cem Karsan (Kai Media), with Jermal Chandler (tastylive)",
+ "macro_themes": [
+  {
+   "theme": "Manufactured rally into midterms",
+   "view": "Administration (Treasury buybacks, oil jawboning, friendly payrolls) is propping equities until the Nov 3 midterms; incentive ends after."
+  },
+  {
+   "theme": "Bond market crisis",
+   "view": "Long end breaking out structurally (refinancing wall, AI capex crowding out credit, Hormuz inflation, foreign buyer strike); without intervention yields go to 6-7%."
+  },
+  {
+   "theme": "QE coming",
+   "view": "Expects large long-end QE/yield-curve facility sometime between the midterms and June 2027, likely triggered by a crisis, plus sovereign wealth fund buying stocks."
+  },
+  {
+   "theme": "Vol divergence",
+   "view": "MOVE and CDS rising while equity vol is suppressed; equity vol should catch up."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "into Nov 3 midterms"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "after midterms: 25-40% decline"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Up into the midterms; after the midterms authorities step away and a 25-40% decline is likely; if no crisis comes, QE at all-time highs keeps the market screaming.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Equity strength is manufactured by Treasury/administration levers that end at the midterms while the bond market is already in crisis.",
+   "conviction": "medium",
+   "timestamp": "7:45",
+   "quote": "I've been very adamant, they can control this very well for 4 weeks."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 7.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Absent Fed/Treasury intervention (long-end QE facility).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Refinancing of 2020-21 debt, AI capex borrowing crowding out, structural Hormuz inflation and international buyer strike leave no bids for bonds.",
+   "conviction": "high",
+   "timestamp": "9:30",
+   "quote": "Otherwise, it is a non-stop move. Not to Not to six. To seven. Okay? That's where this bond market's going without intervention."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX / equity vol",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "after midterms"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Equity vol suppressed while MOVE index and credit default swaps rise; underlying vol to express itself once management stops after midterms.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "The reality is there is a real suppression of equity volatility."
+  }
+ ],
+ "notes": "Date from 'midterm election 28 days away' (Nov 3, 2026) -> 2026-10-06, matches listing; refers to today's close up 60+ points. 10y at ~20-year high and DXY at 17-month high noted without forecast. Yield targets 6/7 are 'without intervention' levels, not unconditional targets. Host Jermal's name transcribed 'Jamal'; Cem called 'Jim'."
+}

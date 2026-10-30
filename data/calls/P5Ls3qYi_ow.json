@@ -1,0 +1,138 @@
+{
+ "video_id": "P5Ls3qYi_ow",
+ "channel": "Ricky Gutierrez",
+ "title": "8% MORTGAGE RATES ARE COMING! (Get Ready)",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Long yields / mortgages",
+   "view": "30-year Treasury over 5.6%, highest since 2002; expects 8% mortgage rates imminently."
+  },
+  {
+   "theme": "Weak labor = fewer hikes",
+   "view": "Softer JOLTS is good news because it limits Fed hiking; PCE due tomorrow."
+  },
+  {
+   "theme": "Narrow breadth",
+   "view": "56% of S&P stocks below 200-day MA; AI names carry the index while non-AI names (MCD, WMT, NFLX, CMG) lag; asks if buying at elevated levels is worth the pullback risk."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year Treasury yield",
+   "price_at_call": 5.6,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "30-year above 5.6%, highest since June 2002; bond yields trading higher after Iran deal reports were denied.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "The 30-year US Treasury bond is now yielding over 5.6% ... 8% mortgages are due to be sent next week"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     900
+    ],
+    "resistance": [
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Earnings tomorrow; technicals don't matter into the report. Expects EPS ~$31 on ~$50B revenue; history of big moves (+5%, +7%, -19%); fundamentally cheap P/E but 'up to you' on risk.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "technicals mean nothing when it comes to this company being about to release an earnings report"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     143
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shorted the overbought reversal off highs near 143, added on confirmation, covered for ~$4,600; still sees some downside potential.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I still see some potential for a deficit. I just didn't want to take the risk"
+  }
+ ],
+ "notes": "Transcript appears machine-translated. 'Happy Tuesday' + '2 days left' in September -> Sep 29 (listing 09-30). MU resistance garbled as '$110 to $1,100'; recorded resistance 1100, support 900. 'deficit' likely = 'downside'. Passing mentions skipped: BE, NBIS ('NBI S'), LITE ('L I T E'), CRWV ('Core we'), QQQ caution (no stated bias)."
+}

@@ -1,0 +1,99 @@
+{
+ "video_id": "13t14hACj-Y",
+ "channel": "Ricky Gutierrez",
+ "title": "ANTHROPIC IPO: Don't Buy Until You Watch This!",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "AI IPO bubble",
+   "view": "Anthropic's rumored ~$2T IPO valuation with ~$42B net loss is too expensive to invest in; only worth trading for momentum, likely like SpaceX: breakout then sharp correction."
+  },
+  {
+   "theme": "Bond crisis",
+   "view": "30y Treasury above 5.56%, highest since 2003; the bond crisis keeps getting worse."
+  },
+  {
+   "theme": "Market overbought",
+   "view": "Markets are overbought and testing major support; a break would drag everything lower."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 700,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if QQQ breaks its major support range, expect retrace to ~700",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Markets overbought and testing a major support range amid Iran deal uncertainty and rising long yields.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "if we do, then we'll most likely retrace back down to lows of 700 for QQQ."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 155,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     155
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Shorted overbought reversal after Iran sanctions-relief report was denied and BTC corrected; position closed same day.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "I shorted this. I didn't make as much as I wanted to cuz I thought that we could go back to retest the lows of …"
+  }
+ ],
+ "notes": "Anthropic IPO discussed at length but not tradable (no ticker), so not recorded: won't invest at ~$2T IPO valuation, open to trading momentum. MSTR short was intraday and closed. Date from listing; Iran 'final response on Tuesday' suggests around Mon-Tue Sep 28-29."
+}

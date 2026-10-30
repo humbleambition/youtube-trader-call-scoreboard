@@ -1,0 +1,66 @@
+{
+ "video_id": "hUdk2DuTDYM",
+ "channel": "Meet Kevin",
+ "title": "the fed JUST warned | hiking could be a big mistake",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Fed hiking into AI inflation could be a mistake",
+   "view": "Lisa Cook argues sector-specific AI price inflation should resolve as supply comes online; hiking into it risks a Greenspan-style mistake."
+  },
+  {
+   "theme": "Deflationary forces ahead",
+   "view": "Outside geopolitics, AI supply, concentrated productivity gains, stagnant wages and job reallocation are all disinflationary/deflationary."
+  },
+  {
+   "theme": "Fewer hikes than priced",
+   "view": "Thinks odds of no further hikes are ~30-40% (vs ~10% priced on Kalshi) if an Iran deal brings oil down and the Fed holds in October."
+  },
+  {
+   "theme": "Memory pricing",
+   "view": "HBM price growth forecast to roll over in 2H27; Micron's forward pricing commentary is the tell."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": 105,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Conditional on an Iran deal, which he expects (\"I think it's going to happen\")",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects an Iran deal within ~5-6 weeks before the election, which could take oil from ~$105 to $70-80 with the Saudi East-West pipeline already open.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "we get an Iran deal between now and then, and then all of a sudden, oil goes from $105 to $80 or $70"
+  }
+ ],
+ "notes": "Micron earnings \"tomorrow\" => recorded Tue Sep 29 (matches listing). Mostly a Fed/macro commentary; oil target given as a $70-80 range (no single target recorded)."
+}

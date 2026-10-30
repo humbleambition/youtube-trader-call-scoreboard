@@ -1,0 +1,99 @@
+{
+ "video_id": "gFg_Z6TcT4A",
+ "channel": "Ricky Gutierrez",
+ "title": "ALERT: GETTING READY TO SHORT EVERYTHING...",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Yields vs stocks divergence",
+   "view": "Nasdaq at all-time highs while bond yields flash red flags is unsustainable."
+  },
+  {
+   "theme": "Overbought, slingshot effect",
+   "view": "Markets are stretched; a correction is expected eventually, a time to prepare to short or hold cash."
+  },
+  {
+   "theme": "Storage supply",
+   "view": "Toshiba supply increase is a catalyst that may hurt WDC and memory names."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq at all-time highs and incredibly overbought amid high yields, oil, inflation and Middle East risk; prepares to short a pullback, citing a ~7.5% drop back to the 700 QQQ prior low as possible; long term markets more bullish than bearish.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "markets are at all-time highs, we're incredibly overbought and this is my favorite time to prepare for markets to pull on back."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish direction even while Nasdaq is bullish; down ~50% from ~800 high after Toshiba supply news; traded it short intraday (+$4,200) but would not hold overnight.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "I don't personally see as of right now Western Digital to be a good investment."
+  }
+ ],
+ "notes": "'Happy Monday' -> Mon Oct 5 (listing Oct 6); same-day follow-up to e4Jg-HLUiOk. QQQ 700 is a hypothetical pullback level ('if it were to return to previous lows of 700'), kept as support not target. MSTR short (lost $453) skipped. Long-term holds MU/AAPL/NVDA mentioned generically."
+}

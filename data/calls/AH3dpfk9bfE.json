@@ -1,0 +1,52 @@
+{
+ "video_id": "AH3dpfk9bfE",
+ "channel": "ShadowTrader",
+ "title": "CBRS - Back to the well!",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "deep_dive_stock",
+ "speaker": "Brad (ShadowTrader; sign-off \"Brad Agonis\")",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CBRS",
+   "instrument_quoted": "CBRS (Cerebras) stock and options",
+   "price_at_call": 173,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     162.5,
+     160.81
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Sell the 162.50 (or 160) Friday put, or a 160/155 bull put spread; if assigned, sell an upside call immediately (Oct 16 expiry).",
+   "action": "buy",
+   "entry": 162.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stock has tested its all-time-low area (~160.81) about five times; sees good trade location to sell puts and own stock. He is already long and short the 162.50 put for 0.79.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I still think that this area is relatively safe."
+  }
+ ],
+ "notes": "Host says \"on Wednesday morning before the bell\" -> 2026-10-07. Price ~172.5-173.5 premarket after a 177 close. \"Bias\" means the stock holds above ~162.50 into Friday (short-put stance); no upside target given."
+}

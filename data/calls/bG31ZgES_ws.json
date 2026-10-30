@@ -1,0 +1,89 @@
+{
+ "video_id": "bG31ZgES_ws",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *V-BOTTOM* Could PRINT MONEY on Thursday!",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (JJ)",
+ "macro_themes": [
+  {
+   "theme": "Event risk",
+   "view": "Plan could change with Trump, the Iran situation and Friday's nonfarm payrolls."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures (4,000-tick and hourly charts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Prefer buying a retest/bear trap below swings off the V-bottom low or range breakout-pullback; don't chase or sell lows.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big move up last week, pullback retested; breakout-pullback off trading range with buyers in control of momentum; targets retest of recent high.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "one of my favorite trades for tomorrow is I would love to buy the retest, take out that low"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures (4,000-tick and hourly charts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy retest of the low / bear traps below swings; if it rips, buy two-legged pullbacks or pop-and-grind channel lows, target measured moves and retest of highs.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P completed its retest ('mission accomplished'); range rotation off the low with open space above toward recent highs.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "now we pave the way for that run all the way back up to take out those recent highs"
+  }
+ ],
+ "notes": "Recorded evening of Wed Sept 30 for the Thursday Oct 1 session ('The month of September is finished. We got October 1st for tomorrow morning'). No price levels given; targets are 'retest of the high' / measured moves, so null."
+}

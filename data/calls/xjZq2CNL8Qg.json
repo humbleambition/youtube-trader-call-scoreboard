@@ -1,0 +1,261 @@
+{
+ "video_id": "xjZq2CNL8Qg",
+ "channel": "Geeks of Finance",
+ "title": "Where The Options Market Is Pointing Next",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Anthony and Shawn (Geeks of Finance)",
+ "macro_themes": [
+  {
+   "theme": "Metals consolidation",
+   "view": "After the summer run-up, metals likely consolidate; GLD needs to reclaim 400 for positive momentum."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7671.19,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 7800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7670,
+     7632
+    ],
+    "resistance": [
+     7665,
+     7700
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Three layers of support (10/20-day SMA ~7,670, 50-day EMA 7,632, summer uptrend) plus large gamma above at 7,700 and bullish flows favor a bounce; Shawn sees 7,800-8,000 by year end but not new highs immediately.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "makes us think that we're more likely to see a bounce in the near term than a larger scale sell-off."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     15,
+     14
+    ],
+    "resistance": [
+     17,
+     20
+    ],
+    "invalidation": null
+   },
+   "condition": "Above 17 opens 20; a market rebound points to 15",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Negative GEX between 15-17; net GEX turned negative; VIX has bottomed in the 14 zone all year.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "for now, we need to watch out for 20 if the VIX can get above 17."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "GLD",
+   "price_at_call": 383,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 400,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     380
+    ],
+    "resistance": [
+     400,
+     450
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs to get back above 400; then better odds of 450",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Broke below 50-day EMA, MAs rolling over, negative gamma; but positive net flows and big call positioning at 450 into 2027.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "About 400 is going to be our first target."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "SLV",
+   "price_at_call": 55,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50,
+     55
+    ],
+    "resistance": [
+     58,
+     60
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Dipped from 58 to ~55, below 50-day EMA, mostly negative flows (call selling at 60); expects consolidation.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "Our view is that there's going to be some consolidation in the metals markets."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1200,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1100,
+     1050,
+     1000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Very positive GEX into earnings suggests 1,100 and possibly 1,200 despite price under the daily HMA; holds a put credit spread.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "we do think 1,200 has a good shot of being reached."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 739.02,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     722.73,
+     710
+    ],
+    "resistance": [
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pulled back to the 10-day SMA after the Muse-driven breakout and bounced 3.26% on big bullish flows; gamma at 800 with dealer selling above it.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "That's our ultimate target is is that 800 strike heading into October."
+  }
+ ],
+ "notes": "Date: 'yesterday... big gap down... into Monday' and Micron earnings 'tomorrow after the bell' -> Tue 2026-09-29; listing said 09-30. Year-end SPX range 7,800-8,000 from Shawn; lower bound recorded as target."
+}

@@ -1,0 +1,60 @@
+{
+ "video_id": "rTZLwzcQ5-0",
+ "channel": "Gareth Soloway",
+ "title": "S&P 500 Breaks Out: 3 Trend Lines Point to 8,000, Then WATCH OUT!",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Stocks rising despite 5.3% 10-year",
+   "view": "Inflation easing (PCE below forecast), growth-driven yields, US as best house on a bad block, strong earnings, earnings season and new-quarter inflows keep stocks rising."
+  },
+  {
+   "theme": "Hawkish Fed is bullish",
+   "view": "Warsh raising rates shows an adult in the room, which markets read as positive."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "At ~8000 (three converging trend lines) he will start taking shorts for a swing trade and get more conservative on longs.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull flag / inside bar breakout to a new high above the Aug 13 highs; three trend lines (pivot highs, COVID low, March 2026 low) all meet at 8000.",
+   "conviction": "high",
+   "timestamp": "7:40",
+   "quote": "We get to 8,000. I'm going to start taking some shorts on this market."
+  }
+ ],
+ "notes": "Date: host says S&P made a new all-time high 'today', taking out Aug 13 highs; matches Tue 2026-10-06 (listing approx 2026-10-07). He has been bullish since 7575; 'as we get close to 4 500 points above that level' is garbled (8000 is ~425 points above 7575). Also implies a bearish swing after 8000 is reached (not a separate time frame). 10y yield ~5.3% noted, no call on it."
+}

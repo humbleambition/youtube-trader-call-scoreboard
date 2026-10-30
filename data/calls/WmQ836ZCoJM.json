@@ -1,0 +1,213 @@
+{
+ "video_id": "WmQ836ZCoJM",
+ "channel": "Gareth Soloway",
+ "title": "Gold And Silver Technical Analysis  Forecasting Precious Metals 1",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "10y yield double top",
+   "view": "10y hit ~5.28%, the exact 2007 high; expects a rejection and pullback toward ~4%, but debt keeps a floor around 4-4.5%."
+  },
+  {
+   "theme": "Metals trendline break",
+   "view": "Gold and silver broke major trendlines; short-term downside toward prior lows, long-term bull intact."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.28,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 4.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.28
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Double top at the 2007 high after 19 years; odds favor a rejection, though shallower than past ones.",
+   "conviction": "medium",
+   "timestamp": "2:50",
+   "quote": "I still think we pull back into the 4% level"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3900,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 13000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3900,
+     3700,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Small swing long taken near 4,100 on the flush; would add lower and buy physical at ~3,500",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke ascending channel trendline; likely tests double bottom just above 3,900 and possibly retraces to the breakout \"scene of the crime\" 3,800-3,500, maybe by January; long-term target 13,000 by 2029-2031.",
+   "conviction": "medium",
+   "timestamp": "8:30",
+   "quote": "if we get through that, we're likely headed down here to 3,700 and potentially 3,500 on gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Will start nibbling at $55, more at $50",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same trendline break; tendency to retest the 1980/2011 horizontal breakout near $50.",
+   "conviction": "medium",
+   "timestamp": "9:40",
+   "quote": "first level $55 I'll start to nibble"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 1500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy level starts around 1,500",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking key support with a descending trendline.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "My buy level starts around 1,500"
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 1150,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1150,
+     1100
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buyer below 1,150 down to ~1,100",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke down from a bear flag and moving lower.",
+   "conviction": "low",
+   "timestamp": "11:10",
+   "quote": "I'm an intrigued buyer below $1,150 all the way down to about 1,100"
+  }
+ ],
+ "notes": "Date inferred: host did his weekly weekend live Q&A 'yesterday', so recorded Monday 2026-09-28 (listing 2026-09-29). Gold down ~4%, silver >5% that day; spot prices not stated."
+}

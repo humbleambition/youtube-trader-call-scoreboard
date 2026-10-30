@@ -1,0 +1,128 @@
+{
+ "video_id": "XJeulcX-9nI",
+ "channel": "tastylive",
+ "title": "Lance Breitstein on How the Best Traders Know Exactly When to Size Up",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Lance Breitstein (guest); host Chris (tastylive)",
+ "macro_themes": [
+  {
+   "theme": "Regime awareness",
+   "view": "Market is bullish (QQQ at ATH) but leadership is mixed: SanDisk/Micron, ARM, Intel, Qualcomm well off highs, so not every breakout works."
+  },
+  {
+   "theme": "Position sizing",
+   "view": "Size up only on A+ setups in play, like hot IPOs (SpaceX)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "QQQ at ATH and 'definitely a bullish market', though momentum breadth weaker than the spring.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "I would describe this as like yeah we're definitely in a bullish market like no no doubt about it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Host Chris flipped from short call spreads to long as SpaceX broke out, reasoning Tesla follows SpaceX.",
+   "conviction": "low",
+   "timestamp": "7:20",
+   "quote": "I saw SpaceX starting to break out and if SpaceX is going then Tesla probably goes and flipped and just got long"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX (newly IPO'd stock)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hot IPO (priced 135, opened 150, ran to 230) that host saw breaking out; guest's playbook is long hot IPOs on opening drive.",
+   "conviction": "low",
+   "timestamp": "7:20",
+   "quote": "I saw SpaceX starting to break out"
+  }
+ ],
+ "notes": "Mostly a trading-process interview; calls are thin and low conviction. TSLA/SPACEX views are the host's, not the guest's. Host references 'Friday' and 'today', likely recorded Monday Oct 5 but not certain; listing date used."
+}

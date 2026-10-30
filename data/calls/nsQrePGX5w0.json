@@ -1,0 +1,394 @@
+{
+ "video_id": "nsQrePGX5w0",
+ "channel": "Figuring Out Money",
+ "title": "The First Domino Hasn't Fallen",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Figuring Out Money host",
+ "macro_themes": [
+  {
+   "theme": "Limited upside, bigger downside",
+   "view": "S&P has ~3-5% upside left to ~8,000-8,100 (JPM collar 8,060) in a seasonally bullish Q4, but downside opens up if it loses the gamma flip; weekly momentum is slowing."
+  },
+  {
+   "theme": "Yields first, stocks second",
+   "view": "At big tops yields peak first; yields still making highs so stocks can run, but a yield roll-over would be a warning. 2026 yield run mirrors the 2018 midterm analog."
+  },
+  {
+   "theme": "Bonds not a safe haven",
+   "view": "TLT at new lows; S&P/TLT relative RSI frothy (81.5), which in the past preceded consolidation."
+  },
+  {
+   "theme": "Rate-sensitive relief",
+   "view": "Goldman risk-appetite factor at -8; if yields back off, real estate, utilities, Russell and homebuilders could snap back; NYSE breadth deeply washed out."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX (targets); SPY (expected-move levels)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8060,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7670,
+     770,
+     771
+    ],
+    "resistance": [
+     8060,
+     8200,
+     778.38,
+     780
+    ],
+    "invalidation": 7670
+   },
+   "condition": "Upside ~8,000-8,100 (8,200 quarterly EM) while above the ~7,670 gamma flip; below it downside 'opens the door'.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "JPM collar upper bound and yearly implied move cap upside; Q4/midterm seasonality bullish, but weekly MACD/RSI divergence and frothy S&P/TLT ratio suggest consolidation or pullbacks.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "8,000 to 8,100, that kind of range there... we're talking about 3 to 5% of upside for the year remaining"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "TNX (10-year yield)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields peak and roll over significantly in the near future, that is a warning for stocks; 2018 midterm analog had yields peak around the midterm then fall.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Yields at ~20-year highs with a 15.9% run matching 2018's 15.8%; yields haven't topped yet.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "if yields haven't topped yet, that tell us that even if yields start to top here in the very near future, it still gives us …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000 / NYSE breadth",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields back off or consolidate.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "New high-low index below 10 and McClellan higher low suggest washed-out breadth; Goldman flags Russell for a snapback.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "could be seeing some relief in the near future here with something like the NYSE or even, once again, the Russell"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BMNR",
+   "instrument_quoted": "BMNR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     30
+    ],
+    "invalidation": null
+   },
+   "condition": "Buy on break above today's inside-day high; stop just under the consolidation.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tight, clean pullback with drying volume after a big volume pop; ETH-related equity.",
+   "conviction": "medium",
+   "timestamp": "0:19",
+   "quote": "If it breaks the high, perhaps this ignites it to move back through that 30, potentially even higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch for a pop out of the inside day.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong run 90 to 130 to 160, now an inside-day consolidation.",
+   "conviction": "low",
+   "timestamp": "0:19",
+   "quote": "perhaps this is also one to continue to watch"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DXCM",
+   "instrument_quoted": "DXCM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ideally break above the compression range; early entry with stop at bullish-engulfing low.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows and lower highs compressing; bullish outside day today and earlier bullish engulfing on higher volume.",
+   "conviction": "low",
+   "timestamp": "0:20",
+   "quote": "Today, we had a bullish outside day"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ANF",
+   "instrument_quoted": "ANF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     155
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Owns a position; tight post-earnings consolidation, looking for a retest of the highs near 155.",
+   "conviction": "low",
+   "timestamp": "0:20",
+   "quote": "let's see if we can get some move to maybe retest these highs about 155"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong name in tight consolidation; no alert set yet.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "So, I'm going to continue to watch this"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Alert on break above tomorrow's opening price.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows, slight pullback on drying volume.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "I do like how it's been putting in these higher lows"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GRAB",
+   "instrument_quoted": "GRAB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Beaten-down name with a volume-backed move now tightening; possible continuation but lots of overhead supply.",
+   "conviction": "low",
+   "timestamp": "0:22",
+   "quote": "perhaps something like this offers up a continuation move"
+  }
+ ],
+ "notes": "Host states 'Monday, October 5th'. SPY expected moves: upper daily/weekly ~778.38/780, lower daily ~771/770. Mentions TLT new year low (views captured under TNX). Homebuilder tickers garbled ('HGX', 'TB' - likely ITB/XHB), omitted."
+}

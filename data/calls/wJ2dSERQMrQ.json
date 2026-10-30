@@ -1,0 +1,18 @@
+{
+ "video_id": "wJ2dSERQMrQ",
+ "channel": "tastylive",
+ "title": "The 84% Win Rate Strangle That Still Lost Money This Year",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "tastylive hosts (Mikey and co-host)",
+ "macro_themes": [
+  {
+   "theme": "Low-delta strangle tail risk",
+   "view": "Higher win rate on far OTM strangles does not mean lower risk; 5-delta strangles lost money in 2026 on a few melt-ups."
+  }
+ ],
+ "calls": [],
+ "notes": "Educational options study (45 DTE strangles 2020-2026); no market-direction calls."
+}

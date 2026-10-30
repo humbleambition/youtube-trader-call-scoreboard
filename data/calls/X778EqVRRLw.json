@@ -1,0 +1,409 @@
+{
+ "video_id": "X778EqVRRLw",
+ "channel": "StockedUp",
+ "title": "The Stock Market Is About To Go Crazy Tomorrow",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp)",
+ "macro_themes": [
+  {
+   "theme": "Yields at multi-decade highs",
+   "view": "30-year hit 5.7%, highest since 2002, yet stocks rallied."
+  },
+  {
+   "theme": "Hormuz oil flows",
+   "view": "Gulf crude exports back to ~80% of pre-war; refined products ~50%; inventories may take 2 years to rebuild."
+  },
+  {
+   "theme": "Seasonality",
+   "view": "Midterm years under a Republican president and the first 3 weeks of October are historically strong."
+  },
+  {
+   "theme": "Earnings",
+   "view": "2027 EPS estimates raised ~19% YTD; S&P forward P/E down to 19."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 779.37,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     772.5,
+     770,
+     768
+    ],
+    "resistance": [
+     777,
+     778,
+     779.37,
+     780
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off 768 support, broke the short-term downtrend within a daily uptrend; ATH 779.37 within reach.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "if we pop up by 0.67% tomorrow, we'll be posting a new high. So, be ready."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": 380,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     381.5
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks the 381.50 high of day",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Continued up after delivery beat; broke above 380 intraday.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "if it can break that high of day tomorrow at 38150, continue watching it higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPACEX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     172.5
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks 172.50 (June 30 peak)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 7.6% on the day; key resistance at the June 30 peak.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "there's key resistance at 17250 in the short term on SpaceX... if it breaks that tomorrow, continue watching SpaceX higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     230,
+     240,
+     250
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to break the higher-timeframe downtrend",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holding 240-250 support; AI-driven electricity demand; possible rebound though still in a broader downtrend.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "it's on the radar for a potential rebound."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     440,
+     400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watching for a break of the short-term downtrend / wedge",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Reclaimed multi-year uptrend line; short-term wedge breakout setup.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "overall, keep watching WDC up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Iran war not over and oil/gas prices high; energy companies stand to gain.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "if for as long as this conflict continues, I wouldn't be surprised if energy companies had a lot to gain."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AFRM",
+   "instrument_quoted": "AFRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     75
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks above $75",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play, strong close.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "If it breaks out above $75 even, continue watching AFRM to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TEM",
+   "instrument_quoted": "TEM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     84
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks $84",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play, up over 9%.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "If it breaks $84 right where that wick extends to at the end of the trading day, watch Tempest to the upside tomorrow."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RDW",
+   "instrument_quoted": "RDW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     10.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks down under $10.20",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play, negative drop.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "if it breaks down under $10.20, continue watching it to the downside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PTRN",
+   "instrument_quoted": "PTRN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     15
+    ],
+    "resistance": [],
+    "invalidation": 15
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$462k buy of Mar 2027 15-strike calls at a key support level; return to recent high would be ~70%.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "it's one of those higher risk, high reward setups where we could really see this stock explode quite a bit."
+  }
+ ],
+ "notes": "Recorded Mon 2026-10-05 after close (ISM services \"today\", \"over the weekend\", FOMC minutes Wednesday); listing approx 2026-10-06. Morgan Stanley $300 SpaceX target is an analyst view, not the hosts', so not recorded as target. EWZ mentioned in passing."
+}

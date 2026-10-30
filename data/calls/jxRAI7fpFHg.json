@@ -1,0 +1,248 @@
+{
+ "video_id": "jxRAI7fpFHg",
+ "channel": "BitcoinHyper",
+ "title": "Bitcoin LIVE: Monthly Close Is IN! (uptober?) - BTC, ETH, XRP Price Prediction",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper (host)",
+ "macro_themes": [
+  {
+   "theme": "October seasonality",
+   "view": "October is historically green for BTC in bull markets (~20% avg) but he distrusts it because everyone is watching it."
+  },
+  {
+   "theme": "US jobs data",
+   "view": "Next-day nonfarm payrolls could trigger a move either way; he leans toward a push down."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 74000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     74000,
+     74700
+    ],
+    "resistance": [
+     85000,
+     87400,
+     90000,
+     92700,
+     93000
+    ],
+    "invalidation": 85000
+   },
+   "condition": "Bearish while below ~85,000 value area high; a close above 85k is bullish toward 87.4k / 90-93k (where he'd look to re-short). Losing ~74k targets 55k then 50-40k.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Completed five-wave structure with bearish divergences on RSI/MACD/money flow, Fib time level hit, liquidation heat maps show biggest liquidations below recent lows; long-term DCA buyer to year-end.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "Lose the support level here, bearish indication... if Bitcoin now starts breaking the value area high right here at approximately $85,000, bullish indication."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Same plan as BTC: if higher, re-short above the recent high (liquidity grab)",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possibly finished 1-5 then ABC correction; looking for an impulse down; holds a short.",
+   "conviction": "medium",
+   "timestamp": "0:50",
+   "quote": "already where we are right now, in my opinion, looking for short trades it could be uh and it is probably is slightly smarter idea."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 85,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     85
+    ],
+    "resistance": [
+     127
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily five-wave structure possibly complete with bearish divergence on awesome oscillator; downside to 0.5 Fib / golden pocket / anchored VWAP ~85.",
+   "conviction": "medium",
+   "timestamp": "0:57",
+   "quote": "That's why the Elliott Wave count is very similar to Bitcoin's. Looking here for another rotation back toward the downside very, very soon."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1.9
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading at weekly level, not doing much; alert at ~1.9 near golden pocket/daily/anchored VWAP.",
+   "conviction": "low",
+   "timestamp": "0:51",
+   "quote": "XRP currently also not doing anything almost. We are trading at the weekly level."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LTC",
+   "instrument_quoted": "LTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Depends on BTC; if BTC pumps LTC pushes higher",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off anchored VWAP after taking liquidity below recent low.",
+   "conviction": "low",
+   "timestamp": "0:48",
+   "quote": "Litecoin, I do think it can push higher. Of course, it it does depend on Bitcoin"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ONDO",
+   "instrument_quoted": "ONDO/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If Bitcoin gets a pump",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit golden Fib ratio and bounced; ideally a liquidity grab above the recent lower highs.",
+   "conviction": "low",
+   "timestamp": "0:49",
+   "quote": "If Bitcoin get gets a pump, I do think Litecoin and also Ondo are going to perform quite well"
+  }
+ ],
+ "notes": "Host says 'today is the 1st of October' (listing approx 2026-10-02). Price at call not stated; he says BTC is 'trading at the value area high' (~85,000) after a monthly close above 82,800. BTC medium-term 50k is conditional on losing ~74k (55k at 0.618 ext, 40k at 1:1). Host holds shorts on BTC, ETH and HYPE (HYPE mentioned only in passing, skipped). 'Gram USDT' altcoin target-hit recap skipped (unclear ticker). Host away ~2 weeks after this stream (Token 2049)."
+}

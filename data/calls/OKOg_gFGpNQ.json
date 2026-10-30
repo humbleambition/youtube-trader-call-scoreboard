@@ -1,0 +1,229 @@
+{
+ "video_id": "OKOg_gFGpNQ",
+ "channel": "David Lin",
+ "title": "5% Yields: 'Whole System Collapses', What Happens To Markets | Gareth Soloway",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "10y yield near-term peak",
+   "view": "At ~5.3% the 10-year is basically at its near-term peak; expects a pullback below 5%."
+  },
+  {
+   "theme": "5%+ yields unsustainable",
+   "view": "Long term, 5%+ yields will break the economy; AI capex is masking the damage and it 'will end unbelievably badly', though not this year."
+  },
+  {
+   "theme": "Sticky diesel inflation",
+   "view": "Diesel at all-time highs feeds into prices with a lag; inflation stays 3-4% for the foreseeable future."
+  },
+  {
+   "theme": "Fed on hold in October",
+   "view": "Does not expect a hike in October given softer PCE and weak jobs."
+  },
+  {
+   "theme": "Midterm gridlock bullish",
+   "view": "Gridlock after the midterms has historically been bullish for stocks; oil rhetoric quieted ahead of the vote."
+  },
+  {
+   "theme": "Housing",
+   "view": "Would not buy a house at these yields; higher yields will drive house prices down."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.3,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 5.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.3
+    ],
+    "invalidation": null
+   },
+   "condition": "Long-term 4%/3.5% only if a recession arrives.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Near-term peak: jobs data softening takes pressure off the Fed; in a recession yields might fall to 4% or 3.5% but not COVID levels as inflation stays sticky.",
+   "conviction": "medium",
+   "timestamp": "3:20",
+   "quote": "in the near term, we're basically there. I'm I am expecting a pullback that's going to be at least bringing us back below 5%."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575
+    ],
+    "resistance": [],
+    "invalidation": 7575
+   },
+   "condition": "Bullish while S&P holds above 7575; below it moves to neutral. Short-term target is a trend line ~1.4-1.75% higher (no number given), possibly before the midterms.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Six reasons (better PCE, strong growth data, best house on the block, earnings, earnings season, new-quarter inflows); orange trend line from 2022 ~1.4-1.75% above is the near-term target. Cautious for 2027 once AI capex slows.",
+   "conviction": "medium",
+   "timestamp": "11:15",
+   "quote": "I still think we're going 8,000 on the S&P by year end... anything above 7575 on the S&P, I remain bullish."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 97000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 100000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81300,
+     75500
+    ],
+    "resistance": [
+     87200
+    ],
+    "invalidation": 81300
+   },
+   "condition": "Above 87,200 -> 97,000; below 81,300 -> 75,500, and below that the 60s. Expects 100k within the next year.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consolidating after bull-flag breakout; measured move to 97k if 87,200 breaks, but much near-term upside is in and it's overbought. Long-term gold and Bitcoin are the answer to fiscal irresponsibility.",
+   "conviction": "medium",
+   "timestamp": "19:50",
+   "quote": "It's got to get through this 87,200 level. If it does, there's a measured move to 97,000."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold (spot, $/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 13000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": 4100
+   },
+   "condition": "Bulls in charge while above the trend line (~4100); plans to load up on physical gold around 3500.",
+   "action": "buy",
+   "entry": 3500,
+   "stop": null,
+   "method": "technical",
+   "reason": "At a make-or-break trend line from May 2025; falling yields are saving it today. A break targets 3950 then 3500, a retest of the breakout level he calls a steal. Long-term target 13,000 by 2029-2031 on debt and money supply.",
+   "conviction": "medium",
+   "timestamp": "22:40",
+   "quote": "if we break below 4100, you go quickly to 3950. And if 3950... breaks, 3500 is the magic target."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude ($/bbl)",
+   "price_at_call": 87,
+   "short_term": {
+    "bias": "bearish",
+    "target": 78,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 78,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     78
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If Hormuz and the Red Sea fully reopen to tankers, heads to the $60s, maybe $50s; otherwise oil sticks around 78.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakdown, retest of the broken trend line rejected; Iran rhetoric quieted before the midterms and tankers moving through Hormuz.",
+   "conviction": "medium",
+   "timestamp": "26:00",
+   "quote": "I'm anticipating further downside by the midterms. We should get down to this $78 per barrel level."
+  }
+ ],
+ "notes": "Host states 'we're speaking on Tuesday, October 6th' (listing approx 2026-10-07). Recorded during/after the 2026-10-06 session (S&P new ATH 'today', gold 'up about 1% today'); marked intraday, could be after close. Oil price ~87 was said as 'back below 80 or down to about $87', taken as 87. 10y 'peak' framed as near-term pullback below 5%. Long-term ES bearish reflects 'cautious for 2027' and 'will end unbelievably badly'; he says not this year."
+}

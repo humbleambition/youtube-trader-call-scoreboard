@@ -1,0 +1,171 @@
+{
+ "video_id": "YfPNf-uH6xA",
+ "channel": "Ricky Gutierrez",
+ "title": "Huge Market Reaction! Here Is What You Need To Know",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Iran headlines",
+   "view": "Markets gapped up on reports Trump may ease sanctions if Iran makes nuclear progress; he is skeptical."
+  },
+  {
+   "theme": "Bond market stress",
+   "view": "10y yield at multi-decade highs; the bond market can't be ignored much longer."
+  },
+  {
+   "theme": "Rate-hike odds",
+   "view": "~73% odds of a hike at the next FOMC; PCE and JOLTS this week will shift them."
+  },
+  {
+   "theme": "Diesel inflation",
+   "view": "Russia diesel export ban extension and $9 diesel in California will feed into CPI."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Markets very elevated after a big week; red flags from the bond market; expects pullback risk to outweigh short-term upside.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "markets are elevated and likely to to to pull back in the short term"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If Nasdaq breaks support, another leg down",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq down ~1% after an attempted recovery, testing support.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "if it does break the support, we have another leg down."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Near all-time highs after a big buyback announcement; not a good deal short term but he stays invested long term.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "there's no question in my mind that we could pull back more than we're expected to rally in the short term"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Took profit on a small long and went short on an overbought reversal intraday.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "I closed it out, then I opened up short right now."
+  }
+ ],
+ "notes": "Date inferred: 'this week we have the PCE report', next FOMC 'in 4 weeks and 2 days' (Oct 28) and month-end sale -> Mon 2026-09-28; listing said 09-29. '749' close last week is unclear (possibly QQQ). recorded 9:43am Arizona time."
+}

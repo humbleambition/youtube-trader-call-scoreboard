@@ -1,0 +1,108 @@
+{
+ "video_id": "75GpqXV0rao",
+ "channel": "Meet Kevin",
+ "title": "oh f**k me",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Treasury yields peaking",
+   "view": "10-year yields are rising at a slowing pace and should peak around 5.27%; the 'suits' calling for 6% on the 30-year are likely wrong."
+  },
+  {
+   "theme": "Funding squeeze from debt issuance",
+   "view": "Heavy Treasury and corporate issuance is pushing repo rates up and draining cash, which means more volatility and buy-the-dip chances rather than a crisis."
+  },
+  {
+   "theme": "Yield-curve shock risk",
+   "view": "The 10s2s spread at 52bp puts markets in shock-prone territory."
+  },
+  {
+   "theme": "Iran before midterms",
+   "view": "Strike-plan leaks are negotiation; he expects Trump to fire no missiles before the election and to seek a win between Oct 20-27."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "It is a bubble, but the party is just getting started."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.32,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27,
+     5.6
+    ],
+    "invalidation": 5.6
+   },
+   "condition": "If he is wrong, the next logical high for the 10-year is ~5.6% (TLT losing its 78.77 line with ~5% more downside, as in 2023).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rise in the 10-year is decelerating over the last five days; he anchors the peak around 5.27% and expects yields to come down, as they did intraday; disagrees with calls for 30-year yields to test 6%.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "my thought has been that we anchor around 5.27 and that the slope or the acceleration of the rise in the 10-year Treasury is actually …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish view rests on yields peaking; volatility likely with 10s2s spread at 52bp (shock-prone above 50).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields down means stocks up; AI-buildout financing will be covered by more debt so the bubble keeps inflating; expects no US strikes on Iran before the election.",
+   "conviction": "medium",
+   "timestamp": "20:20",
+   "quote": "we expect that this is a bubble, but we think the party is still just getting started"
+  }
+ ],
+ "notes": "Date: the Bloomberg piece he reads says 30-year yields hit fresh highs 'on Wednesday', which he ties to that morning's alpha report, and he signs off 'have a wonderful evening' → recorded Wednesday 2026-10-07 after the close (listing approx_date 2026-10-08). Video is mostly a 'how could I be wrong' discussion; 5.6% is his bear-case level, not his target. 30-year view (5.72% touched; he agrees yields rising but decelerating, rejects 6% call) folded into TNX reason rather than a separate TYX call. Sponsor/ad segments ignored."
+}

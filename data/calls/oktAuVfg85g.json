@@ -1,0 +1,93 @@
+{
+ "video_id": "oktAuVfg85g",
+ "channel": "VRIC Media",
+ "title": "John Florek: Every Single Drill Hole Has Hit Gold Since 2023",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "John Florek (CEO, Emperor Metals); host Jay Martin",
+ "macro_themes": [
+  {
+   "theme": "Gold bull market",
+   "view": "Host sees gold starting its next leg up in a secular bull after an 8-9 month lull; guest uses ~$5,000 gold in economics."
+  },
+  {
+   "theme": "Junior miner value gap",
+   "view": "CEO says the company missed the rerating peers got from higher gold and resource growth."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "EMAUF",
+   "instrument_quoted": "Emperor Metals (OTC: EMAUF; CSE-listed)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "CEO argues fair value is at least ~$200M market cap (vs ~$100M now) given gold up 2.5x, Duquesne West resource doubled to ~1.5Moz and Lac Pelletier path to production (late 2028); catalysts: assays, updated 43-101, PEA/PFS.",
+   "conviction": "medium",
+   "timestamp": "0:38",
+   "quote": "I'm saying that a minimum we're at 200 million dollar market cap. We just broke 100 million dollar market cap."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold spot",
+   "price_at_call": 5000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Host (Jay Martin): gold quiet 8-9 months and now awakening into the next leg of a secular bull market.",
+   "conviction": "low",
+   "timestamp": "0:37",
+   "quote": "The gold market is back on again right now. It's going to be in the next like incremental leg up in this secular bull"
+  }
+ ],
+ "notes": "Company promotional interview; guest is the CEO (talking his book). He says symbol 'AEMAUF' but spells E-M-A-U-F; recorded as EMAUF. Valuation given as market cap (~$100M now, >= $200M fair), not a share price, so target null. Gold price ~5,000 is a reference level used in the interview, approximate. No date stated in transcript."
+}

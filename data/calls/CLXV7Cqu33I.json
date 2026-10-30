@@ -1,0 +1,93 @@
+{
+ "video_id": "CLXV7Cqu33I",
+ "channel": "Ticker Symbol: YOU",
+ "title": "NVIDIA Made Me Rich. I'm Buying This Stock Next.",
+ "video_date": "2026-10-04",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Alex (Ticker Symbol: YOU)",
+ "macro_themes": [
+  {
+   "theme": "AI agents shift compute mix",
+   "view": "Agents push GPU:CPU ratios down and need far more memory, causing CPU and especially memory shortages."
+  },
+  {
+   "theme": "Memory cycle",
+   "view": "Memory is shortage-driven through 2027-28, but price increases are slowing and new supply arrives mid-2027 to 2028; memory stocks look cheapest at peaks."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Stop buying if DRAM contract prices go flat or fall while capex keeps rising.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "<7x forward earnings vs 17-18x peers implies a ~60% earnings collapse already priced in; a third of revenue contracted with price floors, HBM sold out through 2027, big FCF and buybacks.",
+   "conviction": "high",
+   "timestamp": "0:16",
+   "quote": "my plan for now is to keep buying Micron stock, even though it's already 10x from when I started"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy only after a big pullback (e.g. after warrant dilution hits) or if earnings growth makes the 45x multiple reasonable.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Great business but >45x forward earnings and up to 16% dilution from OpenAI/Meta warrants make it 'priced basically to perfection'.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "I think it's already priced basically to perfection. So, I would only buy AMD stock after a big pullback"
+  }
+ ],
+ "notes": "No date in transcript; listing approx 2026-10-04. No current share prices quoted (AMD said to be 'already above' $600; at peer multiples AMD would be <$250 and MU >$2,700 — valuation illustrations, not targets). AMD long-term bias = 'great stock to own for the long run' business view; medium neutral reflects 'wait for pullback'."
+}

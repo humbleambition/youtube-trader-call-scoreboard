@@ -1,0 +1,271 @@
+{
+ "video_id": "ZBedtARMvPE",
+ "channel": "Verified Investing",
+ "title": "Bitcoin REJECTS at Breakout Level: Exact Support Floor REVEALED",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Rising yields",
+   "view": "Notes 10-year yield pushing up to 5.4%, calls it wild (passing remark)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 98000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 150000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82500,
+     84300
+    ],
+    "resistance": [
+     98000
+    ],
+    "invalidation": null
+   },
+   "condition": "Bitcoin must close above the Sept 21 wick level (ceiling) to target ~$98K.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull flag projection and measured move both point to ~98K near the Jan 14 wick high; support near 82.5K wick/84.3K liquidation.",
+   "conviction": "medium",
+   "timestamp": "1:30",
+   "quote": "We got a dragon uppercut this thing and then we can start talking about a $98,000 Bitcoin."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADA spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 0.287,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     0.287
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "In an ADA long after breakout (biggest top-100 gainer); May 10 wick ~0.287 coincides with ascending resistance where he'd close longs.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "keep an eye out on these two lines converging. Uh, if we do, I would be looking to close those Cardono longs."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trendline flipped to support and holding; wedge forming into ~Oct 9; would long a retest of trendline.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "we'll be looking to long ETH if we come back down to this level"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ascending and descending trendlines converge around Oct 8 4am ET; likes the ascending support, awaiting resolution.",
+   "conviction": "low",
+   "timestamp": "8:45",
+   "quote": "keep an eye out on Salana."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZEC spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Was short on daily bearish divergence; 4h RSI now forming bullish divergence so take profit on shorts, may turn around.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "I would go ahead and take profit on those Zcash shorts. It does look like maybe this thing is going to turn around"
+  },
+  {
+   "group": "crypto",
+   "ticker": "VVV",
+   "instrument_quoted": "Venice token spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated bull flags, retesting; would long lower trendline support but daily RSI bearish divergence makes it a shortable level.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "Not a fan of that RSI. I am not a fan."
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "HYPE spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Large holding; testing ascending trendline from below, knocking on the door; inverse H&S target played out.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "This one is looking really good."
+  }
+ ],
+ "notes": "Date implied: 'Monday morning', SOL lines converge 'the 8th... three days from now', ETH wedge ends 'the 9th, 4 days' -> Mon 2026-10-05 (listing 2026-10-06). 'Zero long' (likely ZRO/LayerZero, garbled) and 'Quantis' (likely QNT) excluded as unclear. ADA target 0.287 transcribed as '287'. HYPE view is mixed with closing a short; low conviction."
+}

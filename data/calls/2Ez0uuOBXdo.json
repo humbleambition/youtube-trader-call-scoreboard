@@ -1,0 +1,62 @@
+{
+ "video_id": "2Ez0uuOBXdo",
+ "channel": "tastylive",
+ "title": "Someone Bet 33 Million on SanDisk Calls During a Losing Streak",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive Signal Versus Noise host (name not stated)",
+ "macro_themes": [
+  {
+   "theme": "Yields vs memory stocks",
+   "view": "Memory names fell early with the 10-year near 5.3%, then rebounded as yields eased."
+  },
+  {
+   "theme": "AI build-out continues",
+   "view": "Data-center demand (e.g. SpaceX raising $40B for Nvidia GPUs) supports SanDisk's fundamentals."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": 1726,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1617.95
+    ],
+    "resistance": [
+     1800
+    ],
+    "invalidation": null
+   },
+   "condition": "Watch how it handles ~$1,800, a ceiling since mid-July; Dec 1750 / Jan 1760 call buyers break even near 1923 / 1949.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$32.7M of call premium bought at the ask in Dec/Jan expiries that span the Oct 29 earnings; 22x P/E is not stretched and a $94B contracted backlog supports a rerating.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "Sandis itself is not one of these overvalued companies that's riding on a thought and a prayer."
+  }
+ ],
+ "notes": "Host states \"this Wednesday, October 7th\". Bias reflects the unusual call flow plus the host's supportive read of the fundamentals; he gives no price target. The street average target of 2206 is analysts' figure, not his. \"1,800\" was also spoken as \"18800\"."
+}

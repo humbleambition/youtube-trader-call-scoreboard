@@ -1,0 +1,181 @@
+{
+ "video_id": "NQYo5_KMm6g",
+ "channel": "David Lin",
+ "title": "Lyn Alden: Debt System ‘Is Breaking’—How High Will Yields Go?",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Lyn Alden",
+ "macro_themes": [
+  {
+   "theme": "Fiscal dominance",
+   "view": "US is slowly taking on emerging-market traits: persistent above-target inflation, Fed buying bonds with inflation above target; 'nothing stops that train'."
+  },
+  {
+   "theme": "Long-end yields",
+   "view": "Long end is repricing to a higher-for-longer reality, not 'lost control'; curve still flat; 6% 10y would not be unusual but is not her base case; heavy media attention suggests the bulk of the move may be done."
+  },
+  {
+   "theme": "Two-speed economy",
+   "view": "Housing and small businesses squeezed; cash holders and AI/defence/healthcare beneficiaries gain; higher short rates are stimulative for cash-rich entities."
+  },
+  {
+   "theme": "Stocks vs gold",
+   "view": "Multi-year bear market of stocks priced in gold despite dollar gains."
+  },
+  {
+   "theme": "Crypto",
+   "view": "Altcoins past their 2021 high-water mark; Bitcoin and stablecoins can grow much larger."
+  },
+  {
+   "theme": "AI",
+   "view": "AI can run longer than people think; she won't short major assets; hyperscalers burning FCF, frontier labs unprofitable."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     6.0
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields 'realistically should be kind of at where they are now or a little higher'; 6% possible within normal curve shape but not base case; sentiment says much of the move is done.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "realistically bond yields should be kind of at where they are now or a little higher"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Excludes Bitcoin from 'crypto is dead'; expects it to grow much larger amid fiscal dominance and debasement.",
+   "conviction": "medium",
+   "timestamp": "0:34",
+   "quote": "Now I I think Bitcoin uh can go much larger than it is now."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductors (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "On average somewhat bullish on profitable semiconductor companies but cautious after very fast moves.",
+   "conviction": "low",
+   "timestamp": "0:39",
+   "quote": "on average I've been somewhat bullish on semiconductors. I just get cautious you know when they when they've had a very fast move."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Trimmed out after it more than doubled while turning free-cash-flow negative; bullish thesis played out, not acutely bearish.",
+   "conviction": "low",
+   "timestamp": "0:40",
+   "quote": "I eventually trimmed out of that. Uh, not say that I'm acutely bearish, but I just my bullish thesis has kind of played out."
+  }
+ ],
+ "notes": "Host states 'This is Friday, October 2nd' (listing approx 10-04); weak jobs report day, so recorded intraday. TNX level not quoted (described as 20-year highs; other sources ~5%). She explicitly says she is not a trader and has no 3-6 month view on yields. Altcoin bearishness not tied to a named ticker; SpaceX/AI labs mentioned only as things she avoids."
+}

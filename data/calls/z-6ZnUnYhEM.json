@@ -1,0 +1,177 @@
+{
+ "video_id": "z-6ZnUnYhEM",
+ "channel": "CPM Group",
+ "title": "Gold and Silver Could Surge: Keep Cash Ready",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian (CPM Group)",
+ "macro_themes": [
+  {
+   "theme": "Recession within 2-3 years",
+   "view": "Leverage, overvalued narrow stock market and inflationary pressures point to a recession, stock decline and rate spike in the next 2-3 years."
+  },
+  {
+   "theme": "Prepare: cut debt, raise cash, own gold/silver",
+   "view": "Get rid of debt and weak assets, build cash for bargains, and own gold and silver."
+  },
+  {
+   "theme": "PGMs are industrial",
+   "view": "Platinum and palladium trade as industrial metals with long-term auto-catalyst demand risk; prefers gold and silver."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": 4300,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bull market not over; inflation, debt and recession risk should drive a next sharp leg up to record highs before prices come back.",
+   "conviction": "medium",
+   "timestamp": "0:40",
+   "quote": "the next leg up sharp leg up in gold and silver prices"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Same thesis as gold; investors hold large low-cost positions, so profit-taking risk limited.",
+   "conviction": "medium",
+   "timestamp": "9:20",
+   "quote": "you need to own gold and silver. It's that simple"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum",
+   "price_at_call": 1768,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1550,
+     1600
+    ],
+    "resistance": [
+     2000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects a 1,550/1,600-2,000 range over the next couple of months, probably following gold and silver higher.",
+   "conviction": "low",
+   "timestamp": "13:20",
+   "quote": "They probably will follow gold and silver higher"
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium",
+   "price_at_call": 1262,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1200,
+     1180
+    ],
+    "resistance": [
+     1450
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Support ~1,200/1,180 and resistance ~1,450.",
+   "conviction": "low",
+   "timestamp": "13:55",
+   "quote": "it looks like it probably has support around 1,200 or maybe 1,180"
+  }
+ ],
+ "notes": "Host states 11:50 a.m. New York, Friday 25 September."
+}

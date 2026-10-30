@@ -1,0 +1,179 @@
+{
+ "video_id": "VCXC0Eo8yC4",
+ "channel": "Gareth Soloway",
+ "title": "Yields Scream Higher, Gold And Silver At Pivot Break Point: $3,500 And $50 Odds Increase!",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "10y near 5.35%, above the 2007 peak; a confirmed close above opens 5.5%, driven by strong economy and global debt/unrest, not inflation."
+  },
+  {
+   "theme": "Resilient US stocks",
+   "view": "Strong earnings, global capital fleeing to the US and a strong economy keep stocks rising despite high yields and oil; upside into midterms and year-end, issues in 2027."
+  },
+  {
+   "theme": "Gold vs silver",
+   "view": "A strong economy should make silver outperform gold; long-term bull on gold due to fiscal irresponsibility everywhere."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.35,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 5.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the 10y closes above the 2007 peak with confirmation, expect a move to 5.5%",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly chart: yields above the 2007 peak, highest since 2002; continuing higher after the jobs-report dip.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "if we close above this level, especially with confirmation, I would insinuate or expect a move up to the 5.5% level on yields"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575,
+     7400
+    ],
+    "resistance": [],
+    "invalidation": 7400
+   },
+   "condition": "Bullish above ~7,575; neutral zone 7,400-7,575; below ~7,400 he exits longs and goes heavily short",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above his bullish line; trend-line target near 8,000; upside through midterms into year-end before 2027 issues.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "It's right around 8,000 currently sneaking up slowly, and that's where I think we are headed."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If gold breaks the trend line at ~4,100, target 3,950-3,960; if 3,950 breaks, 3,500, where he would buy",
+   "action": "watch",
+   "entry": 3500,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag hammering a trend line from May 2025; rising yields pressure gold; long-term bull on fiscal irresponsibility.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "if it breaks 3950, which was the previous low on the last dip, it is going down to 3500"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     54,
+     50,
+     48
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If silver breaks its long-term trend line, support 54-55; below that, toward just under $50 (possibly $48)",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sitting on a longer-term trend line; just below $50 is the 1980/2011 high and his buy level; industrial demand helps it vs gold in a strong economy.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "If it breaks that, you're likely headed down to this pivot just below 50."
+  }
+ ],
+ "notes": "Date inferred: host says jobs data was 'last Friday', ISM services 'this morning' and the S&P is up today, i.e. Monday 2026-10-05 (listing says 10-06). Gold/silver bearish calls are conditional on trend-line breaks; long-term bias bullish for both (silver long-term implied from 'overall long-term bull'). Gold price at call not stated (just above 4,100 implied)."
+}

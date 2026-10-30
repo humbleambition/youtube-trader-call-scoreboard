@@ -1,0 +1,171 @@
+{
+ "video_id": "9zxE4tzzmzs",
+ "channel": "Verified Investing",
+ "title": "The Dollar's Breakout: Where The Euro, Pound And Loonie Land Next",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosik (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Dollar breakout",
+   "view": "The US dollar is in breakout mode, driven by yields and efforts to taper the 10-year, pushing other currencies to key supports."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 101.97,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": 102.86,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     101.97,
+     102.86
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of a rising channel; overbought RSI near May 2025 pivot high 101.97 and fib 102.86, so expects a last push then consolidation.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "I'm anticipating the dollar to be hitting the brakes on some of these gains in the very very near future"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 1.11,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.11
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily RSI oversold at 24.63 at a pivot; expects a bounce/bear flag, then a drop to the 1.11 fib support and 2024 pivot highs.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I'm anticipating further breakdown on the Euro. However, near term, I'm anticipating this oversold scenario to get a little bit of reprieve"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "GBPUSD",
+   "instrument_quoted": "GBP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 1.3,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold and due for consolidation before another leg lower to 1.30, a pivot low and top of 2024 consolidation.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "it is too oversold in the near term and due for more consolidation before another leg lower happens."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDCAD",
+   "instrument_quoted": "USD/CAD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1.42,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1.45,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.42
+    ],
+    "resistance": [
+     1.42,
+     1.45
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily RSI 75.2 overbought but weekly not yet at 70; ideal case is 1-2 more weeks up to 1.42, consolidation above it, then a push to 1.45.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "hit this $1.42 cent level, and then start consolidating... making room for another push higher to the buck 45 level"
+  }
+ ],
+ "notes": "No date in transcript; listing approx used. USD/CAD level also stated as '$1.42.4' (garbled, maybe 1.424). EUR/USD, GBP/USD and USD/CAD are FX pairs outside the standard ticker list; kept as pair symbols."
+}

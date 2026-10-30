@@ -1,0 +1,263 @@
+{
+ "video_id": "VcJqDJqq8AU",
+ "channel": "Crypto World",
+ "title": "BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Stocks consolidating below highs",
+   "view": "Nasdaq-100 consolidating under its June ATH with relative strength vs S&P; likely to test and break into ATHs in October."
+  },
+  {
+   "theme": "Crypto short-term cool-off",
+   "view": "Daily bearish divergences mean a few more days of sideways or slight pullback, then a likely breakout attempt this month within a larger bull trend."
+  },
+  {
+   "theme": "Bitcoin dominance range-bound",
+   "view": "BTC dominance sideways for a year; crypto highly correlated."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 (4h chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consolidating just under the early-June all-time high; expects a test and breakout into ATHs during October.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "breaking out into all-time record highs is quite likely in basically this month"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": 82400,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000,
+     81000,
+     82300
+    ],
+    "resistance": [
+     86000,
+     88000,
+     87000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range 81-82K to 86-88K with active daily bearish divergence; liquidity at ~82.3-82.4K a likely near-term target; weekly bullish divergence signals multi-year bull; expects resistance test/breakout attempt later in October.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "a likely target is that level that I just mentioned, but expect the price to remain underneath the local highs"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flat under 2.8K with active daily bearish divergence; no significant rejections, so expects a test and breakout attempt above 2.8K in coming weeks.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "it's very likely that soon enough we'll see a test of this resistance again, and likely an attempted breakout above 2.8k"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.3
+    ],
+    "resistance": [
+     1.6,
+     1.7
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly range 1.30-1.60/1.70; daily bearish divergence active; follows BTC if it breaks out in coming weeks.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "either a slight pullback or potentially just a bit of choppy sideways price action"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     117
+    ],
+    "resistance": [
+     119,
+     124,
+     144,
+     145
+    ],
+    "invalidation": null
+   },
+   "condition": "May close the short entirely if US stocks push toward the ATH; may then start a swing long.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short (now $100K notional, 10x) at 119-124 resistance on daily bearish divergence; took partial profit at 117.10 (~$900); long-term structure bullish; next resistance 144-145 after a breakout.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "I might potentially look at just getting out of the Solana short position altogether"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     14.1,
+     14.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retesting 14.10-14.30 old resistance as support; short-term cool-off, larger structure clearly bullish.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "overall, the longer-term trends, the larger price structure is still clearly bullish"
+  }
+ ],
+ "notes": "Recorded after close in post-market; host says next day leads 'into the end of the week' and 'this month that we're now starting... now in October', so Thursday 2026-10-01 (listing approx 2026-10-02; the next video LfIbptPM1KM refers to this one as 'my last video yesterday'). BTC liquidity target 82.3-82.4K entered as short-term target with neutral bias. Mentions considering a BTC swing long in coming days."
+}

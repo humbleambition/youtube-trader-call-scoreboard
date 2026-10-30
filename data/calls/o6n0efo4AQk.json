@@ -1,0 +1,179 @@
+{
+ "video_id": "o6n0efo4AQk",
+ "channel": "CPM Group",
+ "title": "The #1 Factor That Will Drive Gold & Silver Prices | Jeff Christian",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Jeff Christian (CPM Group), interviewed by Lis",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "Not worried by yield levels themselves but by the reason: debt everywhere; doesn't see rates coming down sharply, they could rise."
+  },
+  {
+   "theme": "Recession ahead",
+   "view": "Expects a recession in the industrialized world, timing uncertain, driven by rates plus geopolitical factors (US-Iran war, Russia-Ukraine, trade deterioration)."
+  },
+  {
+   "theme": "Fiscal policy",
+   "view": "The Fed can stop the bleeding but only fiscal policy cures the disease; governments have no incentive to fix it."
+  },
+  {
+   "theme": "Investment demand drives precious metals",
+   "view": "Secular rise in gold/silver investment demand on economic, fiscal and political malaise will keep prices high; gold investment demand may hit a record this year."
+  },
+  {
+   "theme": "Mine supply response",
+   "view": "Huge margins (gold AISC ~$1,800) will spur more supply and weigh on prices in maybe ~5 years."
+  },
+  {
+   "theme": "Silver industrial demand",
+   "view": "Solar silver use peaked and will fall ~40% over 10 years, offset by EVs, AI, electronics, substitution for PGMs."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Investment demand, driven by economic/fiscal/political malaise, will keep trumping weak fabrication demand and rising supply; gold stays high. Notes gold ~30% off its peak and ~$4,000+.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "we think that the investment demand will continue to trump the fabrication demand. And so you're going to see the gold and silver prices stay …"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": 61.5,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Investment demand (financial plus affordable alternative to gold) and growing electrification/EV/AI fabrication demand are long-term positive; mine supply incentive may weigh in ~5 years.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "both of them are positive on the long-term basis for gold for silver"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold/silver mining stocks (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold AISC ~$1,800 vs very high prices gives tremendous margins; producers should be extremely profitable for the next few years.",
+   "conviction": "medium",
+   "timestamp": "0:32",
+   "quote": "in the meantime the gold producers should be extremely pro profitable"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rising debt across sovereign, corporate and consumer sectors is pushing rates up; he does not see rates falling sharply.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "I don't see interest rates coming down sharply and you know I I think that they could rise"
+  }
+ ],
+ "notes": "No date stated in the stream; listing date used. Transcript says '10-year bonds at 10 5%' (garbled; likely ~5%), not used. Silver quoted '$61 $62 as we speak'. Long-run caveat: mine supply incentive could weigh on gold/silver in ~5 years. Platinum discussed only descriptively (no view), omitted. Interviewer name transcribed as 'Lis'."
+}

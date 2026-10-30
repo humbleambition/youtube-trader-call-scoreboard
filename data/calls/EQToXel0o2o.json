@@ -1,0 +1,201 @@
+{
+ "video_id": "EQToXel0o2o",
+ "channel": "Verified Investing",
+ "title": "OpenAI Revenue Shocks AI Plays | Chipotle Jumps on Takeover Rumors",
+ "video_date": "2026-10-08",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Verified Investing analyst",
+ "macro_themes": [
+  {
+   "theme": "10-year yield",
+   "view": "Needs a close at or below 5.28% to ease pressure"
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 773.93,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse head-and-shoulders on SPY in jeopardy after OpenAI news drop.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "the inverse head and shoulders pattern is in jeopardy of breaking down"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield %",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.28
+    ],
+    "invalidation": null
+   },
+   "condition": "Close below 5.28% eases pressure",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejection tail on chart.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "5.28 is that level to watch at the end of the day tomorrow"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still a bearish consolidation; more downside unless yields fall.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "Still in a bearish consolidation that does imply we could see more downside"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53.26,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 53,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag breaking; head-and-shoulders measured move to 53.26, buy zone 50-53.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "targeted measured move down here at $53.26"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80837
+    ],
+    "resistance": [],
+    "invalidation": 80837
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inside-bar bull flag intact while above 80,837.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "bull flag is still on. Bull flag is off once we close underneath that candle... $80,837"
+  }
+ ],
+ "notes": ""
+}

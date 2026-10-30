@@ -1,0 +1,250 @@
+{
+ "video_id": "0n7nNdWjeQE",
+ "channel": "David Lin",
+ "title": "Bond Market Reckoning: Why Your Money Is Next | Tavi Costa",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Tavi Costa (Azuria Capital), host David Lin",
+ "macro_themes": [
+  {
+   "theme": "Inflate the way out of debt",
+   "view": "75-80% chance policymakers inflate their way out of the debt problem rather than accept a 2008-style deflationary shock; hard assets the big beneficiaries."
+  },
+  {
+   "theme": "Yield suppression / Treasury intervention",
+   "view": "Expects politicians and the Treasury (bigger buybacks, front-end issuance, possible yield curve control) to move to suppress yields within 6-12 months, which would be very bullish for metals."
+  },
+  {
+   "theme": "Bonds vs equities",
+   "view": "Both US stocks and bonds are expensive, but rising yields make bonds increasingly attractive relative to equities; gradually rotate from equities to bonds."
+  },
+  {
+   "theme": "Rotation to emerging markets and resources",
+   "view": "Money is rotating to emerging/Latin American markets and the resource space; US tech remains over-owned with room for the rotation to run for a decade."
+  },
+  {
+   "theme": "Weaker dollar",
+   "view": "Dollar weakening and yield suppression will mark the next decade."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": 60,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 100,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 120,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     100,
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Big move up, consolidation, sentiment 'in the toilet'; supply imbalance large; silver to lead gold and outperform over 6-12 months. Base case back to $80s-90s, flirting with $100, then re-establishing triple digits and revisiting this year's ~$120 high. $300 in 6 months possible but not base case.",
+   "conviction": "high",
+   "timestamp": "34:00",
+   "quote": "I think we're going to see triple digits on silver again and and it's going to establish itself at that level eventually here."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 15000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5500
+    ],
+    "invalidation": null
+   },
+   "condition": "Significant return in gold prices if yields find some ground",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold ~25% off the $5,500 high; inflation/debt/valuation 'trifecta' extremely bullish; secular bull market where gold could reach $15-30k one day.",
+   "conviction": "high",
+   "timestamp": "33:00",
+   "quote": "I really think gold is is is still extremely uh attractive at these prices... I'm very bullish gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold/silver miners (sector)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Miners at record margins with strong balance sheets, priced by analysts as if gold returns to ~$3,000-3,500; an arbitrage on higher metal prices. Silver companies are his biggest exposure (new Azuria mining fund >50% silver).",
+   "conviction": "high",
+   "timestamp": "25:30",
+   "quote": "the miners are exceptionally cheap for the next 5 to 10 years because they are priced as if gold prices will go back to 3,000"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (WTI/Brent, unspecified)",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil above $100; he redeployed most oil capital into metals and mining and expects some consolidation in the oil space, though he keeps some US oil-service names that should benefit from higher activity.",
+   "conviction": "low",
+   "timestamp": "29:50",
+   "quote": "I think that would be normal to see some sort of uh um consolidation in the oil space again."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields near levels where bonds become attractive (10y real yield approaching 3% vs S&P earnings yield ~3.5-3.7%); expects intervention to suppress yields over the next 6-12 months. Bearish yield = bullish bonds.",
+   "conviction": "medium",
+   "timestamp": "16:40",
+   "quote": "I think you're getting close to it."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "US equities expensive on every metric (CAPE, P/E, market cap/GDP) and earnings growth unlikely to stay as strong; expects relative underperformance vs bonds, metals and emerging markets over the next couple of years.",
+   "conviction": "low",
+   "timestamp": "17:50",
+   "quote": "you want to be rotating out of both markets... starting to relocate capital from equity markets to uh the bond market"
+  }
+ ],
+ "notes": "Recorded Monday Oct 12, 2026 (host says so); listing approx_date 2026-10-13 is off by a day. No short-term levels given; long-horizon macro views only. Gold $15-30k is a 'one day' secular figure, recorded as long-term target 15000 (lower end). Silver price ~$60 inferred from 'at 60 bucks'."
+}

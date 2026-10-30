@@ -1,0 +1,105 @@
+{
+ "video_id": "fWvNuaXI5EI",
+ "channel": "Meet Kevin",
+ "title": "what Trump *JUST* Said with Elon, Jensen, and AI Execs",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "AI regulation",
+   "view": "White House/tech leaders chose self-policing and no new AI laws; a 'nothing burger' that keeps the AI buildout going and the bubble inflating."
+  },
+  {
+   "theme": "AI and jobs",
+   "view": "Buildout phase creates jobs; efficiency phase later displaces many; universal high income is 'pie in the sky'."
+  },
+  {
+   "theme": "Debt",
+   "view": "Invest but pay off debt now ahead of an eventual bubble pop/recession."
+  },
+  {
+   "theme": "Oil/Iran",
+   "view": "Hormuz flows ~77% of pre-war (or more per Trump), helping oil slip."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Democrats likely take at least one chamber but not a veto-proof supermajority."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (no specific index quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Trump/tech-leader AI framework means no new laws slowing the AI buildout before ~2029, likely inflating the bubble further; AI is at '10 p.m. in the party', bull-bear scale 8.7, but expects an eventual bubble pop/recession within ~5 years.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "this is for me status quo... I maintain that right now AI is at 10 p.m. in the party. That I as a result am …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "Bonds (general, no instrument quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bonds and real estate are near a bottom, early in their cycle ('party starts at 6 p.m.').",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "I maintain this over here, which is that bonds and real estate are somewhere around this bottom."
+  }
+ ],
+ "notes": "Commentary on a White House AI event; no date stated in transcript (listing approx 2026-09-30). Market view is general (no index or levels); bonds view is a price/bullish-bonds view so TLT used."
+}

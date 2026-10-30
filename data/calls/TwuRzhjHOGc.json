@@ -1,0 +1,295 @@
+{
+ "video_id": "TwuRzhjHOGc",
+ "channel": "StockedUp",
+ "title": "The Stock Market Crashed Each of the Last 16 Times This Happened…",
+ "video_date": "2026-09-27",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "StockedUp host",
+ "macro_themes": [
+  {
+   "theme": "Yield spike precedes crashes",
+   "view": "10y at 5.22% after a rapid rise; 22V notes all 16 similar spikes in 50 years preceded some form of crash."
+  },
+  {
+   "theme": "Weak breadth / AI concentration",
+   "view": "Most S&P stocks in bear markets while index near highs; top AI stocks 41% of market; rising yields may be AI's Achilles heel."
+  },
+  {
+   "theme": "Seasonality",
+   "view": "Sep 30 historically the best buying point in midterm years."
+  },
+  {
+   "theme": "Middle East energy disruption",
+   "view": "Hormuz disruption benefits refiners; a US-Iran deal would hurt them."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 772,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     768,
+     762,
+     756,
+     750
+    ],
+    "resistance": [
+     775,
+     780
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range-bound below 775 resistance and ~780 ATH with rising yields and geopolitics; support levels 768/762/756, then ~750.",
+   "conviction": "low",
+   "timestamp": "5:30",
+   "quote": "SPY's at 772, with the first major resistance around 775"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CRAK",
+   "instrument_quoted": "CRAK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish while the Iran war/Hormuz disruption continues; a US-Iran deal would likely send refiners lower",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Refiners benefiting most from refined-product shortages; recent pullback offers risk-reward.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "C R A K is on my upside radar"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": 562,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 400,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 400,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     600
+    ],
+    "invalidation": 600
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Up hundreds of percent on AI, ~21x forward PE, major resistance just below $600; downside if AI de-risking or rising yields.",
+   "conviction": "medium",
+   "timestamp": "10:45",
+   "quote": "I wouldn't be surprised if it got below $400 a share. It's right now it's at 562"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RKLB",
+   "instrument_quoted": "RKLB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     75.5
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks above 75.50",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum breakout setup for next session.",
+   "conviction": "low",
+   "timestamp": "11:15",
+   "quote": "potential breakout tomorrow past 7550"
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "COIN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     197
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks above 197",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum breakout setup for next session.",
+   "conviction": "low",
+   "timestamp": "11:20",
+   "quote": "Coinbase, ticker symbol COIN, with a potential breakout past 197"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     251.4
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks below 251.40",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum breakdown setup for next session.",
+   "conviction": "low",
+   "timestamp": "11:25",
+   "quote": "CrowdStrike, ticker symbol CRWD, for a potential breakdown past 25140"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MOS",
+   "instrument_quoted": "MOS",
+   "price_at_call": 23,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     26,
+     27
+    ],
+    "invalidation": null
+   },
+   "condition": "Prefers to wait for strength toward $26-27 recent highs before entering",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$940k block of Jun 2027 $27 calls; slight uptrend forming; Middle East disruption feeds into fertilizer.",
+   "conviction": "low",
+   "timestamp": "12:30",
+   "quote": "I'll keep it on the radar especially as long as this Middle East disruption continues"
+  }
+ ],
+ "notes": "Recorded Sunday: references Friday Sep 25 and Saturday news, 'Sep 30 is 3 days away', and breakouts 'tomorrow' (Monday). Listing date 2026-09-28. Momentum levels spoken as '7550' and '25140' interpreted as 75.50 and 251.40."
+}

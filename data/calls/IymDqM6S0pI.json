@@ -1,0 +1,301 @@
+{
+ "video_id": "IymDqM6S0pI",
+ "channel": "Geeks of Finance",
+ "title": "Market Structure Is Shifting - Next Week Could Decide Everything",
+ "video_date": "2026-10-04",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "Options market structure",
+   "view": "SPX back in positive gamma after breaking a 1.5-week downtrend; room for momentum early next week."
+  },
+  {
+   "theme": "Volatility selling",
+   "view": "Vol sellers keep crushing VIX pops; VIX back in the 15s."
+  },
+  {
+   "theme": "Risk-on",
+   "view": "Bitcoin strength is flying in the face of negative sentiment and is supportive of risk assets including stocks."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7722,
+   "short_term": {
+    "bias": "bullish",
+    "target": 7750,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7700
+    ],
+    "resistance": [
+     7750,
+     7800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "SPX broke its downtrend and reclaimed 7,700 with positive gamma; largest GEX at 7,750 and most selling up at 7,800 leaves room for momentum early next week.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "plenty of room for momentum to build early into next week."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     15
+    ],
+    "resistance": [
+     18
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "VIX fell 6.5% back into the 15s; option sellers jump on every pop; large negative gamma at 15-16 strikes.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "ball sellers came right back in taking advantage of elevated premiums in order to sell more volatility."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 750,
+   "short_term": {
+    "bias": "bullish",
+    "target": 760,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     750,
+     760
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "QQQ closed at new all-time highs near 750 with moving averages turning up; target raised to 760.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "I think the potential for a move higher into 760 is growing pretty rapidly."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": 86000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 90000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 100000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000
+    ],
+    "resistance": [
+     90000,
+     100000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Since breaking 80k, momentum up and aiming for gaps at 90k; GEX stair-stepping toward 100k often precedes reaching targets in coming weeks.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "We've got 90,000 is the first level that we're watching followed by the 100,000 strike."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 234,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 250,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     219.46,
+     215
+    ],
+    "resistance": [
+     250
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Higher lows into higher gamma strikes, positive GEX up to 250; holds a 215/210 put credit spread for Oct 16 and would add on pullbacks to the moving averages.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "I like Nvidia heading into the next couple of months."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BE",
+   "instrument_quoted": "BE",
+   "price_at_call": 289.32,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     300
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Higher lows, moving averages aligned, positively skewed gamma and bullish flows at the 300 strike.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "I think that's going to be our target here for the next couple of weeks"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 260,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     220
+    ],
+    "resistance": [
+     240,
+     260
+    ],
+    "invalidation": null
+   },
+   "condition": "If CRM gets back above 240, expects a retest of 260.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bounced off the 50-day EMA at 220; largest GEX at 260 for Oct 16 expiry; break of downtrend would fill the earnings gap.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "I do think if we can get uh back above 240, Salesforce actually has a decent chance of retesting this 260 level."
+  }
+ ],
+ "notes": "Recaps Friday Oct 2 (rolled 'October 2nd SPX 7700 puts' that day) and previews 'next week', so recorded over the weekend; listing said Oct 5, date set to Sun Oct 4 (could be Sat Oct 3)."
+}

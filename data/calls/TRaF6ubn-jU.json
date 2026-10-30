@@ -1,0 +1,397 @@
+{
+ "video_id": "TRaF6ubn-jU",
+ "channel": "Verified Investing",
+ "title": "Yields Stay Strong As Global Unrest Increases, Major Test For Bitcoin And Gold, Top Trades",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Yields rising despite unrest",
+   "view": "10-year back to ~5.3%, highest since 2002, despite global unrest; problematic for markets."
+  },
+  {
+   "theme": "Equal-weight weakness",
+   "view": "Equal-weight S&P (RSP) much weaker than cap-weighted; watching ~205 support."
+  },
+  {
+   "theme": "China catch-up trade",
+   "view": "Increasingly bullish on beaten-down Chinese stocks; accumulating."
+  },
+  {
+   "theme": "Oil into midterms",
+   "view": "Administration will try to keep oil down before midterms; no Iran deal expected but negotiation rumors likely."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price stays above the neutral zone and resilient despite high yields; not bullish long term.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "the pattern on the chart remains bullish... it doesn't mean I'm bullish long term. I certainly am not"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly wedge breakout, check-back, now next leg up on Bolsonaro election surprise; would buy pullbacks, not here.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "Now, would I be buying this up here? No, absolutely not. But on pullbacks, this would be an interesting opportunity."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BIDU",
+   "instrument_quoted": "BIDU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "At low end of parallel with major support; China expected to emerge from recession with a catch-up trade.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "I've slowly been accumulating names like BYU based on these type of chart setups."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BABA",
+   "instrument_quoted": "BABA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trendline convergence near ~100 a strong opportunity; possible inverse head and shoulders.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "basically around a hundred bucks or just below. That to me looks extremely good for an opportunity."
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     108.5,
+     107
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 108.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 4-5% on Tesla/Musk fab possibly using TSMC; gap fill plus pivot support 107-108.50 for a day-trade dip buy.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "A huge amount of support on Intel for today's day trading day."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Daily close below trendline -> below 4000, then ~3500; would buy 3500-4000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding long-term trendline but inside bars could form a bear flag by Wed/Thu.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "If we break down, you're likely going back to down below 4,000... I'm a huge long-term bull on gold."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inside bar holding long-term trendline support; resolution expected by Wed/Thu.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "I think we know by Wednesday or Thursday if it's going to start to rally back up or if it's going to break this key …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 78,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     89
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 89 breaks, down to ~79-78",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Repeated hammering weakens the trendline; political pressure to keep oil low into midterms.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "if it breaks this 89 level we go all the way down to about the 79 9 to 78 range."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Great reversal Friday back above key short-term support.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "I remain bullish on this chart"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 97000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81300,
+     75000
+    ],
+    "resistance": [
+     87200,
+     87300
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily close above 87,200-87,300 targets 97-98k; losing 81,300 opens ~75k",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range between pivot highs; measured move on breakout.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "If we can get a daily close above this, the measured move could take us to 97 to 98,000."
+  }
+ ],
+ "notes": "Premarket Mon 2026-10-05 (ISM services \"today\", Fed minutes Wednesday). \"BYU\" in transcript = BIDU (garbled). KWEB, RSP (205 support), PBR, DXY (102.5, 17-month high) mentioned without a clear call. 10-year yield ~5.3% noted rising but no explicit forecast."
+}

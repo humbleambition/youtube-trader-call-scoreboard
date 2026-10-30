@@ -1,0 +1,315 @@
+{
+ "video_id": "m60HVNvlGhw",
+ "channel": "tastylive",
+ "title": "October 4th First Call",
+ "video_date": "2026-10-04",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Chris Vecchio and Ilya Spivak",
+ "macro_themes": [
+  {
+   "theme": "Bessent backs off the bond market",
+   "view": "Bessent 'tapping out' may be a sentiment turning point, like the post-Liberation Day pause showing a reaction function."
+  },
+  {
+   "theme": "Long-end yields",
+   "view": "Fed hike odds have retreated after a weak jobs report, but the long end stays high, driven mostly by real yields (hot economy, AI capex, deficits)."
+  },
+  {
+   "theme": "Anti-dollar setup",
+   "view": "GBP, EUR and AUD sit at range support; if the bond market is done, an anti-dollar trade favours emerging markets."
+  },
+  {
+   "theme": "Seasonality / volatility signal",
+   "view": "VIX term-structure signal and midterm-year seasonality point to further equity gains over the next 3 months."
+  },
+  {
+   "theme": "War de-escalation",
+   "view": "Bombers leaving England hints the Iran war may wind down before the midterms, easing oil and inflation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures (Sunday open)",
+   "price_at_call": 7787,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "VIX/3-month VIX spread signal historically leads to ~11% average 3-month gains with 93% hit rate; past the scary part of seasonality in a midterm year.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "volatility unfolding right now in a manner that's consistent with stocks continuing to have some bull run"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin spot",
+   "price_at_call": 86205,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Long the debasement trade since August; Bitcoin held up better than gold and silver.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "We knew that in August, which is why we got long Bitcoin, gold, the debasement trade... Bitcoin still holding up here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 678,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 615,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout in real time; keeps wheeling shares long from 615 and treats it as a run back at the high.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "There's no there's no reason to to treat this as anything other than opening the door for a run back at the high."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Months of consolidation then a breakout that paused above former highs; rolled the bullish position out 33 days.",
+   "conviction": "low",
+   "timestamp": "0:22",
+   "quote": "Marll here is extending to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ (Brazil ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Brazil election first round favours the market-friendly candidate; weekly chart looks good and a softer dollar would help EM.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I've been long basically going on two years now and just rolling and adding and rolling and adding."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil futures options (short call spread / iron condor)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holds short call spreads on oil; expects the war to shift to an economic squeeze so crude isn't running away.",
+   "conviction": "low",
+   "timestamp": "0:27",
+   "quote": "I'm sitting with a slight short bias right now I suppose here because I do have a short call spread on."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "GBP, EUR, AUD vs USD (daily charts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the bond market is about done and rate expectations keep falling.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pound, euro and Aussie sit on multi-month support and are attempting to turn.",
+   "conviction": "low",
+   "timestamp": "0:29",
+   "quote": "you look across the board here and there may be an interesting anti-doll opportunity."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "long-end Treasury yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Yields ease if Bessent backs off, oil eases and tariffs are not reinstated; otherwise real-yield pressure persists.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hike odds fell after weak data but the long end stayed high on real yields; asks whether the bond market is 'about done'.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "the story suddenly seems to be wait a second do we actually need all these rate hikes but the long end remains let us say …"
+  }
+ ],
+ "notes": "Title 'October 4th First Call'; transcript names next Tuesday as October 6th, so recorded Sunday 2026-10-04 at the futures open. The last ~30s (from 34:50) is a different show ('Happy Friday... Friday, October 7th, non-farm payroll'), ignored. 'AET' (0:22) is a garbled ticker, excluded. STZ/LEVI/PEP/DAL earnings options talk is about liquidity, not direction, so skipped."
+}

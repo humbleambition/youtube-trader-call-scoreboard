@@ -1,0 +1,167 @@
+{
+ "video_id": "29fptnGEomI",
+ "channel": "A1 Trading",
+ "title": "The US Dollar is Breaking Out. Time to Buy?",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Trader Nick (A1 Trading) with co-host Marco",
+ "macro_themes": [
+  {
+   "theme": "Fed likely to hike",
+   "view": "2-year yield near 4.9% vs Fed funds 3.75%; Fed funds tends to follow the 2-year, so they expect more hikes."
+  },
+  {
+   "theme": "Bad news, good price",
+   "view": "Weak NFP on Friday was faded in yields and the dollar, showing buyers of yields/dollar are in control."
+  },
+  {
+   "theme": "Retail edge in macro swing trading",
+   "view": "Higher-timeframe fundamental/seasonality/sentiment swing trading beats intraday noise."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar faded the dovish NFP drop and is back near highs; hawkish Fed repricing.",
+   "conviction": "medium",
+   "timestamp": "18:45",
+   "quote": "yields are going to go up and that the dollar is probably going to follow"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields faded a bad NFP drop and keep ripping; bonds getting beat up.",
+   "conviction": "high",
+   "timestamp": "19:00",
+   "quote": "I think it's just going to be a continuation of that until you see something otherwise."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold failed to rally on a textbook dovish data day; sellers in control.",
+   "conviction": "low",
+   "timestamp": "19:50",
+   "quote": "for the gold market, the sellers were in control despite what needed to be done."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar screaming higher and euro being hit.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "Right now you have like the dollar screaming higher and the euro getting plummeted"
+  }
+ ],
+ "notes": "Date implied: Friday's NFP discussed as last trading day and 'this weekend' -> Monday 2026-10-05 (listing approx 2026-10-06). Mostly educational/Edgefinder promo; few explicit levels. 2-year ~4.89%."
+}

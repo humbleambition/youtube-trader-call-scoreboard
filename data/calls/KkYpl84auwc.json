@@ -1,0 +1,181 @@
+{
+ "video_id": "KkYpl84auwc",
+ "channel": "Meet Kevin",
+ "title": "Fed Error? More Concern, Yields RISE MORE, Little Iran News, AI FEAR",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "AI bubble not over yet",
+   "view": "WSJ 'funding gap' warning signs aren't present; oversubscribed CoreWeave debt shows capital window still open, so it is too early to be mega-bearish."
+  },
+  {
+   "theme": "Fed hikes / AI inflation",
+   "view": "Lisa Cook's piece suggests hiking into AI-driven sector inflation would be a mistake; outside geopolitics most forces ahead are deflationary."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "Expects an Iran deal soon ('shilling this Iran deal hard'); a deal could take oil from ~$105 to $70-80 and make 'no more hikes this year' ~30% likely vs 10% priced."
+  },
+  {
+   "theme": "Bond yields elevated",
+   "view": "10-year ~5.23% after 5.26%; TLT keeps sliding toward a long-term support line."
+  },
+  {
+   "theme": "CPU/agent trade overblown",
+   "view": "Agentic AI needs little CPU compute; frontier GPU spend (Nvidia/AMD) is where the money is, and Anthropic/OpenAI funding plus the labor market are the canaries."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 735,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short term hinges on Iran: a deal lifts everything, no deal and 'everything might go down'.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bubble 'ain't over yet' because capital is still flowing to AI (no funding gap); dips are buyable while the window is open.",
+   "conviction": "medium",
+   "timestamp": "1:46",
+   "quote": "my opinion is you should buy it because the bubble ain't over yet"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (no contract specified)",
+   "price_at_call": 105,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 80,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an Iran deal comes within ~5-6 weeks, oil drops from ~$105 to $80 or $70.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects a US-Iran deal (sanctions relief for nuclear steps); says he sold puts on something that benefits from a deal.",
+   "conviction": "medium",
+   "timestamp": "1:05",
+   "quote": "if we get an Iran deal ... oil goes from $105 to $80 or $70 ... I think it's going to happen"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 227,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     227
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Frontier-chip spending by AI labs and Elon is where the money is; Nvidia does ~$100B/quarter in data center vs a rounding-error CPU agent market.",
+   "conviction": "medium",
+   "timestamp": "1:25",
+   "quote": "throw it in Nvidia and AMD for Frontier chips. That is a good trade"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     645
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "CPU/agent enthusiasm overblown: AMD ran from mid-$400s to $645, overbought daily and weekly; agents need few CPUs. Still calls AMD a great company and frontier chips a good trade.",
+   "conviction": "low",
+   "timestamp": "1:31",
+   "quote": "in the short term, who knows? But longer term, we're probably a little overblown on CPUs"
+  }
+ ],
+ "notes": "Date: the CNBC closing bell clip says 'this Monday' (Sep 28); listing approx_date is 2026-09-29. Kevin says Micron reports 'tomorrow', while Ricky Gutierrez (Tuesday Sep 29) also says Micron is 'tomorrow', so one is a day off. AMD call is mixed (bearish on the CPU narrative, positive on frontier chips); quoted 645 is the recent high, not close. Skipped: CRWV (balance-sheet criticism, 'probably okay for now', no price view), MSFT (cash vs bills concern, he holds it), INTC, MU (earnings tomorrow, no bias), AXP, GME, TLT (only notes it falling toward support; considered but didn't buy calls)."
+}

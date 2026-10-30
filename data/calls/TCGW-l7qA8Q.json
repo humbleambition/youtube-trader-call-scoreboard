@@ -1,0 +1,422 @@
+{
+ "video_id": "TCGW-l7qA8Q",
+ "channel": "BitcoinHyper",
+ "title": "Bitcoin LIVE: We've Seen This Before! (same setup) - BTC, ETH, XRP Price Prediction",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [
+  {
+   "theme": "Crypto allocation",
+   "view": "Most capital should be in BTC (e.g. 50% BTC / 25% ETH / 25% SOL); DCA into Bitcoin through end of next year."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD (Bybit/TradingView)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 87400,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 71300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82800,
+     71300
+    ],
+    "resistance": [
+     85500,
+     87400
+    ],
+    "invalidation": 82800
+   },
+   "condition": "Bounce likely toward 85,500 (golden Fib/VAH/liquidity), 87,400 if broken; plans a new short only on a confirmed liquidity grab and close back below the recent high. Daily closes below 82,800 = first bearish confirmation",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held 82,800 range top/golden Fib with bullish CVD absorption and low-volume corrective pullback; but still expects a shakeout to the 200-day SMA/anchored VWAP near 71,300.",
+   "conviction": "medium",
+   "timestamp": "12:45",
+   "quote": "I do think that going toward going toward this specific area, it does make quite a lot of sense."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ETH grabs liquidity above recent high and closes back below on 1h/30m/2h, short with stop above the high",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading at bigger golden Fib and major anchored VWAP resistance.",
+   "conviction": "low",
+   "timestamp": "38:40",
+   "quote": "then we fire a short trade with a stop loss exactly above the wrist high"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOLUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 126,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     126
+    ],
+    "invalidation": null
+   },
+   "condition": "Push up to daily level ~126 then potential short, depending on BTC",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rising wedge broke down; next upside target is daily level, then rejection expected.",
+   "conviction": "low",
+   "timestamp": "40:00",
+   "quote": "fire a short position at approximately let's just say appro $126 US"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRPUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1.75,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1.75
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Next target the golden Fib above the high, aligned with daily level and anchored VWAP.",
+   "conviction": "low",
+   "timestamp": "41:15",
+   "quote": "the next area for us to be looking for it here approximately $1.75 US on XRP."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINKUSD (spoken 'chaining')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 17,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     17
+    ],
+    "invalidation": null
+   },
+   "condition": "Pump to golden pocket ~17 then look for rejection/short (bearish RSI divergence)",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stopped out of prior short; expects push to Fib then corrective move down.",
+   "conviction": "low",
+   "timestamp": "44:30",
+   "quote": "pump toward the upside toward the gold pocket. And then of course, we will be looking for some kind of a rejection"
+  },
+  {
+   "group": "crypto",
+   "ticker": "AVAX",
+   "instrument_quoted": "AVAXUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible completed five-wave impulse at anchored VWAP/daily level with liquidity grab and bearish RSI divergence.",
+   "conviction": "low",
+   "timestamp": "33:15",
+   "quote": "if you're right now ask me buy or sell this one looking for a short position. I do think it does make slightly more sense."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZECUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1325
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long with stop below the recent low (~2.68R); if stopped, watch ~1,325",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Uptrend on daily/4h/2h with hidden bullish divergences after liquidity grab below lows.",
+   "conviction": "low",
+   "timestamp": "50:20",
+   "quote": "I do think this one can go higher by the way"
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEARUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Push to weekly level/golden pocket then look for short on bearish RSI divergence",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong pump; overbought RSI; next target weekly level and golden Fib.",
+   "conviction": "low",
+   "timestamp": "52:00",
+   "quote": "I do think this one can push higher to be honest."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LTC",
+   "instrument_quoted": "LTCUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     65
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long on pullback to ~$65 (golden Fib/anchored VWAP) if BTC behaves",
+   "action": "buy",
+   "entry": 65,
+   "stop": null,
+   "method": "technical",
+   "reason": "Impulsive uptrend with bullish pin bar; alert at golden pocket support.",
+   "conviction": "low",
+   "timestamp": "56:45",
+   "quote": "if we look for a long position on Litecoin, it could be at approximately 40 $65."
+  },
+  {
+   "group": "crypto",
+   "ticker": "TRX",
+   "instrument_quoted": "TRXUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     0.33
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long only if price reaches ~0.33 anchored VWAP/liquidity level",
+   "action": "watch",
+   "entry": 0.33,
+   "stop": null,
+   "method": "technical",
+   "reason": "Uptrend bouncing at daily support; best entry lower at anchored VWAP.",
+   "conviction": "low",
+   "timestamp": "58:45",
+   "quote": "Tron, this one is coming in at 30 33 cents for a potential long or a buying position"
+  },
+  {
+   "group": "crypto",
+   "ticker": "PUMP",
+   "instrument_quoted": "PUMP-USDT (pump.fun)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 0.006,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Major pump off support; next targets golden pocket and weekly level ~0.006, but bearish RSI divergence; would not buy here.",
+   "conviction": "low",
+   "timestamp": "27:55",
+   "quote": "gold pocket and then weekly it is going to be the next major target."
+  }
+ ],
+ "notes": "No date stated; listing date used. BTC live price ~83-84k (not stated exactly; short entry near 83k per chat). Garbled/unidentified tickers skipped: 'a' (pumped, target ~$190-200, possibly AAVE), 'Graham' (long alert ~$1.5), 'on'/'Ton' (rejection at 1:1, possibly TON). Also holds shorts on HYPE (passing mention)."
+}

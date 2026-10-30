@@ -1,0 +1,122 @@
+{
+ "video_id": "T5KicIpwjK4",
+ "channel": "tastylive",
+ "title": "How to Turn a Rally Into a Bigger Bearish Payoff",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "tastylive hosts (Jamal, Mike)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX options / E-mini",
+   "price_at_call": 7800,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 7400,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7800,
+     7810
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Positioned for a big washout: super-bear (7800/7810 short call spread financing 7685/7675 or 7650/7635 put spreads) and an end-of-October 7500/7400/7300 put butterfly, skewing more bearish into rallies.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "it creates $2,500 of max profit potential if we do get a big wash out next week."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Closed a calendar but liked Nvidia enough to put long exposure back on.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "I actually liked Nvidia enough that I put that on"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Added to a call butterfly at the same strikes hoping WDC jumps back, despite the stock getting smoked today.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "So for some reason we get to a point where uh WDC jumps back up"
+  }
+ ],
+ "notes": "'Happy Friday' with WDC getting smoked (Toshiba news) and SPX ~7,800 -> Fri Oct 2 (listing Oct 5). ES target 7400 is the short strike of their Oct-end put butterfly (max-profit point), inferred as target. Positions are trade structures, low conviction."
+}

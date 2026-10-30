@@ -1,0 +1,204 @@
+{
+ "video_id": "-oqTgZVDkcc",
+ "channel": "tastylive",
+ "title": "Tim Knight Says SpaceX Is Tracking the Facebook IPO Almost Exactly",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (Slope of Hope) with tastylive hosts",
+ "macro_themes": [
+  {
+   "theme": "Bifurcated market",
+   "view": "Nasdaq strong and bullish, S&P near a continuation breakout, Dow in a bear market since Aug 5."
+  },
+  {
+   "theme": "No bear market until AI IPOs",
+   "view": "No meaningful bear move until next year, after the Anthropic and OpenAI IPOs are done or scuttled."
+  },
+  {
+   "theme": "Bond rout",
+   "view": "Bonds (ZB) keep sinking and the euro is breaking down; rate-sensitive stocks like homebuilders suffer."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Something is wrong if it sinks below the breakout level / Friday's low",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish continuation basing pattern since June, no overhead supply, five green bars in a row.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "the INQ is the powerhouse and this is the bulls market to lose"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish continuation if ES pushes above recent highs; bear market only next year after AI IPOs",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Close to forming a continuation pattern but needs more lifting; no meaningful bear move until next year.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "there's not going to be any bare market until uh several things get out of the way"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "YM futures (Dow 30)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dow peaked Aug 5 and has been in a bear market, down even on an up day.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "the Dow 30, which peaked way back on August 5th and has just been just blah blah blur bare market"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": 170,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 115,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Escaped the $150 range (cheerleading short term), but tracking the Facebook post-IPO path: a new drawdown phase to ~110-120 in coming months, then a leap higher next year; lockup of 28% on Nov 9.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "I could see this grinding from the months ahead to like I don't know, pick a number 110, 120, some nasty new period."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LEN",
+   "instrument_quoted": "Lennar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Steady descent; homebuilder hurt by rising rates and reports of an affiliate buying its unsold homes.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "one of my shorts now which is having uh last I checked a good day today ... is LAR the home builder"
+  }
+ ],
+ "notes": "Tim says 'today is the 5th' (Monday 2026-10-05). SpaceX target 115 is the midpoint of his '110, 120'; price 170 is his 'let's say' figure. 'INQ'/'LAR'/'Lenar' are transcription of NQ/Lennar. Co-host says he holds a long call zebra (2x 70 long, 1x 75 short, June) on what appears to be Lennar, contradicting Tim; not recorded. ZB bonds and euro weakness described, no separate call."
+}

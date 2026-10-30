@@ -1,0 +1,267 @@
+{
+ "video_id": "RHGIzebqMho",
+ "channel": "tastylive",
+ "title": "Why the S&P at Record Highs Is Hiding a Broken Market",
+ "video_date": "2026-10-12",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Jim Welsh (Macro Tides), interviewed by Ilya Spivak",
+ "macro_themes": [
+  {
+   "theme": "Narrow market / weak breadth",
+   "view": "S&P new highs are driven by semis and Mag 7; equal-weight relative strength is the lowest in 24 years and the A/D line is below mid-August."
+  },
+  {
+   "theme": "Treasury yields drive the broad market",
+   "view": "Broad market is hostage to rising yields; only a 30-40bp decline over 1-3 months would bring broad participation."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "No hike in October, December hike likely; Fed under Warsh is credibly hawkish; next year depends on data, especially oil."
+  },
+  {
+   "theme": "Breaking point for markets",
+   "view": "A 1987-style 22% rise in the 10-year would take it to ~5.65%, a potential breaking point."
+  },
+  {
+   "theme": "Secular bear market coming",
+   "view": "Stocks overvalued, household equity exposure at record; expects a secular bear market (years out) with ~50% declines; semis could lose ~65% as in 2001-02/2008."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Republicans likely lose the House; market has anticipated it, knee-jerk reaction only."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "S&P can reach 8000 only if Treasury yields fall 30-40bp and the broad market joins; if yields keep rising tech cracks",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Narrow leadership; yields are the swing factor; secular bear market expected over coming years.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "that's how the S&P can get to 8,000 because you're going to need that participation from the broad market"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     635,
+     639
+    ],
+    "invalidation": null
+   },
+   "condition": "If yields keep pushing higher",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rally 503 to 607, pullback, two equal legs ~635; topped ~639 this week, possibly completing a counter-trend rally.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "This week, it's topped, I think, at 639... there's that potential that you completed a counter trend rally"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 4400,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 4470,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4110,
+     3945
+    ],
+    "resistance": [
+     4400,
+     4470
+    ],
+    "invalidation": null
+   },
+   "condition": "Gold must hold today's low (after dip below 4110) for the rally to 4400-4470",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Today's low important; Elliott wave four from 5595 January top unfolding; expects 3945 taken out and ~3500 mid-2027 before new highs.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "I still think there's a chance that you'll see a rally up to 4400 to 4470 uh in coming weeks, but gold has to hold …"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": 84.48,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     84.48
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 84.48,
+   "stop": null,
+   "method": "technical",
+   "reason": "GDX closed the gap at 84.48 and is oversold.",
+   "conviction": "medium",
+   "timestamp": "13:30",
+   "quote": "My recommendation was to buy GDX under 84.48"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 105,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     95
+    ],
+    "resistance": [
+     105,
+     107
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Framework set for the dollar to make a short-term peak (very overbought) but longer term target 105-107 from the 95 bottom.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "the framework is set up for the dollar to make a peak... I thought the dollar is going to 105 maybe up as high as …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 5.65,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.65
+    ],
+    "invalidation": null
+   },
+   "condition": "Need a definitive rollover (5 EMA below 13 EMA) before calling the top",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "RSI divergences suggest yields could top out near term, but bonds are in a secular bear market; 5.65% would mirror 1987's rise and be a breaking point.",
+   "conviction": "low",
+   "timestamp": "14:30",
+   "quote": "I think bond market is in a secular bare market. So longer term, where are yields going? I think they're going higher"
+  }
+ ],
+ "notes": "No date stated. Host mentions FOMC minutes 'coming up today', 'this week' S&P/Nasdaq breakouts and last Friday's soft jobs report, which suggests recording on a Wednesday (possibly Oct 7) and posting later; listing date Oct 12 used. Gold levels transcribed as '411' and '55.95' interpreted as 4110 and 5595."
+}

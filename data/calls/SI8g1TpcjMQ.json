@@ -1,0 +1,346 @@
+{
+ "video_id": "SI8g1TpcjMQ",
+ "channel": "TheTechnicalTraders",
+ "title": "Expect higher stock prices.",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders host)",
+ "macro_themes": [
+  {
+   "theme": "Stocks flagging before continuation",
+   "view": "After a pop over the past week and a half, stocks are flagging sideways and primed to continue higher over the next week or so; stays long S&P and Nasdaq."
+  },
+  {
+   "theme": "Yields pause, dollar firm, metals weak",
+   "view": "10y yield likely to drift sideways/lower temporarily within a strong uptrend; dollar popping; precious metals in a downtrend with bounces getting sold."
+  },
+  {
+   "theme": "Oil/energy uptrend on wars",
+   "view": "Oil basing in an upward channel with 110-120 targets; energy stocks holding up."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / RSP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Series of tight high-momentum bull flags pausing at the 5-day MA; all trends up; long S&P via strategy.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "over the next week or so. We are expecting stocks to move higher."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QLD (2x Nasdaq-100)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long Nasdaq (QLD up ~45%); trend up, expecting continuation.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "the play is still long equities. We are long both the S&P 500 and the NASDAQ"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Completed 100% measured move, choppy with bearish bars; expects a temporary pause/drift lower before the strong uptrend resumes.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "we're going to see yields potentially drift sideways or lower just temporarily"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields pull back the dollar could pull back a little",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar breaking higher; all trend timeframes up; expects it to hold or drift sideways, not betting on a falling dollar.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "we are not betting on uh falling the dollar"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Counter-trend bounce into resistance and the 50-day MA/overbought zone getting sold; downtrend. (Stacked-chart outlook says gold could drift sideways or higher, so mixed.)",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "this is a counter trend rally... if the trend is down, it is likely to get sold into."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounce into resistance being sold; moving averages sloping down; money flowing away from precious metals.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "all the moving averages pretty much are sloping down, telling us that the the tide is going down."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 95000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Could be a bear flag; watching",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold flush completed an ABC correction that shook out stops; trends higher; next measured move ~95k.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "we are looking for this to eventually find a bid and head on up to about 95,000"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 115,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     110,
+     115,
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 1.8%, basing in an upward channel; reaction high toward prior highs/measured move 110-120, 115 the sweet spot.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "price is gunning for 110 120 somewhere in that range 115 obviously probably be that sweet spot"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Energy stocks trending up with oil and wars.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "probably energy stocks continue to hold up"
+  }
+ ],
+ "notes": "Host states 'Monday, October 12th' (Canadian Thanksgiving). Gold quoted 'around 186' in transcript, unit unclear (likely truncated futures price), so price_at_call left null. Gold bias is mixed: intraday says counter-trend rally being sold, while the weekly stacked-chart outlook says sideways or higher; recorded bearish short-term per the more specific chart talk. GDX/miners down ~1%, no call."
+}

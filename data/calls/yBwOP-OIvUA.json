@@ -1,0 +1,136 @@
+{
+ "video_id": "yBwOP-OIvUA",
+ "channel": "Ross Givens",
+ "title": "Gold Just Gave You a SECOND CHANCE… Here’s What I’m Buying",
+ "video_date": "2026-09-26",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "metals",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Fed hike can't stop gold",
+   "view": "First Fed hike since 2023 is a warning shot against 3.4% inflation; gold rose anyway."
+  },
+  {
+   "theme": "Central bank buying",
+   "view": "China 22 straight months of purchases; record central bank buying and ETF inflows diverging from price."
+  },
+  {
+   "theme": "1976 analogue",
+   "view": "Gold 22% off its high mirrors the 1976 mid-bull pullback before an 8x run."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 5000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 5600,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [],
+    "invalidation": 4000
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Central bank and ETF demand plus money-supply growth; sees 5,000 as the floor, back to 5,600 in H1 2027 and $10,000 within 2-3 years.",
+   "conviction": "high",
+   "timestamp": "10:30",
+   "quote": "This year's highs, 5600 an ounce. I think we're back there in the first half of 2027"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": 95,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     113
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Miners at ~15x earnings with record margins (~$2,700/oz profit); 1.5-3x leverage to gold.",
+   "conviction": "high",
+   "timestamp": "9:00",
+   "quote": "this is, in my opinion, one of the best long-term investments you can make right now"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Silver tends to outperform gold in rallies, though more volatile and economy-dependent.",
+   "conviction": "low",
+   "timestamp": "9:30",
+   "quote": "silver, does it come along for the ride? Yes, I think it does"
+  }
+ ],
+ "notes": "No date stated ('last week the Fed raised'; 'join me this Monday live'); listing date used. Gold price implied ~22% below 5,600 (~4,370) but not stated. Long-term gold also $10,000 in 2-3 years."
+}

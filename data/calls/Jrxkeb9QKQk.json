@@ -1,0 +1,140 @@
+{
+ "video_id": "Jrxkeb9QKQk",
+ "channel": "David Lin",
+ "title": "Gold’s 30-Year Perfect Storm: How Does It End? | Brad Langille",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Brad Langille (CEO, GoGold Resources), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Peak gold (this cycle)",
+   "view": "A decade of under-investment in exploration and long permitting/build times mean mine supply has probably peaked for the next ~5 years."
+  },
+  {
+   "theme": "Currency debasement",
+   "view": "Debasement is real and central banks are buying gold for that reason."
+  },
+  {
+   "theme": "Metals bull market",
+   "view": "Best setup for metal prices he has seen in his career; potentially the start of a strong bull market."
+  },
+  {
+   "theme": "Mining cost inflation",
+   "view": "Mexican mining capex/opex inflation runs 8-10%, but commodity prices are rising much faster than costs."
+  },
+  {
+   "theme": "Mexico permitting",
+   "view": "Under President Sheinbaum permits are moving faster and the industry is 'full steam ahead'."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "GGD",
+   "instrument_quoted": "GoGold Resources (TSX: GGD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Fully funded Los Ricos South build from ~$284M cash with no debt, Parral generating $50-70M/yr; Los Ricos North+South targeted at $425-475M annual after-tax FCF; trades ~0.5x NAV vs 1.7-2x NAV silver takeouts.",
+   "conviction": "medium",
+   "timestamp": "39:00",
+   "quote": "we're probably trading at around a 0.5 of a NAV"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Under-investment in supply, debasement and central-bank buying; he calls it the best metals setup of his career.",
+   "conviction": "low",
+   "timestamp": "9:20",
+   "quote": "I think we're potentially at the start of a strong bull market in the metal price"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Peak gold supply this cycle, currency debasement and central-bank buying.",
+   "conviction": "low",
+   "timestamp": "9:10",
+   "quote": "in my career, I don't think I've ever seen a better setup for the metal price than right now"
+  }
+ ],
+ "notes": "Sponsored ('disseminated on behalf of GoGold'); speaker is the company CEO and ~5% shareholder, so GGD view is promotional. Company name transcribed as 'Gold Gold' / 'Go Gold'; ticker 'T uh GGD on the TSX' = TSX:GGD. Share price garbled: says ~'120 cents' in 2024 and 'now it's at $48', likely C$4.80 (consistent with ~C$2B market cap) - price_at_call left null. Metals view is generic ('the metal price') and he disclaims price forecasting; recorded as low-conviction long-term bullish for both GC and SI. No on-air date; listing approx_date used. 'Lan curve' = Lassonde curve."
+}

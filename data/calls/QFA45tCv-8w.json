@@ -1,0 +1,533 @@
+{
+ "video_id": "QFA45tCv-8w",
+ "channel": "Arete Trading",
+ "title": "Everyone's Scared. Breadth Says BUY!",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Rotation, not rebalance",
+   "view": "Since Sept 30 institutions are rotating between semis, software and biotech/genomics while raising net exposure; leaders keep leading and breadth broadens - a self-feeding bull market."
+  },
+  {
+   "theme": "Oversold breadth = buy",
+   "view": "S&P % above 50-day hit the ≤18 zone and bounced; historically the market was higher 30 days later."
+  },
+  {
+   "theme": "Lower oil helps Nasdaq",
+   "view": "Falling crude pushes institutions into high-beta Nasdaq names; an oil spike is the main risk."
+  },
+  {
+   "theme": "Rates/bond vol risk",
+   "view": "Doesn't want the 10-year to close above 5.35% or MOVE to reach 125."
+  },
+  {
+   "theme": "Brazil election trade",
+   "view": "A conservative upset in Brazil's election is an early Argentina-style trade (PBR)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NASDAQ / NDX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq breaking to all-time highs on rotation into big names after ISM beat; lower oil favors high beta.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "NASDAQ's breaking out to all-time highs and people are befuddled by this"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 breadth (S5FI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Risk: crude oil spike, 10y closing above 5.35, MOVE above 125.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "S5FI hit the ≤18 oversold zone and bounced; S5FI/NDFI ratio at an extreme marking a bottom; breadth broadening.",
+   "conviction": "high",
+   "timestamp": "0:11",
+   "quote": "we are grossly oversold on the S&P and once we broke that 10, you are setting up to form oversold bounces or a bottom"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If crude instead spikes, NDX sells off again.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "12/22 cross under on crude; oil setting up to crack lower.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "right now, this is setting up to crack in my opinion. And we're setting up for oil to go lower"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.35
+    ],
+    "invalidation": null
+   },
+   "condition": "A close above 5.35 would be a problem for stocks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bond volatility (MOVE) still rising; rates are the main caveat to the bull case.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "we really don't want to close over that 535"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Institutions rotated into the biggest name; closed at an all-time high.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "They bought Nvidia closed at an all-time high"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Took a good trade today; swing break with follow-through, unlike prior choppy action.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "from a swing perspective, you can see the break and then you're getting followth through"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held near multi-year highs despite a downgrade with an $80 target; leaders continue to lead in rotation.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "It means the rotation that leaders are going to continue to lead"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Hitting all-time highs ahead of September sales data Thursday, which he expects to be good; AI cycle not ending.",
+   "conviction": "medium",
+   "timestamp": "0:18",
+   "quote": "Here's Taiwan Semi. What's it doing? It's hitting all-time highs"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     800
+    ],
+    "resistance": [
+     900
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 800,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bought at the 800 put wall after Toshiba capacity news selloff; stalled at the 900 old call wall.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "We actually were buying it at 800 where that little line is"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 555,
+   "stop": null,
+   "method": "technical",
+   "reason": "Owned from ~553-557; dipped and gap-filled but held - just not its rotation day.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "We bought this at like 553, 557, something like that. But did it really implode? No"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1700
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Memory names going sideways; market waiting for a break of 1,700.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "Everyone's waiting for SanDisk to break that 1700 level. What's it do? It just sits there"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TWST",
+   "instrument_quoted": "TWST",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Genomics leader rallying as money rotates into IBB/XBI.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "if you look at some of these other names like twist, it's starting to show you what the leaders are"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TXG",
+   "instrument_quoted": "TXG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Genomics names breaking out to highs on rotation.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "all these things that are breaking out, hitting highs, they're grinding"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PBR",
+   "instrument_quoted": "PBR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Owns it; conservative upset in Brazil's election resembles his earlier Argentina trade; still early with election/vote risk.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "this Brazilian trade reminds me a lot of Argentina. It is in the very early stages"
+  }
+ ],
+ "notes": "Recorded after close on Monday Oct 5 ('that is Monday... we actually broadened out today'; ISM data and Brazil's Oct 4 election). Garbled tickers omitted: 'crowd' (likely CRDO), 'PW', 'NVX', 'T TX' (only TXG kept), 'ARCG' (genomics ETF, likely ARKG). TEM mentioned as past exit. AMD entry price ~553-557 as stated (units as quoted)."
+}

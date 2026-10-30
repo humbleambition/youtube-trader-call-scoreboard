@@ -1,0 +1,422 @@
+[
+ {
+  "channel": "Ricky Gutierrez",
+  "calls": 51,
+  "day": {
+   "n": 32,
+   "hits": 22,
+   "hit": 0.6875,
+   "long": 0.2812,
+   "edge": 0.4062,
+   "p": 0.0251
+  },
+  "week": {
+   "n": 39,
+   "hits": 21,
+   "hit": 0.5385,
+   "long": 0.4615,
+   "edge": 0.0769,
+   "p": 0.3746
+  },
+  "rank": 1
+ },
+ {
+  "channel": "tastylive",
+  "calls": 267,
+  "day": {
+   "n": 189,
+   "hits": 108,
+   "hit": 0.5714,
+   "long": 0.3333,
+   "edge": 0.2381,
+   "p": 0.0292
+  },
+  "week": {
+   "n": 231,
+   "hits": 136,
+   "hit": 0.5887,
+   "long": 0.2727,
+   "edge": 0.316,
+   "p": 0.0042
+  },
+  "rank": 2
+ },
+ {
+  "channel": "Trade Brigade",
+  "calls": 92,
+  "day": {
+   "n": 81,
+   "hits": 46,
+   "hit": 0.5679,
+   "long": 0.4938,
+   "edge": 0.0741,
+   "p": 0.1332
+  },
+  "week": {
+   "n": 87,
+   "hits": 44,
+   "hit": 0.5057,
+   "long": 0.5862,
+   "edge": -0.0805,
+   "p": 0.5
+  },
+  "rank": 3
+ },
+ {
+  "channel": "TheTechnicalTraders",
+  "calls": 67,
+  "day": {
+   "n": 56,
+   "hits": 31,
+   "hit": 0.5536,
+   "long": 0.4286,
+   "edge": 0.125,
+   "p": 0.2522
+  },
+  "week": {
+   "n": 66,
+   "hits": 35,
+   "hit": 0.5303,
+   "long": 0.4242,
+   "edge": 0.1061,
+   "p": 0.3561
+  },
+  "rank": 4
+ },
+ {
+  "channel": "Ross Givens",
+  "calls": 78,
+  "day": {
+   "n": 25,
+   "hits": 13,
+   "hit": 0.52,
+   "long": 0.28,
+   "edge": 0.24,
+   "p": 0.5
+  },
+  "week": {
+   "n": 64,
+   "hits": 25,
+   "hit": 0.3906,
+   "long": 0.3125,
+   "edge": 0.0781,
+   "p": 0.97
+  },
+  "rank": 5
+ },
+ {
+  "channel": "Meet Kevin",
+  "calls": 113,
+  "day": {
+   "n": 34,
+   "hits": 17,
+   "hit": 0.5,
+   "long": 0.4706,
+   "edge": 0.0294,
+   "p": 0.5679
+  },
+  "week": {
+   "n": 101,
+   "hits": 51,
+   "hit": 0.505,
+   "long": 0.495,
+   "edge": 0.0099,
+   "p": 0.5
+  },
+  "rank": 6
+ },
+ {
+  "channel": "David Lin",
+  "calls": 111,
+  "day": {
+   "n": 24,
+   "hits": 12,
+   "hit": 0.5,
+   "long": 0.5417,
+   "edge": -0.0417,
+   "p": 0.5806
+  },
+  "week": {
+   "n": 74,
+   "hits": 40,
+   "hit": 0.5405,
+   "long": 0.5,
+   "edge": 0.0405,
+   "p": 0.2807
+  },
+  "rank": 7
+ },
+ {
+  "channel": "Money Making Market",
+  "calls": 51,
+  "day": {
+   "n": 27,
+   "hits": 13,
+   "hit": 0.4815,
+   "long": 0.5926,
+   "edge": -0.1111,
+   "p": 0.6494
+  },
+  "week": {
+   "n": 35,
+   "hits": 17,
+   "hit": 0.4857,
+   "long": 0.4286,
+   "edge": 0.0571,
+   "p": 0.6321
+  },
+  "rank": 8
+ },
+ {
+  "channel": "Verified Investing",
+  "calls": 349,
+  "day": {
+   "n": 242,
+   "hits": 110,
+   "hit": 0.4545,
+   "long": 0.4091,
+   "edge": 0.0455,
+   "p": 0.9304
+  },
+  "week": {
+   "n": 287,
+   "hits": 138,
+   "hit": 0.4808,
+   "long": 0.3484,
+   "edge": 0.1324,
+   "p": 0.7606
+  },
+  "rank": 9
+ },
+ {
+  "channel": "Geeks of Finance",
+  "calls": 67,
+  "day": {
+   "n": 42,
+   "hits": 19,
+   "hit": 0.4524,
+   "long": 0.4524,
+   "edge": 0.0,
+   "p": 0.7796
+  },
+  "week": {
+   "n": 54,
+   "hits": 22,
+   "hit": 0.4074,
+   "long": 0.5185,
+   "edge": -0.1111,
+   "p": 0.9332
+  },
+  "rank": 10
+ },
+ {
+  "channel": "Crypto World",
+  "calls": 90,
+  "day": {
+   "n": 77,
+   "hits": 34,
+   "hit": 0.4416,
+   "long": 0.5065,
+   "edge": -0.0649,
+   "p": 0.8728
+  },
+  "week": {
+   "n": 81,
+   "hits": 39,
+   "hit": 0.4815,
+   "long": 0.2222,
+   "edge": 0.2593,
+   "p": 0.6715
+  },
+  "rank": 11
+ },
+ {
+  "channel": "HJTrades",
+  "calls": 171,
+  "day": {
+   "n": 127,
+   "hits": 55,
+   "hit": 0.4331,
+   "long": 0.4252,
+   "edge": 0.0079,
+   "p": 0.9451
+  },
+  "week": {
+   "n": 165,
+   "hits": 69,
+   "hit": 0.4182,
+   "long": 0.4364,
+   "edge": -0.0182,
+   "p": 0.9855
+  },
+  "rank": 12
+ },
+ {
+  "channel": "The Traveling Trader",
+  "calls": 43,
+  "day": {
+   "n": 15,
+   "hits": 6,
+   "hit": 0.4,
+   "long": 0.3333,
+   "edge": 0.0667,
+   "p": 0.8491
+  },
+  "week": {
+   "n": 34,
+   "hits": 10,
+   "hit": 0.2941,
+   "long": 0.2647,
+   "edge": 0.0294,
+   "p": 0.9955
+  },
+  "rank": 13
+ },
+ {
+  "channel": "StockedUp",
+  "calls": 95,
+  "day": {
+   "n": 71,
+   "hits": 26,
+   "hit": 0.3662,
+   "long": 0.4648,
+   "edge": -0.0986,
+   "p": 0.9915
+  },
+  "week": {
+   "n": 82,
+   "hits": 39,
+   "hit": 0.4756,
+   "long": 0.4756,
+   "edge": 0.0,
+   "p": 0.7094
+  },
+  "rank": 14
+ },
+ {
+  "channel": "Slope of Hope",
+  "calls": 152,
+  "day": {
+   "n": 84,
+   "hits": 30,
+   "hit": 0.3571,
+   "long": 0.6071,
+   "edge": -0.25,
+   "p": 0.997
+  },
+  "week": {
+   "n": 143,
+   "hits": 47,
+   "hit": 0.3287,
+   "long": 0.6084,
+   "edge": -0.2797,
+   "p": 1.0
+  },
+  "rank": 15
+ },
+ {
+  "channel": "BitcoinHyper",
+  "calls": 32,
+  "day": {
+   "n": 23,
+   "hits": 8,
+   "hit": 0.3478,
+   "long": 0.4783,
+   "edge": -0.1304,
+   "p": 0.9534
+  },
+  "week": {
+   "n": 24,
+   "hits": 11,
+   "hit": 0.4583,
+   "long": 0.375,
+   "edge": 0.0833,
+   "p": 0.7294
+  },
+  "rank": 16
+ },
+ {
+  "channel": "Arete Trading",
+  "calls": 205,
+  "day": {
+   "n": 125,
+   "hits": 42,
+   "hit": 0.336,
+   "long": 0.376,
+   "edge": -0.04,
+   "p": 0.9999
+  },
+  "week": {
+   "n": 181,
+   "hits": 83,
+   "hit": 0.4586,
+   "long": 0.3702,
+   "edge": 0.0884,
+   "p": 0.8829
+  },
+  "rank": 17
+ },
+ {
+  "channel": "Gareth Soloway",
+  "calls": 41,
+  "day": {
+   "n": 28,
+   "hits": 9,
+   "hit": 0.3214,
+   "long": 0.5357,
+   "edge": -0.2143,
+   "p": 0.9822
+  },
+  "week": {
+   "n": 25,
+   "hits": 13,
+   "hit": 0.52,
+   "long": 0.4,
+   "edge": 0.12,
+   "p": 0.5
+  },
+  "rank": 18
+ },
+ {
+  "channel": "ShadowTrader",
+  "calls": 24,
+  "day": {
+   "n": 21,
+   "hits": 6,
+   "hit": 0.2857,
+   "long": 0.6667,
+   "edge": -0.381,
+   "p": 0.9867
+  },
+  "week": {
+   "n": 20,
+   "hits": 7,
+   "hit": 0.35,
+   "long": 0.5,
+   "edge": -0.15,
+   "p": 0.9423
+  },
+  "rank": 19
+ },
+ {
+  "channel": "Figuring Out Money",
+  "calls": 21,
+  "day": {
+   "n": 16,
+   "hits": 1,
+   "hit": 0.0625,
+   "long": 0.1875,
+   "edge": -0.125,
+   "p": 1.0
+  },
+  "week": {
+   "n": 19,
+   "hits": 6,
+   "hit": 0.3158,
+   "long": 0.4211,
+   "edge": -0.1053,
+   "p": 0.9682
+  },
+  "rank": 20
+ }
+]

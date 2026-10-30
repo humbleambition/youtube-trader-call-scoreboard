@@ -1,0 +1,294 @@
+{
+ "video_id": "ercKRH9ONjY",
+ "channel": "Geeks of Finance",
+ "title": "The VIX Is Starting To Tell A Different Story",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Anthony and Shawn (Geeks of Finance)",
+ "macro_themes": [
+  {
+   "theme": "AI infrastructure intact after Micron",
+   "view": "The AI infrastructure trade did not fall apart after Micron earnings, a good sign into the next earnings cycle."
+  },
+  {
+   "theme": "Gamma-driven ranges",
+   "view": "SPX pinned around the 7,700 gamma strike; above it is bullish territory."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7700
+    ],
+    "invalidation": null
+   },
+   "condition": "Breakout above 7,700 is bullish; below it bears in control",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Channel of lower highs/lows for weeks; largest gamma at 7,700 and heavy bullish flows (+$135M, $40M+ at 7,700) despite trading below it.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "in our view, we're looking for a breakout above the 7,700 level."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 285,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     275,
+     280
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "IWM at the low end of its range with largest gamma at 280 and positive flows; rolled short 285 puts expecting mean reversion to 285.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "We think, again, a mean reversion move potentially up to that 285 level could be in the works here."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 17,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     16,
+     15
+    ],
+    "resistance": [
+     17,
+     20
+    ],
+    "invalidation": null
+   },
+   "condition": "Holding above 17 opens a squeeze to 20+; losing 16 opens 15",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Long upper wick rejected at 17.59 and closed below 17; negative GEX, 1-hour Keltner channel and trendline make 15 a floor.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "if it's able to hold above 17, that that opens the door to a bit of a squeeze, if you will, up to this 20 …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": 396.25,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 450,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     400
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Consolidating under 400 (largest gamma) with stacked rising 10/20/50 MAs and gamma building up to 450 for Oct 16 OPEX; holds a 400/425 call debit spread.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "we think somewhere in this zone over the course of the next couple of weeks could be a potential target."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     320,
+     330
+    ],
+    "resistance": [
+     340,
+     360
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Strongly positive net GEX up to 360, held 15 EMA and weekly HMA; holds a 325/320 put credit spread; rotates into Mag 7 on weak days.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "combined with the GEX picture, we think the odds favor higher prices."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 1097.67,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1050
+    ],
+    "resistance": [
+     1100,
+     1300
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Rallied 2.69% after earnings; big gamma at 1,100 growing up to 1,300 and MAs pointing up; holds 1050/1040 put credit spread (Oct 16).",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "still has some potential bullish momentum to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     300
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Rising channel of higher lows since late July, stacked rising MAs, largest positive GEX at 300 and positive flows.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "This also looks poised for higher prices following Micron earnings"
+  }
+ ],
+ "notes": "Date: 'Micron reporting earnings last night' (Micron reported Wed 9/30 after close per xjZq2CNL8Qg) -> Thu 2026-10-01; listing said 10-02. Note Meet Kevin's Oct 1 stream showed MU down ~3% intraday, so the +2.69% close is a reversal or a date mismatch. PANW target given as the 400-450 zone; 450 recorded."
+}

@@ -1,0 +1,89 @@
+{
+ "video_id": "kxQ4opawx0Q",
+ "channel": "David Lin",
+ "title": "1987 Black Monday Repeat: How Close Are We?",
+ "video_date": "2026-10-12",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "guest",
+ "macro_themes": [
+  {
+   "theme": "Black Monday 1987 comparison",
+   "view": "Rising yields and strong dollar make markets fragile."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Headwinds (strong dollar, rising yields, Fed hikes) keep gold in a soft volatile range; China buying supports it.",
+   "conviction": "medium",
+   "timestamp": "0:25",
+   "quote": "not going to break out to 5,000 again so long as interest rates are backing up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rising yields and Fed hikes continue.",
+   "conviction": "medium",
+   "timestamp": "0:24",
+   "quote": "rising yields"
+  }
+ ],
+ "notes": ""
+}

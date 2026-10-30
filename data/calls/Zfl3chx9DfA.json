@@ -1,0 +1,251 @@
+{
+ "video_id": "Zfl3chx9DfA",
+ "channel": "Meet Kevin",
+ "title": "Market Recovery, Fed Bailout, Iran, War, Oil, Micron",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Iran negotiations",
+   "view": "Talks are stalled but Trump is being deliberately patient to extract a better deal; expects a deal before midterms, timing unknown."
+  },
+  {
+   "theme": "Strong US data",
+   "view": "ADP 90k beat, Chicago PMI 58.8 highest since May, PCE cooler than expected: bullish for the economy."
+  },
+  {
+   "theme": "Yields under pressure",
+   "view": "Delay on Iran plus strong data keep upward pressure on yields despite Williams' dovish talk and Treasury's Oct 1 buyback; yields need an Iran deal to fall."
+  },
+  {
+   "theme": "AI job losses",
+   "view": "Losses in financial activities and professional/business services in ADP may be an early sign of AI-driven job cuts."
+  },
+  {
+   "theme": "Diesel export ban",
+   "view": "A US diesel export ban would likely raise diesel/gasoline prices over time, not lower them."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (calls it Nasdaq 100)",
+   "price_at_call": 744,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735,
+     710,
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Past peak fear (bought heavily near 700); holding above 735 is a bullish indicator; strong data and market pricing in a likely Iran deal.",
+   "conviction": "high",
+   "timestamp": "63:00",
+   "quote": "We are now riding above 735 which is a bullish indicator that we might be getting to all-time highs by next Friday."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Yields come down meaningfully only once an Iran deal is struck",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bear steepening, rising 5y breakevens; Williams and the Treasury buyback cannot control yields while Trump delays the deal.",
+   "conviction": "medium",
+   "timestamp": "74:00",
+   "quote": "to meaningfully get yields down, we still need this because then we could actually have a situation where the economy is doing very well"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": 337,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 315,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Sees 20%/yr growth from Duo, smart home hub and Apple One ARR vs Street ~9.9%; at 20% growth implies $495-500. Sent a buy alert at 310-315.",
+   "conviction": "high",
+   "timestamp": "94:00",
+   "quote": "I look at this as about a $495 to $500 stock which I know sounds crazy because the stock has already done quite well"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 600,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     618
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Was bearish on AMD in the morning alpha report and talked about selling calls around 618; stock now below that.",
+   "conviction": "medium",
+   "timestamp": "75:00",
+   "quote": "We were also bearish on AMD and AMD is down under where we were bearish on it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": 350,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 824,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Cites his own Tesla fair value of 575 today and 824 by 2030 (given as an example of what his digest email would include).",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "Tesla's fair value is 575 today, 824 by 2030."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Alpha report called for a software rebound today; Salesforce up ~3%, Snowflake ~4%.",
+   "conviction": "low",
+   "timestamp": "74:00",
+   "quote": "We talked about this in our alpha report this morning that expect a rebound in these software names."
+  }
+ ],
+ "notes": "Date: ADP and Chicago PMI 'this morning', Micron earnings 'today', Williams 'yesterday' (Tuesday), Treasury buyback Oct 1 -> Wed 2026-09-30. TSLA fair values were quoted as an illustrative example (low conviction). Software rebound call recorded under CRM (also SNOW). Passing levels: NVDA bounced on 'our 227 line', SpaceX testing ~151 line. '5.62' yield mention likely the 30y (garbled)."
+}

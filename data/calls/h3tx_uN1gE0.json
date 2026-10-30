@@ -1,0 +1,175 @@
+{
+ "video_id": "h3tx_uN1gE0",
+ "channel": "Sean Foo",
+ "title": "US Blindsided: China Just Cut Off Oil Exports - Trump Makes EVERYTHING WORSE",
+ "video_date": "2026-10-05",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Oil supply squeeze",
+   "view": "Brent above $100; China buying more crude and cancelling fuel exports, Asian backwardation; G7 reserve releases look bad by winter."
+  },
+  {
+   "theme": "French bond crisis",
+   "view": "French 10-year nearing 5%, OAT-Bund spread 145bp; Japanese funds exiting."
+  },
+  {
+   "theme": "Yen strength",
+   "view": "Tokyo signalling the yen will strengthen; carry-trade unwind risk."
+  },
+  {
+   "theme": "Inflate debt away",
+   "view": "Trump endorsing inflation to pay off debt; dollar and bondholders face debasement."
+  },
+  {
+   "theme": "US refinancing",
+   "view": "$10T of Treasuries to refinance in 12 months at higher rates; yields to keep rising."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "China hoarding crude and refined fuel, Hormuz disruption and depleting reserves into winter tighten supply.",
+   "conviction": "medium",
+   "timestamp": "1:05",
+   "quote": "if oil prices continue rising or just stay elevated, draining strategic stock piles now is going to look very bad"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Can't keep issuing bonds without yields flying higher; refinancing wall and deficits.",
+   "conviction": "medium",
+   "timestamp": "13:55",
+   "quote": "Trump simply cannot keep issuing more bonds without yields flying even higher than they already are"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Policy of inflating debt away and pressure on Fed to cut both debase the dollar.",
+   "conviction": "medium",
+   "timestamp": "14:50",
+   "quote": "The only trick remaining is to debase the dollar and transfer wealth away from bond holders through inflation"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDJPY",
+   "instrument_quoted": "USD/JPY (yen)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Tokyo told Trump the yen will strengthen; Japanese money repatriating to JGBs.",
+   "conviction": "low",
+   "timestamp": "11:05",
+   "quote": "Tokyo just told Trump directly the yen is going to strengthen regardless of what Washington wants"
+  }
+ ],
+ "notes": "No date stated; listing date used. USDJPY bearish = yen bullish (outside canonical list). Brent quoted rather than WTI."
+}

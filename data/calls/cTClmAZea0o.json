@@ -1,0 +1,128 @@
+{
+ "video_id": "cTClmAZea0o",
+ "channel": "Ross Givens",
+ "title": "Wall Street is DEAD WRONG on Meta... Buy THIS Instead",
+ "video_date": "2026-09-29",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Agentic payments on stablecoins",
+   "view": "AI agents like Meta's Muse will pay via regulated digital dollars; GENIUS Act enforcement Jan 18 forces stablecoin reserves into Treasuries."
+  },
+  {
+   "theme": "Rates rising",
+   "view": "Fed hiked Sep 16 with another hike likely; 2y yield prices 3-5 more hikes and 3-month bills heading to ~4.5%."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRCL",
+   "instrument_quoted": "CRCL",
+   "price_at_call": 85,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Circle earns T-bill interest on ~$75B USDC; an extra point of yield adds ~$300M profit (~66% EPS jump) while agentic AI grows stablecoin demand.",
+   "conviction": "high",
+   "timestamp": "10:00",
+   "quote": "I'm guessing more probably a lot more and this stock is going to make money every time they do."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Muse added ~$550B of market cap but faces privacy problems and will probably fail like earlier Zuckerberg products; the value accrues to payment rails.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "this one will probably fail. And it won't matter."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PYPL",
+   "instrument_quoted": "PYPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Cheap at 9.5x earnings and a Muse checkout option, but cheap for a reason: users have moved to Venmo, Zelle and Cash App.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "the obvious play here is PayPal. It's not the right one"
+  }
+ ],
+ "notes": "No date stated; listing date used. CRCL price 'mid 80s' recorded as 85; notes it nearly hit 300 last year but no target given. META bias is the title's 'Wall Street is wrong' thesis, not an explicit short."
+}

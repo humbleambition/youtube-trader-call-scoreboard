@@ -1,0 +1,336 @@
+{
+ "video_id": "iAuL_3uTONQ",
+ "channel": "Verified Investing",
+ "title": "France Unrest Triggers Global Yield Spike, Gold Breaks Major Support, Bitcoin Stumbles",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Global yields spiking",
+   "view": "France unrest pushed yields up worldwide; US 10y near 5.35% and futures trade inversely to yields."
+  },
+  {
+   "theme": "Debt glut",
+   "view": "Massive public and private debt issuance (e.g. SpaceX $40B) lets buyers demand higher yields, keeping yields elevated."
+  },
+  {
+   "theme": "100-year cycle collapse",
+   "view": "Expects a Great-Depression-style collapse around 2029-2030 from debt and money printing, but still net long for now."
+  },
+  {
+   "theme": "Strong dollar",
+   "view": "Dollar keeps pushing up on France unrest, weighing on gold."
+  },
+  {
+   "theme": "China gold buying",
+   "view": "China's 23rd straight month of gold buying supports a gold-backed yuan reserve ambition long term."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX) daily chart / ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Double top at the Aug 13 all-time high suggests a pullback today if yields rise, but still in bullish zone; 8000 is a confluence of two long-term trend lines (from 2024 highs and the COVID low).",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "I'm going to remain bullish on this market... My upside target remains around 8,000 on the S&P 500"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.75
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If oil gets a daily close below the ~88.75 trend line, expects a drop to $78-79 within days.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil saved its ascending trend line at yesterday's close, so no breakdown yet; a daily close below it would trigger a ~$10 drop.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "a daily close below that and I do think that oil goes to 78. Basically a $10 drop in a matter of days."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3950,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": 4100
+   },
+   "condition": "If gold fails to recapture/breaks 4,100, likely 3,950; below 3,950, 3,500, where he would buy physical.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold is below its major support line as yields and the dollar rise; long-term holder who would buy physical at 3,500.",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "If it breaks 4,100, we're likely headed to 3950... 3500 is still that level"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (spot)",
+   "price_at_call": 60,
+   "short_term": {
+    "bias": "bearish",
+    "target": 55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A break of the key trend line support would dictate a drop to $55; still expects a return to ~$50 (1980/2011 highs).",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver sitting on its trend line; 'return to the scene of the crime' back to the $50 breakout level would be the major buy opportunity.",
+   "conviction": "medium",
+   "timestamp": "13:30",
+   "quote": "That would dictate a drop to $55... there's a retrace to the scene of the crime... right around $50"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75500
+    ],
+    "resistance": [],
+    "invalidation": 81000
+   },
+   "condition": "As long as 81,000 holds, bullish consolidation (bull flag); a daily close below 81,000 targets ~75,500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull flag consolidation intact above 81k; he personally suspects a bigger pullback but defers to the chart.",
+   "conviction": "medium",
+   "timestamp": "15:30",
+   "quote": "As long as we hold 81, neutral to bullish bias has to be maintained on a probability factor."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     440,
+     445
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 442.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Parallel channel line off major ascending trend gives a shortable level around 440-445.",
+   "conviction": "low",
+   "timestamp": "16:45",
+   "quote": "This gives me a shortable level on PaloAlto right around 440 to 445."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     52.37
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if BAC falls to the gap fill around 52.37 (about $1 away) would he day trade it.",
+   "action": "buy",
+   "entry": 52.37,
+   "stop": null,
+   "method": "technical",
+   "reason": "Key gap fill level; intraday day-trade only (direction implied long off the gap fill).",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "There is a key gap fill quickly approaching on BAC at around 5237... I would day trade that today."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 1022,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1000
+    ],
+    "resistance": [],
+    "invalidation": 1000
+   },
+   "condition": "A confirmed daily close below the ~$1,000 trend line would be a big breakdown.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price squeezed between two trend lines; potential Micron strike adds risk.",
+   "conviction": "low",
+   "timestamp": "17:30",
+   "quote": "If we were to have a daily close with confirmation below that, that would be a big breakdown on the chart structure of Micron."
+  }
+ ],
+ "notes": "Date: host gives no calendar date, but says the FOMC minutes are 'today at 2 p.m.' and refers to Monday's 5.35% yield high, i.e. Wednesday 2026-10-07 (matches listing; the 2026-10-08 Verified Investing stream confirms minutes were 'yesterday'). BAC '5237' read as $52.37 and direction (long at gap fill) is implied, not stated. MU price ~$1,022 as quoted. 10y yield ~5.35% and DXY strength discussed but no forward call; natural gas mentioned only in passing. Long-term 2029-2030 collapse view kept in macro_themes, not scored as an ES long_term bias."
+}

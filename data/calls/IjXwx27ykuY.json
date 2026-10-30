@@ -1,0 +1,89 @@
+{
+ "video_id": "IjXwx27ykuY",
+ "channel": "Arete Trading",
+ "title": "Is This the End for Chips? Wall Street Hopes You Think So",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "OpenAI shock",
+   "view": "Could be first crack in AI trade or a DeepSeek-style nothing burger; semis imploding"
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Private breadth indicator flipped red to white (buy zone); S&P breadth outperforming Nasdaq.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "it can be a spot where I want to start looking at buying the S&P"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductors",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Rejected at the call wall; breadth worsened on OpenAI news.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "you ran into the call wall like a ton of bricks... semis are imploding today"
+  }
+ ],
+ "notes": ""
+}

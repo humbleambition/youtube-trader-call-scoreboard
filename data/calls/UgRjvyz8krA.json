@@ -1,0 +1,219 @@
+{
+ "video_id": "UgRjvyz8krA",
+ "channel": "Geeks of Finance",
+ "title": "Most Traders Aren't Expecting This",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "Gamma pointing higher",
+   "view": "GEX growing at 7,800-7,850 signals SPX preparing for all-time highs; no bearish options activity yet."
+  },
+  {
+   "theme": "Rising VIX lows",
+   "view": "VIX has made higher lows since Sept 4, a caution flag even as vol sellers remain in control."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7774.11,
+   "short_term": {
+    "bias": "mixed",
+    "target": 7750,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 7800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7750,
+     7700
+    ],
+    "resistance": [
+     7800,
+     7850
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "SPX closed 7,774 with gamma growing at 7,800/7,850 and bullish flow at 7,700; could dip to 7,750 in a day or so but trend points to 7,800+ and all-time highs.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "we could see a pullback in the next day or so down to 7750, but that the overall trend is still pointing towards 7,800 and …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     14
+    ],
+    "resistance": [
+     18
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Still in the 15s with negative gamma at 15/16 and vol sellers in control, but a series of higher lows since Sept 4 is worth watching.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "the volatility index is starting to see higher lows, and so that is something to pay attention to."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX",
+   "price_at_call": 171.08,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Up 7.6% into a breakout zone back above the IPO price after long consolidation; positive gamma and bullish flows up to the 200 strike; plans a put credit spread.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "momentum is certainly shifting to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIX (as spoken)",
+   "price_at_call": 232.71,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     250,
+     300
+    ],
+    "invalidation": null
+   },
+   "condition": "A move above 250 could trigger a squeeze toward the 300 strike.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Steady higher lows since late July, stacked 10/20/50-day MAs, giant wedge near decision point with largest positive GEX at 300.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "a move above this 250 level could see gamma effects really start to increase, and we could easily see a smaller squeeze up towards that …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SHOP",
+   "instrument_quoted": "SHOP",
+   "price_at_call": 160.1,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     145,
+     139.24
+    ],
+    "resistance": [
+     170,
+     180
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Up 5.75% in a strong uptrend but extended well above the 50-day EMA (139.24); expects dealer selling pressure to increase above 160-170.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "I would expect a dealer selling pressure to start increasing rather significantly above these levels"
+  }
+ ],
+ "notes": "Monday Oct 5 after hours ('not unsurprising for a Monday', rolling Oct 6 puts to Oct 7). 'Nevro Group, NBIX' is garbled: price 232.71 and the 250 level match Nebius Group (NBIS), so normalized to NBIS (inferred); exclude if unsure."
+}

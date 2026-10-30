@@ -1,0 +1,703 @@
+{
+ "video_id": "VSfUaPl8hB0",
+ "channel": "The Traveling Trader",
+ "title": "These 4 Stocks Are About to Explode‼️ [October 2026]",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Z (The Traveling Trader)",
+ "macro_themes": [
+  {
+   "theme": "Narrow breadth",
+   "view": "Index highs are tech-led while the average S&P 500 stock is 17% off highs, creating asymmetric opportunities elsewhere."
+  },
+  {
+   "theme": "Strong earnings growth",
+   "view": "Q3 2026 earnings growth expected ~29.5%, third straight quarter above 25%, supporting stocks."
+  },
+  {
+   "theme": "Weak jobs, Fed hike risk",
+   "view": "Soft jobs data means a hold in October, but FOMC minutes show most members favor a hike by year-end (~70% odds for December)."
+  },
+  {
+   "theme": "Midterm-year seasonality",
+   "view": "Q4 of a midterm year is the strongest and the following 10 months have always been positive."
+  },
+  {
+   "theme": "Tech valuations not dot-com extreme",
+   "view": "Tech forward P/E under 20 vs 40+ in the dot-com boom leaves room to grow."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Midterm year: from October the 10-month change has been green 100% of the time and Q4 is the strongest quarter; record earnings growth while breadth is poor, so drawdowns are opportunities.",
+   "conviction": "medium",
+   "timestamp": "19:20",
+   "quote": "any further draw down from this point forward is a a an absolute opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Trade: if it breaks out of the tight coil on the momentum EMAs, it can run higher into Oct 27 earnings.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Mag-7 laggard ~17% below all-time high at 17 P/E and low PEG; Gemini 4 Argon release and habit of rallying 14-15% into October earnings as catalysts.",
+   "conviction": "high",
+   "timestamp": "7:20",
+   "quote": "I think that Google is going to catch up, as well as Amazon"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": 375,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "24% below all-time high, near-monopoly with record metrics and FY2027 AI semi revenue guided ~115B vs 56B expected; possibly on verge of breakout.",
+   "conviction": "high",
+   "timestamp": "11:40",
+   "quote": "the current price that we see now of 375 is going to seem extremely cheap"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLB",
+   "instrument_quoted": "XLB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Gets interested once the materials sector forward P/E falls to ~15 or below (now 16.8).",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Materials sector down 10% in correction, P/E not yet historically low.",
+   "conviction": "low",
+   "timestamp": "13:40",
+   "quote": "I'm not buying it just yet, but I want to monitor this"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLC",
+   "instrument_quoted": "XLC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Same P/E-based approach as materials.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Third-best sector on earnings guidance.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "the same goes for communication services XLC"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VST",
+   "instrument_quoted": "VST",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Power is AI's number-one constraint; Vistra approaching resistance after a strong week; still in play.",
+   "conviction": "medium",
+   "timestamp": "15:20",
+   "quote": "I still think these stocks are in play"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GEV",
+   "instrument_quoted": "GEV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Power-for-AI theme, still in play.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "GE Verova is in that category as well"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Power-for-AI theme, had a great week, still in play.",
+   "conviction": "low",
+   "timestamp": "15:35",
+   "quote": "Constellation Energy, which has also had a great week so far. And I still think these stocks are in play"
+  },
+  {
+   "group": "stocks",
+   "ticker": "APP",
+   "instrument_quoted": "APP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 280,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     280,
+     200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs APP to get back into the consolidation range to complete the consolidation-manipulation-expansion model; otherwise it could target the ~200 low.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Could trade down to the 280s volume imbalance on the monthly chart; excellent fundamentals (64% ROIC, 14 forward P/E) but trend is down.",
+   "conviction": "medium",
+   "timestamp": "15:50",
+   "quote": "I think it can potentially trade down to the 280s where we have this volume imbalance on the monthly chart"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JPM",
+   "instrument_quoted": "JPM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "In a correction; wants to own it but at 14 P/E vs its typical 10-11, so waiting for lower prices.",
+   "conviction": "low",
+   "timestamp": "18:10",
+   "quote": "I'm waiting for it to come down a bit more"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXL",
+   "instrument_quoted": "SOXL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chips set up for continuation higher.",
+   "conviction": "medium",
+   "timestamp": "20:20",
+   "quote": "right now I'm looking for a continuation on chips. If you look at SO XL, it's set up here like it might want to trend …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "On a continuation uptrend.",
+   "conviction": "low",
+   "timestamp": "20:30",
+   "quote": "Marll, which looks like it's on it's on a continuation uptrend"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "New all-time high; likely wants another leg higher.",
+   "conviction": "medium",
+   "timestamp": "20:35",
+   "quote": "Nvidia had made a new all-time high and it likely wants it likely wants to continue a leg higher in the midterm"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same chip continuation setup as NVDA.",
+   "conviction": "low",
+   "timestamp": "20:40",
+   "quote": "Same thing with AMD"
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Still a very investable stock; part of chip continuation setup.",
+   "conviction": "low",
+   "timestamp": "20:45",
+   "quote": "I still think that there that Intel is still a very investable stock"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Mag-7 laggard expected to catch up; already in an Amazon swing trade.",
+   "conviction": "medium",
+   "timestamp": "20:55",
+   "quote": "I'm already in an Amazon swing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "COIN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bitcoin retested the 21 EMA and former resistance as support, so he wants to swing Coinbase.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "I do want to potentially take a swing on Coinbase as well as on Hood"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HOOD",
+   "instrument_quoted": "HOOD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same Bitcoin-linked swing idea as COIN.",
+   "conviction": "low",
+   "timestamp": "21:05",
+   "quote": "I do want to potentially take a swing on Coinbase as well as on Hood"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ON",
+   "instrument_quoted": "ON",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Semiconductor potentially breaking out now.",
+   "conviction": "low",
+   "timestamp": "21:10",
+   "quote": "One other semiconductor stock that's potentially breaking out right now is on semiconductor"
+  }
+ ],
+ "notes": "No explicit date stated; listing date used. Host says FOMC minutes were released 'as of the time of this recording', which may place recording on 2026-10-07 (listing showed '13 hours ago' on 2026-10-08) — date uncertain by a day. 'APP 11/111' is transcription noise for AppLovin (APP). 'XLP XLB' – he means XLB (materials). Portfolio cost bases mentioned: GOOGL ~$100.61, AVGO ~$298 (not entries for this call). Previously-given names (DELL, MSFT, META, NOW, IGV) referenced as past wins only and skipped."
+}

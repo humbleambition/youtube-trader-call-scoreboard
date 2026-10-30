@@ -1,0 +1,319 @@
+{
+ "video_id": "1A5K8WB05X0",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Whales Are LOADING UP: Buy Signal FLASHING",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Whale accumulation",
+   "view": "Largest Binance BTC outflow (~23,000 BTC in a week) since June 2023, a past local bottom; whales withdrawing to hold."
+  },
+  {
+   "theme": "Four-year cycle",
+   "view": "BTC tends to bottom ~1 year after its cycle high (Oct 6, 2025); the year is up, so bottoming is likely."
+  },
+  {
+   "theme": "Money printing",
+   "view": "Government debt means money printing; $1M Bitcoin around the mid-2030s."
+  },
+  {
+   "theme": "Wedges converge Oct 8",
+   "view": "Many crypto wedges resolve around Oct 8 when the market must pick a direction."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1000000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rising trendline on 4h holding; whale outflows like June 2023 local bottom; one year past ATH matches prior cycle bottoms.",
+   "conviction": "medium",
+   "timestamp": "5:20",
+   "quote": "So, this is a very bullish development for Bitcoin."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "Ethereum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Keeps rejecting the ascending trendline from below; wedge resolves around Oct 8.",
+   "conviction": "low",
+   "timestamp": "6:40",
+   "quote": "I didn't short ETH, but maybe I should have got a short in on that one."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "Solana ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     125,
+     126
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Wedge ending ~Oct 11, likely chop; ascending trendline support, strong resistance 125-126.",
+   "conviction": "low",
+   "timestamp": "7:20",
+   "quote": "So to me 126 125 I think there's going to be some strong resistance for Salana's price."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "Zcash",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1675,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "4h bullish RSI divergence (lower price lows, flat RSI) now pushing up.",
+   "conviction": "low",
+   "timestamp": "8:50",
+   "quote": "Zcash might be uh trying to test maybe this 1650 1675 level before too long."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZRO",
+   "instrument_quoted": "LayerZero",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2.395,
+     2.4
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed long up 650%; pivot-high resistance coinciding with a fib extension at ~2.39-2.40; expects rejection.",
+   "conviction": "medium",
+   "timestamp": "9:40",
+   "quote": "watch that level 239 240 I'm expecting a pullback on layer zero"
+  },
+  {
+   "group": "crypto",
+   "ticker": "RENDER",
+   "instrument_quoted": "Render",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2.44
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Daily bearish RSI divergence at the 78.6% fib; long-term doubts people will rent hardware to strangers; may short.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "I'm honestly long-term bearish on Render."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "Cardano ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 0.289,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Open long up ~48% after a clean breakout of consolidation; plans to close at the ~0.289 horizontal level.",
+   "conviction": "medium",
+   "timestamp": "13:20",
+   "quote": "This is where I would close the Cardano long. That's going to be right around 29 cents."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LTC",
+   "instrument_quoted": "Litecoin ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 76,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short-term target 76 (38.2% fib extension) to sell into; LTC/BTC keeps bleeding long term.",
+   "conviction": "medium",
+   "timestamp": "20:30",
+   "quote": "Sell near 76. That's a 382 fib extension."
+  }
+ ],
+ "notes": "Date: host says 'it is uh October 6' => 2026-10-06 (listing approx 2026-10-07); live ~1:30 pm ET show. Price units garbled for small caps: LayerZero '240 239 and a half' read as $2.395-2.40; Render '244' read as $2.44; Zcash '1650 1675' kept as stated (likely $16.50-16.75 or $1,650 scale — unclear). Litecoin '76' assumed USD. A BTC liquidation 'magnet' at '112' (likely $112k) mentioned, not recorded as a target. Mid-2030s $1M Bitcoin used as long-term target (he says maybe 2035-2037). The 'Zcash chart' at 9:40 is a slip — it is LayerZero."
+}

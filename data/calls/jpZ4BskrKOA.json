@@ -1,0 +1,263 @@
+{
+ "video_id": "jpZ4BskrKOA",
+ "channel": "Geeks of Finance",
+ "title": "This OpEx Week Is About To Get Wild",
+ "video_date": "2026-10-12",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "October monthly OpEx week",
+   "view": "OpEx weeks have a historically positive bias; call buying at 7850/7900 skews GEX upside for the week."
+  },
+  {
+   "theme": "Low volatility regime",
+   "view": "VIX in a downtrend since April, capped by negative gamma at the 15-16 strikes."
+  },
+  {
+   "theme": "Risk-on leadership",
+   "view": "Bitcoin and AI-infrastructure names in uptrends act as leading indicators for further market drift higher."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7811.51,
+   "short_term": {
+    "bias": "bullish",
+    "target": 7900,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7800
+    ],
+    "resistance": [
+     7850,
+     7900,
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Largest gamma at 7800, upside skew to 7900, call buying at 7850/7900; 8000 gamma magnet with price channelling toward it; short 7825 puts.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "a move up towards 8,000 before year end has a pretty decent probability"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 14.79,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     15,
+     16
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Negative gamma at 15/16 strikes caps volatility; downtrend since April.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "it's really capping the volatility index out at these levels"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 90000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     87000,
+     90000,
+     95000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Trading low 80,000s, pulled back into steeply rising 10/20/50-day MAs; gamma concentrations at 90k and 95k.",
+   "conviction": "medium",
+   "timestamp": "2:45",
+   "quote": "making its way towards these higher gamma exposure concentrations at the 90 and 95,000 strikes"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 608.12,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Looking for a tag of 600 (gamma level + 20-day SMA) as a bounce zone",
+   "action": "watch",
+   "entry": 600,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pulled back four sessions into strongly negative GEX but still above 20 SMA and 50 EMA; 600 bounce zone.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "getting down to that 600 level could provide a big bounce opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1040,
+     1000
+    ],
+    "resistance": [
+     1050
+    ],
+    "invalidation": 1040
+   },
+   "condition": "Looking for a bounce back above 1050 this week; possible gamma squeeze exiting negative GEX",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Uptrend since July from 800, stacked rising MAs, most GEX at 1000 and above; short 1050/long 1040 put spread.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "we're looking for a little bit of a bounce back above that 1050 level this week"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOW",
+   "instrument_quoted": "NOW",
+   "price_at_call": 140.86,
+   "short_term": {
+    "bias": "bullish",
+    "target": 150,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     135,
+     130
+    ],
+    "resistance": [
+     140,
+     150
+    ],
+    "invalidation": 135
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Breaking out of six-week 130-140 consolidation; big gamma at 150 strike; short 135/133 put spread expiring Friday.",
+   "conviction": "medium",
+   "timestamp": "5:45",
+   "quote": "We think that 150 level is likely to get hit"
+  }
+ ],
+ "notes": "Recorded over the weekend after Fri Oct 9 close (S&P 7811.51, VIX 14.79); no explicit date stated, listing date Oct 12 used. Micron GEX range transcribed garbled ('1,00 and,00'), recorded only as 1000+. ServiceNow 'up 81%' is a transcription error (likely 0.81%). S&P 7825 refers to their short put strike."
+}

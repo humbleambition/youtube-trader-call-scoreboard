@@ -1,0 +1,181 @@
+{
+ "video_id": "Z2h0LIK-FPU",
+ "channel": "Click Capital",
+ "title": "THIS Can’t Keep Going On Much Longer…",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Click Capital host",
+ "macro_themes": [
+  {
+   "theme": "Global bond rout",
+   "view": "Deepest long-bond sell-off in US history, with France ground zero; affects the US least thanks to reserve-currency status and stronger growth."
+  },
+  {
+   "theme": "Stocks pressuring bonds",
+   "view": "High yields reflect capital flowing to fast-growing AI equities rather than bonds threatening stocks; corporates and consumers locked in low fixed rates."
+  },
+  {
+   "theme": "Narrow AI-led market",
+   "view": "Tech/semis/Mag 7 at or near highs while dividend, REIT and blue-chip stocks get slammed as they compete with bond yields."
+  },
+  {
+   "theme": "Seasonality and valuations",
+   "view": "Next 6 months are among the strongest of the presidential cycle and indices trade under 20x forward earnings, so stocks are not expensive."
+  },
+  {
+   "theme": "Fed",
+   "view": "Soft jobs report (29k) cut October hike odds below 25%; expects a hold, December hike still possible."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Odds favor a Democratic sweep; admin may try to push gas prices and yields down and pump markets before the vote."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq-100",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "QQQ and semis hit new all-time highs; AI boom and earnings growth let big tech ignore high yields.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "the Nasdaq 100 index itself, the triple Qs, also hit a brand new all-time high today as elevated bond yields don't seem to be affecting …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Strong seasonal window into/after midterms plus valuations under 20x forward earnings; sentiment near extreme fear (contrarian).",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "the following 6 months some of the strongest seasonal period of the presidential election cycle"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Q3 deliveries 486,532 vs 451k est.; up ~5%; robotaxi launch and possible SpaceX merger excite the market.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "I think this is a pretty good result for Tesla"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year Treasury yield (%)",
+   "price_at_call": 5.28,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.3
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Structural pressures (deficits, issuance, persistent inflation and growth, capital preferring AI equities) force bonds to offer higher yields.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "bonds are naturally having to offer a higher yield to become more appealing to investors"
+  }
+ ],
+ "notes": "Date inferred from 'jobs report... first Friday' of October = Fri 2026-10-02 (listing approx 2026-10-03). SpaceX mentioned as breaking out of a multi-month range near $160 (+7%) but no ticker/view beyond description, so not recorded as a call. TNX price ~'high 5.2s', briefly touched 5.3 Wednesday; 5.28 is approximate. Second half of video is political commentary with no market calls."
+}

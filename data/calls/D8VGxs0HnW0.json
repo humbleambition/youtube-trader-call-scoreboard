@@ -1,0 +1,376 @@
+{
+ "video_id": "D8VGxs0HnW0",
+ "channel": "StockedUp",
+ "title": "The Bond Market is Having a Historical Meltdown",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp hosts)",
+ "macro_themes": [
+  {
+   "theme": "Bond yields surging",
+   "view": "Treasuries are in one of the worst bear markets in history (10y 5.29%, 30y 5.61%) and rising yields are driving the stock sell-off."
+  },
+  {
+   "theme": "Fed hike odds",
+   "view": "Williams' 'no urgency' comment cut October hike odds from ~70% to ~49%, sparking a late-day reversal; markets price four more hikes by June 2027."
+  },
+  {
+   "theme": "Iran war inflation",
+   "view": "The US-Iran war is fuelling inflation and is escalating rather than de-escalating, a continuing risk for stocks."
+  },
+  {
+   "theme": "Weak breadth",
+   "view": "S&P breadth is at extreme lows (~25% of stocks above 50-day MA); similar NYSE breadth-momentum signals led to S&P declines three weeks later in 6 of 7 cases."
+  },
+  {
+   "theme": "Midterm-year seasonality",
+   "view": "Sept 30 is historically the best buying point in a midterm year."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     762.35,
+     762,
+     760
+    ],
+    "resistance": [
+     766.5,
+     768,
+     770,
+     772.5
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY rises, 768 is the key level, then 770/772.50; if it chops lower, watch 762.35 then 762/760.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "End-of-day reversal off 762 support as October hike odds fell; but breadth-momentum stats are historically bearish over ~3 weeks while seasonality turns favourable.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "I would not be surprised if coming into tomorrow morning, the spy continued this positivity"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "SPXS",
+   "instrument_quoted": "SPXS (3x inverse S&P 500 ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if the S&P 500 keeps selling off; don't force it if the market is flat or rising.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Surging yields, heavy data week (PCE, GDP, NFP) and an escalating Iran war pose downside risk; SPXS as a short-term way to play S&P weakness.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "if we do see weakness, I think a ticker like SPXS can be a good way to play the downside in a shorter term sense"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": 144,
+   "short_term": {
+    "bias": "bullish",
+    "target": 144,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     140
+    ],
+    "resistance": [
+     144
+    ],
+    "invalidation": null
+   },
+   "condition": "If ORCL breaks past 140 tomorrow, target today's high (~144) or beyond; scale out at the high-of-day test.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "+3.9% (≈8% intraday) on NetApp ONTAP integration into Oracle Cloud; recoveries off its support range have historically run for months.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "if we can see a good break past 140 tomorrow, I think that we could start to play Oracle up to that high of day"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     152.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "As long as it holds the ~$152.50 support.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Biotech has been resilient, less overhyped than AI, consolidating near highs; consolidations have historically resolved upward.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "Another ETF that's close on watch is XBI to the upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SPCX (SpaceX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 155,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     145,
+     146
+    ],
+    "resistance": [
+     155
+    ],
+    "invalidation": null
+   },
+   "condition": "If it confirms a break above the short-term downtrend line, test 155 or more; don't force it if the downtrend continues.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "TD Cowen initiated at Buy with a $200 PT on AI compute leasing; stock up ~41% off August lows with a base of support at 145-146.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "if we break out of this downtrend, I think that we could see SpaceX over the next day or so very easily come up and …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TE",
+   "instrument_quoted": "TE (T1 Energy)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.8
+    ],
+    "invalidation": null
+   },
+   "condition": "If TE breaks out above $3.80 (today's double top).",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum continuation play off a double top.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "If TE can break out above $3.80 where it double topped today, watch TE to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "APPS",
+   "instrument_quoted": "APPS (Digital Turbine)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     11.75
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks last Friday's high of 11.75.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 3.7% and tested last Friday's high; momentum continuation.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "If it breaks that high of day from last Friday at 11.75, watch it to the upside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DKNG",
+   "instrument_quoted": "DKNG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     19.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks under $19.50.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Huge drop to new 2026 lows under $20; downside continuation.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "If it continues falling and breaks under $19.50, watch DraftKings to the downside."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IOVA",
+   "instrument_quoted": "IOVA (Dec 18 2026 $15 calls)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$2.65M of roughly at-the-money Dec-2026 15-strike calls after IOVA raised 2026 revenue guidance to $410-420M and jumped 30%+; past gap-ups continued for days to weeks, but risk is high.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "I think that IOVA could still make a overall bigger move from this point"
+  }
+ ],
+ "notes": "Date: hosts say 'we are now only one day from... September 30th' and PCE is 'tomorrow' (Ricky Gutierrez places PCE on Wed Sep 30), so recorded Tue 2026-09-29 after close; listing approx_date was 09-30. SPY closed -0.18% after testing ~762; exact close not given (price_at_call null). ORCL price_at_call 144 is the intraday high they cite, not the close. IOVA calls 'roughly at the money' implies ~$15 but no price stated. SPCX $200 PT is TD Cowen's, not the hosts'. MU earnings mentioned with no view (skipped). Yields (TNX/TYX) only reported, no forecast, so in macro_themes only. Timestamps are the transcript's minute markers (m:00), so accurate to the minute only."
+}

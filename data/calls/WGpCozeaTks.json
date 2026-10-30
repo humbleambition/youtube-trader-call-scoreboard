@@ -1,0 +1,54 @@
+{
+ "video_id": "WGpCozeaTks",
+ "channel": "Meet Kevin",
+ "title": "The Bubble *JUST* Popped | WTF Just Happened.",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Meet Kevin",
+ "macro_themes": [
+  {
+   "theme": "AI bubble canaries",
+   "view": "Labor market absorbing AI layoffs is the key risk"
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rise in 10-year has slowed; calls the top in (level garbled in transcript).",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "this is my take that the top is basically in"
+  }
+ ],
+ "notes": ""
+}

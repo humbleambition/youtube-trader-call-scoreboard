@@ -1,0 +1,610 @@
+{
+ "video_id": "x5sWYUld318",
+ "channel": "Ross Givens",
+ "title": "This Market Is About to SURGE!? | Here's What I'm Buying",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Weak market internals",
+   "view": "Indices at highs are carried by a few megacaps; breadth and liquidity are weak, so he is mostly cash and trading small."
+  },
+  {
+   "theme": "Sector leadership",
+   "view": "Cybersecurity, photonics, healthcare/biotech, energy and shipping are leading; avoids defense, financials, consumer discretionary, utilities, real estate, solar/clean energy; gold miners choppy."
+  },
+  {
+   "theme": "Energy/war",
+   "view": "Energy and shipping strength is driven by the Iran war and Strait of Hormuz closure; diesel elevated; short-term plays only."
+  },
+  {
+   "theme": "Rates and gold",
+   "view": "Rate hikes reduce money-printing odds and have pushed gold down short term, but long-term money supply growth supports gold."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index (general market)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Indices at all-time highs but carried by a few megacaps; breadth, net new highs, A/D and liquidity are weak, so he is mostly in cash with small ~$10k positions until internals improve.",
+   "conviction": "medium",
+   "timestamp": "25:50",
+   "quote": "today in mid-October 2026, internals are weak. The market is not as strong as it has been"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4200,
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gold pulled back on rate hikes (tighter money = less printing); he took profits on a long futures swing. Long term the $4,000-4,200 zone is a consistent buyer area and money-supply growth makes gold a good long-term buy.",
+   "conviction": "medium",
+   "timestamp": "44:45",
+   "quote": "I think long-term is a great place to buy gold. You have this big buyers buy zone down here, 4,000-4,200"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RPD",
+   "instrument_quoted": "RPD",
+   "price_at_call": 14.0,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     13.25
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 12.06,
+   "stop": null,
+   "method": "technical",
+   "reason": "Cybersecurity (leading group) stage-two consolidation along the 50-day after a double; bought early on the pullback, breakout trigger was above 13.25.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "I'm long from 12.06. It's currently about to set open at 14"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRNS",
+   "instrument_quoted": "VRNS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought at the breakout point; cybersecurity is the strongest group across timeframes.",
+   "conviction": "medium",
+   "timestamp": "16:45",
+   "quote": "I bought Varonis right here at that breakout point"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CIEN",
+   "instrument_quoted": "CIEN (spoken 'CEN')",
+   "price_at_call": 450,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     375
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 380,
+   "stop": null,
+   "method": "technical",
+   "reason": "Photonics group; broke above 375 (Aug support / Sep resistance) out of a base after a decline and ran 380 to 450.",
+   "conviction": "medium",
+   "timestamp": "18:45",
+   "quote": "when it broke through, I bought and it's gone from 380 to 450 in just a couple of days"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "'Marll' (likely MRVL, uncertain)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     246
+    ],
+    "resistance": [],
+    "invalidation": 246
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": 246,
+   "method": "technical",
+   "reason": "Huge run (75 to 330), 50% retracement, tight consolidation, broke out then pulled back to his buy point; wants it to hold and bounce.",
+   "conviction": "low",
+   "timestamp": "19:40",
+   "quote": "I like Marll now... I still have my stop right here at 246"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GLW",
+   "instrument_quoted": "GLW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": 160,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought too early at 160, not leading; likely cutting it with a tight stop.",
+   "conviction": "low",
+   "timestamp": "20:50",
+   "quote": "I'm getting hammered on Corning... I'm probably going to cut out a Micron and Corning here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out from a clean pattern but went flat and gapped down; will trim for a small loss if it doesn't work.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "if it doesn't work out, I'll trim it. I'll take a couple percent loss"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMCI",
+   "instrument_quoted": "SMCI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Coming out then rolling, not performing; stop tightened to ~6% risk.",
+   "conviction": "low",
+   "timestamp": "21:15",
+   "quote": "it's not performing like I wanted to. So, my stop is tightened up here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMC",
+   "instrument_quoted": "AMC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.01
+    ],
+    "invalidation": 2.69
+   },
+   "condition": "Buy stop above Friday's high of 3.01; only long if it triggers",
+   "action": "buy",
+   "entry": 3.01,
+   "stop": 2.69,
+   "method": "technical",
+   "reason": "Base re-tightening after a failed breakout head-fake on the 28th; hard to borrow / high short interest could fuel a squeeze. ~10% risk.",
+   "conviction": "medium",
+   "timestamp": "33:00",
+   "quote": "we'd have a buy stop in for 3,000 shares of AMC... If it does, we are long with a 10% risk"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up ~35% in weeks on the Muse AI catalyst after 1.5 years of chop; expects consolidation to absorb supply then another run.",
+   "conviction": "medium",
+   "timestamp": "40:45",
+   "quote": "probably consolidate some, absorb all this supply... then it could set up and start another run"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TGTX",
+   "instrument_quoted": "TGTX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     58,
+     59
+    ],
+    "invalidation": null
+   },
+   "condition": "Add on a breakout through 58-59; starter position with ~7% risk stop",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout consolidation shallowing; expects a quick push up.",
+   "conviction": "medium",
+   "timestamp": "41:45",
+   "quote": "TG Therapeutics looks really good. Really good"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ECO",
+   "instrument_quoted": "ECO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     100
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tanker stock ran 60 to ~100 parabolically with back-to-back gaps; $100 round number is a natural place to sell half.",
+   "conviction": "medium",
+   "timestamp": "1:07:30",
+   "quote": "If you're long this from 60 or 70, even 80, I personally, this is right where I'd be like selling half"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Below its moving averages, rolling over hard, down 9% on the day.",
+   "conviction": "medium",
+   "timestamp": "1:05:20",
+   "quote": "ION Q looks very, very bad. Rolling over hard"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BKR",
+   "instrument_quoted": "BKR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed to reach prior high and has been under the 200-day for 2-3 weeks; probably dead without a bounce to the 200.",
+   "conviction": "medium",
+   "timestamp": "1:02:20",
+   "quote": "I don't like Baker Hughes anymore"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ONON",
+   "instrument_quoted": "ONON",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     37,
+     38
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Heading into heavy overhead supply from buyers at 35-40; likely stalls at 37-38.",
+   "conviction": "low",
+   "timestamp": "1:01:45",
+   "quote": "it's likely going to at the minimum probably stall this 37 $38 range"
+  }
+ ],
+ "notes": "Live session Monday Oct 12, starting premarket and running through the open (market opened down ~0.25%). Mostly Wyckoff stage-analysis education plus position updates; no index levels, no CPI/OpEx comment. AMC levels spoken as '301/302/269' with '$31' once; interpreted as $3.01 trigger / $2.69 stop. 'Marll' ticker uncertain (MRVL guessed). Passing mentions skipped (GME, PLTR, BORE, IBRX, HIMS, SNDK, INTA, etc.)."
+}

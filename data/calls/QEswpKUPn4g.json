@@ -1,0 +1,132 @@
+{
+ "video_id": "QEswpKUPn4g",
+ "channel": "Meet Kevin",
+ "title": "THESE Stocks might Get SCREWED",
+ "video_date": "2026-09-30",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Agentic AI is not a CPU boom",
+   "view": "One 256-core AMD Venice could host ~900 agent VMs; 1B agents by 2030 needs only ~1.2M CPUs (~$5.5B revenue), a rounding error vs Nvidia data-center sales."
+  },
+  {
+   "theme": "Frontier compute is where the money is",
+   "view": "Spending by Anthropic/OpenAI/xAI on frontier chips at Nvidia and AMD is the real trade; Anthropic, OpenAI and the labor market are the canaries."
+  },
+  {
+   "theme": "Iran deal swing factor",
+   "view": "Short term everything could rise on an Iran deal or fall without one."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 645,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Up ~183% YTD and overbought on daily and weekly; the CPU-for-agents thesis is overblown because agents need little CPU.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "But longer term, we're probably a little overblown on CPUs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Up ~214% YTD on CPU/agent enthusiasm he considers overblown.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "I just think some of this got a little ahead of itself because I don't think we need that many CPUs."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Frontier-chip spending by AI labs flows to Nvidia (and AMD); that is the good trade, not agent CPUs.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "they keep throwing it at Nvidia and AMD for frontier chips, that is a good trade"
+  }
+ ],
+ "notes": "No date stated; listing date used. AMD 645 is the recent high he cites ('went all the way up to 645'). Says he is not short and calls AMD a great company; bias is 'overblown/ahead of itself' rather than an explicit short."
+}

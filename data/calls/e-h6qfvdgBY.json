@@ -1,0 +1,101 @@
+{
+ "video_id": "e-h6qfvdgBY",
+ "channel": "Meet Kevin",
+ "title": "Trump JUST *Launched* the GREAT Wealth Transfer",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Great wealth transfer",
+   "view": "War costs, tanker insurance, fuel, power and mortgage rates are paid by everyday taxpayers while stock owners (top 10%) benefit; K-shaped economy."
+  },
+  {
+   "theme": "Peak yields",
+   "view": "Calls ~5.27% as peak 10y yield; expects yields to fall, eventually more than ever, which would push stocks and home values higher."
+  },
+  {
+   "theme": "Own assets",
+   "view": "Get on the 'Train America' ride by owning US stocks (even SPY), quality real estate and businesses; politics won't stop it."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Even a Democratic sweep changes little for two years; would favour green energy."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Best case if an Iran deal comes and yields prove they peaked.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Believes yields are near a peak around 5.27% and down from here; long run expects yields to come down a lot.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "That's my peak call around 5.27. I think it's down from here."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fiscal/war spending, 100% expensing and eventually lower yields keep inflating stocks ('Train America is going up').",
+   "conviction": "medium",
+   "timestamp": "16:15",
+   "quote": "if yields go down and oil keeps going down and mortgage rates come down, guess what happens? Stocks are just going to go up even …"
+  }
+ ],
+ "notes": "Date: no date or weekday stated; uses listing approx_date. Content (NASDAQ-100 'just hit yet another record high', 10y at 23-year high) is consistent with 2026-10-06/07. Mostly a social/macro commentary video; DELL discussed only as a wealth-transfer example (no call). '$443' gas read as $4.43."
+}

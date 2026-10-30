@@ -1,0 +1,729 @@
+{
+ "video_id": "LvgWnebfXPs",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Live Trading MU Earnings Reaction",
+ "video_date": "2026-10-02",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Weak payrolls are bullish",
+   "view": "NFP 29K vs 90K expected: yields should implode and risk is back on; rate-sensitive sectors should rally."
+  },
+  {
+   "theme": "Anti-bubble in AI",
+   "view": "Names at 7-8x earnings growing ~100% are being called tops; but private AI labs (Anthropic, OpenAI) carry heavy liabilities that could dilute equity if they can't IPO."
+  },
+  {
+   "theme": "Diesel/refining tightness",
+   "view": "Diesel surplus not being released and refining lead times keep refiners strong."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakdown bar, undercut and lift: a flag over a breakout on market-positive economic data; may retest the new October anchored level first.",
+   "conviction": "high",
+   "timestamp": "2:00",
+   "quote": "it doesn't get really better than you know a flag over a breakout on good positive economic data for the market"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (measured move) / NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Measured move off the lift projects QQQ to ~800, about 7%; NQ rejecting first touch of resistance and may retest.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "It takes you to 800, which is probably where you're going"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "Treasury yields (2y/10y)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Weak payrolls; short-end and 10y yields falling off a cliff and should implode.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "The yields are and they should they should absolutely implode."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "With yields dropping, utilities and anything interest-rate sensitive should rally substantially; if they don't, they are gifts.",
+   "conviction": "medium",
+   "timestamp": "31:00",
+   "quote": "XLU will rally. All those names will rally pretty substantially."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Expects Micron to be pinned around 1,100 after earnings.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "you have Micron that's probably going to pin to 1100"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Selloff on Toshiba capacity news is overdone: STX and WDC each ~45% share vs Toshiba 11%, and buildout takes 1-2 years.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "people are going to look back at this and want to be involved in those names"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MPC",
+   "instrument_quoted": "MPC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Refiners (MPC, VLO, PSX) lifting again; diesel tightness and refining lead times set them up to possibly take out highs.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "I think that these things are setting up to possibly take out the highs"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VLO",
+   "instrument_quoted": "VLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Part of the refiner group he expects could take out highs on diesel tightness.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "all these names like MPC, VLOO, they all started lifting again yesterday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PSX",
+   "instrument_quoted": "PSX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Part of the refiner group he expects could take out highs on diesel tightness.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "MPC, VLOO, they all started lifting again yesterday, PSAX"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 98000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Institutions bought crypto at the quarter-end rebalance undercut; has long said Bitcoin is heading to 98K.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "I think that you're going to this 98 and I've been saying that for some time"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Undercut and doji flip at the rebalance, then never looked back; lagging Bitcoin creates an imbalance; perfect setup.",
+   "conviction": "medium",
+   "timestamp": "19:00",
+   "quote": "you're set up perfectly here. Like that is a perfect setup, bro"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "Zcash",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Trading Zcash; back at support; sees more long-term upside than Ethereum.",
+   "conviction": "low",
+   "timestamp": "18:00",
+   "quote": "I'd be more interested in hype and Zcash than I'd be interested in Ethereum"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "Hyperliquid (HYPE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Actual business that could benefit; prefers it to Ethereum for long-term upside.",
+   "conviction": "low",
+   "timestamp": "18:00",
+   "quote": "I'd be more interested in hype and Zcash than I'd be interested in Ethereum"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "Ethereum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Thinks ETH is probably not going anywhere and lacks the long-term upside of HYPE/ZEC.",
+   "conviction": "low",
+   "timestamp": "18:00",
+   "quote": "it's probably not going anywhere, but it doesn't I just don't think you have the long-term upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TWLO",
+   "instrument_quoted": "TWLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought it and does not understand why it is not up with risk-on.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "Maybe they know I bought it. But I I I think you're I think you're going to push"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Brand destroyed like Under Armour; a dumpster fire; would spin off Jordan.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "it's a dumpster fire... I think Nike goes this way"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Owned for years; just own it and forget it; cheap vs growth (anti-bubble).",
+   "conviction": "high",
+   "timestamp": "25:00",
+   "quote": "Nvidia is one of those names that I really don't even trade anymore. I just own it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "QXO",
+   "instrument_quoted": "QXO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Brad Jacobs roll-up will become a monster as he removes inefficiencies; sit with it for years; technically still bottoming.",
+   "conviction": "medium",
+   "timestamp": "33:00",
+   "quote": "eventually this thing will just become an absolute monster"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Likes the hardware/storage space after HPE guided revenues well above expectations.",
+   "conviction": "medium",
+   "timestamp": "36:00",
+   "quote": "I really like these names. Um, I really like Dell."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NTAP",
+   "instrument_quoted": "NTAP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same enterprise hardware theme; chart looks great.",
+   "conviction": "low",
+   "timestamp": "36:00",
+   "quote": "NTAP looks great"
+  }
+ ],
+ "notes": "No date stated. NFP released in-stream (29K vs 90K) and the quarter-end rebalance \"Wednesday\" then \"Thursday\" refer to prior days, consistent with Friday Oct 2 listing date. Skipped: BWE (likely BWET tanker ETF; he is short but says his thesis is wrong - conflicted), FAZ/XLF remark (unclear direction), unnamed stock he is shorting at all-time lows, MRNA NDX-add remark (passing), homebuilders (generic)."
+}

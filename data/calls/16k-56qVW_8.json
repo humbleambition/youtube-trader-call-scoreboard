@@ -1,0 +1,237 @@
+{
+ "video_id": "16k-56qVW_8",
+ "channel": "Arete Trading",
+ "title": "The Breadth Illusion: Mega Earnings & Rebalance Loom",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Rotation, not collapse",
+   "view": "Weak breadth reflects rotation out of defensives (XLP, energy, utilities) into tech/semis, not broad risk-off."
+  },
+  {
+   "theme": "10-year yield at new high",
+   "view": "10y nearly hit 5.30%; a real concern (equity risk premium) and driver of utilities weakness."
+  },
+  {
+   "theme": "Quarterly rebalance / window dressing",
+   "view": "Funds selling IGV/software and buying semis into the rebalance; Micron earnings and NFP add positioning risk."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPY breadth",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Breadth at ~6.5th percentile (red signal) historically marks bottoms, but not all clear; could get worse before better and may retest.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Proprietary breadth percentile, S5FD/S5FI in oversold zone (usually a bounce within ~30 days), extreme S5FI/NDFI rotation historically marks bottoms.",
+   "conviction": "low",
+   "timestamp": "5:41",
+   "quote": "usually within 30 days, we have some semblance of a bottom or some semblance, I should say it this way, of a bounce."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "Semiconductors (SOX; via short SOXS)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Tactical semiconductor breadth model triggered long; semi breadth improving; funds rotating from IGV into semis (semicap bottom-fishing) for the rebalance.",
+   "conviction": "high",
+   "timestamp": "12:10",
+   "quote": "We're going long semis. We want long semis here and it worked out exceptionally well. The breath of semiconductors is actually getting better."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IGV",
+   "instrument_quoted": "IGV (software ETF), relative to semis",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "IGV/SOX ratio double top and breaking down; funds selling software into the rebalance; IGV could not get over the prior Friday level.",
+   "conviction": "medium",
+   "timestamp": "16:15",
+   "quote": "So this tells me very clearly that they're favoring semis over IGV tomorrow."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Unless earnings show missed gross margins / negative call; if it dips Thursday, expects institutions to buy. A clean blowout could move more than the ~90-point implied move.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Goldman and Wedbush raised numbers; funds likely buy semis on any dip after window-dressing constraints.",
+   "conviction": "medium",
+   "timestamp": "18:40",
+   "quote": "I think they buy semis on the dip if you come down on Thursday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "Utilities (XLU; Southern, Duke)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Utilities fell inversely to 10y yield but are now holding critical levels; bought names two days ago at a perceived bottom.",
+   "conviction": "low",
+   "timestamp": "6:58",
+   "quote": "we actually bought some of these names two days ago when we saw a bottom."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IBB",
+   "instrument_quoted": "Biotech/genomics (IBB; TWST, TEM, MRNA)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Risk-on appetite: IBB and genomics being bought on pullbacks; Twist and Tempus new highs, Moderna breaking out (held in community).",
+   "conviction": "medium",
+   "timestamp": "20:58",
+   "quote": "You are seeing IBB bought left and right. You are seeing genomics bought left and right hitting new highs."
+  }
+ ],
+ "notes": "Date inferred from \"Micron's earnings coming out tomorrow\" (Micron reported Wed 2026-09-30), so recorded Tuesday 2026-09-29 after the session; listing approx_date was 2026-09-30. Speaker not named in transcript. SOXX used as canonical for \"the socks\"/semis; he expresses long semis by shorting SOXS. Owned biotech names TWST, TEM, MRNA merged into IBB call. No price levels given."
+}

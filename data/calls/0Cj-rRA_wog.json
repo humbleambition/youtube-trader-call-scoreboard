@@ -1,0 +1,136 @@
+{
+ "video_id": "0Cj-rRA_wog",
+ "channel": "Meet Kevin",
+ "title": "The Two BEST Investments *NOW* in THIS Economy.",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Yields driven by oil, not fiscal crisis",
+   "view": "Bond-yield spike is largely oil/Middle East driven with a growing economy; an Iran deal would likely mark peak yields."
+  },
+  {
+   "theme": "Warsh anti-money-printing Fed",
+   "view": "Warsh and his task forces oppose QE and favour balance-sheet shrinkage and even negative rates, so the next crisis will not be met with money printing."
+  },
+  {
+   "theme": "Deflationary bust ahead",
+   "view": "Expects a recession/crash within the next decade (guess by 2032) once the AI party ends (labor market, data-center financing are the canaries); market rates then plunge to record lows."
+  },
+  {
+   "theme": "Decade playbook",
+   "view": "Hold little debt, buy held-to-maturity Treasuries (2y ~4.94%), and buy below-market real estate in supply-constrained areas like coastal SoCal; keep some stock exposure for now."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.28,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Peak yields likely if an Iran deal comes; timing of the bond rally depends on the next crisis",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields at peak-ish levels on oil; without Fed money printing, a future crisis sends buyers into Treasuries and the 10y to record lows; bonds held to maturity are the best decade investment.",
+   "conviction": "medium",
+   "timestamp": "21:00",
+   "quote": "the more the 10-year yield actually goes down to levels that eventually end up even lower than we've ever seen before"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Warsh runs an anti-gold Fed; gold peaked when Warsh was chosen; bonds beat gold once the oil-driven inflation passes.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "This is literally the anti- gold Fed... bonds are probably the big winners here over gold"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stocks",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Buying the dip because an Iran deal is coming and the AI bubble is not over (10 pm at the party), but expects a bust within a decade.",
+   "conviction": "low",
+   "timestamp": "24:00",
+   "quote": "you're a fan of buying the dip in stocks right now... That's true. I am because I think we're going to get in a Ron …"
+  }
+ ],
+ "notes": "No date stated; listing date used, though the quoted 10y 5.28% and 2y ~4.94% match Sep 29 levels, so it may have been recorded Sep 29. Long-term bond view recorded as TNX bearish (equivalent to TLT bullish). Long-term ES bearish reflects his expected crash by ~2032."
+}

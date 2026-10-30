@@ -1,0 +1,249 @@
+{
+ "video_id": "-n9QlGlzZsc",
+ "channel": "ShadowTrader",
+ "title": "AI is the ONLY Thing Holding This Market Up (10 of 11 Sectors Breaking Down)",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Peter Reznicek",
+ "macro_themes": [
+  {
+   "theme": "Rates and oil drive the market",
+   "view": "Ruling reason is rates and oil; inflation data and yields dominate."
+  },
+  {
+   "theme": "Narrow AI-led market",
+   "view": "XLK is ~40% of the S&P and the only bullish sector chart; the other sectors are bearish, causing chop, low confidence and pattern failure."
+  },
+  {
+   "theme": "Fed",
+   "view": "October hike odds swung 18%→64%→20%; treat every meeting as live. Expects the Fed to restart QE in 2027 to pull yields back."
+  },
+  {
+   "theme": "Trading stance",
+   "view": "Sit on hands / trade less; cash is a position in a market with constant pattern failure."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (daily chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke the downtrend on a gap-and-hold but printed a doji instead of an expansion bar; low-confidence, choppy market.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "You get a breakout over the trend line and you print a dogee. Not very convincing."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NDX / QQQ (daily chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Relative strength and clean pattern near all-time highs driven by AI optimism, but Friday's gap closed as a red-bodied doji; hard for market to sell off given AI strength.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "You made a dogee with a red body. Not the kind of bar you want to see."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000 (daily chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2850
+    ],
+    "invalidation": null
+   },
+   "condition": "Would not go long small caps until a downtrend-line break around 2850, or a major Fed policy shift (e.g. QE).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Small caps most sensitive to higher rates; downtrend intact.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I think these small caps are going to be dead in the water"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLK",
+   "instrument_quoted": "XLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower-left to upper-right chart at all-time highs, the only bullish sector; Friday red bar a minor annoyance.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "it's one of the only ones that we're seeing that you can honestly say is generally up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Crude oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     87.5
+    ],
+    "resistance": [
+     108
+    ],
+    "invalidation": null
+   },
+   "condition": "A break below the uptrend line near 87.50 would confirm a breakdown and be a tailwind for stocks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price action under the recent ~108 high looks bearish; needs a definitive Iran development to break the trend.",
+   "conviction": "low",
+   "timestamp": "0:24",
+   "quote": "This price action to me is bearish. So, it could break down."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year Treasury yield (%)",
+   "price_at_call": 5.277,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.3
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yield chart 'so bullish', consolidating below the 5.3% high; another leg higher would hurt equities.",
+   "conviction": "medium",
+   "timestamp": "0:24",
+   "quote": "This is so bullish. It doesn't look to me like it's backing off anytime soon."
+  }
+ ],
+ "notes": "Weekend edition recorded Friday Oct 2 ('today which is Friday, October 2nd'). Passing mentions skipped: gold 'continues to be weak', Bitcoin ~85,000, PEP 'pretty bearish' chart. Crude levels quoted as 'about as high as 108' and break 'below about 8750' (read as 87.50). Speaker name per ShadowTrader is Pete Reznicek (transcript renders 'Resnichek')."
+}

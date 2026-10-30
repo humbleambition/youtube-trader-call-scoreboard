@@ -1,0 +1,58 @@
+{
+ "video_id": "0qYOwoE09iE",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Buy Oracle Stock Until You Watch This! 🚨",
+ "video_date": "2026-09-27",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Hyperscaler leverage",
+   "view": "Oracle is the worst-financed hyperscaler, spending more than it brings in despite ~$600bn+ OpenAI backlog."
+  },
+  {
+   "theme": "Corporate vs Treasury yields",
+   "view": "Hyperscaler bonds yielding ~7-8% compete with Treasuries, helping push US yields higher."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": 138,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Force majeure on Project Jupiter (New Mexico data center), heavy leverage and Larry Ellison pledging Oracle stock as collateral add uncertainty; growth strong but momentum terrible near 52-week lows.",
+   "conviction": "low",
+   "timestamp": "9:30",
+   "quote": "Heck no, it's still uncertain"
+  }
+ ],
+ "notes": "Host not invested; 'considered it'. No explicit buy/sell. Title 'Don't Buy Oracle Until You Watch This' -> cautious/mixed. Date from listing (talks of live session Monday, so weekend recording)."
+}

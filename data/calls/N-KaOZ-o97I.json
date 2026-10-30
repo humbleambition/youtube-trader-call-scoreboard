@@ -1,0 +1,739 @@
+{
+ "video_id": "N-KaOZ-o97I",
+ "channel": "David Lin",
+ "title": "Are Bonds Near Triggering A 1987-Style Stock Exodus? | Ted Oakley",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ted Oakley (Oxbow Advisors), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Weak labour market",
+   "view": "Soft jobs (29k, unemployment 4.2%) confirm a more fragile economy; raising rates into this would be a mistake."
+  },
+  {
+   "theme": "Inflation sticky",
+   "view": "Inflation will hold up in September and stay high through the quarter, so long rates won't fall much near term."
+  },
+  {
+   "theme": "Narrow market breadth",
+   "view": "All 11 sectors average ~20% off highs; ~20 mega-caps camouflage weakness; real trouble likely in 2027 when the big names get hit."
+  },
+  {
+   "theme": "Deficit-driven bond bear",
+   "view": "Persistent 6-7% deficits keep long bonds under pressure regardless of oil."
+  },
+  {
+   "theme": "Hard assets for a decade",
+   "view": "Own energy, gold, copper and other commodities for the next 5-10 years."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Breadth deteriorating, mega-caps priced too expensively on low-quality earnings; expects the downside to wrap up when the big names fall, likely in 2027.",
+   "conviction": "medium",
+   "timestamp": "21:00",
+   "quote": "all you wait on here for really to wrap up the downside in the market is when they come after the big ones uh and …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (above 5%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would buy long bonds (max 7-10% of portfolio) perhaps 3-4 months out once inflation eases; yields would need +0.5-0.75pt for a 1987-style switch.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Inflation stays high through the quarter so rates won't fall much yet; deficits keep long end pressured, but a buying spot may come in 3-4 months.",
+   "conviction": "low",
+   "timestamp": "12:30",
+   "quote": "I wouldn't see the the interest rates really falling off that much. I think there will be a spot for it... three or four months …"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar strong near term (highest since 2025), but foreign central banks keep shifting reserves from Treasuries to gold, which eventually catches up with it.",
+   "conviction": "low",
+   "timestamp": "32:00",
+   "quote": "probably in in the short run, I I do... eventually I think that catches up with the dollar"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": 4100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3900,
+     3800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Central-bank buying makes gold a currency hedge; could dip to 3,800-4,000 but buy here and on dips with a 1-2 year view.",
+   "conviction": "high",
+   "timestamp": "29:30",
+   "quote": "gold, yeah, it could go below 4,000, 38, 3,900... but I think you have to buy it there... or buy it here"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold miners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Miners have sold back toward July levels and are 'really cheap'; add a couple if you own none, more on further weakness.",
+   "conviction": "medium",
+   "timestamp": "30:30",
+   "quote": "add a couple of gold miners. They're really cheap"
+  },
+  {
+   "group": "metals",
+   "ticker": "AGI",
+   "instrument_quoted": "Alamos Gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Added in July; a company Oxbow 'really really' likes among cheap gold miners.",
+   "conviction": "medium",
+   "timestamp": "31:00",
+   "quote": "we added Alamos Gold, which is a company we really really like a lot"
+  },
+  {
+   "group": "metals",
+   "ticker": "HL",
+   "instrument_quoted": "Hecla Mining",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Silver miner bought in July; would buy more if it returned to lows.",
+   "conviction": "low",
+   "timestamp": "31:00",
+   "quote": "bought one silver miner back in July and it's come back too um hecklemani... if they did we really we would buy some more"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Copper is needed far beyond AI and is slow to bring to market; own hard assets like copper for the next 5-10 years.",
+   "conviction": "medium",
+   "timestamp": "28:00",
+   "quote": "you want to own this for the next uh 5 to 10 years because we think we're going back into a period where you need …"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SCCO",
+   "instrument_quoted": "Southern Copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Held as copper exposure for the long run despite recent weakness.",
+   "conviction": "low",
+   "timestamp": "28:30",
+   "quote": "we do own it on Southern Copper for example on Freeport Macaran uh And you know, we'll hold those companies"
+  },
+  {
+   "group": "stocks",
+   "ticker": "FCX",
+   "instrument_quoted": "Freeport-McMoRan",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Held as copper exposure for the long run despite recent weakness.",
+   "conviction": "low",
+   "timestamp": "28:30",
+   "quote": "on Freeport Macaran uh And you know, we'll hold those companies"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "energy sector (XLE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Energy is the cheapest group with 7-9% cash-flow/dividend yields, best performer this year and least off its highs; producers profitable even at $70 oil.",
+   "conviction": "high",
+   "timestamp": "26:30",
+   "quote": "if I had to pick out one sector... the best buys for cash flow and dividends and everything it's going to be energy"
+  },
+  {
+   "group": "stocks",
+   "ticker": "APA",
+   "instrument_quoted": "Apache (APA)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Gas producer bought this quarter at ~6-7x earnings; very cheap.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "we bought gas stocks like uh Apache... six times earnings. I mean, seven times maybe these companies are really really cheap"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOG",
+   "instrument_quoted": "Northern Oil & Gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Bought for an ~8% dividend.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "we bought Northern Oregon Gas, you know, on an 8% dividend"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KRP",
+   "instrument_quoted": "Kimbell Royalty Partners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Bought for a ~12% dividend.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "Bought Kimmel Royalty on a 12% dividend"
+  },
+  {
+   "group": "stocks",
+   "ticker": "FANG",
+   "instrument_quoted": "Diamondback Energy",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Just bought; cheap energy producer.",
+   "conviction": "medium",
+   "timestamp": "22:30",
+   "quote": "we just bought Diamondback Energy... These are cheap companies now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASML",
+   "instrument_quoted": "ASML",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Just bought; considered cheap now.",
+   "conviction": "medium",
+   "timestamp": "22:30",
+   "quote": "We just bought ASML... Cheap. These are cheap companies now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TXN",
+   "instrument_quoted": "Texas Instruments",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Hit their value screens; small new position.",
+   "conviction": "low",
+   "timestamp": "25:30",
+   "quote": "Texas Instruments hit our screens here a few weeks ago. We we took a a position in a small position"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RACE",
+   "instrument_quoted": "Ferrari",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Just bought this quarter; likes what they see.",
+   "conviction": "low",
+   "timestamp": "26:30",
+   "quote": "we bought Ferrari... We just bought them. Uh but but uh we like we like what we see there"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "Google",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Owned and still bought for new client money, though not chased; mega-cap earnings quality doubted overall.",
+   "conviction": "low",
+   "timestamp": "25:00",
+   "quote": "if somebody comes in with new money, you know, we're still going to buy them. uh a position in Google"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "Apple",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Owned and still bought for new client money, though not chased.",
+   "conviction": "low",
+   "timestamp": "25:00",
+   "quote": "We're gonna buy a position in Apple"
+  }
+ ],
+ "notes": "Date stated by host: 'Friday, October 2nd' (listing said 2026-10-03). Garbled names: 'Northern Oregon Gas'=NOG, 'Kimmel Royalty'=KRP, 'hecklemani'=Hecla (HL), 'Freeport Macaran'=FCX. Excluded: 'VOR' Corteva seed spin-off (ticker unclear/garbled), SLB and NESR (small holdings mentioned in passing). Rates view is wait-and-see rather than directional. Ted's ES view targets 2027, not near term."
+}

@@ -1,0 +1,556 @@
+{
+ "video_id": "o9MKhly8XoM",
+ "channel": "Verified Investing",
+ "title": "Tech Pressure Continues: NVDA Weekly Topping Tail Signals Pullback",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek (Gareth Soloway's Verified Investing, 'Trading the Close')",
+ "macro_themes": [
+  {
+   "theme": "AI monetization doubts",
+   "view": "OpenAI and AVGO comments revived worries on AI capex; investors trimming tech before earnings."
+  },
+  {
+   "theme": "10-year yield topping",
+   "view": "Weekly topping tail suggests yields come down in coming weeks, giving tech relief."
+  },
+  {
+   "theme": "Oil and the election",
+   "view": "Administration's push to lower oil before midterms is losing; oil likely keeps rising."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sideways session (-0.06%) with bond market closed; no directional call given.",
+   "conviction": "low",
+   "timestamp": "1:05",
+   "quote": "today with the bond markets not in participation, we basically didn't do too much on the S&P 500"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 26856,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     26856
+    ],
+    "resistance": [],
+    "invalidation": 26856
+   },
+   "condition": "Further tech selling should find support at the rising trend line from March lows at 26,856",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly topping tail plus OpenAI/AVGO AI-capex monetization worries; trend line from March lows has held every test.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "Any further selling on tech is going to find support right here at this inclining trend line... 26,856 points"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 576.59,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     588.6,
+     576.59
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If selling continues into the parallel, expects stop at 0.618 fib 576.59 then bounce to retest top of channel",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SMH -2.05% back inside rising parallel channel since Apr 2025; 50% fib 588.60, 61.8% fib 576.59 aligns with prior pivot highs.",
+   "conviction": "medium",
+   "timestamp": "4:50",
+   "quote": "That's where I'm anticipating uh price to stop and if not provide a near-term bounce up"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 5.021,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.021
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Massive weekly topping tail and weekly + daily 'sleeper hold' signals; yield 'cooked', should come down and relieve tech.",
+   "conviction": "medium",
+   "timestamp": "5:30",
+   "quote": "I'm anticipating the 10-year yield to consolidate in this range... 5.021"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3945,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4014.14,
+     4000,
+     3945
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Daily close under 4014.14 raises odds of piercing 4000 to 3945",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag sitting on support; dollar firmer.",
+   "conviction": "medium",
+   "timestamp": "6:55",
+   "quote": "If we put in a daily close under that level, that increases probabilities of price action coming down, piercing $4,000"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53.26
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish consolidation, active daily head and shoulders with measured move to 53.26, then near-term bounce.",
+   "conviction": "medium",
+   "timestamp": "7:25",
+   "quote": "an active head and shoulders pattern on the daily chart of silver with a targeted measured move down here at $5326"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 102.86,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     102.86
+    ],
+    "invalidation": null
+   },
+   "condition": "If daily close above consolidation levels, next resistance 102.86",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar pushed slightly higher, breaking consolidation.",
+   "conviction": "low",
+   "timestamp": "7:50",
+   "quote": "Next key resistance... is up here at $102.86"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     86400,
+     89500
+    ],
+    "invalidation": null
+   },
+   "condition": "Bulls need 86,400 ASAP, then key level 89,500 (old H&S neckline)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near-term bear flag; Nov 2025 low pivot flipped to support but sideways chop.",
+   "conviction": "low",
+   "timestamp": "8:50",
+   "quote": "near-term price action here on Bitcoin isn't something that I'm very excited about... near-term bare flag"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "As long as price stays well above the inverse H&S neckline, measured move 116",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Saudi airport bombings; administration's efforts to lower oil before the election are an uphill battle.",
+   "conviction": "medium",
+   "timestamp": "10:20",
+   "quote": "we've got a good shot of the targeted measured move at $116 to be tagged"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.6,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.6
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consolidating after breakout; extended, wants a dip to buy (sold BOIL).",
+   "conviction": "low",
+   "timestamp": "11:05",
+   "quote": "Upside target where I anticipate NAC gas to go, $360"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 222.99,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 215,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     222.99,
+     215
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Quick near-term bounce from 222.99 likely rejected, then break trend line toward 215 (better entry)",
+   "action": "watch",
+   "entry": 222.99,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly topping tail at all-time highs usually takes weeks/months to overcome; five red daily candles into trend line + fib.",
+   "conviction": "high",
+   "timestamp": "12:30",
+   "quote": "I anticipate that near-term bounce to get rejected by that weekly topping tail... around $215"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNAP",
+   "instrument_quoted": "SNAP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 7.66,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     6.18,
+     6.07
+    ],
+    "resistance": [
+     7.06,
+     7.66
+    ],
+    "invalidation": null
+   },
+   "condition": "Pullbacks to 6.18/6.07 are buying opportunities; clearing long-term trend line ~7.66 opens much higher",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Confirmed breakout on heavy call buying; AI story (like Meta's MetaMuse) may rescue it.",
+   "conviction": "medium",
+   "timestamp": "14:20",
+   "quote": "any sort of pullback on Snapchat down to 618 these previous pivots or even 607 can be a buying opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     690.36,
+     675
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it curls over in next month or two, 690-675 is a buy zone",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish consolidation despite +3.38% day; trend line 690.36 + channel bottom + 0.382 fib support zone.",
+   "conviction": "low",
+   "timestamp": "17:20",
+   "quote": "a support zone right around $690 all the way down if it does pierce that level down to $675"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GE",
+   "instrument_quoted": "GE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 321.7,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 339,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     300,
+     288
+    ],
+    "resistance": [
+     321.7,
+     339,
+     340
+    ],
+    "invalidation": null
+   },
+   "condition": "Near-term bounce faces 321.7 then 339-340 (stiff, M-pattern); if it curls over, 300 and 288 are support",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke rising trend line, bounced off 0.382 fib; M pattern caps upside.",
+   "conviction": "low",
+   "timestamp": "19:25",
+   "quote": "the near-term resistance to get over is going to be right here at $321.7"
+  }
+ ],
+ "notes": "SNAP levels quoted as '618', '607', '706', '766', '$76' interpreted as dollars and cents (6.18 etc.); confirm vs actual SNAP price. Gold support quoted '$4,14.14' interpreted as 4014.14."
+}

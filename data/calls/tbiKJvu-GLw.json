@@ -1,0 +1,174 @@
+{
+ "video_id": "tbiKJvu-GLw",
+ "channel": "Meet Kevin",
+ "title": "Uh Oh | The Jobs Report",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Jobs report",
+   "view": "September NFP 29k vs 90k expected, AHE 0.1%; labor canary showing early AI disruption (insurance/financial jobs) but household survey strong."
+  },
+  {
+   "theme": "Fed",
+   "view": "Weak jobs kills an October hike; Fed wants to cut, not hike; one-and-done hike more plausible."
+  },
+  {
+   "theme": "AI disruption",
+   "view": "AI job losses masked by AI buildout spending; canaries are AI underwriters (OpenAI/Anthropic) and the labor market."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Competition crushing margins and pricing power, cash eroding, Nike Direct weak; down another 7% after earnings.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "I continue to get asked about Nike, and I continue to not like this stock."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27,
+     5.32
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Weak NFP (29k vs 90k), soft wages kill October hike odds; he previously called peak yields ~5.27% (high ~5.32%).",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "That is way lower than expected, which means expect yields to go down."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Called Nasdaq ATH within a 14-day window (hit in 5 days); QQQ 735 'is the new 700' floor; falling yields bullish for stocks.",
+   "conviction": "high",
+   "timestamp": "0:13",
+   "quote": "I think you would have to be freaking blind to not realize your boy Kevin has been bullish."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL ('Marll')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     266
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Recapture 266 line and go for a breakout",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Alpha-report call from previous day playing out after Micron.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "we literally called for Marll recapturing this 266 line and going for a breakout"
+  }
+ ],
+ "notes": "Date implied: live stream minutes before the BLS jobs report (Friday 2026-10-02; prior ADP 'Wednesday'). '5:30 in the morning' Pacific. NVDA (236) mentioned only in passing."
+}

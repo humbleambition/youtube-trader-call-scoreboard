@@ -1,0 +1,105 @@
+{
+ "video_id": "DE09SNoOMe4",
+ "channel": "Summit Metals",
+ "title": "Gold & Silver Alert: The Rate Cut Just Exposed a Silver Problem",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "metals",
+ "speaker": "Summit Metals host (unnamed)",
+ "macro_themes": [
+  {
+   "theme": "Fed policy",
+   "view": "Fed minutes show unanimity on the September hike; market now prices another hike in December; a slower path could help if real yields fall."
+  },
+  {
+   "theme": "Real yields",
+   "view": "Real yields are the key driver of metals; rising real yields precede corrections, falling real yields give metals strong support."
+  },
+  {
+   "theme": "Global bond selloff",
+   "view": "Bond yields rising worldwide (US, UK, Japan, Germany, France) at ~25-year highs; a headwind now but the long-run opportunity for stackers."
+  },
+  {
+   "theme": "China reopening",
+   "view": "China reopens after a week-long holiday tonight; watch Shanghai premiums - weak demand would be a negative sign."
+  },
+  {
+   "theme": "Central bank buying",
+   "view": "Central banks will buy heavily on the dip, providing a floor under gold."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot/bullion",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If real yields stabilize/fall and central banks keep buying, metals take off; continued rising real yields = caution.",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold down ~26% from high; Summit pressure index 49 (barely favorable) says lean gold over silver; macro reasons to own gold unchanged and central banks buy dips.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "Our models are indicating that we should still continue to lean gold."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot/bullion",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Possible initial liquidation flush first; after that, metals set to take off. Weak China premiums would be a negative.",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Silver ~50% off its high but still in a 46 Moz 2026 supply deficit; buy small and keep powder dry until direction is clear.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "I think it means that silver still is in a very significant and good place moving forward as we look long-term"
+  }
+ ],
+ "notes": "Date not spoken; inferred 2026-10-07 (Wed) because FOMC minutes were released 'today' and China reopens 'tonight at 9 pm Eastern, about an hour and a half after this video drops' (Golden Week ends Oct 7) -> recorded evening ET Oct 7; listing approx_date 2026-10-08. Treat date_source as transcript-inferred. Garbled: 'when I created these slides the silver price was at $60. Now it's down about another 50%' - likely 'another ~5%'; silver price_at_call left null. Host says the Fed 'raised rates' in September (stated as a hike). No targets given."
+}

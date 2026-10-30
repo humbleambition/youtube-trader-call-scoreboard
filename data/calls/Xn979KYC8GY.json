@@ -1,0 +1,87 @@
+{
+ "video_id": "Xn979KYC8GY",
+ "channel": "Crypto World",
+ "title": "BITCOIN PRICE TARGETS REVEALED",
+ "video_date": "2026-10-11",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "crypto_daily",
+ "speaker": "host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big sideways range; cool-off phase lacking momentum for days/week; multimonth trend still bullish.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ""
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ""
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ""
+   },
+   "key_levels": {
+    "support": [
+     2400,
+     2300
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holds 2.4K support; bullish structure intact above 2.3K.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": ""
+  }
+ ],
+ "notes": ""
+}

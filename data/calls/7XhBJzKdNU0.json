@@ -1,0 +1,440 @@
+{
+ "video_id": "7XhBJzKdNU0",
+ "channel": "Verified Investing",
+ "title": "Oil Jumps As Bond Market Sleeps, Massive Money Parks On Sidelines Likely To Trigger Next Big Surge",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Middle East and oil",
+   "view": "Houthi strike on a Saudi airport is pushing oil up; administration trying to hold oil down before the midterms."
+  },
+  {
+   "theme": "Yields",
+   "view": "Double topping tail on 10-year suggests yields head down, though oil strength complicates that."
+  },
+  {
+   "theme": "Banks earnings",
+   "view": "Short-term oversold bounce likely into earnings (JPM, GS, WFC, C Tue; BAC, MS Wed), but long-term bearish on banks due to bad loans."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index / ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7818,
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily close above 7818 (Aug 13 2026 all-time high) should lead to 8000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Remains above contracting 'neutral zone'; neutral open after oil rally erased overnight gains. Neutral zone closes ~Jan-Feb 2027: then bullish or bearish pandemonium.",
+   "conviction": "medium",
+   "timestamp": "2:35",
+   "quote": "If we achieve breakout above that, meaning a daily close above 7818, we should head up to 8,000"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (WTI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.75
+    ],
+    "resistance": [],
+    "invalidation": 88.75
+   },
+   "condition": "As long as above 88.75 oil can float neutral to higher; break below turns bearish",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Houthi strike on Saudi airport; Russian diesel release a drop in the bucket; holding support from early September.",
+   "conviction": "medium",
+   "timestamp": "3:05",
+   "quote": "As long as we stay above there, oil could float a little bit higher."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Wednesday daily topping tail plus weekly topping tail overlapping; still below 2007-high trend line resistance; probabilities favor yields heading down.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "it's a signal yields actually should start heading down"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 3950,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [
+     4450
+    ],
+    "invalidation": 4100
+   },
+   "condition": "Close/confirmation below 4100 targets ~3950, then 3500 if that breaks; upside could rally to ~4450 resistance",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding key support; trading inversely to the 10-year yield; selling today on assumed higher yields from oil.",
+   "conviction": "medium",
+   "timestamp": "6:55",
+   "quote": "any close or confirmation below 4,100, that should be a bigger move to about 3,950"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Similar to gold: one-day close below support recaptured Friday, fractionally lower.",
+   "conviction": "low",
+   "timestamp": "7:20",
+   "quote": "Silver much the same."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.18
+    ],
+    "invalidation": null
+   },
+   "condition": "Break through ~3.18 = big upside",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at breakout resistance, choppy.",
+   "conviction": "low",
+   "timestamp": "7:35",
+   "quote": "I'm still watching this level right around $318. If we can break through that big upside"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75000
+    ],
+    "resistance": [
+     87200,
+     95000,
+     97000
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 87,200 targets 95-97k; break below 81,000 targets ~75k",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range-bound chop between 81k support and 87.2k resistance; nothing to do until breakout.",
+   "conviction": "medium",
+   "timestamp": "8:05",
+   "quote": "If we break above 872, 95 to 97,000 is likely. If we break below 81,000, we're looking at 75,000"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 58.88,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     58.88
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish into Wed earnings unless it rallies a lot before; first resistance 58.88 (50% retrace)",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold, filled gap, two bounces; long term worried about bad loans and weak loan demand.",
+   "conviction": "medium",
+   "timestamp": "9:20",
+   "quote": "With BAC down here, I am actually bullish going into earnings later this week."
+  },
+  {
+   "group": "stocks",
+   "ticker": "JPM",
+   "instrument_quoted": "JPM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Came down into strong pivot-low support zone; short-term oversold bounce but not sustainable over 6 months.",
+   "conviction": "medium",
+   "timestamp": "10:05",
+   "quote": "We should be favoring a over short-term oversold bounce on the banks."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASML",
+   "instrument_quoted": "ASML",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1570
+    ],
+    "resistance": [
+     1870
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 1870 could test all-time highs; possible bear flag otherwise",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "No man's land between 1570 and 1870 ahead of Wed earnings; no clear read.",
+   "conviction": "low",
+   "timestamp": "11:35",
+   "quote": "we're really seeing it hovering between this 1570 and 1870 range on ASML"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     435
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pulled back before Thursday earnings; support ~435 (gap fill, prior pivots); no good read.",
+   "conviction": "low",
+   "timestamp": "12:20",
+   "quote": "there's good support around 435"
+  }
+ ],
+ "notes": "Recorded Monday Oct 12 morning (bond market closed). S&P levels quoted on the index (7818/8000). Nat gas '$318' read as 3.18."
+}

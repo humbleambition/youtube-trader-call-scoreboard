@@ -1,0 +1,470 @@
+{
+ "video_id": "Drk_jWdJ8Tg",
+ "channel": "Arete Trading",
+ "title": "Stock Market Breakout: Smart Money Is Buying, You're Not!",
+ "video_date": "2026-10-04",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Breadth washout = bottoming",
+   "view": "Breadth indicators (S5FI ~18%, S&P/Nasdaq breadth ratio extreme) historically mark bottoms with the market higher ~30 days later."
+  },
+  {
+   "theme": "Institutions and retail both buying",
+   "view": "Smart-money (institutional) and dumb-money (retail) flow are both turning up, rare and bullish; buyback blackout ending and earnings season should add participation."
+  },
+  {
+   "theme": "AI 'anti-bubble'",
+   "view": "Fundamentals (memory, storage, semis capex) are fantastic and expectations too low; AI spending won't stop even as models commoditize."
+  },
+  {
+   "theme": "Fed balance sheet",
+   "view": "The Fed raises rates while expanding its balance sheet, so betting against the market means betting against the Fed."
+  },
+  {
+   "theme": "Regime shift to swing trading",
+   "view": "Buying put walls and selling call walls worked for 3 months; breakouts with follow-through are returning, favoring swing trades."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (QQQ chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     704
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Target predicated on the breakout holding",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Grossly oversold breadth setting up to break out; an inverse head-and-shoulders style breakout measures to ~800 over ~85 trading days, with 704 as the 50% demarcation line.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "that trend right now is telling you that you're grossly oversold and that you're setting up to break out."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (S5FI breadth)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Unless a macro shock (e.g., oil to 120, Middle East escalation, capex drying up)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stocks above the 50-day hit ~18%, which historically leaves the S&P higher 30 days later; low panic and apathy plus flows turning up.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "every time we got to this 18% level and we get in here 30 days later, you're higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SOX semiconductors (short SOXS)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "His proprietary semis indicator gave a buy signal Friday; he is short SOXS and adding as semis breadth improves.",
+   "conviction": "high",
+   "timestamp": "14:00",
+   "quote": "We got a buy signal on Friday."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 858,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     800
+    ],
+    "resistance": [
+     858
+    ],
+    "invalidation": null
+   },
+   "condition": "Buy/sell puts at the 800 put wall, trim into resistance",
+   "action": "buy",
+   "entry": 800,
+   "stop": null,
+   "method": "technical",
+   "reason": "Toshiba capacity scare is 12-24 months out and overblown; capitulation bar into the 800 put wall with improving RSI; sold 800 puts and bought at the put wall.",
+   "conviction": "high",
+   "timestamp": "28:00",
+   "quote": "It's down 15%. It's stupid. I sold the 800s for next week for 30 bucks."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CIEN",
+   "instrument_quoted": "Ciena (said 'Sienna')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 376,
+   "stop": null,
+   "method": "technical",
+   "reason": "Optical names breaking out; swing bought at 376, up $20-25 with follow-through.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "this is a swing that we bought uh 376. And obviously, we're doing well with it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NTAP",
+   "instrument_quoted": "NTAP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 210,
+   "stop": null,
+   "method": "technical",
+   "reason": "Aggressive accumulation into the call wall; bought at 210, ~$20 move and still setting up to break out of its range.",
+   "conviction": "medium",
+   "timestamp": "40:00",
+   "quote": "this is something we bought at 210"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "Lumentum (said 'light')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "After ranging and a flush to ~600, the optical name is setting up to break out.",
+   "conviction": "low",
+   "timestamp": "39:00",
+   "quote": "you've been in a range on this name forever. And now you're setting up to break out."
+  },
+  {
+   "group": "stocks",
+   "ticker": "HPE",
+   "instrument_quoted": "HPE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking out as swing-trade follow-through returns.",
+   "conviction": "low",
+   "timestamp": "41:00",
+   "quote": "here's HPE and that's breaking out"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Crushed earnings, huge free cash flow and rising/stable DRAM prices; move off 700 is lethargic only because expectations are too low.",
+   "conviction": "high",
+   "timestamp": "45:00",
+   "quote": "I'm literally watching DRAM prices go up or stabilize pretty realistically pretty strongly."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "Taiwan Semi",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Building a large base and setting up to break out as it expands US fabs.",
+   "conviction": "medium",
+   "timestamp": "43:00",
+   "quote": "you're actually building this huge base here and setting up to break out."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SanDisk",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1450,
+     1650
+    ],
+    "resistance": [
+     1800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range-bound between put/call walls; may be coming out of tight-range trading but no breakout yet.",
+   "conviction": "low",
+   "timestamp": "42:00",
+   "quote": "when you started to get back up into anything around 1,800 there was a a call wall"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "Dell",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Post-breakout shakeout whacking people before the trade builds; the kind of momentum behavior to watch.",
+   "conviction": "low",
+   "timestamp": "41:00",
+   "quote": "the trade's just starting to push and the trade's starting to build."
+  }
+ ],
+ "notes": "No explicit date; references Friday's selling and selling 'this week's' Oct 2 and next week's Oct 9 STX puts, so recorded the weekend after Fri 2026-10-02 (listing date Oct 4 used). Garbled names: 'Sienna'=CIEN, 'light'=LITE (Lumentum, inferred), 'NTP'=NTAP. Semis normalized to SMH (he quoted SOX/SOXS). Says Anthropic IPO could be 'one of the greatest shorts of my life' (not listed, not recorded). Software (IGV) lagging, WDC weaker than STX, oil basing ~88, dollar breaking out and 10y falling on weak payrolls mentioned only in passing."
+}

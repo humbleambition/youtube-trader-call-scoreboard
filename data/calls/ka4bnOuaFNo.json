@@ -1,0 +1,181 @@
+{
+ "video_id": "ka4bnOuaFNo",
+ "channel": "CPM Group",
+ "title": "Gold and Silver ALERT: The Bull Case Goes Beyond the Chart",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian (CPM Group)",
+ "macro_themes": [
+  {
+   "theme": "Fundamentals over technicals",
+   "view": "Price direction comes from macro and supply-demand research; technicals only for pacing and timing."
+  },
+  {
+   "theme": "Silver surplus vs deficit",
+   "view": "Excluding investment demand, silver was in surplus in three of the last five years; deficits only in the last two as prices rose."
+  },
+  {
+   "theme": "PGM supply",
+   "view": "Platinum is well supplied with an enlarged surplus; palladium's balance is tighter."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "December COMEX gold futures",
+   "price_at_call": 4193,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4130,
+     4000,
+     2400,
+     2200
+    ],
+    "resistance": [
+     4228
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Range-bound after breaking shorter trend lines; trend line from January 2024 supports ~4,000; near-term downside room, but macro/political and supply-demand fundamentals point higher longer term.",
+   "conviction": "medium",
+   "timestamp": "4:05",
+   "quote": "yes there is some downside room on the uh near-term but longer term we expect gold prices to continue to rise"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     54,
+     55
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Even in a sell-off he expects silver to hold above ~54-55.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Similar to gold: near-term weakness possible but longer-term rise on macro view and fundamentals (investment-driven deficits only in the last two years).",
+   "conviction": "medium",
+   "timestamp": "4:50",
+   "quote": "Our expectation is that the price will probably stay above 54-55 even if we do see a sell-off"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "January 2027 NYMEX platinum futures",
+   "price_at_call": 1712,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1690
+    ],
+    "resistance": [
+     1737
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Surplus of refined platinum has enlarged this year with large above-ground inventories (~14-15 Moz), consistent with lower prices since January; market relatively well supplied.",
+   "conviction": "low",
+   "timestamp": "5:40",
+   "quote": "So platinum markets relatively well supplied"
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Supply-demand balance much tighter than platinum, so recent greater weakness surprises them (implied relative bullishness).",
+   "conviction": "low",
+   "timestamp": "9:40",
+   "quote": "we think that the demand supply demand balance for palladium is much tighter than that of platinum"
+  }
+ ],
+ "notes": "Date from transcript: 'about five minutes after 12:00 noon here in New York on Tuesday the 6th of October' (listing approx_date 2026-10-07). Garbled: gold intraday high '$4,28' read as 4,228; silver trend-line support '28 $30' looks garbled (inconsistent with his 54-55 floor) and was omitted from key_levels; palladium bias is inferred from his surprise at its weakness, not an explicit forecast. Much of video is rebuttal of comments and scam warnings (no calls)."
+}

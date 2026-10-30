@@ -1,0 +1,17 @@
+# Anything listed here is skipped by `ytscore score`. Every entry carries a reason so the exclusion can be audited.
+channels:
+  - name: Global Money Signals
+    reason: Fan channel re-uploading (possibly AI-voiced) James Rickards content; not a primary source.
+videos:
+  - id: kCSOWAoCeXs
+    reason: Duplicate upload of Meet Kevin video 2G642xbFBig; scoring it would double-count the same calls.
+calls:
+  - video_id: v7a7Yt8i_fM
+    ticker: SAM
+    reason: Ticker garbled in the captions; quoted prices do not match the real company.
+  - video_id: v7a7Yt8i_fM
+    ticker: HP
+    reason: Ticker garbled in the captions; quoted prices do not match the real company.
+  - video_id: QLvGhYV7Vwc
+    ticker: SKP
+    reason: Sponsored company segment, apparently recorded around August; ticker not stated on air.

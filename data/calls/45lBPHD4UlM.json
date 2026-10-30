@@ -1,0 +1,87 @@
+{
+ "video_id": "45lBPHD4UlM",
+ "channel": "Money Making Market",
+ "title": "EVERYONE SAYING STOCK MARKET CRASH... BUT WHAT ABOUT A HIGHER LOW FOR SPY?",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX double bottom (MACD/RSI) at 15.04 risks SPY curling down; weekly expected-move pullback.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "it means the market's at risk of curling up... for volatility or curling down in the SPY"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     295.67,
+     296
+    ],
+    "invalidation": null
+   },
+   "condition": "Not confident until IWM clears 296",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum divergence could confirm a move up.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "I'm not confident in IWM until it fully takes out that 296"
+  }
+ ],
+ "notes": ""
+}

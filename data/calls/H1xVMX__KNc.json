@@ -1,0 +1,147 @@
+{
+ "video_id": "H1xVMX__KNc",
+ "channel": "Meet Kevin",
+ "title": "F**K'ING MIDTERMS will COOK our Stocks...",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Midterms drive data-center capex",
+   "view": "About 50 GW (~$3T) of data-center spending rests on local governments; midterm outcome sets the mandate."
+  },
+  {
+   "theme": "Election scenarios (Morgan Stanley)",
+   "view": "Republican hold = higher-for-longer yields; Democratic sweep = most growth-positive; narrow Democratic House win = shutdown-style gridlock, worst case."
+  },
+  {
+   "theme": "Data-center headwinds favor hyperscalers",
+   "view": "Slower capacity build boosts pricing power of big hyperscalers (MSFT, META, AMZN, GOOGL) at the expense of neoclouds."
+  },
+  {
+   "theme": "Post-midterm seasonality bullish",
+   "view": "Markets have historically gained in the 6-12 months after midterms; fine to be long on a low-risk basis."
+  },
+  {
+   "theme": "Fed October hike unlikely",
+   "view": "Sees near-zero odds of a hike at the pre-midterm meeting unless the Oct 13 CPI is very bad."
+  },
+  {
+   "theme": "Renewables are the future",
+   "view": "Certain renewables (solar, wind, nuclear) win long-term regardless of political swings."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.2826,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27,
+     5.28
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields stuck around his called peak of ~5.27%; 'rubber band fully stretched' and wants to snap back.",
+   "conviction": "medium",
+   "timestamp": "32:50",
+   "quote": "the rubber band is fully stretched, I feel like. Can you get a little bit more out of it? Sure. But it really wants to …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (also QQQ 'peak fear' ~700 dip buys)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Risk that yields keep rising.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bank of America data: gains in every 6-12 month period after midterms since WWII; S&P up 13% YTD vs typical 3% in midterm years.",
+   "conviction": "medium",
+   "timestamp": "31:55",
+   "quote": "it doesn't hurt to be long this market on sort of a low debt, lowrisk exposure basis."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "Nebius",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 336,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 336,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Risk: data-center pushback/financing headwinds after a split-Congress midterm outcome.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Thinks Nebius is about to break out; neoclouds need anti-data-center sentiment to calm to finance growth.",
+   "conviction": "medium",
+   "timestamp": "16:55",
+   "quote": "companies like Nebus which I actually think is about to break out to 336."
+  }
+ ],
+ "notes": "No on-air date; listing approx 2026-10-07 used. Content consistent with 2026-10-06 or 10-07 (10y 'ended at 52826' = 5.2826%). Recorded after the close. Most sector/ticker ideas are Morgan Stanley's (defense, financials, nuclear, data-center REITs, staples, CRWD/PANW/OKTA, Bloom, GE Vernova, hyperscalers) and are not recorded as his calls; he agrees on hyperscalers and cyber ('very expensive') without a stance. 'Nebus' = Nebius (NBIS); '336' target taken as-is. QQQ ~700 dip-buying is past, merged into ES. Considers a small Kalshi bet on a Republican sweep if odds fall to ~3%; not a market call."
+}

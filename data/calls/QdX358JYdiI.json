@@ -1,0 +1,142 @@
+{
+ "video_id": "QdX358JYdiI",
+ "channel": "A1 Trading",
+ "title": "The Dollar Breakout is Starting",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "A1 Trading hosts (incl. Marco)",
+ "macro_themes": [
+  {
+   "theme": "Fed hiking cycle",
+   "view": "The Fed rarely hikes once; with CPI forecast 3.6% vs 3.4% prior and PCE trending higher, another hike is expected."
+  },
+  {
+   "theme": "Small caps hurt by higher rates",
+   "view": "Indebted, often unprofitable small caps suffer most from rising yields and floating-rate debt."
+  },
+  {
+   "theme": "Data net hawkish",
+   "view": "Strong GDP and ADP outweigh a cooler PCE print; net outcome bearish for metals and supportive of the dollar."
+  },
+  {
+   "theme": "Weak market breadth",
+   "view": "A few large companies hold up Nasdaq and SPY while most stocks fall."
+  },
+  {
+   "theme": "Middle East / oil keeps inflation elevated",
+   "view": "Elevated oil keeps inflation up; a resolution would let the Russell play catch-up."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000 index (CFD) / IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 2600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Second host wants the support level and the 200-day SMA to break; an end to the Iran/oil situation would be the bullish risk (Russell catches up).",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Backtest of 5 Fed hiking cycles since 1987 shows Russell falls a median 6-8% over following weeks; small caps most debt-exposed; Edge Finder bearish.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "I'm thinking the Russell could drop from here to maybe like 2,600, something like that."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar (fundamental data)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Strong GDP, strong ADP and a hawkish Fed are 'strong dollar fundamental data points'; a cooler PCE is the only offsetting factor.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "You had this case where you have a lots of a lot of strong like dollar fundamental data points"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (scoring system)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Score stays bearish if NFP comes in strong again.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Data scorecard GDP (-1), PCE (+1), ADP (-1) nets bearish for metals despite cooler PCE.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "the outcome is still net bearish despite that cooler PCE print"
+  }
+ ],
+ "notes": "Transcript appears to be a clip; it does not discuss the dollar breakout named in the title explicitly beyond 'strong dollar fundamental data points'. DXY bias is implied (low conviction). Host already shorting Russell on some accounts; entry/stop not given. Russell target 2600 assumed to be in index points. No date spoken; GDP, PCE and ADP all described as out the same day."
+}

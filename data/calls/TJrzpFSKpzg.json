@@ -1,0 +1,219 @@
+{
+ "video_id": "TJrzpFSKpzg",
+ "channel": "Geeks of Finance",
+ "title": "Traders Are Piling Into These Stocks",
+ "video_date": "2026-09-25",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance host",
+ "macro_themes": [
+  {
+   "theme": "Gamma exposure magnet",
+   "view": "S&P 8000 strike gamma acts as a magnet; low volatility makes it easier for buyers to step in."
+  },
+  {
+   "theme": "Risk-on crypto",
+   "view": "Positively skewed GEX in BTC at 85k is a positive sign for risk assets."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7704.23,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7675
+    ],
+    "resistance": [
+     7700,
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Capped at 7700 gamma strike with negative flows, but trend grinding toward 8000 gamma magnet; 8000 is year-end target.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "the trend clearly continuing to point towards that 8,000 strike. That's our year-end target"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 16,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     16
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Negative gamma 15-16 strikes; sellers have stepped in on every spike above the 50-day EMA (~16).",
+   "conviction": "low",
+   "timestamp": "1:30",
+   "quote": "We've seen selling pressure come in in volatility on every spike above that 50 EMA"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": 85000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 90000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     85000,
+     60000
+    ],
+    "resistance": [
+     90000,
+     95000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Consolidating at the 85k gamma strike with GEX growing at higher strikes; inverse head-and-shoulders, 60k key pivot.",
+   "conviction": "medium",
+   "timestamp": "3:15",
+   "quote": "further consolidation around 85,000 could lead to another leg higher towards 90,000 or even 95,000"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 777.44,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Broke out toward heavy LEAP gamma at 750/800; valuation model sees 1,000-1,500 in 2-3 years on revenue/EPS growth.",
+   "conviction": "medium",
+   "timestamp": "5:15",
+   "quote": "we could see Meta anywhere between 1,00 and 1,500 in the next 2 or 3 years"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 629.02,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 700,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     600
+    ],
+    "resistance": [
+     620,
+     630,
+     700
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Capped at 620-630 with selling pressure and >100 pts above 50-day EMA; expects consolidation near 600, then gamma pull toward 700.",
+   "conviction": "medium",
+   "timestamp": "7:15",
+   "quote": "AMD has a little bit more risk to the downside in the near term, but the potential to get up here towards that 700 strike …"
+  }
+ ],
+ "notes": "Weekday not stated (mentions 'On Tuesday' profit lock and 'yesterday's sizable sell-off'); listing date used. META long-term target recorded as 1000 (low end of 1,000-1,500 range, 2-3y). META medium target 800 inferred from gamma strike 'breakout' framing; lower confidence."
+}

@@ -1,0 +1,556 @@
+{
+ "video_id": "sONhFAG1v6Y",
+ "channel": "Verified Investing",
+ "title": "TSM Hits Record High on Musk Terafab Deal",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosik",
+ "macro_themes": [
+  {
+   "theme": "Yields elevated by global unrest",
+   "view": "10-year at yearly highs partly as French/European unrest drives money into the US; due for sideways chop."
+  },
+  {
+   "theme": "Strong dollar",
+   "view": "Dollar near highs, helping on inflation."
+  },
+  {
+   "theme": "Oil stays elevated",
+   "view": "Depleted strategic reserves could keep oil prices high for up to two years even if the Middle East settles."
+  },
+  {
+   "theme": "Midterms",
+   "view": "Expect choppy crypto price action around the November midterms; Clarity Act likely early 2027."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800.92,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     765.42,
+     760.4
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Inverse head-and-shoulders triggers on a close above the neckline; measured move to 800.92.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke declining trend line after bottoming tail at prior ATH 760.40.",
+   "conviction": "medium",
+   "timestamp": "2:15",
+   "quote": "triggering what could be a measured move up here guys to $800 and 92 cents."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite (IXIC)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     28000,
+     28200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "New all-time highs after extending away from declining trend line; next resistance ~28,000-28,200.",
+   "conviction": "medium",
+   "timestamp": "3:15",
+   "quote": "that gets us right here just at 28,000, upwards of 28,200 points for the next key level of resistance"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     607.58
+    ],
+    "resistance": [
+     670
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stair-stepping but extended; needs consolidation before testing ATH ~670.",
+   "conviction": "low",
+   "timestamp": "4:15",
+   "quote": "I anticipate more consolidation is needed before we start erupting and pushing up and testing the all-time highs"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Moved up too far too fast; due for sideways chop/healthy pullback.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "we likely still are going to be due more sideways chop"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Pushed near highs on safe-haven flows from European unrest.",
+   "conviction": "low",
+   "timestamp": "6:05",
+   "quote": "The dollar is is doing fantastic, too."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Inverse H&S possible if price breaks trend lines and declining neckline; invalid if right shoulder goes below the head.",
+   "action": "watch",
+   "entry": 4000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag consolidation; wants lower prices near 4,000 to buy.",
+   "conviction": "medium",
+   "timestamp": "7:40",
+   "quote": "long-term I'm a bull on gold near term I want to see price action come down a little bit more"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     58.92
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Already broke a head-and-shoulders down; target low $55s; would buy there.",
+   "conviction": "low",
+   "timestamp": "8:15",
+   "quote": "That's head and shoulder pattern target is actually going to be down in the low range of the $55 price point."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": 86500,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     89543
+    ],
+    "invalidation": null
+   },
+   "condition": "Above 89,543 with staying power he turns bullish and buys a retest of the neckline.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short-term cup and handle around 86,500; big H&S neckline overhead.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "89,543, get above that level with some staying power... and then I'm a buyer"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     86.9
+    ],
+    "resistance": [
+     108,
+     116
+    ],
+    "invalidation": null
+   },
+   "condition": "If it bounces at 86.90 and breaks back into the channel, he sees 108 then 116 (inverse H&S target).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag in lower range near term; inverse H&S neckline still intact.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "in the near term US oil does not look like it wants to get there. Next support, 86.90."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.23,
+     3.24
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed breakdown, bounced back above support; key test at 3.23-3.24.",
+   "conviction": "low",
+   "timestamp": "11:30",
+   "quote": "the key level to beat for Nat Gas is $3.23."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GIS",
+   "instrument_quoted": "GIS",
+   "price_at_call": 31.68,
+   "short_term": {
+    "bias": "bullish",
+    "target": 35.54,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30.26,
+     30.7,
+     30.9
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly H&S target 30.26 nearly hit; sharp drop needs a technical bounce.",
+   "conviction": "low",
+   "timestamp": "14:15",
+   "quote": "in need of a technical near-term bounce, one that could take price up here to $35. and $0.54."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 179.49,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 217,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Pullbacks are buys while above the declining dotted neckline.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out; inverse H&S targets ~217, may reverse near 179.49 fib first.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "an inverse head and shoulders pattern that does and can take price up here to this $217 range."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 530.49,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     479,
+     471
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Consolidation/bull flag near 471-479 sets up the leg to 530.49.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Musk Terafab talks; inverse H&S target at top of channel; RSI 75 extended.",
+   "conviction": "medium",
+   "timestamp": "17:45",
+   "quote": "there's no reason it can't go up to 530 and 49 cents."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 550.63,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     400
+    ],
+    "resistance": [
+     427.41
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above declining trend line at 427.41 targets 550.63.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inflection point between rising and declining trend lines; leans breakout.",
+   "conviction": "low",
+   "timestamp": "20:00",
+   "quote": "I'm leaning more it should break out."
+  }
+ ],
+ "notes": "Monday 'welcome back from the weekend' -> 2026-10-05 (listing approx 2026-10-06). S&P levels appear SPY-like (760.40 prior ATH). SpaceX near-term 179.49 then pullback expected."
+}

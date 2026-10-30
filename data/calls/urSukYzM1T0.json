@@ -1,0 +1,257 @@
+{
+ "video_id": "urSukYzM1T0",
+ "channel": "Verified Investing",
+ "title": "Yields Hit A 24-Year High And Metals Feel The Pressure",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jake Sweeney",
+ "macro_themes": [
+  {
+   "theme": "Yields at 24-year high",
+   "view": "The US 10-year reached 5.365%, highest since 2002, and that is what is pressuring gold and silver."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.365,
+   "short_term": {
+    "bias": "bullish",
+    "target": 5.426,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.426
+    ],
+    "invalidation": null
+   },
+   "condition": "If yields keep inching up, next major level 5.426%",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields failed to break back to the trend line and keep wicking higher to new 24-year highs.",
+   "conviction": "low",
+   "timestamp": "0:45",
+   "quote": "the next major level uh for the US 10year is if it keeps inching up is this 5.426%"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4023,
+     3895,
+     3700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Below the long-term trend line from the Apr 21 2025 high, expects support near 4,023; would buy around 3,895-3,700. Bulls need a close back above the swing-low pivot",
+   "action": "watch",
+   "entry": 3895,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bear flag broke down about 2% on rising yields; price tested the long-term trend line and bounced.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I like to wait for cheaper prices down here 3,895 even down to 3700. Um, that would be my area for great buy opportunity on …"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     54.46
+    ],
+    "resistance": [
+     61.02,
+     64.36,
+     65.28
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs to reclaim the $61.02 pivot; major resistance at 64.36-65.28; if the trend line from the Nov 20 2025 low breaks, buy near $54.46",
+   "action": "watch",
+   "entry": 54.46,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bear flag broke down 2.77% into trend-line support from the Nov 2025 low; the down-sloping line from the Mar 2 2026 high caps rallies.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "great buy level around this $5446 an ounce should we get down there."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil ($/bbl)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88,
+     87.07
+    ],
+    "resistance": [
+     93.64
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil has been trickling lower since Sep 18 highs, with a doji today; support at the rising trend line around 87-88 and the 38.2% retrace at 87.07; resistance at 93.64 (0.5 Fib).",
+   "conviction": "low",
+   "timestamp": "5:30",
+   "quote": "I do expect oil to stay in this area for still quite some time, some chop um before we see some sharper falls"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "UNG",
+   "instrument_quoted": "UNG ETF (transcribed as 'UNNG')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 11.3,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 11.8,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     11.3,
+     11.48,
+     11.8
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher lows since the early-August low with a steep rising trend line; upside resistance at 11.29-11.32, the 11.48 polarity level and a four-touch down trend line near 11.80.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "for longer play upside for UNNG, this trend line ... X marks a spot at about 1180ish for that resistance."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "CPER copper ETF (transcribed as 'CPR')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     39.2,
+     39.4
+    ],
+    "resistance": [
+     40.21,
+     41.4,
+     41.5
+    ],
+    "invalidation": null
+   },
+   "condition": "Has to reclaim 40.21 to turn up; a drop to 39.20-39.40 could produce a large bounce",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "A weekly topping tail in mid-September has played out bearishly and price failed to reclaim 40.21.",
+   "conviction": "medium",
+   "timestamp": "8:45",
+   "quote": "I noticed a weekly topping tail a strong bearish signal and since this top ... we've been going down"
+  }
+ ],
+ "notes": "Host says 'great Wednesday' -> 2026-10-07 (listing said 10-08). Gold's swing-low pivot is garbled ('4,99') and no current gold or silver price is stated, so price_at_call is null; the drop was about $88 / 2.12%. 'UNNG' = UNG (natural gas fund, no canonical code in spec). 'CPR' = CPER (United States Copper Index Fund); its levels '4021', '4140-4150', '3920-3940' are read as $40.21, $41.40-41.50, $39.20-39.40. UNG levels '11:29 1130', '11:48' are read as $11.29-11.30, $11.48. Gold and silver 'medium bullish' reflects their 'great buy' zones, which are conditional on lower prices."
+}

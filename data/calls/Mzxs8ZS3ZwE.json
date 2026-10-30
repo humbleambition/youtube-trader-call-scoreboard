@@ -1,0 +1,62 @@
+{
+ "video_id": "Mzxs8ZS3ZwE",
+ "channel": "Ricky Gutierrez",
+ "title": "Trump Just Made A New Announcement",
+ "video_date": "2026-09-27",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Iran / Strait of Hormuz",
+   "view": "Escalation (Iran striking 19 vessels, Strait empty) contradicts Trump's oil reassurance; markets irrational and may ignore it."
+  },
+  {
+   "theme": "Fed hike risk",
+   "view": "Labor and PCE data this week drive odds (~66.6%) of a Fed rate hike Oct 28; a hike would be bearish."
+  },
+  {
+   "theme": "Regional bank failures",
+   "view": "Sixth US bank failure of 2026 tied to commercial real estate is a red flag."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (index)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short only if a sell-off is confirmed; otherwise stay in cash and buy the dip",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Markets incredibly overbought near all-time highs with pullback potential, but Trump reassurance keeps markets irrational.",
+   "conviction": "low",
+   "timestamp": "7:45",
+   "quote": "There's a lot of pullback potential, which is a decent opportunity to short, but sentiment and direction are crucial"
+  }
+ ],
+ "notes": "Host says 'Happy Sunday'; events week has Sept jobs report Friday -> Sunday 2026-09-27 (listing 09-28)."
+}

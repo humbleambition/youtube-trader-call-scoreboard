@@ -1,0 +1,208 @@
+{
+ "video_id": "yFpB2whF7vs",
+ "channel": "Verified Investing",
+ "title": "Bear Flags Forming On Metals: The Levels To Buy",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Verified Investing analyst (name garbled as \"Lton\")",
+ "macro_themes": [
+  {
+   "theme": "Bear flags on metals",
+   "view": "Gold, silver and platinum are forming bear flags/H&S breakdowns, with defined levels to buy the bounce."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 4000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects a bounce at the lower wedge trend line ~4,000; if gold falls below 4,000 he might be a buyer near 3,500.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag forming after rejection at the top of the wedge; 4,000 is the lower trend line, a pivot cluster and a key psychological level.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "So the reason why I believe this looks bearish is because you have basically a bare flag beginning to form."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     56
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the bear flag resolves lower, look for a bounce at the measured move / pivots ~55-56.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke a head and shoulders; bear flag forming with measured move near $55.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "I love these pivots all around this $5556 level for a potential bounce here on silver."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     83.34
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it keeps falling, expect support and a bounce at the 83.34 gap fill.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of a down-sloping channel and inverse H&S; now retesting; 83.34 is a long-standing consolidation level.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "So for me, X marks the spot. If we can come into that area, I'd anticipate potentially a bounce"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.0
+    ],
+    "resistance": [
+     3.345
+    ],
+    "invalidation": null
+   },
+   "condition": "$3 is the line in the sand; a renewed breakout meets resistance at the prior pivot high then ~3.34-3.35.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse H&S breakout retraced to the neckline at ~$3.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "This is the line in the sand, right?"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 1538,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1538
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Head-and-shoulders measured move to ~1538, where he expects support and a bounce.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag plus a clear head-and-shoulders breakdown with measured move aligning with a pivot low.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "that measured move would take us nicely down to basically look at this how all these levels are aligning this pivot low around uh 1538."
+  }
+ ],
+ "notes": "No date or weekday stated, so listing date used. Speaker name garbled (\"Lton\"). Silver levels spoken as \"$5556\" and read as 55-56. Nat gas resistance spoken as \"33435\" and read as 3.34-3.35. No current prices were quoted."
+}

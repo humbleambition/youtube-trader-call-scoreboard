@@ -1,0 +1,426 @@
+{
+ "video_id": "1iIP-Td4N-U",
+ "channel": "Arete Trading",
+ "title": "Wall Street Is Hiding What Breadth Just REVEALED!",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Bond market supportive",
+   "view": "Strong 10-year auction and post-Fed-minutes bond buying pulled yields down, improving equity risk premium — bullish for stocks; watch Thursday's 30-year auction."
+  },
+  {
+   "theme": "Breadth broadening",
+   "view": "Proprietary S&P breadth model fired a strategic buy signal; money rotating into leaders (semis, optical) and yield names."
+  },
+  {
+   "theme": "Memory 'anti-bubble'",
+   "view": "DRAM prices doubled, makers sold out, memory trades ~7x earnings; top-callers are wrong."
+  },
+  {
+   "theme": "Oil and shipping",
+   "view": "Crude closed lower despite Russia/Iran rhetoric; shipping names strong."
+  },
+  {
+   "theme": "Biotech/genomics weakness",
+   "view": "XBI/IBB and genomics got no bounce, suggesting more selling behind it."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / ES",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Proprietary S&P breadth model fired a buy signal (strategic, not tactical); second-highest close ever; S&P expected to catch up to Nasdaq.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "Our proprietary S&P model fired an actual buy signal today"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq / NQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold RSI bounce off the open played out; Nasdaq setup looks better than the S&P.",
+   "conviction": "medium",
+   "timestamp": "19:00",
+   "quote": "I actually think that the Nasdaq looks better"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "SOX semiconductor index / breadth model",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Semiconductor breadth model strengthening; money rotating into semis and optical leaders; watch TSMC/Samsung numbers tonight.",
+   "conviction": "medium",
+   "timestamp": "0:20",
+   "quote": "our proprietary model on the semiconductors the breath is actually getting stronger."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "memory name (presumably MU)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1020
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "DA Davidson upgrade (target 2,100->3,000) on long-term contracts; gap-down puked to the 1020 put wall then bounced; trades ~7x earnings in an 'anti-bubble'.",
+   "conviction": "high",
+   "timestamp": "4:50",
+   "quote": "I've been calling it for a long time that you're actually in an anti-bubble"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit 1,600 and bounced hard; rallied with Micron off the lows.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "you hit 1,600 today and you bounced really hard and rallied off that."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Leader at all-time highs with good news; traded a 1-minute ORB off the gap down, already owns on swing.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "we already own it on a swing trade"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     560
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap-filled perfectly off 560 and ran; leading name.",
+   "conviction": "low",
+   "timestamp": "4:15",
+   "quote": "Dell was perfect off its 560, like literally perfect."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLI",
+   "instrument_quoted": "XLI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Industrials a 'dumpster fire', broke below 12/22 MA cross; he is down on one industrial position.",
+   "conviction": "low",
+   "timestamp": "14:25",
+   "quote": "I'm really disappointed in the XLI."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI / IBB / genomics",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Genomics names closed at hourly lows with zero bounce, implying more selling behind it.",
+   "conviction": "low",
+   "timestamp": "19:35",
+   "quote": "that usually means that there's more behind it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "utilities and yield names (MO, BTI, PM)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Falling yields; money buying yield — utilities, MO, BTI, PM all bid.",
+   "conviction": "low",
+   "timestamp": "14:55",
+   "quote": "Bonds dropped, they bought yield, right? So, they're broadening out."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Strong 10-year auction (pre-sale above sale) and buying after Fed minutes dropped yields; 30-year auction Thursday is the risk.",
+   "conviction": "medium",
+   "timestamp": "11:30",
+   "quote": "that is like about as bullish as you could get for bonds."
+  }
+ ],
+ "notes": "Date: host says 'the bear market of 9:30 and 10:30 on Wednesday' => Wed 2026-10-07 after close (listing approx 2026-10-08). The memory stock with the DA Davidson 3,000 target and 1020 put wall is not named; inferred MU (Micron mentioned at end). DA Davidson's 3,000 target is an analyst's, not the host's, so target left null. Shipping (BWET, DAC, DIAM), CIEN, MRVL mentioned without clear standalone calls."
+}

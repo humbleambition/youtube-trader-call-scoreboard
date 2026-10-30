@@ -1,0 +1,57 @@
+{
+ "video_id": "_3pdQzkHCcQ",
+ "channel": "ShadowTrader",
+ "title": "No Coke, Pepsi!",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Brad (ShadowTrader)",
+ "macro_themes": [
+  {
+   "theme": "Dividend value",
+   "view": "Pepsi at a ~4.6% yield with a steadily rising dividend is attractive at two-year lows; Coke not in play near 52-week highs."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "PEP",
+   "instrument_quoted": "PEP (sold Oct 2 126 put)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     127.6,
+     126
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Sold 126 put for $0.64 (Oct 2 expiry); would take assignment at 126, and may buy shares Monday if it takes out Friday's high; earnings Oct 8",
+   "action": "buy",
+   "entry": 126,
+   "stop": null,
+   "method": "mixed",
+   "reason": "New two-year low below June 2025 low 127.60 makes a ~4.6% yield with consistent dividend growth attractive; put-selling/covered-call income strategy.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "this stock, to me, uh is worth a trade"
+  }
+ ],
+ "notes": "Host states recording on Friday Sept 25, 2026 ~4:30pm after the bell. No exact current price given; entry is the short put strike."
+}

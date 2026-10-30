@@ -1,0 +1,201 @@
+{
+ "video_id": "1_dXGC_0Q_Q",
+ "channel": "Verified Investing",
+ "title": "White House AI Meeting Sparks A Big Tech Rally",
+ "video_date": "2026-10-01",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Nick Valdez (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "White House AI meeting",
+   "view": "Mega-caps whose CEOs attended the White House AI meeting are among today's top gainers; favorable deal terms possible. Failed AI IPOs (OpenAI/Anthropic) would hit the market."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     346
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retesting rising trend line; 346 is a very important retest level.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "It's going to be a very, very important retest right around 346"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": 35,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     35,
+     33
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If NKE loses its multi-year support (lowest since 2014), watching a gap fill near $33.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~80% from all-time high; sitting on strong long-term support.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "if we lose that, folks, I'll be watching this gap fill a little bit lower right around $33"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejecting at the midline of an ascending parallel channel; their live room shorted it and a pullback is starting.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "kind of rejecting right here at the midway point ... They shorted this stock"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     341
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fib 0.5 and gap/pivot confluence around 341 gives support.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Nice nice coinciding right here, right at this level, right around 341"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPACEX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Could reject at the pivot high; if it pushes past, targets the gap fill from July 7.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pumping on AI angle (xAI/Grok) but near a pivot-high resistance.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "I wouldn't be surprised if we just kind of maybe reject at this pivot high"
+  }
+ ],
+ "notes": "White House AI meeting was 'yesterday'; no explicit date, listing used. Skipped (levels without prices or bias): GME (descending trend line + .786), TSM (rising trend line / June 30 pivot), META (April 17/July 15 pivot, .382). SPACEX gap-fill level not quantified."
+}

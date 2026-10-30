@@ -1,0 +1,70 @@
+{
+ "video_id": "3J_k-myzM7A",
+ "channel": "tastylive",
+ "title": "Ed Yardeni's Economic Reality Check: It's Not a Crisis",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Ed Yardeni",
+ "macro_themes": [
+  {
+   "theme": "Bond yields",
+   "view": "US yield rise reflects a stronger economy and higher neutral rate ('normal for longer'), not a sovereign debt crisis."
+  },
+  {
+   "theme": "Global bonds",
+   "view": "France is in a genuine debt crisis; Japan's carry-trade unwind is pushing yields up globally in sync."
+  },
+  {
+   "theme": "Equities",
+   "view": "S&P 500 near record on strong earnings, though equal-weight is ~6% off its August peak."
+  },
+  {
+   "theme": "Inflation",
+   "view": "Current inflation not a 5-10 year problem; productivity will bring it down."
+  },
+  {
+   "theme": "Treasury/Bessent",
+   "view": "Bessent's tools so far a peashooter; would need a bigger buyback 'bazooka' in a disorderly unwind."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (also ZN/ZB/TLT)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields could still go higher near term (bond vigilantes), so dollar-cost average; over 5-10 years inflation falls on productivity, making current yields attractive (bullish bonds = bearish yields).",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "there still is a potential for this thing to go higher again... from a 5year 10-year basis... these are pretty good yields."
+  }
+ ],
+ "notes": "No date spoken ('this morning we put out a research piece', Bessent 'over the weekend'); listing date. 10y quoted ~5.2-5.3 by host, no precise level, price_at_call null."
+}

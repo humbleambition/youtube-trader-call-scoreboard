@@ -1,0 +1,136 @@
+{
+ "video_id": "3fk8cJS92go",
+ "channel": "Sean Foo",
+ "title": "US PANIC: Bond Bloodbath Gets Terrifying as China CANCELS Dollars, Forever",
+ "video_date": "2026-09-26",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Bond yields surging",
+   "view": "10y past 5.2% and 30y above 5.4%; 5% is not the ceiling; long-term holders losing trust amid $1.9T deficit."
+  },
+  {
+   "theme": "China holds the leverage",
+   "view": "Summit yielded nothing; China dumping Treasuries and buying record gold while benefiting from the Iran war."
+  },
+  {
+   "theme": "Oil/diesel shock and embedded inflation",
+   "view": "Supply offline and possible Chinese restocking could push oil higher; record diesel embeds inflation, forcing Fed hikes."
+  },
+  {
+   "theme": "AI capex fragility",
+   "view": "Hyperscaler spending and $3T off-balance-sheet commitments vulnerable to higher rates; bankruptcies rising."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.2,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Structural inflation, huge deficits and foreign Treasury selling (China at lowest since 2008) keep pushing yields up.",
+   "conviction": "medium",
+   "timestamp": "6:10",
+   "quote": "if you thought 5% was the ceiling, we really got to update that assumption"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "China and central banks swapping Treasuries for record gold purchases amid dollar debasement fears.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "It does not take a genius to understand what China is preparing for"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "China imports 40% below pre-war and can add 5m bpd of buying; 1.1m bpd Middle East/Russian supply offline.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "They can go into the open market, they can start stockpiling aggressively, and drive global prices sharply higher"
+  }
+ ],
+ "notes": "Solo macro commentary (no guest). Says yields went past 5.2% 'before the weekend', so recorded the weekend of Sep 26-27; listing date used. 'First 8 months of 2016' is a slip for 2026."
+}

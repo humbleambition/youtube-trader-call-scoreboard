@@ -1,0 +1,138 @@
+{
+ "video_id": "FqnJULXxfhI",
+ "channel": "Ross Givens",
+ "title": "The Market Sucks. These 2 Don’t. I’m Buying BOTH Right Now",
+ "video_date": "2026-09-29",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Narrow market",
+   "view": "Index strength is mega-cap driven; equal-weight RSP has been rolling over for 5-6 weeks."
+  },
+  {
+   "theme": "Surging yields",
+   "view": "Bond market falling apart; the 30-year yield is the highest since 2002, making stocks less attractive."
+  },
+  {
+   "theme": "Weak breadth",
+   "view": "Consistent net new 52-week lows for the first time in 2026 and % above the 200-day collapsed to ~50%; he is trading lighter and being picky."
+  },
+  {
+   "theme": "Memory/storage leadership",
+   "view": "Memory and storage stocks lead on all time frames, driven by agentic AI demand."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron stock",
+   "price_at_call": 1071,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1345,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": 948
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 1045,
+   "stop": 948,
+   "method": "technical",
+   "reason": "Clean multi-month consolidation pushing out the top side after a big run, similar to the April breakout; leading memory group.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "I'm long from 1045. It's currently sitting at 1071"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SanDisk stock",
+   "price_at_call": 1716,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2400
+    ],
+    "invalidation": 1540
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 1716,
+   "stop": 1540,
+   "method": "technical",
+   "reason": "After a 60% correction from 2,400 to ~1,000, shallower pullbacks and tightening consolidation set up another breakout.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "So I went ahead and bought SanDisk here as well. SNDK. I'm long from what does it say I bought at 1716."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY / RSP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If inflation cools, the Iran situation resolves and oil falls, stocks would soar.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Breadth indicators unhealthy and momentum not long; similar washout earlier in the year was the best buy point but he is not calling a bottom.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I'm just saying the momentum is currently not long."
+  }
+ ],
+ "notes": "Date stated by host ('as of today, September 29th'); trades placed minutes before recording, during market hours. SNDK target is 'about 30%' above entry 'on a tap of these highs' (~2,230 if 30%, prior high ~2,400); target left null because no exact level given, and he would likely sell half there and trail the rest. Ideal stop would be 1,490 but he used 1,540 (10% risk). Position size ~$10,000 each."
+}

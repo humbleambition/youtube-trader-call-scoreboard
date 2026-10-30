@@ -1,0 +1,177 @@
+{
+ "video_id": "zacPYWeE9jY",
+ "channel": "Money Making Market",
+ "title": "TURN UP TUESDAY FOR SPY AND QQQ?",
+ "video_date": "2026-10-12",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Controlled pullback",
+   "view": "The expected 30-minute pullback came and stayed shallow, a good sign for bulls; no crash signal on SPY."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 781.52,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 794.55,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     774.6,
+     768.92
+    ],
+    "resistance": [
+     781.52,
+     785.5,
+     794.55
+    ],
+    "invalidation": null
+   },
+   "condition": "If 30-min MACD confirms up, test/make new high at daily expected move 781.52 (surprise: 785.50); losing the center line shifts toward weekly expected move 768.92",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Options-derived expected moves; 30-min pullback stayed controlled and positive, no reversal signal on 2-hour; sees no crash setup on SPY.",
+   "conviction": "medium",
+   "timestamp": "5:05",
+   "quote": "that points you directly to 78152 for tomorrow"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 750.95,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 765.53,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     741.07,
+     732
+    ],
+    "resistance": [
+     750.95,
+     765.53
+    ],
+    "invalidation": 732
+   },
+   "condition": "If 2-hour confirms a higher low tomorrow, could reach 765.53 by end of week; failing to weekly move and breaking 732 would turn trend negative (head and shoulders risk)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "MACD/RSI divergence and potential higher low on 2-hour; daily expected move 741.07-750.95.",
+   "conviction": "medium",
+   "timestamp": "7:40",
+   "quote": "it could be at that 76553. If we get confirmation tomorrow, we could hit that level by the end of the week"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 280.2,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     275.74
+    ],
+    "resistance": [
+     280.2,
+     296
+    ],
+    "invalidation": null
+   },
+   "condition": "30-min confirmation could test/make new high toward 280.20; rolling to 275.74 likely continues lower; below 296 still at risk of a daily roll",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Weaker divergences, close to center line; most probable is still a daily move that grabs liquidity and rolls.",
+   "conviction": "low",
+   "timestamp": "10:40",
+   "quote": "IWM is not at risk of a daily roll... it's going to be very difficult to say"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "2-hour MACD/RSI divergence confirmed = risk of rising volatility unless 30-min curls down and SPY rallies strongly",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX +2.36 on a flat day; 2-hour divergence confirmed, flagged as risk.",
+   "conviction": "low",
+   "timestamp": "1:10",
+   "quote": "we did confirm the 2-hour divergence on the MACD... There is the possibility of... continuing the volatility"
+  }
+ ],
+ "notes": "Host does not state the date; title 'Turn up Tuesday' and 'tomorrow's session' imply recorded Mon Oct 12 after close (listing approx 2026-10-13). Levels are options expected moves (68% zone)."
+}

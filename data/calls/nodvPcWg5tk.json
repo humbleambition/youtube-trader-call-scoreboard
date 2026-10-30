@@ -1,0 +1,171 @@
+{
+ "video_id": "nodvPcWg5tk",
+ "channel": "David Lin",
+ "title": "Bond Market Turning Point: Why Jim Bianco Just Flipped After 5 Years",
+ "video_date": "2026-09-28",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Jim Bianco (Bianco Research), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Bonds near a peak in yield",
+   "view": "After being short since 2020, sees real value in bonds with the 10y ~5.2%; bearish narratives are largely priced in."
+  },
+  {
+   "theme": "Fed dilemma Oct 28",
+   "view": "Warsh must choose between the president's wrath (hike) and the bond market's wrath (no hike); a skipped hike could send long rates up a lot."
+  },
+  {
+   "theme": "Sticky inflation",
+   "view": "Goods inflation structurally higher from tariffs/deglobalization; Fed's '2% year after next' forecast unrealistic; higher-rate world going forward."
+  },
+  {
+   "theme": "Normal rates / 4-5-6 returns",
+   "view": "5% yields are normal; expect cash 4%, bonds 5%, stocks 6%; bonds will siphon some money from equities."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "long Treasuries / investment-grade bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields near peak with bearish inflation/deficit narratives priced in; 5.5% IG yields are compelling on a risk-adjusted basis.",
+   "conviction": "medium",
+   "timestamp": "2:40",
+   "quote": "I would and actually am starting to look towards getting long the bond market."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.245,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "An Iran/Hormuz deal could bring yields into the high 4s, but not the low 4s",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Believes ~5.2% on the 10y may be close to a peak; risk of further spike if Fed skips an expected hike.",
+   "conviction": "medium",
+   "timestamp": "2:30",
+   "quote": "I'm not going to be, you know, smart enough to say 525 is the high. Uh, but we're getting close enough"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Still largely risk-on near all-time highs; market will accept 5.25-5.5% yields as normal, though expects only ~6% stock returns.",
+   "conviction": "low",
+   "timestamp": "41:45",
+   "quote": "I would say that we're still largely in a risk-on environment."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": 84000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Failure of the Clarity Act is good for crypto as a disruptive force; concern it still trades with stocks.",
+   "conviction": "low",
+   "timestamp": "38:45",
+   "quote": "I'm actually bullish that the Clarity Act didn't pass on Bitcoin."
+  }
+ ],
+ "notes": "Host states 'today is Monday, September 28th'. Bianco's index ETF WTBN mentioned (self-promotion, not recorded). Oil 'effective price ~$200' framing, no directional oil call."
+}

@@ -1,0 +1,519 @@
+{
+ "video_id": "Yc9E3hnV_e0",
+ "channel": "Verified Investing",
+ "title": "Nasdaq Hits All-Time Highs With Rare Dot-Com Warning Sign",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek",
+ "macro_themes": [
+  {
+   "theme": "Narrow breadth warning",
+   "view": "~70% of index stocks below their 50-day while SPY/QQQ hit ATHs; only seen in dot-com, 2021, 2024 and each time met selling — but near term there is still room higher."
+  },
+  {
+   "theme": "10-year yield",
+   "view": "At 5.289%, he expects yields to taper slightly, letting indices push higher; high yields hurt indebted non-mega-caps."
+  },
+  {
+   "theme": "Energy demand",
+   "view": "AI data centers and robots drive long-term power demand; bullish nuclear/power names."
+  },
+  {
+   "theme": "Oil stays elevated",
+   "view": "Strategic reserve restocking keeps oil elevated for 1-2 years even if Middle East conflict ends."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800.92,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     775.18
+    ],
+    "resistance": [],
+    "invalidation": 775.18
+   },
+   "condition": "A close back under the 775.18 neckline wipes out the 800 target.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Triggered inverse head-and-shoulders today at new ATHs; resistance trendlines also point to ~800.",
+   "conviction": "medium",
+   "timestamp": "2:10",
+   "quote": "this can take us all the way up here up to $800 and 92 cents."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite (IXIC)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 28000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "New ATH; sloppy inverse H&S breakout with near-term resistance just over 28,000 (~500 points higher).",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "we have a destination for near-term resistance just over 28,000 points"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 672,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     607.58
+    ],
+    "resistance": [
+     672
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tech-led rally confirmed by Sep 18 SMH breakout; stuck at 78.6% fib but ATH 672 is only ~4-6% away if indices hit targets.",
+   "conviction": "low",
+   "timestamp": "4:30",
+   "quote": "we likely could be pressing up to all-time highs"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": 5.289,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Back up to 5.289% after Oct 2 reprieve; he anticipates a slight taper/downward drift.",
+   "conviction": "low",
+   "timestamp": "5:20",
+   "quote": "I'm anticipating this yield to taper out just a little bit"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4104,
+     3947
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chopping sideways in bearish consolidation, rebounded off lows; 4,104 support then 3,947.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "that still keeps us right here in bearish consolidation."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag and head-and-shoulders with measured move to 53.26.",
+   "conviction": "medium",
+   "timestamp": "6:30",
+   "quote": "That bear flag is implying it's trying to work to hit this destination target down here at $53."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin ($)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 100000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     89400
+    ],
+    "invalidation": null
+   },
+   "condition": "Confirmed push above 89,400 = green light to buy, targeting 50% of channel above 100,000; a break of channel bottom would target 50s or sub-40,000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held bottom of weekly parallel channel; 'make or break point for the remainder of the year'.",
+   "conviction": "low",
+   "timestamp": "7:10",
+   "quote": "If it does and it does so with a confirming push, guys, green light to start buying more Bitcoin."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI, $)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116.51,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     86.86
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Tagged 86.86 support and wicked back; inverse H&S targets ~116.4-116.5; reserve restocking keeps oil elevated 1-2 years.",
+   "conviction": "medium",
+   "timestamp": "9:50",
+   "quote": "We're not going to have a big kerplunk on US oil."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas ($/MMBtu)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 3.6,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.22
+    ],
+    "resistance": [
+     3.6
+    ],
+    "invalidation": null
+   },
+   "condition": "If tomorrow closes above today's candle, 3.22 trendline is the buy signal for a move to ~3.60.",
+   "action": "buy",
+   "entry": 3.22,
+   "stop": null,
+   "method": "technical",
+   "reason": "Recovery bounce into a near-term breakout after a non-confirmed breakdown Oct 1.",
+   "conviction": "medium",
+   "timestamp": "12:10",
+   "quote": "this declining trend line at $3.22, is the buying signal"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 391,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     300.41,
+     327,
+     345
+    ],
+    "invalidation": null
+   },
+   "condition": "Breakout requires a daily close above the ~300.41 neckline, ideally with a retrace to buy.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "$4.3B Google power deal; inverse H&S closed right at neckline; measured move just under 400 (~391), with 327 and 345 resistance on the way.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "capture some of that $100 move all the way up there to $391."
+  },
+  {
+   "group": "stocks",
+   "ticker": "VST",
+   "instrument_quoted": "VST",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     164.32
+    ],
+    "invalidation": null
+   },
+   "condition": "Wait for breakout above 164.32 then a retest/RSI cool-off to buy.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "DOE $4.2B conditional loan, up 10.77%; declining neckline since January caps price; overbought now.",
+   "conviction": "low",
+   "timestamp": "16:30",
+   "quote": "That's the key level for a near-term breakout on VST."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CCJ",
+   "instrument_quoted": "CCJ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 118,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     85.61,
+     40.47
+    ],
+    "resistance": [
+     102.99,
+     118
+    ],
+    "invalidation": 85.61
+   },
+   "condition": "Break below 85.61 neckline could take it to ~40.47; bulls need a conviction move over 102.99 to open 118.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly head-and-shoulders still in play despite a 6.35% gain.",
+   "conviction": "low",
+   "timestamp": "19:10",
+   "quote": "keep in mind that break point for this neckline to head lower is $85.61."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 748.21,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     748.21
+    ],
+    "resistance": [
+     834.75
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 9.18%, closed below a parallel channel after frequent hits (weakness); 50% fib/gap fill 748.21 is first bounce zone, then retest 834.75; risk of slide to 78.6% fib.",
+   "conviction": "medium",
+   "timestamp": "20:30",
+   "quote": "that's showing it's looking like it wants to go down lower on the charts."
+  }
+ ],
+ "notes": "Date: not stated outright; host says STX 'got a great bounce on Monday. Now we find ourselves today closing under' and the options service launched 'starting yesterday' (Ys1XEgtVrsE, which says 'today is Wednesday', calls the IXIC topping tail 'yesterday's') => Tuesday 2026-10-06; listing approx_date is 2026-10-07. Oil target stated as both 116.51 and 116.42. CEG neckline first said '$290' then corrected to 300.41. SPY 800 target merges same pattern as next day's video."
+}

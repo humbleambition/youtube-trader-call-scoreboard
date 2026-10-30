@@ -1,0 +1,210 @@
+{
+ "video_id": "e4Jg-HLUiOk",
+ "channel": "Ricky Gutierrez",
+ "title": "THE MARKET IS SHIFTING: What You Need to Know",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "10/20/30-year yields near highs make all borrowing costlier; mortgages above 7%."
+  },
+  {
+   "theme": "Oil and inflation",
+   "view": "Oil at multi-month highs (UCO 52-week highs) will feed into September CPI; a hot print could put a rate hike back in play."
+  },
+  {
+   "theme": "Leverage / crypto top signal",
+   "view": "SEC approving 3x BTC/ETH ETFs looks like a top signal; crypto can crash 50-80%."
+  },
+  {
+   "theme": "Overbought market",
+   "view": "Nasdaq at all-time highs but overbought with no good news; not attractive to go long."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq at new all-time highs but he sees it as overbought with no good news; won't short yet but not attractive to buy; signs point to an eventual sell-off.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "I believe markets are overbought and there's no good news."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50000,
+     55000,
+     60000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "3x BTC/ETH ETF approval is a possible top signal; BTC historically crashes 50-80% and could sell back to 50-60k.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "if the top signal isn't in yet, SEC just approves its first-ever 3x Bitcoin and Ethereum ETF."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Intraday short after a gap up with gap-down potential, but no confirmed sell-off; considering closing it.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "I took this short within our LPP live trading session... it's just consolidating."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI / UCO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil rising through September-October with UCO at 52-week highs and Aramco warning emergency reserves are nearly gone.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "oil prices are at one of the highest levels in recent months"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields making new highs; hot CPI from oil could bring a rate hike back into play.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "New day, new highs for US bonds. This is on the 10-year, 20-year, whatever the 30-year"
+  }
+ ],
+ "notes": "'Happy Monday' -> Mon Oct 5 (listing Oct 6). He says 'new highs for US bonds' meaning yields. MSTR long (350 shares, trimming) is a minor intraday position, skipped. BTC 50-60k levels are hypothetical downside, not a stated target."
+}

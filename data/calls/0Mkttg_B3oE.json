@@ -1,0 +1,384 @@
+{
+ "video_id": "0Mkttg_B3oE",
+ "channel": "TheTechnicalTraders",
+ "title": "Trade with the trend, even if you don't like it.",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [
+  {
+   "theme": "AI innovation phase",
+   "view": "Market is in the innovation/adaptation phase of the cycle; an OpenAI/Anthropic IPO could spark a final feeding frenzy before a peak."
+  },
+  {
+   "theme": "Yields to pull back",
+   "view": "Yields hit a 100% Fibonacci measured move; a multi-week pullback in yields would help equities."
+  },
+  {
+   "theme": "Strong dollar pressures metals",
+   "view": "A rallying dollar could pressure metals for 6-12 months."
+  },
+  {
+   "theme": "Oil flows normal",
+   "view": "Middle East oil flows back to ~98% of pre-war levels."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flat after popping into resistance; expects a tech/semis-driven second leg and breakout, helped by a pullback in yields and the dollar.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "we're going to see the stock market break out and have a big move, which is what our charts and the all the analysis is …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near all-time highs, flagging down in a controlled way; semis and Mag 7 breaking up again.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "I think it'll be a technology-driven move."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "Treasury yields (rates chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields reached a 100% Fibonacci extension measured move; expects a bounce in bonds and a multi-week pullback or pause in yields.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "there isn't a whole lot more upside in yields and then they're going to pull back"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "At resistance near the 61.8% Fibonacci level with higher highs and lows; may pause short term but has potential to rally significantly.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "the US dollar index has potential to rally quite significantly"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 40,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     39,
+     40
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stage-4 bear market: all key MAs sloping down, lower highs and lows; measured move to $39-40 where it becomes a long-term buy.",
+   "conviction": "high",
+   "timestamp": "5:00",
+   "quote": "an extreme measured move to the downside, which is $40, $39 per oz. At that point, it's a long-term investment opportunity."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold bouncing ~1% but metals are dormant and a strong dollar could weigh on them for 6-12 months.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "I do not want to hold metals when they're dormant because who knows how long they could go like this for."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated bear flags on the 30-minute chart and 5/20/50/150-day MAs sloping down; only above the 150-day MA.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "Pretty good odds it's going to want to keep going lower."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Above a rising 150-day MA in an uptrend, though choppy price action raises risk of a sharp unwind; he does not trade it.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "It is in a bullish environment. There's no doubt."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Top performer on the hotlist with bull-flag patterns as risk appetite returns.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "Bitcoin has been a top performer."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARKK",
+   "instrument_quoted": "ARKK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Innovation ETF now leading, with bull flags, consistent with the innovation phase of the market cycle.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "it does have a series of bull flag chart patterns, very similar to what we're seeing in actually Bitcoin."
+  }
+ ],
+ "notes": "Host states 'Wednesday, September 30th'. Speaker name assumed (channel host Chris Vermeulen; not named in transcript). Silver target 39-40 recorded as 40."
+}

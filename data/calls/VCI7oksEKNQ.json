@@ -1,0 +1,611 @@
+{
+ "video_id": "VCI7oksEKNQ",
+ "channel": "Verified Investing",
+ "title": "Yields Hit Banks as Head & Shoulders Patterns Trigger",
+ "video_date": "2026-10-01",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "10-year hit 5.342%, highest since 2002, but a reversal pattern suggests a near-term pause/pullback that helps stocks."
+  },
+  {
+   "theme": "Fed",
+   "view": "Odds 76% hold at upcoming meeting, hike still leaned for December."
+  },
+  {
+   "theme": "Jobs report",
+   "view": "NFP due tomorrow, forecast 90k vs prior 162k."
+  },
+  {
+   "theme": "Financials under stress",
+   "view": "Rising rates pressuring banks; IWM and WFC at oversold support."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     760.4
+    ],
+    "resistance": [
+     766.79
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bottoming-tail daily candle off key support; last similar candle led to a gap up and rally.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "spiders right now somewhat looking like a near-term bottom having hit to this support level"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite (IXIC)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 28000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     27200,
+     28000
+    ],
+    "invalidation": null
+   },
+   "condition": "If the bullish consolidation breaks the ~27,200 ATH pivot, next resistance just above 28,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding breakout above declining trend line at all-time highs; long-term trend lines converge at 28,000.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "If this bullish consolidation does break to that pivot ... the near overhead resistance will be just above 28,000 points."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 635.84,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If tomorrow closes above today's candle, resistance flips to support and targets 635.84",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Close above 61.8% retracement and multi-day consolidation, helped by MU earnings holding up.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "this level of resistance will flip from resistance into support and then target this next upward uh level at $635.84"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.342,
+   "short_term": {
+    "bias": "bearish",
+    "target": 5.021,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.342
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "'Sleeper hold' reversal pattern after a fast run to highest since 2002; expects pullback/consolidation.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I'm expecting consolidation to pull back as low as 5.021."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Off near-term lows, consolidating; will re-evaluate for upside.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "Let's see if this consolidation continues uh to form over the next several days and we'll re-evaluate gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 53,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag plus head-and-shoulders pattern targeting the $53 area.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "a head and shoulders pattern that does target a move down here to the $53 range on silver. I'm anticipating more downside"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     89000
+    ],
+    "invalidation": null
+   },
+   "condition": "Turns more bullish only on a break above the ~89,000 H&S neckline",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish consolidation above a cleared horizontal level but still below prior H&S neckline.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "when and if price gets above that level, guys, I'll start flipping that switch more on bullish mode"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sideways; still expects a dip to the bottom of the parallel channel / prior pivot.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "I'm still anticipating um US oil potentially to come down, hit that parallel."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "Natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2.98
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retest after breakout like September 9; still bullish, rising trend line support at 2.98 for a bounce.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "I'm still bullish on NAC gas despite the supply inventory"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1035.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held consolidation post-earnings near top of range; eyeing gap fill, ATH and channel midline above.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "We are in the green still in this consolidation eyeing the next potential gap fill with a lot of overhead room to run"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ACN",
+   "instrument_quoted": "ACN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 277.37,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     201.19,
+     197.98
+    ],
+    "resistance": [],
+    "invalidation": 197.98
+   },
+   "condition": "Prefers another close above breakout candle then retest of 197.98 neckline; aggressive entry at 201.19 fib",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Earnings double beat and guidance broke inverse head-and-shoulders neckline at 197.98; measured move 277.37.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "while price is above this neckline ... it does have the potential for price to go to 27737"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TKO",
+   "instrument_quoted": "TKO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 137,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     166
+    ],
+    "invalidation": null
+   },
+   "condition": "Short on bounce/retest of neckline near 166 shelf; stop if price gets above the neckline",
+   "action": "short",
+   "entry": 166,
+   "stop": null,
+   "method": "technical",
+   "reason": "Massive head-and-shoulders top triggered with weekly close; measured move to 137.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "looking like this week is going to confirm that move down on the charts with a targeted measured move down here at $137"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SanDisk",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 2600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above inverse head-and-shoulders neckline; measured move above $2,600 aligns with channel.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "that gives us our targeted measured move above $2600"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNPS",
+   "instrument_quoted": "SNPS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch for continued push 1-2 days; RSI 74 overbought, prefer entry on pullback to broken trend line",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "12.78% jump on OpenAI deal into a declining trend line from July 2025; weekly has room to run.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "this could be setting up for a near-term uh two-day push higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WFC",
+   "instrument_quoted": "WFC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 83.54,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Near-term oversold bounce; if it keeps hitting the trend line it likely breaks lower",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "RSI 32.6 at long-term rising trend line (5th touch); bounce target 83.54 but line weakening.",
+   "conviction": "low",
+   "timestamp": "0:18",
+   "quote": "A bounce of a technical nature with optimistic point of view could take us all the way up here to 8354."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold near the bottom of its parallel channel; due for a near-term technical bounce with banks.",
+   "conviction": "low",
+   "timestamp": "0:18",
+   "quote": "It also was oversold right near the bottom of its parallel channel."
+  }
+ ],
+ "notes": "Date implied: 'Trading the Close', NFP 'tomorrow morning' and 'wraps us up ... through this week, back Monday' -> Thursday 2026-10-01 (listing approx 2026-10-02). MU level said '$1,35.50' read as 1035.50. Host name transcribed 'Drew Dosk'."
+}

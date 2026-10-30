@@ -1,0 +1,60 @@
+{
+ "video_id": "dAePM0b8diM",
+ "channel": "Crypto World",
+ "title": "BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Crypto World",
+ "macro_themes": [
+  {
+   "theme": "ETF selling",
+   "view": "BlackRock, Fidelity ETFs dumping Bitcoin"
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000,
+     80000
+    ],
+    "resistance": [
+     86000,
+     88000
+    ],
+    "invalidation": null
+   },
+   "condition": "Break below 80k confirms larger bearish divergence",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at 86-88k; daily and 3-day bearish divergence; weekly still bullish.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "Expect more weakness, lacking bullish momentum, potentially more of a pullback to come in the coming days, possibly weeks"
+  }
+ ],
+ "notes": ""
+}

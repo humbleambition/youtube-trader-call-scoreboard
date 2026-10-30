@@ -1,0 +1,148 @@
+{
+ "video_id": "PNHey1HifTc",
+ "channel": "CPM Group",
+ "title": "Silver Alert: Why Investors Are Not Betting Against The Metal",
+ "video_date": "2026-10-02",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian (CPM Group)",
+ "macro_themes": [
+  {
+   "theme": "Fed hiking cycle",
+   "view": "Fed raised 25bp last meeting; markets wrongly assume a pause because PCE flat; inflation (~3.4% headline, ~3% core) remains problematic."
+  },
+  {
+   "theme": "Consumer stress",
+   "view": "Q2 GDP 2.2% driven by consumers borrowing on credit to make ends meet, a negative sign."
+  },
+  {
+   "theme": "Weak jobs",
+   "view": "September payrolls only +29k, erratic jobs growth since COVID is worrisome."
+  },
+  {
+   "theme": "Equity calm before storm",
+   "view": "VIX up but low historically; calm before a possible storm, though unclear the storm comes."
+  },
+  {
+   "theme": "Investment demand drives metals",
+   "view": "Uncertain economic/political environment should keep investors buying gold and silver; investment demand is the key price driver."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Dec COMEX gold futures",
+   "price_at_call": 4161,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3900,
+     3800,
+     2000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Downtrend since Jan record; H&S objective ~3,900 and trendline support 3,800-3,900 still possible, but secular bull market driven by investment demand expected to continue over coming quarters.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "That's our view as to what's likely to happen over the next several months, if not several quarters, and on a longer term basis."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Dec COMEX silver futures",
+   "price_at_call": 60.25,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Testing $60 after 50% drop from $121 peak; market in surplus and ETP investors net sellers in 2026, needs large investor buying; positive that COMEX shorts remain very small.",
+   "conviction": "low",
+   "timestamp": "8:45",
+   "quote": "It needs investors to be large net buyers of almost historical proportions to keep the silver price high and rising."
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "Dec palladium futures",
+   "price_at_call": 1167,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1067
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Palladium may be forming a base within $100 of current price after falling from ~$2,200, with some short-term weakness as gold/silver stay under pressure.",
+   "conviction": "low",
+   "timestamp": "16:45",
+   "quote": "the palladium market probably will find a base, you know, within $100 of where it is today."
+  }
+ ],
+ "notes": "Video recorded Fri 2 Oct 2026 11:50 NY. Gold view is two-sided: near-term downside risk to ~3,900 but secular bull intact (medium_term marked mixed). Palladium support 1067 derived from 'within $100' of 1167. Platinum mentioned only briefly (no clear call). PA not in canonical list; used PA."
+}

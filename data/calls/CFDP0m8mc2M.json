@@ -1,0 +1,348 @@
+{
+ "video_id": "CFDP0m8mc2M",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Crashes as the US Govt Sells: Where Does the Crash Stop?",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "US government BTC transfer",
+   "view": "~800 seized BTC ($71M) moved to Coinbase Prime triggered panic and ~$500M long liquidations, possibly a court-ordered return rather than a sale."
+  },
+  {
+   "theme": "Liquidation magnets",
+   "view": "Clusters of short liquidations above price act as magnets that could squeeze Bitcoin higher."
+  },
+  {
+   "theme": "Low-revenue chains",
+   "view": "Coins on low-revenue chains (TIA, Sonic, Story, Scroll, Manta etc.) will trend down long term; only short them."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (spot/perps)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84675,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80600
+    ],
+    "resistance": [],
+    "invalidation": 80600
+   },
+   "condition": "Bearish only on a confirmed close below the ~80,000-80,600 support zone (Nov wick to May high), not on wicks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Correction landed on long-watched support plus the 0.382 fib; bearish crowd piling into shorts with liquidations near 84,675 that could squeeze price up.",
+   "conviction": "medium",
+   "timestamp": "4:30",
+   "quote": "right around 84675, looks like some traders might need to be humbled"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "Solana (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     67
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Interested in a long only at the ascending trend line (~67 as transcribed), not before.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ascending trend line from two pivots that other coins already tagged.",
+   "conviction": "low",
+   "timestamp": "6:15",
+   "quote": "I'm still watching this area for a long. I'm not really interested in longing before that level"
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEAR (perps)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Short opened off a horizontal level/liquidation cluster; currently a little in profit.",
+   "conviction": "low",
+   "timestamp": "6:45",
+   "quote": "we're short near and right now a little bit in profit."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP (spot/perps)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long off the ascending trend line that held the 11 p.m. dump wick; watching 4h descending trend line area for more longs and has add orders below.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "So, I'm watching this area for a potential XRP long."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SUI",
+   "instrument_quoted": "SUI (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Losing the trend-line support (from November) would open a drop; repeated tests raise breakdown risk.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price touching long-term trend-line support; 'the more you knock on the door' the likelier it breaks.",
+   "conviction": "low",
+   "timestamp": "9:15",
+   "quote": "This is an area for support. I would be watching on SUI."
+  },
+  {
+   "group": "crypto",
+   "ticker": "TIA",
+   "instrument_quoted": "Celestia (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Low chain revenue; such coins trend down long term, so only short, never long.",
+   "conviction": "medium",
+   "timestamp": "11:45",
+   "quote": "these are going to long-term trend downward. So yeah, if you're going to trade it, I'm looking at a short."
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "Hyperliquid (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lost its trend line after rejecting resistance; first support is a recent weak pivot low.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "Now it does look like it lost this trend line"
+  },
+  {
+   "group": "crypto",
+   "ticker": "RENDER",
+   "instrument_quoted": "Render (spot/perps)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2.18
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 2.18,
+   "stop": null,
+   "method": "technical",
+   "reason": "Posted short at 218 (read as $2.18) on descending trend line + 0.786 fib confluence; the trade worked but he closed it early.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "I gave you a level to short 218."
+  },
+  {
+   "group": "crypto",
+   "ticker": "DOGE",
+   "instrument_quoted": "Dogecoin (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If DOGE falls further (~16% over the next week) to the Feb 6 pivot low / double-factor support, he would look to go long.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Already down ~10% in two days; double-factor support below makes a long better than a short.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "I wouldn't recommend shorting it... yeah, I would be looking to long Doge everybody."
+  }
+ ],
+ "notes": "Date: no spoken date; he says the show airs 1:30 p.m. ET daily and the BTC drop/government-transfer news ('11 pm last night') matches Gareth Soloway's Wed 2026-10-07 stream, so dated 2026-10-07 (listing approx_date 2026-10-08 from '21 hours ago' looks a day late). Opening is confused ('We are short here. We're long XRP. Let me know if I have that reverse') - BTC position direction unclear; BTC/ETH trades already closed. SOL level '67' is as transcribed and may be garbled. RENDER '218' assumed $2.18. ETH (bull-flag retest long, closed) and LINK (parallel-channel range) skipped: no forward bias."
+}

@@ -1,0 +1,241 @@
+{
+ "video_id": "V3-906iXs7M",
+ "channel": "Arete Trading",
+ "title": "Breadth Is Broken. Smart Money Is Loading Up!",
+ "video_date": "2026-09-25",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Breadth weak but index at highs",
+   "view": "S&P breadth is in the 8th percentile while index is near all-time highs; host sees this as a narrow, rotation-driven market similar to 2006, not a crash signal."
+  },
+  {
+   "theme": "Yields 5% not yet a problem for tech",
+   "view": "10-year above 5% won't hurt megacap tech until well into the 6s or near 7% given earnings growth; hot PMI (58.4) drives rising rate-hike odds."
+  },
+  {
+   "theme": "Quarter-end rotation",
+   "view": "Expects a quarter-end rebalance rotation out of software/cybersecurity (IGV) and into semiconductors around Sep 30-Oct 1."
+  },
+  {
+   "theme": "Consumer squeezed",
+   "view": "High oil/diesel costs crushing consumer discretionary, retail and utilities; hyperscalers unaffected."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly breakout to new highs in August, successful mid-September retest and bounce on rising volume; setting up to rechallenge highs.",
+   "conviction": "medium",
+   "timestamp": "2:50",
+   "quote": "you're really setting up to rechallenge these levels up here"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NDX / QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "All-time high close on NDX; breadth improving; rate-hike cycle comparable to 1999 when tech still rallied.",
+   "conviction": "medium",
+   "timestamp": "3:50",
+   "quote": "you're at an all-time high. And based upon that, when I mark this off, I think we could set up to go higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOX",
+   "instrument_quoted": "Semiconductor index (SOX/SOXX) and equal-weight semis",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Proprietary semiconductor breadth model fired a buy signal Friday; semis breaking out of a triangle; ROIC far above cost of capital for hyperscaler spending; quarter-end rotation into semis.",
+   "conviction": "high",
+   "timestamp": "22:00",
+   "quote": "I've gotten a buy signal here on Friday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IGV",
+   "instrument_quoted": "IGV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Software/cybersecurity names (CRWD, PANW, BUG, CIBR) closing at lows into OPEX; IGV/SOX ratio breaking its channel; expects quarter-end rotation out of software.",
+   "conviction": "medium",
+   "timestamp": "38:30",
+   "quote": "I would be a little concerned about software and I'd be afraid of the rotation"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Earnings Wednesday; bearish if Micron flags Chinese supply flooding the market",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "12/22/55 MAs spreading up, ~6x earnings, strong DRAM prices; expects good earnings though stock has historically faded after earnings pops.",
+   "conviction": "medium",
+   "timestamp": "27:15",
+   "quote": "It's my belief that they should have good earnings"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLY",
+   "instrument_quoted": "XLY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Consumer discretionary not participating since August breakout; high diesel/oil costs cannot be passed through (Casey's margin compression, XRT collapse).",
+   "conviction": "low",
+   "timestamp": "4:30",
+   "quote": "XLY since the breakout August 3rd, they're not participating"
+  }
+ ],
+ "notes": "Host says he is recording on Friday (before Micron's Wednesday earnings and Sep 30 quarter end) -> Friday 2026-09-25; listing 2026-09-26. Semis 'can get up to that 600 level, which is now the call wall' (24:30) - instrument unclear (possibly SMH), not recorded as a target."
+}

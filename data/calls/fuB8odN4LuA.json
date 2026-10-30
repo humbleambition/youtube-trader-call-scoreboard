@@ -1,0 +1,178 @@
+{
+ "video_id": "fuB8odN4LuA",
+ "channel": "Money Making Market",
+ "title": "WE ARE ON OUR WAY TO SPY $800! Monthly Expected Moves!",
+ "video_date": "2026-10-05",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Expected moves",
+   "view": "Monthly/annual options-implied expected moves act as magnets and support/resistance; trend flipped bullish after Friday's 2-hour violation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 778.74,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 794.55,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     771.16,
+     767,
+     730.71
+    ],
+    "resistance": [
+     778.74,
+     794.55
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish unless price rolls over and takes out the recent low; a dip to 771.16 daily move expected to find buyers",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "MACD, RSI and price action all confirm the flip; monthly expected move 794.55 highly probable by month end; annual target ~796-800 for 2026.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "by the end of the month we are highly probable to go up to 794.55 with the with what is proved to us in the …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 761.82,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 782.67,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     750.6,
+     696.87
+    ],
+    "resistance": [
+     761.82,
+     782.67
+    ],
+    "invalidation": null
+   },
+   "condition": "Losing the higher low would cause problems; 2-hour cross-down is a risk signal",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ gapped above its annual expected move and looks bullish; minor MACD/RSI divergences warn of a pullback.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "the Qs look pretty stationary here that they want to stay bullish."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     281.18,
+     288
+    ],
+    "resistance": [
+     285.58,
+     296
+    ],
+    "invalidation": 296
+   },
+   "condition": "Needs to break 296 to turn bullish; otherwise expects a lower high",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near the MACD center line with divergences; more likely to form a lower high than recover.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "I do not believe that IWM can make a comeback unless it is able to burst through that 296 level... this is way more likely …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX rose despite SPY up day, so no confirmation yet of a drop toward 12, but it could come soon.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "we have not gotten that confirmation that kind of suggests, \"Oh, we are going down to 12 12 just yet.\" Now, that could be on …"
+  }
+ ],
+ "notes": "Date implied: \"On Friday we saw...\" and tomorrow then \"Wednesday or Thursday\" -> recorded Mon 2026-10-05 after close (listing approx 2026-10-06). Monthly 794.55/730.71 are SPY; 782.67/696.87 read as QQQ monthly moves (garbled \"78267\"/\"69687\")."
+}

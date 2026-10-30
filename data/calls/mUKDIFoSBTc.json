@@ -1,0 +1,64 @@
+{
+ "video_id": "mUKDIFoSBTc",
+ "channel": "A1 Trading",
+ "title": "Gold. Buy or Sell?",
+ "video_date": "2026-09-25",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "A1 Trading host",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "2-year near 5% (4.93) and 10-year at 5.2% keep climbing; headwind for gold alongside oil and a stronger dollar."
+  },
+  {
+   "theme": "Hawkish Fed",
+   "view": "Fed might actually start raising rates; Warsh was surprisingly hawkish at the last FOMC."
+  },
+  {
+   "theme": "US-Iran / Hormuz deal",
+   "view": "Both sides discussing a phased plan to reopen the Strait within 7 days; a deal would mean lower oil, lower yields, softer dollar and bullish gold."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (spot/futures)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4242
+    ],
+    "resistance": [],
+    "invalidation": 4242
+   },
+   "condition": "Long while gold holds the 61.8% retracement (~4242); stop just below, re-buy lower if stopped",
+   "action": "buy",
+   "entry": null,
+   "stop": 4242,
+   "method": "mixed",
+   "reason": "Gold refuses to break the 61.8% fib despite rising yields, oil and dollar and a hawkish FOMC, showing relative strength; possible Iran deal is a bullish catalyst.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "I go ahead and take a stab long on gold with the last line of defense at 61.8% retracement level with small size"
+  }
+ ],
+ "notes": "No weekday/date stated; listing date kept. Entry level not stated precisely (near 4242 support); stop 'near this level of support'. Small size, so conviction low."
+}

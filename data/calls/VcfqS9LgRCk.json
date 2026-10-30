@@ -1,0 +1,288 @@
+{
+ "video_id": "VcfqS9LgRCk",
+ "channel": "CPM Group",
+ "title": "Silver, We Have a Problem (and investors are missing it) | Jeff Christian",
+ "video_date": "2026-10-04",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "macro_interview",
+ "speaker": "Jeffrey Christian (CPM Group)",
+ "macro_themes": [
+  {
+   "theme": "Fed policy",
+   "view": "Inflation persistent (PCE 3.4%, core 3%); expects possibly one more 25bp hike, not four."
+  },
+  {
+   "theme": "Recession risk",
+   "view": "Q4 2026/early 2027 budget-bill spending cuts after the midterms could push the US into recession; timing unknowable; yield curve is not a useful predictor."
+  },
+  {
+   "theme": "Long yields",
+   "view": "10y ~5% is rising for bad reasons (deficits, credit-dependent consumers); real rates ~1.5-2% are below the ~3% level that historically hurts gold."
+  },
+  {
+   "theme": "Dollar/Treasuries",
+   "view": "Dollar very strong and foreign Treasury holdings at record; de-dollarisation narrative overstated."
+  },
+  {
+   "theme": "Central-bank gold",
+   "view": "~90% of gold's rising reserve share is price, only ~10% buying; buying narrative exaggerated."
+  },
+  {
+   "theme": "Equities",
+   "view": "Top-heavy market driven by AI/crypto/data centres; a sharp decline is possible."
+  },
+  {
+   "theme": "Geopolitical risk",
+   "view": "Risks greatest since December 1941; hold gold, silver and cash as no-counterparty assets."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (Dec COMEX butterfly call spread)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects midterm-election and world risks to drive gold buying into late November (Dec butterfly calls); for a 3-5 year hold buy a leveraged gold ETF; positive real rates still below 3% trigger.",
+   "conviction": "medium",
+   "timestamp": "0:56",
+   "quote": "predicated on the idea that the US congressional elections are going to cause investors to buy a lot of gold and push the price up"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Fabrication demand down ~5% and solar demand down ~10% this year (thrifting, copper substitution, overcapacity) and investors selling bar/coin; but still recommends adding gold and silver as protection.",
+   "conviction": "low",
+   "timestamp": "0:33",
+   "quote": "we have solar demand falling about 10% this year and we have uh total uh fabrication demand for silver falling about 5% this year"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "CPM sees persistent and growing surpluses as mine output recovers and fabrication demand falls, which explains the drop from January record highs; WPIC deficits inflated by counting investment demand.",
+   "conviction": "medium",
+   "timestamp": "0:42",
+   "quote": "you have a much bigger surplus once again, which fully explains the decline in platinum from record highs in January"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Market tight short and long term; Centinela strike threat (as soon as Oct 13) cuts supply and drives investment buying of futures.",
+   "conviction": "medium",
+   "timestamp": "0:51",
+   "quote": "The copper market is relatively tight both on a short-term and a long-term basis."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (USO)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Sells part of USO: oil could decline on speculative selling if Strait of Hormuz situation doesn't deteriorate further.",
+   "conviction": "low",
+   "timestamp": "0:55",
+   "quote": "I do think that the oil prices perhaps potentially could decline."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin (BMNR holding)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Sells the Bitcoin-treasury holding: dislikes assets that 'sound like a scam' and lack a recoverable counterparty.",
+   "conviction": "low",
+   "timestamp": "0:55",
+   "quote": "I just don't like things that sound like a scam to me"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If recession arrives (Q4 2026/early 2027 spending cliff)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Top-heavy market reliant on AI/crypto/data centres; sharp decline possible alongside recession.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "So you could see a sharp decline in the stock market."
+  }
+ ],
+ "notes": "Host: 'week ending the 4th of October 2026'; PCE referred to as 'yesterday', so likely recorded Oct 3 (weekend). Title says 'Silver, we have a problem' but silver view is demand-weak rather than an explicit price call; SI medium 'mixed' reflects that plus his buy-metals-for-protection advice. ES/BTC calls are low-conviction inferences from his general bearish/sceptical comments. TNX: no directional yield forecast beyond 'rising for bad reasons' (themes only). Expects another 25bp Fed hike possible."
+}

@@ -1,0 +1,163 @@
+{
+ "video_id": "Gp8w6yNrNLE",
+ "channel": "tastylive",
+ "title": "Why You Should Avoid Trading the Last Hour",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "tastylive Morning Show hosts (unnamed in this clip) with researcher Julia",
+ "macro_themes": [
+  {
+   "theme": "SPX intraday seasonality",
+   "view": "Open is the most volatile hour and sets many daily highs/lows; SPX tends to drift up through the day and fade in the last 30-60 minutes (2012-2026 data)."
+  },
+  {
+   "theme": "Sector rotation",
+   "view": "Host sees a lot of strange action in the market driven by sector rotation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NDX options (downside butterfly)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Opened an NDX downside butterfly expiring Nov 6, positioned for a drop after the US election amid strange sector-rotation action.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "I did uh the NDX butterfly um to the downside. Did it on November 6th just for after the election."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX options (downside butterfly); E-mini quoted at all-time highs",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Second host also holds an SPX downside butterfly while E-minis sit at all-time highs; small defined-risk bearish bet.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "NDX for me, downside butterfly, SPX downside butterfly"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TJX",
+   "instrument_quoted": "TJX long-dated options",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Added a longer-term long position in consumer name TJX alongside an existing January 2028 position.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "I did get long another consumer name, TJX. I already had it. I just uh forgot to add my longer term position."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH options/futures position",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed an aggressive bullish ETH position because the chart looked ugly after a split; no stated forward bias.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "ETH, I closed out of that super mega super mega super mega bull uh after the split because now it's just ugly to look at."
+  }
+ ],
+ "notes": "Date: hosts say it is 'the first Tuesday of the month' and reference Monday Night Football 'last night' -> Tue 2026-10-06 (listing approx_date 2026-10-07). Mostly a statistics segment, no explicit targets. 'Did it on November 6th' read as the butterfly's expiration. Which host made which trade is not named. 'E-mini S&P's were up 60' / at ATH and Nasdaq at ATH noted as context, no level given. ETH 'after the split' unclear (possibly an options/ETF split)."
+}

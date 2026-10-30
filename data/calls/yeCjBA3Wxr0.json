@@ -1,0 +1,62 @@
+{
+ "video_id": "yeCjBA3Wxr0",
+ "channel": "tastylive",
+ "title": "Cem Karsan Explains the Best Two-Week Window to Sell Volatility",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Cem Karsan (guest, tastylive)",
+ "macro_themes": [
+  {
+   "theme": "OpEx vol compression",
+   "view": "This week into Friday's monthly options expiration is the best window to sell volatility; markets hard to move, realized vol suppressed."
+  },
+  {
+   "theme": "Midterms / contested election",
+   "view": "Structural risk around the midterms and a possibly contested election is at odds with mechanical vol-selling flows, driving dispersion."
+  },
+  {
+   "theme": "CPI this week",
+   "view": "Host notes CPI and OpEx are the week's big events; no CPI call given."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "index implied volatility (VIX / SPX options)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Vol compression runs through Friday's monthly OpEx (five-week cycle, no VIX expiration this week); midterms/contested election risk sits behind it",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Dealers get longer vega daily (vomma/veta) in the 1.5 weeks before monthly OpEx, forcing vol selling, compressing implied and realized vol; calendars (short Oct, long Nov) are favored.",
+   "conviction": "medium",
+   "timestamp": "1:55",
+   "quote": "by far the best V compressing times in history on a cycle option cycle basis are the week and a half leading into options expirations"
+  }
+ ],
+ "notes": "Short clip; no price levels. 'Set the table for the week' suggests it may be from Mon Oct 12 rather than the listing date of Oct 13. Implied short-term view: low/compressing volatility into OpEx (Fri Oct 16); no explicit index direction."
+}

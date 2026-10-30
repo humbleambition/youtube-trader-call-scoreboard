@@ -1,0 +1,96 @@
+{
+ "video_id": "uQ2xPhJoleE",
+ "channel": "tastylive",
+ "title": "The Microsoft Call That Needs a New Record in 24 Days",
+ "video_date": "2026-10-06",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive 'Signal vs. Noise' host",
+ "macro_themes": [
+  {
+   "theme": "Memory supply risk",
+   "view": "Toshiba plans to double hard-drive supply in 2027 and memory names have repriced, so Micron puts may be a relative-value short or a hedge."
+  },
+  {
+   "theme": "Mega-cap momentum",
+   "view": "Nasdaq is breaking out with the Mag 7 on top; MSFT price targets are being raised after its best quarter since 1998."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 954.9,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Flow-based: ~$28M in Jan 1050/1070 puts; may be a hedge or part of a spread",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Large near-the-money January puts appeared right after a record quarter that the stock did not reward; host notes it could be a hedge by a long holder.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "Someone willing to put down $28 million into Micron ... saying that they're already reflected in the price"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": 532,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 570,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     553.72,
+     570
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs a new record high through Oct 30 earnings for the 570 calls to pay",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$6.3M of fresh Oct 30 570 and Nov 13 540 calls spanning earnings; strong momentum above its moving averages and a run of price-target raises.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "Microsoft has really strong price momentum right now, and someone suggesting that this thing could run up into new all-time highs"
+  }
+ ],
+ "notes": "Date not spoken. Inferred as 2026-10-06 from DTE math: Oct 30 at 24 DTE, Nov 13 at 38 DTE, Jan 15 at 101 DTE all imply Oct 6 (listing approx_date 10-07). 'January 27th 1050 put' is read as the January 2027 expiry. MU price not stated; the 954.90 break-even is said to be ~10% below the current price (so ~1,060). Biases describe the options flow, which the host treats as 'reasonably expected' rather than as his own call. The 954.90 MU 'target' is the put buyer's break-even."
+}

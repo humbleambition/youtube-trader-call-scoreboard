@@ -1,0 +1,427 @@
+{
+ "video_id": "P5KxnGOPiFU",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Stock Market Outlook",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Rotation out of semis into software",
+   "view": "Selling semis/DRAM after the OpenAI news and rotating into software in an 'anti-AI trade'; may get a sell signal on semis today or this week."
+  },
+  {
+   "theme": "Bank earnings / bond losses",
+   "view": "Banks' bond portfolios likely took big mark-to-market losses as yields moved; prefers to trade banks after earnings, gut likes JPM bouncing."
+  },
+  {
+   "theme": "Holiday thin trade, CPI next",
+   "view": "Bond market closed (Columbus Day) so late volume, then CPI the next day; indices rejecting October point of control."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejecting October volume-profile point of control with RSI struggling; lots of support below but he sees the rejection as a problem.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "you are rejecting point of control in October. And I do think that's an I do think that's a a problem."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed attempt at the peak usually means a retest of the prior low area (Sept 28 region); SPY two-month cup and handle noted but 'be careful'.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "We tried. We're failing. If you fail, you usually mean you're coming down to this level at least again to test."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "SOX / semis",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed all semis on the OpenAI news; put wall moved lower, rejection at the 55-day; expects rotation out of semis and DRAM to crack (rule of three: single names fall ~3x the sector).",
+   "conviction": "high",
+   "timestamp": "0:06",
+   "quote": "Semies to me look like we have issues. I might actually get a sell signal on semis in here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 86,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "No P/E support, priced for growth; among non-memory semis could get crushed.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "I think Intel's in a lot a lot of trouble. Um, I think you're going back to 86."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DDOG",
+   "instrument_quoted": "DDOG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     83,
+     78
+    ],
+    "resistance": [],
+    "invalidation": 78
+   },
+   "condition": "Fails if it closes back in the gap fill / below 83-78",
+   "action": "buy",
+   "entry": null,
+   "stop": 78,
+   "method": "technical",
+   "reason": "Earnings gap filled on solid volume above his levels; software rotation favoured.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "DD dog 100%. like these kinds of things when when you have an earnings break like this and then you fill"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VEEV",
+   "instrument_quoted": "VEEV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 310,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     296,
+     285
+    ],
+    "resistance": [
+     310
+    ],
+    "invalidation": 285
+   },
+   "condition": "Watch for close below 285 (point of control)",
+   "action": "watch",
+   "entry": null,
+   "stop": 285,
+   "method": "technical",
+   "reason": "Post-earnings shakeout then break above level, similar to DDOG; call wall raised to 310; better relative strength than ESTC.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "So, yeah, I think that has potential. I think it's a very similar setup to DDog."
+  },
+  {
+   "group": "stocks",
+   "ticker": "VICR",
+   "instrument_quoted": "VICR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     50
+    ],
+    "invalidation": null
+   },
+   "condition": "If it gets back above 50 it is appealing",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retesting neckline after strong numbers; no decision yet, won't chase.",
+   "conviction": "low",
+   "timestamp": "0:26",
+   "quote": "if I can get above 50, I think that that's really appealing."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     65,
+     70
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Multiple downgrades ahead of earnings, weak programming; 65 the drop-dead level, put wall moved to 70; no interest.",
+   "conviction": "low",
+   "timestamp": "0:28",
+   "quote": "I think there's some real issues there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     750
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Gap-ups keep fading, no volume; 750 call wall caps upside; not chasing.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "I see it bidding up. I'm not chasing it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWY",
+   "instrument_quoted": "Korea (EWY / Korea index)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Korea opened weak and is breaking down with DRAM names (SK Hynix needs to hold).",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I actually have a short on um in on Korea"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CIEN",
+   "instrument_quoted": "CIEN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Owns it; optical names pulled back to bases and holding; would buy pullbacks.",
+   "conviction": "medium",
+   "timestamp": "0:35",
+   "quote": "Sienna is doing exceptionally well... any pullback in it, I really like that."
+  }
+ ],
+ "notes": "Listing date Oct 13 but host says bond market is closed today (Columbus Day) and CPI is 'the next day', so recorded Mon Oct 12 premarket. No numeric index levels given. Also mentioned: owns ARCG/genomics, likes MRNA, missed LABD short, will short a biotech 'AS' after $90 upgrade (ticker unclear), NBIS 'real issues', NOK capped at 11, TTWO weak near 55-day, energy/tankers ripping but not chasing."
+}

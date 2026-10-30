@@ -1,0 +1,494 @@
+{
+ "video_id": "Yi418huTOpI",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Live Trading GDP Data + MU Earnings Day",
+ "video_date": "2026-09-30",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Soft PCE",
+   "view": "Core PCE 0.2% m/m vs 0.3% est.; very bullish for equities and lowers odds of many more rate hikes; yields drop on the print."
+  },
+  {
+   "theme": "Rates grind higher",
+   "view": "Despite the soft print, people will come to understand rates are going higher and grinding higher; prefers yield plays that are not Treasuries (utilities)."
+  },
+  {
+   "theme": "Quarter-end rebalance risk",
+   "view": "Semis breadth plummeting as defensives come in; Russell had a record 16 straight lower closes; the rebalance could be wicked and fast with people out of position."
+  },
+  {
+   "theme": "Micron as the semis catalyst",
+   "view": "MU trades ~7x earnings growing 100% with DRAM prices rising daily; good earnings would ignite semis."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Better-than-expected PCE should lift the market and drop yields; not overbought into the end of the quarter.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "they are very bullish numbers on PCE for equity markets"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If Micron earnings are good",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Looks like a flag fighting the September range, getting ready to break out into October; good Micron earnings would take out the level.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "If you have good earnings on Micron, you're taking that out. You're going to rub people's faces off."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "Treasury yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields drop on the soft PCE print, but he expects rates to grind higher over time; would not buy bonds.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "I think people are going to understand that rates are going to go higher and grind higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU / utilities",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Started buying utilities two days ago at extreme levels (back to Dec 2024 levels) on a 4-hour turn; value buy needed to fund AI buildout.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "I think utilities make a ton of sense cuz you need them to fund everything that's going on"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SLG",
+   "instrument_quoted": "SLG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": 45,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "New York real estate booming; buys SLG when it trades below its ~45 book value.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "45 is the book on on SLG and I do buy them when when they're below it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VICI",
+   "instrument_quoted": "VICI",
+   "price_at_call": 23,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Trading ~23 under ~26 book; long-term should bounce, though a Caesars contract negotiation is the overhang.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "long-term to me like I I don't know how this stuff doesn't doesn't bounce"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     140,
+     136
+    ],
+    "resistance": [
+     160,
+     165,
+     175,
+     180
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought long term and not trading it; riding the IPO and peak levels with heavy value area 140-160, so likely to work off value; would take news to break 140.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "I I don't think you're going to break 140. Like, you're going to need news or something to really break 140"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1750,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Assumes earnings and revenue are in line or better",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "First time below last earnings level since 2024; P/E cheaper with accelerating revenue and DRAM prices rising; 10x next year's ~$175 EPS = 1,750; expects a buyback; will buy any dip if numbers are good.",
+   "conviction": "high",
+   "timestamp": "30:00",
+   "quote": "I'm long and and my plan is if it dips, as long as the earnings are there... I'm going to get involved"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASX",
+   "instrument_quoted": "ASX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Second-tier semi names like ASX look fantastic with buyers getting ahead of the rebalance; wait until after Micron.",
+   "conviction": "low",
+   "timestamp": "27:00",
+   "quote": "in regards to like these secondary tier names like ASX, I I like them. I I don't know that today's your day"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Brand going the way of Under Armour; could be taken out in the teens; does not understand being long.",
+   "conviction": "medium",
+   "timestamp": "36:00",
+   "quote": "Nike could be taken out in the teens"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LULU",
+   "instrument_quoted": "LULU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retail is risky and Lululemon is a pig.",
+   "conviction": "low",
+   "timestamp": "36:00",
+   "quote": "Lulu's just a pig"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": 117,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "In since ~117; trimmed premarket on a sell rating/quarter-end profit-taking risk, though disagrees until the data are out.",
+   "conviction": "low",
+   "timestamp": "37:00",
+   "quote": "I've been in since 117... I trimmed it premarket"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VLO",
+   "instrument_quoted": "VLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Refiner bars look like the highs and are rolling over barring escalation; has some shorts on but not much meat on the bone.",
+   "conviction": "low",
+   "timestamp": "38:00",
+   "quote": "they're kind of the tops and now they're rolling over"
+  }
+ ],
+ "notes": "Host says \"Happy Wednesday\"; Micron earnings tonight = Wed Sep 30. Bond-related remarks (\"get back to 390\", \"don't want to get above that 125\") too garbled to tie to an instrument. Unnamed force-majeure stock and APH watch skipped. Note: two days later (LvgWnebfXPs) same host turned bullish on refiners incl. VLO."
+}

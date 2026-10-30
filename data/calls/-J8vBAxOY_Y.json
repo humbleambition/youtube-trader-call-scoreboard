@@ -1,0 +1,354 @@
+{
+ "video_id": "-J8vBAxOY_Y",
+ "channel": "David Lin",
+ "title": "This Is Now The ‘Worst Energy Crisis Ever’ | David Hay",
+ "video_date": "2026-10-03",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "David Hay (Haymaker Publications), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "Worst energy crisis ever",
+   "view": "Lost Gulf supply, plunging inventories and record crack spreads make this worse than 1979; futures underprice physical oil and there is no glut."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "Rich-world bond markets are fragile from deficits and loose policy; yields could spike further (10y maybe 6%) before a stock selloff triggers a counter-trend bond rally."
+  },
+  {
+   "theme": "Stock market fragility",
+   "view": "Breadth is the worst in 30 years, CAPE ~41 and fund cash levels low; he is uncomfortable with stocks, expects a shakeout and eventually a severe bear market."
+  },
+  {
+   "theme": "Midterm political risk",
+   "view": "A blue sweep could see the president challenge results, an underappreciated market risk."
+  },
+  {
+   "theme": "Natural gas / power demand",
+   "view": "Data-center electricity demand and booming US LNG exports make cheap US natural gas a bargain; Europe faces a tough winter."
+  },
+  {
+   "theme": "Strategy: raise cash",
+   "view": "Raise some cash, ladder 2-10y Treasuries, buy Meta 20y bonds at ~7%, and buy beaten-down energy names."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude",
+   "price_at_call": 92,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short-term pullback likely before resumption; $200 is a possibility, not a firm target",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Spot ~$20 over the two-year forward usually brings a near-term correction within a rising trend; shortage, restocking and a post-midterm short squeeze could push oil toward $200 (gold/oil ratio).",
+   "conviction": "medium",
+   "timestamp": "22:00",
+   "quote": "you could see oil hit $200 a barrel. As I said earlier, that wouldn't be outlandish."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE (energy ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy on a pullback, especially in a market shakeout",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Broke out above its 2013 high on a long-term chart after years of underinvestment; extended, so a pullback would be a buying opportunity.",
+   "conviction": "medium",
+   "timestamp": "33:00",
+   "quote": "on a pullback, you want to I think you want to be a buyer of energy."
+  },
+  {
+   "group": "stocks",
+   "ticker": "HAL",
+   "instrument_quoted": "Halliburton",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Half its price of 12 years ago despite the energy boom, ~12x non-peak earnings; oil services follow producers in the cycle. He owns a lot and bought more.",
+   "conviction": "high",
+   "timestamp": "34:00",
+   "quote": "I think Hallebertton is a terrific buy at this point and I own a lot personally and bought more recently."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RRC",
+   "instrument_quoted": "Range Resources",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Natural-gas producer in a gradual uptrend after a recent pullback (timely), P/E ~9.6, likely takeover target; plays data-center gas demand.",
+   "conviction": "medium",
+   "timestamp": "40:00",
+   "quote": "it's actually you know fairly timely and again like hell very inexpensively priced"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EPD",
+   "instrument_quoted": "Enterprise Products Partners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Class-act midstream name yielding 6.2%, pulled back ~10% from its high; a way to play the US natural gas boom.",
+   "conviction": "medium",
+   "timestamp": "58:00",
+   "quote": "you could buy an EPD which is the class act in the midstream area"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "US natural gas (Henry Hub, ~$3/MMBtu)",
+   "price_at_call": 3,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "US gas at ~$3 vs 20+ in Europe/Asia, booming LNG exports and ~52 GW of data centers under construction drive demand.",
+   "conviction": "medium",
+   "timestamp": "37:00",
+   "quote": "I just can't believe that we're going to have gas this cheap in the United States and Canada."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields spike further, a stock crash would spark a powerful (counter-trend) bond rally",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields broke multi-year resistance and are in a monster uptrend on fiscal deficits; may spike to ~6% near term, but higher yields likely trigger a stock selloff and a counter-trend bond rally ('rent, not own').",
+   "conviction": "low",
+   "timestamp": "49:00",
+   "quote": "maybe the 10ear goes to six. But I think the higher those yields go, the more likely they are to trigger at least a stock …"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Severe bear market is a longer-term expectation, not immediate",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Worst breadth in 30 years, Hindenburg Omen clusters, low fund-manager cash and CAPE ~41; a shakeout looks likely and eventually a very severe bear market.",
+   "conviction": "medium",
+   "timestamp": "52:00",
+   "quote": "eventually I think that's going to lead to a very very severe bare market. I don't think that's right away"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold miners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the Fed panics and cuts short rates after a market break",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold miners have been crushed; a Fed panic into rate cuts after a market break could spark a big move in inflation hedges.",
+   "conviction": "low",
+   "timestamp": "58:00",
+   "quote": "gold miners have been crushed"
+  }
+ ],
+ "notes": "No air date stated; listing approx_date used. 'WTI 92 or so today' at 19:00. Also likes Meta 20-year bonds yielding ~7% (no ticker, not recorded as a call) and mentions Expand Energy (EXE) only in passing. Sponsored mention of USGO (US Gold Mining) by the host is an ad, not a call. Short-term oil bias 'bearish' reflects his conceded near-term correction within a rising trend."
+}
