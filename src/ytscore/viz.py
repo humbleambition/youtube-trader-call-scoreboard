@@ -113,3 +113,80 @@ def leaderboard_chart(rows: list[dict], out: str | Path, window: str = ""):
     plt.tight_layout(rect=(0, 0, 1, 1 - 0.55 / (1.5 + H * 0.38)))
     plt.savefig(out, facecolor=BG)
     plt.close(fig)
+
+
+CALL_GROUPS = [("Indices", ["ES", "NQ", "RTY"]), ("Metals", ["GC", "SI"]), ("Crypto", ["BTC"]),
+               ("Rates / oil / dollar", ["TNX", "CL", "DXY"])]
+CALL_NAMES = {"ES": "S&P 500", "NQ": "Nasdaq", "RTY": "Russell", "GC": "Gold", "SI": "Silver", "BTC": "Bitcoin",
+              "TNX": "10y yield", "CL": "Crude", "DXY": "Dollar"}
+BIAS_COL = {"bullish": "#9cc2a6", "bearish": "#dba59e", "neutral": "#cfcfd3"}
+_WHEN = {"weekend": 0, "premarket": 1, "unknown": 1, "intraday": 2, "after_close": 3}
+
+
+def calls_heatmap(scored: list[dict], session: str, out: str | Path, horizon: str = "short"):
+    """What each channel called on each market, all scored over ONE shared window.
+
+    horizon="short": calls whose next session is `session` (close before -> session close).
+    horizon="week":  medium-term calls whose reference close is `session`, scored one week later.
+    The actual move is printed once per column, so every cell is judged against the same number."""
+    tick = [t for _, ts in CALL_GROUPS for t in ts]
+    key_b, key_ok, key_pct = ("st", "next_day_ok", "next_day_pct") if horizon == "short" else ("mt", "mt_early_ok", "week_pct")
+    rows = sorted(scored, key=lambda x: (x.get("date") or "", _WHEN.get(x.get("when"), 1)))
+    cells, moves, end = defaultdict(dict), {}, None
+    for x in rows:
+        t = x.get("ticker")
+        if t not in tick or x.get(key_b) in (None, "none"):
+            continue
+        if horizon == "short" and x.get("next_date") != session:
+            continue
+        if horizon == "week" and (x.get("ref_date") != session or not x.get("week_to")):
+            continue
+        cells[x["channel"].strip()][t] = (x[key_b], x.get(key_ok))  # latest call wins
+        if x.get(key_pct) is not None:
+            moves[t] = x[key_pct]
+        if horizon == "week":
+            end = max(end or "", x["week_to"])
+    if not cells:
+        raise ValueError(f"no calls for {horizon} window {session}")
+    chs = sorted(cells, key=lambda c: (-len(cells[c]), c))
+    W, H = len(tick), len(chs)
+    fig, ax = plt.subplots(figsize=(2.8 + W * 1.05, 2.4 + H * 0.42), dpi=150)
+    fig.patch.set_facecolor(BG); ax.set_facecolor(BG)
+    for i, t in enumerate(tick):
+        m = moves.get(t)
+        ax.text(i + 0.47, -0.95, CALL_NAMES[t], ha="center", fontsize=9, fontweight="bold")
+        ax.text(i + 0.47, -0.45, "n/a" if m is None else f"{m:+.1f}%", ha="center", fontsize=9.5,
+                family="DejaVu Sans Mono", fontweight="bold", color=MUTE if m is None else (GREEN if m > 0 else RED))
+    for j, c in enumerate(chs):
+        for i, t in enumerate(tick):
+            v = cells[c].get(t)
+            _cell(ax, i, j, EMPTY if not v else BIAS_COL.get(v[0], "#e0cf9a"))
+            if v:
+                lab = {"bullish": "Bull", "bearish": "Bear", "neutral": "Flat"}.get(v[0], "Mixed")
+                ax.text(i + 0.47, j + 0.45, f"{lab} {({True: '✓', False: '✗'}).get(v[1], '')}".strip(),
+                        ha="center", va="center", fontsize=8.5, fontweight="bold")
+        ok = [v[1] for v in cells[c].values() if v[1] is not None]
+        ax.text(-0.12, j + 0.45, c, ha="right", va="center", fontsize=9)
+        ax.text(W + 0.1, j + 0.45, f"{sum(ok)}/{len(ok)}" if ok else "", ha="left", va="center",
+                fontsize=8.5, family="DejaVu Sans Mono", color=MUTE)
+    ax.text(W + 0.1, -0.45, "right", ha="left", fontsize=8, color=MUTE)
+    x0 = 0
+    for g, ts in CALL_GROUPS:
+        ax.plot([x0 + 0.04, x0 + len(ts) - 0.1], [-1.35, -1.35], color=MUTE, lw=1)
+        ax.text(x0 + len(ts) / 2 - 0.03, -1.5, g, ha="center", fontsize=8, color=MUTE)
+        x0 += len(ts)
+    ax.set_xlim(-0.05, W + 0.75); ax.set_ylim(H, -1.75); ax.axis("off")
+    day = dt.date.fromisoformat(session).strftime("%a %b %-d, %Y")
+    if horizon == "short":
+        title = f"Short-term calls for the {day} session"
+        sub = f"Every cell is scored on the same move: the prior close to the {_short(session)} close, printed once under each market"
+    else:
+        title = f"Medium-term calls made before the {_short(session)} close, one week later"
+        sub = f"Every cell is scored on the same window: {_short(session)} close to {_short(end)} close, printed once under each market"
+    fig.text(0.02, 0.985, title, ha="left", va="top", fontsize=12.5, fontweight="bold")
+    fig.text(0.02, 0.985 - 0.36 / (2.4 + H * 0.42), sub, ha="left", va="top", fontsize=9, color=MUTE)
+    fig.text(0.02, 0.006, "✓ right  ✗ wrong  (no mark = mixed or conditional, not scored).  Latest call per channel; grey = no call.",
+             fontsize=7.5, color=MUTE)
+    plt.tight_layout(rect=(0, 0.02, 1, 0.94))
+    plt.savefig(out, facecolor=BG); plt.close()
+    return out

@@ -78,6 +78,11 @@ def cmd_chart(a):
     dates = sorted(x["date"] for x in scored)
     leaderboard_chart(rows, Path(a.out) / "leaderboard.png", window=f"calls made {dates[0]} to {dates[-1]}")
     print("wrote", Path(a.out) / "session_heatmap.png", Path(a.out) / "leaderboard.png")
+    from .viz import calls_heatmap
+    for d in (a.session or []):
+        print("wrote", calls_heatmap(scored, d, Path(a.out) / f"calls_short_{d}.png"))
+    for d in (a.week or []):
+        print("wrote", calls_heatmap(scored, d, Path(a.out) / f"calls_week_{d}.png", horizon="week"))
 
 
 def main(argv=None):
@@ -125,6 +130,8 @@ def main(argv=None):
     s.add_argument("--scored", default="data/scored_calls.json")
     s.add_argument("--min-n", type=int, default=15)
     s.add_argument("--out", default="out")
+    s.add_argument("--session", nargs="*", help="YYYY-MM-DD sessions: per-call heatmap, next-session window")
+    s.add_argument("--week", nargs="*", help="YYYY-MM-DD reference closes: per-call heatmap, one-week window")
     s.set_defaults(func=cmd_chart)
 
     a = p.parse_args(argv)

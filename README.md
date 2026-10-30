@@ -88,6 +88,16 @@ distinguishable from luck — none clear that bar yet.
 How each call is scored — reference close, windows, thresholds, baselines, limitations, and how to dispute a call —
 is explained in **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)**.
 
+## What each channel called
+
+Per-call heatmaps put every channel's call on each market side by side, scored over one shared window, with the actual move printed once per column.
+
+![Short-term calls, Oct 8 2026 session](out/calls_short_2026-10-08.png)
+![Short-term calls, Oct 13 2026 session](out/calls_short_2026-10-13.png)
+![Medium-term calls, one week from the Oct 7 close](out/calls_week_2026-10-07.png)
+
+Make your own: `ytscore chart --session 2026-10-08 --week 2026-10-07`
+
 ## Data
 
 - `data/calls/` — one JSON file per video: channel, date, each call's biases, levels, a ≤ 25-word quote and its
