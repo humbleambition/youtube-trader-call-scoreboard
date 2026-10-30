@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Suggest a channel by email
+    url: mailto:jen@striatumos.consulting
+    about: Prefer not to use GitHub? Email the channel name and link.
