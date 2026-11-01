@@ -1,0 +1,172 @@
+{
+ "video_id": "PVK6PV5WE80",
+ "channel": "Ricky Gutierrez",
+ "title": "LIVE NOW: META & TESLA REPORT EARNINGS 2026",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Pre-earnings de-risking",
+   "view": "Markets tend to de-risk into major earnings; trimming or holding cash is prudent."
+  },
+  {
+   "theme": "Meta capex",
+   "view": "Meta's capex guidance is the key market driver; lower spend guidance would hit neocloud names like NBIS and CoreWeave."
+  },
+  {
+   "theme": "AI hype vs fundamentals",
+   "view": "Story stocks run in irrational markets but fundamentals will eventually matter (e.g. Oklo, neoclouds)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     720,
+     690
+    ],
+    "resistance": [
+     713
+    ],
+    "invalidation": null
+   },
+   "condition": "Careful if the 720 support breaks.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Post-earnings gap up of ~4.8% looked like an overbought reversal; he shorted 100 shares (~$71k) as a day trade while staying a long-term holder.",
+   "conviction": "low",
+   "timestamp": "23:10",
+   "quote": "Opening up 25 shares short as Meta gaps up 4.8%... it was a slight little overbought reversal"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Wants BTC to actively begin dropping for confirmation; closes shorts before the close.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Intraday overbought reversal after a gap up; fundamentally sees MSTR as a diluting 'Ponzi scheme' that crashes when BTC falls.",
+   "conviction": "low",
+   "timestamp": "4:20",
+   "quote": "This is an overbought reversal. I see it as that. I see some gap down potential."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Car business is fading with low demand and fast depreciation; ~400x P/E unjustified, Optimus and robotaxi still not producing cash flow.",
+   "conviction": "medium",
+   "timestamp": "15:50",
+   "quote": "I don't think Tesla will hit their their earnings expectation. I think Tesla it it is now a a fading business"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Finds it attractive after the sell-off, but leveraged AI build-out funding OpenAI makes it risky and sentiment/direction remain very weak.",
+   "conviction": "low",
+   "timestamp": "8:10",
+   "quote": "at these prices, I do find it to be attractive. But... market sentiment and market direction for Oracle is just incredibly weak."
+  }
+ ],
+ "notes": "Live stream started 12:40 pm Arizona Wed Oct 21 and ran past the 1 pm close into earnings. META/MSTR shorts are day trades; no entry prices given (META resistance 713 broke after earnings). Oklo called overhyped with no trade, SpaceX not a short, IBM/MU only passing - skipped."
+}

@@ -1,0 +1,206 @@
+{
+ "video_id": "1EyNBVxS1vw",
+ "channel": "Ricky Gutierrez",
+ "title": "The Market Is About To Shift\u2014Are You Ready?",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Oversold market",
+   "view": "Markets were overbought, have pulled back to support and are nearing oversold levels, so going long makes more sense than shorting for beginners."
+  },
+  {
+   "theme": "Rate hike odds low",
+   "view": "Rate-hike probability remains low even after hotter CPI and PPI this week."
+  },
+  {
+   "theme": "AI fear factors",
+   "view": "CoreWeave debt, Anthropic valuation cut, Chinese memory maker CXMT and a plunging KOSPI are adding fear, but AI and memory demand are real."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (Nasdaq)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq pulled back to previous support near 700 and is reaching oversold levels; markets more bullish than bearish, though things may get worse first.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "the Nasdaq market that has recently pulled on back. It's reaching its previous support range of 700. I love that"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought the dip; attractive at these levels with 15-17% recovery potential to ~$1,000, while also day-shorting it intraday.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "Micron is attractive enough at these levels that if it does begin to recover, even just to a thousand... 15 to 17% recovery potential."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Expected removal from an MSCI index could force $2.8-3B of fund outflows within days to weeks; views MSTR as a failed software business with no real profit.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "I think selling pressure can begin to kick in once it's officially confirmed"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": 80000,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if MSTR index removal triggers selling",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "BTC touching 80,000; MSTR outflows could drag Bitcoin lower. Doesn't believe in crypto.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "it could be so bad for MSTR that it could also drag down BTC with it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 92,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Fundamentally overvalued with heavy debt and insider selling, but at previous support with 50-60% recovery potential to conservative highs of 92; technicals rule 2026.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "I can see why people can begin to find this area attractive in case it does slightly recover... even to conservative highs of 92."
+  }
+ ],
+ "notes": "No weekday said; content implies a trading day (likely Fri 2026-10-16, his Saturday video followed), listing date used. MU price at call not stated (~$855-870 implied by 15-17% to 1,000). CRWV 92 is a possible recovery level he describes, not a firm personal target; he doesn't own it."
+}

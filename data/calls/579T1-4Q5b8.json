@@ -1,0 +1,173 @@
+{
+ "video_id": "579T1-4Q5b8",
+ "channel": "tastylive",
+ "title": "October 18th First Call",
+ "video_date": "2026-10-18",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Chris Vecchio and Ilya Spivak",
+ "macro_themes": [
+  {
+   "theme": "AI infrastructure stress",
+   "view": "CoreWeave bonds >15% yield, data-center cancellations and financing strain may be the first cockroach of an AI distribution event, though it's early (like 2007 or 1999)."
+  },
+  {
+   "theme": "Bond rally vs hot inflation",
+   "view": "Bonds rallying while oil surges and CPI/PPI run hot signals the market is pricing a growth scare, possibly shallow like July."
+  },
+  {
+   "theme": "Inflation as the single driver",
+   "view": "Both the war trade and the AI trade are inflation stories, so markets hinge on how much inflation the economy can swallow and the Fed."
+  },
+  {
+   "theme": "Nasdaq 6% drawdown study",
+   "view": "Outside crises a 6% 10-day drop is usually followed by gains (avg +5.9% at 3 months); continuation lower from here would suggest a crisis path."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 futures / Nasdaq Composite study",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If this is a non-crisis episode and the mid-September low pivot holds, the selloff was the flush; a further leg lower implies a crisis path and deeper selloff.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Historical study since 1986: after a 6% drop from a 10-day high, Nasdaq averages +0.68% at 1 week, +1.99% at 1 month, +5.9% at 3 months (non-crisis); price sits at the September pivot.",
+   "conviction": "low",
+   "timestamp": "35:00",
+   "quote": "it does stand to reason then maybe this what we just experienced in recent sessions was the flush. We just live through it."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long against the range bottom; works if gold is building a shallow series of higher lows as yields break down.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Range bottom held similar to July's low; falling yields and breakevens not following oil suggest growth-scare backdrop supportive of gold.",
+   "conviction": "low",
+   "timestamp": "27:20",
+   "quote": "long against basically this range bottom just to see, okay, like maybe what we're developing is a shallow series of higher lows."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year T-bond futures (/ZB)",
+   "price_at_call": 105.13,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bonds rallying (yields falling) despite hot CPI/PPI and surging oil, implying markets price a growth scare; bonds gapped higher at the open.",
+   "conviction": "low",
+   "timestamp": "27:15",
+   "quote": "if yields are breaking down and maybe gold's going to try to turn the corner again here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     910
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs Micron to get back above ~910 for a week or two for his defined-risk call spreads to pay.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holds defined-risk out-of-the-money call spreads on memory names after a horrific week; still believes the long-term AI story.",
+   "conviction": "low",
+   "timestamp": "37:55",
+   "quote": "I do need micro trying to get back above maybe like 910 for like a week or two."
+  }
+ ],
+ "notes": "Recorded at Sunday evening futures open (Oct 18). TYX entry is weak: bonds price (105'13 on ZB, shown as 105.13) and bias is on yields (bearish = bonds up); speakers mostly describe the move rather than forecast it. MU '910' level taken from transcript as said (possibly garbled); ownership of the call spreads attributed to Chris. Ilya's silver short was closed; no current silver view recorded."
+}

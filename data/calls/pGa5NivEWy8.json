@@ -1,0 +1,233 @@
+{
+ "video_id": "pGa5NivEWy8",
+ "channel": "Tom Nash",
+ "title": "This Market Dip is a GIFT (7 Stocks to Buy NOW)",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Tom Nash",
+ "macro_themes": [
+  {
+   "theme": "Geopolitics/inflation sell-off",
+   "view": "Sell-off driven by geopolitics, energy, rising inflation and Fed hiking fears is normal volatility and a buying opportunity."
+  },
+  {
+   "theme": "AI infrastructure cycle",
+   "view": "We are still early in phase one (hardware/infrastructure) of the AI cycle; infrastructure plays will generate outsize returns."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Dip of ~2% is normal; S&P compounds ~10%/yr long term and it never pays to be bearish; extreme fear is the best time to buy.",
+   "conviction": "high",
+   "timestamp": "2:10",
+   "quote": "We're going to get 10% per year from the S&P 500, no matter what, in the long term."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Down 6% in 30 days while revenue grows 106%, ~14x forward P/E; improving fundamentals with falling price.",
+   "conviction": "high",
+   "timestamp": "13:00",
+   "quote": "Nvidia is a stock that's going to absolutely blow people's mind in the next 5 10 years"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Lagging S&P over 5 years while operating income ~4x and forward P/E fell to 17.5; 'a steal'.",
+   "conviction": "medium",
+   "timestamp": "14:20",
+   "quote": "the company is getting cheaper and cheaper... while the fundamentals are getting better... That's a steal."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ANET",
+   "instrument_quoted": "ANET",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Data-center networking backbone, down 14% in 30 days, ~40% growth, 27x forward P/E.",
+   "conviction": "medium",
+   "timestamp": "15:30",
+   "quote": "Wonderful, great fundamentals, price decline, and it's still incredibly cheap."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ZETA",
+   "instrument_quoted": "ZETA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "44% revenue growth, 5x sales, 22x forward P/E; cheap with massive upside despite no price decline.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "This is still a cheap company with massive upside even though it hadn't had a price decline."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Stock flat over 12 months while revenue +93% and income surging; forward PEG 1.2. His top pick.",
+   "conviction": "high",
+   "timestamp": "17:20",
+   "quote": "Palantir becomes my top pick."
+  }
+ ],
+ "notes": "Long-term buy list, no price levels. Also listed TSLA, MSFT, GOOGL, CEG, BE, CRWD as 'can't go wrong' (passing, skipped). Sell-off said to start 'Wednesday'."
+}

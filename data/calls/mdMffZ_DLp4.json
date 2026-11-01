@@ -1,0 +1,53 @@
+{
+ "video_id": "mdMffZ_DLp4",
+ "channel": "ShadowTrader",
+ "title": "SPCX Now has MON and WED options!",
+ "video_date": "2026-10-09",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Yosi (Stock and Option Room)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SPCX (SpaceX) options",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     155
+    ],
+    "resistance": [
+     165
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 26.2,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stock pulling back to its 20-period MA near 155 and trading below 165; 165 call calendar (long Jun 2027, short Mon Oct 12) placed outside the ~$3 market-maker expected move.",
+   "conviction": "low",
+   "timestamp": "2:15",
+   "quote": "me placing this outside of the market maker expected move is a wise choice."
+  }
+ ],
+ "notes": "Options structure trade, not a directional call; entry 26.20 is the calendar debit fill. Date: recorded Friday afternoon before 'Monday, October 12th', so 2026-10-09 (listing approx 2026-10-13). Mentions possible exit before Oct 30 earnings."
+}

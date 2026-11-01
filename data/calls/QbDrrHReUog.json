@@ -1,0 +1,363 @@
+{
+ "video_id": "QbDrrHReUog",
+ "channel": "Meet Kevin",
+ "title": "Election, Fed, & Iran Fears | Buying the Dip",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "AI buildout intact",
+   "view": "Bloom Energy and Western Digital results show no AI slowdown; the sell-off is overblown."
+  },
+  {
+   "theme": "Hedge fund leverage at lows",
+   "view": "Hedge fund net leverage at the 0th percentile (5y) after a 3-sigma selling event is a contrarian buy signal."
+  },
+  {
+   "theme": "Post-election rally",
+   "view": "Expects a massive post-midterm rally as Iran, Fed and election uncertainty clear."
+  },
+  {
+   "theme": "Fed",
+   "view": "Expects the Fed to hold; with an Iran resolution, only one rate hike this year."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "Bullish on an Iran nuclear deal / Trump 'taco' within days."
+  },
+  {
+   "theme": "Capital raising / credit spreads",
+   "view": "AI firms' funding needs and widening credit spreads weigh on tech; a Berkshire-backed Meta convertible would underwrite the AI trade."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 706,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     706
+    ],
+    "resistance": [
+     707,
+     708
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought the dip in the 700-707 buy zone; recapture of 707 and low hedge-fund leverage point to a rebound and post-election rally.",
+   "conviction": "high",
+   "timestamp": "50:00",
+   "quote": "The Q's by the way just recaptured 707 which is fantastic."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "broad US market (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Post-midterm rallies are historically common; clarity on Iran and the Fed should fuel it.",
+   "conviction": "medium",
+   "timestamp": "55:00",
+   "quote": "I personally think we are setting up for a massive postelection rally"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Apple is the 'anti-suck' safe haven in the AI trade (negative correlation to Nasdaq); bought at the iPhone Duo launch.",
+   "conviction": "medium",
+   "timestamp": "41:00",
+   "quote": "we bought Apple during the dual launch event... it's also your anti-suck trade."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Meta sits at its 200-DMA with Muse enthusiasm priced out; possible Berkshire-backed convertible raise.",
+   "conviction": "medium",
+   "timestamp": "63:00",
+   "quote": "buying Meta stocks at this value. I I think it is a steal."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     520
+    ],
+    "invalidation": null
+   },
+   "condition": "watch for breakout over 520 vs a rejection there",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Approaching the 520 line; they took an AMD trade this morning and it is running.",
+   "conviction": "medium",
+   "timestamp": "37:00",
+   "quote": "we're coming right up to the 520 line, by the way. Watch for a breakout on uh on 520 versus a reject there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down a lot and now at its 200-DMA; he was previously bearish.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "they're at their 200 DMA right now. And so I can't help but just start salivating"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "US fab construction takes twice as long and memory is prone to oversupply.",
+   "conviction": "low",
+   "timestamp": "36:00",
+   "quote": "it's another thing that makes me a little bearish on Micron."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": 4.98,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.0
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Claims his call that 10-year yields peaked was right; yields rejected 5%.",
+   "conviction": "medium",
+   "timestamp": "57:00",
+   "quote": "I was so far very right about 10-year Treasury yields peeking out"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Reiterates his earlier call of a peak in gold.",
+   "conviction": "low",
+   "timestamp": "58:00",
+   "quote": "people got very mad at me calling a peak on gold. Uh and that was also correct."
+  }
+ ],
+ "notes": "Date from listing (Friday consumer sentiment final release fits 2026-10-23). Transcript markers are h:mm (video 1:08:31), so timestamps given as mm:00. ES call has no quoted level; it reflects the general post-election rally call. Gold/yields are reiterations of prior calls."
+}

@@ -1,0 +1,381 @@
+{
+ "video_id": "FqqXRmFS_fg",
+ "channel": "Ross Givens",
+ "title": "It's Coming\u2026 The Biggest Stock Buying Opportunity in 25 Years",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "AI bubble",
+   "view": "AI stocks are ~40-50% of the S&P 500, dot-com territory; a bust is eventually coming, best guess broad sale in 2028-2029 with cracks in the next ~12 months."
+  },
+  {
+   "theme": "AI lab losses and debt",
+   "view": "OpenAI/Anthropic burn cash with huge compute commitments while hyperscalers increasingly fund capex with debt, which a debt downgrade could unravel."
+  },
+  {
+   "theme": "Defensive positioning",
+   "view": "Hide in staples, healthcare, insurance, energy, gold, value, equal-weight (RSP) and T-bills paying ~4.1%; utilities are no longer safe."
+  },
+  {
+   "theme": "Fed won't rescue",
+   "view": "With inflation at 3.7% and a September hike, the Fed may not cut aggressively in a bust."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": 530,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy only if a bust brings MSFT to ~336 or lower; buy zone is not a prediction.",
+   "action": "watch",
+   "entry": 336,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Only big AI spender funding capex from cash with sticky Windows/Office business; fell 38% in 2022 and 65% in dot-com bust.",
+   "conviction": "low",
+   "timestamp": "15:15",
+   "quote": "My buy zone, around $336 or lower. It's about a 37% discount to where it's trading now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "Alphabet",
+   "price_at_call": 346,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy only if a bust brings Alphabet to ~189.",
+   "action": "watch",
+   "entry": 189,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Search, YouTube, Cloud and own chips, more cash than debt, but spending ~30% of sales on buildout and borrowing.",
+   "conviction": "low",
+   "timestamp": "16:16",
+   "quote": "Around 346 right now. My buy zone, $189. So, 45% haircut from today"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": 260,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy only if a bust brings AMZN to ~142.",
+   "action": "watch",
+   "entry": 142,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Biggest free-cash-flow swing when capex stops; fell 56% in 2022 and 94% in dot-com bust.",
+   "conviction": "low",
+   "timestamp": "16:56",
+   "quote": "So, Amazon sits around 260 right now. My buy zone, where I want it, 142 bucks a share"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": 426,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy only if a bust brings TSM to ~178.",
+   "action": "watch",
+   "entry": 178,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Toll booth of AI chips whoever wins, but fell 57% in 2022 and 85% in dot-com; don't overpay at the peak.",
+   "conviction": "low",
+   "timestamp": "17:17",
+   "quote": "sitting around 426. My buy zone, 58% lower, down at 178"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 219,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy all-in only at ~88 in an AI market collapse.",
+   "action": "watch",
+   "entry": 88,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Rode the boom hardest so tends to fall hardest; fell 66% in 2022, 90% in dot-com; exposed to OpenAI guarantees and GPU rental prices.",
+   "conviction": "low",
+   "timestamp": "18:18",
+   "quote": "The price I want to pay for the stock to make a no questions asked, all in, big long-term buy is $88 a share"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "$88B net debt plus $44B leases, burned ~$29B FCF, credit rating one notch above junk and likely to be cut.",
+   "conviction": "medium",
+   "timestamp": "19:19",
+   "quote": "I used to like this stock, but I just can't get behind anymore"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Paying ~$107 per $1 of free cash flow.",
+   "conviction": "low",
+   "timestamp": "20:20",
+   "quote": "With AMD, you're paying about $107 for every $1 of free cash flow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "75% operating margin marks the top of the memory cycle; competition and shrinking demand will compress it.",
+   "conviction": "medium",
+   "timestamp": "20:20",
+   "quote": "That is what the top of a memory cycle looks like"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Power names now risk assets carrying heavy net debt; vulnerable if AI spending is cut.",
+   "conviction": "low",
+   "timestamp": "20:00",
+   "quote": "these utilities stopped being boring a couple of years ago. Now, they become risk assets"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VST",
+   "instrument_quoted": "VST",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Same as Constellation: heavy net debt, AI-power exposure makes it a risk asset.",
+   "conviction": "low",
+   "timestamp": "20:00",
+   "quote": "these utilities stopped being boring a couple of years ago. Now, they become risk assets"
+  }
+ ],
+ "notes": "Buy-list names: speaker explicitly says buy zones are not predictions; long_term bearish reflects expected eventual bust (best guess 2028-29), targets left null and buy zones put in entry. 'Avoid' names recorded as sell/bearish long-term. Prices are 'as I make this video' approximations."
+}

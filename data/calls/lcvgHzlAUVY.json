@@ -1,0 +1,57 @@
+{
+ "video_id": "lcvgHzlAUVY",
+ "channel": "ShadowTrader",
+ "title": "DECK on Sale!",
+ "video_date": "2026-10-23",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "deep_dive_stock",
+ "speaker": "Brad (ShadowTrader)",
+ "macro_themes": [
+  {
+   "theme": "Rotation out of AI/tech",
+   "view": "When AI is getting crushed, turn to non-tech stocks like consumer names at multi-year lows."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "DECK",
+   "instrument_quoted": "DECK",
+   "price_at_call": 78,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     77,
+     78
+    ],
+    "resistance": [],
+    "invalidation": 77
+   },
+   "condition": "If DECK holds 77-78 on Monday and buyers come in, sell the Oct 30 77/78 put; if it gaps below the lows and stays, do nothing.",
+   "action": "buy",
+   "entry": 78,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Post-earnings drop to multi-year support at 77-78, ~65% off the high, heading into the holidays.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "I think Deckers uh presents a pretty decent opportunity at these levels given that we are coming into the holidays."
+  }
+ ],
+ "notes": "Entry expressed as selling a short-dated put at 77/78 rather than buying shares; action mapped to 'buy'."
+}

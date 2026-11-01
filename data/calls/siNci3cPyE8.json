@@ -1,0 +1,93 @@
+{
+ "video_id": "siNci3cPyE8",
+ "channel": "tastylive",
+ "title": "Why You Can't Trust Volatility Anymore",
+ "video_date": "2026-10-18",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "tastylive hosts",
+ "macro_themes": [
+  {
+   "theme": "End of falling-rate regime",
+   "view": "The 40-50 year era of structurally falling rates and low inflation is over, so historical volatility analogs and the structural risk-on bid can't be trusted."
+  },
+  {
+   "theme": "AI credit contagion",
+   "view": "CoreWeave may be the first casualty of the AI boom, like early subprime lenders before Bear Stearns; there is never one cockroach."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Down another 13.6%; bonds imply >63% default probability; host says fade the call buyers chasing a bounce and frames it as possibly the first AI casualty.",
+   "conviction": "medium",
+   "timestamp": "2:50",
+   "quote": "If the man's chasing, fade."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Feels like a flush, not a buy-the-dip, with a possible multi-percent drop within a week or two as VIX jumped to 20.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "when we say flush, we mean not a buy the dip opportunity. We mean a worth multitudes of percentage points down within a week or two."
+  }
+ ],
+ "notes": "Multiple hosts in crosstalk; attribution of quotes uncertain. VIX ~20 mention with a hint at selling premium was not recorded as a VIX call. Recording day is likely mid-week (VIX spike, CRWV -13.6%), earlier than listing date."
+}

@@ -1,0 +1,379 @@
+{
+ "video_id": "DPbn5o-7QTU",
+ "channel": "tastylive",
+ "title": "Tim Knight Says the Tech Breakdown Just Flipped From Slow to Fast",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight",
+ "macro_themes": [
+  {
+   "theme": "Tech breakdown accelerating",
+   "view": "Semis, memory and tech patterns have matured into clear breakdowns; plenty more downside."
+  },
+  {
+   "theme": "Rates and dollar pressure",
+   "view": "Hot CPI pushed yields, dollar and oil higher, weighing on stocks and precious metals."
+  },
+  {
+   "theme": "Market breadth rot",
+   "view": "Cap-weighted vs equal-weight S&P correlation has collapsed to unprecedented levels, usually preceding something bad."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": 7800,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A break below last week's low would confirm the breakdown",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking the horizontal he has watched for 7 days; no data catalyst left and election worries ahead.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "if we can get below even like last week's low... that'll be a tick in the right direction"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures / QQQ / XLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Adam-and-Eve/universal topping pattern on QQQ and XLK; tech tumbling persistently since.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "The NQ... That's breaking down better"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke its support trendline hard, nearing the low for the year.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "That's busted hard, and we are getting in the vicinity of the low for the year"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Interest-sensitive utilities appear to have peaked; hard reversal; his biggest position.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "seems to have peaked yesterday... biggest position"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TMC",
+   "instrument_quoted": "TMC",
+   "price_at_call": 2.63,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Covered short for profit but expects the pattern to keep falling with metals weakness.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "I covered it. I took my profits, but it's probably just going to keep falling"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Re-entered Brazil short, partly tied to the upcoming Brazilian elections.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "I did get back in to Brazil EWZ and that's falling nicely"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KORU",
+   "instrument_quoted": "KORU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Cutting below the neckline completes a head-and-shoulders top",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "3x Korea ETF heavy in memory names forming a clean head-and-shoulders top.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "cutting below this line will be the most spectacular head and shoulders top of that I've ever seen"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH and individual semis",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Semiconductor patterns have broken down and clarified.",
+   "conviction": "high",
+   "timestamp": "0:09",
+   "quote": "I think there's plenty more downside to this whole thing, plenty more"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KWEB",
+   "instrument_quoted": "KWEB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Persistently clear, well-defined bearish pattern.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "I'm kind of obsessed with K web because it's been persistently a clear, well-defined pattern"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ (quantum names incl. QUBT)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Quantum names showing nice breakdowns; holds shorts.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "still the quantums out there, you know, IonQ and Qubit... we're seeing some really nice breakdowns"
+  }
+ ],
+ "notes": "Recorded intraday on CPI day (host says CPI report 'this morning'). ES 7,800 is the host's closing line of demarcation. TMC price 2.63 mentioned in passing. Co-host has a gold put spread; not recorded as a call."
+}

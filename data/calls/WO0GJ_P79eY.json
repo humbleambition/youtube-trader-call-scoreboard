@@ -1,0 +1,362 @@
+{
+ "video_id": "WO0GJ_P79eY",
+ "channel": "Arete Trading",
+ "title": "Hot Inflation Just Flipped the Fed. Wall Street Isn’t Ready",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "Core 0.3 vs 0.2 consensus and energy leaking into everything drove the knee-jerk selloff in Nasdaq and S&P; hike odds jumped from ~25% toward 50%."
+  },
+  {
+   "theme": "PPI next",
+   "view": "PPI at 8:30 tomorrow is a demarcation point: a soft print could spark an oversold bounce, a hot one could exacerbate selling; PPI above CPI squeezes margins."
+  },
+  {
+   "theme": "AI data-center/neocloud unwind",
+   "view": "Since Firmus failed to IPO, neocloud, data-center and chip names are being de-rated; he sold all swing semis and is short several."
+  },
+  {
+   "theme": "Defensive and energy rotation",
+   "view": "Utilities, staples, healthcare and energy are shaping up, helping S&P breadth; S&P should outperform Nasdaq for a while."
+  },
+  {
+   "theme": "Oversold, beware short covering",
+   "view": "Many names are deeply oversold (RSI ~20-27), so shorts should trim and tighten stops; any bounce could be vicious though he sees no buying yet."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (level ~750, likely SPY)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     750
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch the 8:30 PPI reaction; a soft PPI could trigger an oversold bounce, a hot one more selling.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "RSI broke below 50 where underperformance usually starts and selling wasn't exhaustive, but price is testing the 50-day/~750 area that held before and breadth is improving via defensives; S&P to outperform Nasdaq.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "did we get to the point of exhaustive selling today? My sense, not really, no"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq / NQ futures (4-hour chart, no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Possible oversold bounce off the resistance-turned-support level if PPI is soft; otherwise more downside.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected 8:30 demarcation levels with bearish engulfing/reversal patterns; they began shorting last Thursday, but 4-hour RSI ~20-25 makes an oversold bounce possible.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "it's hard to get overly excited about the Nasdaq... We started shorting probably, I think, like, last Thursday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOX",
+   "instrument_quoted": "SOX index / SOXL (short the 3x bull)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "TSMC earnings tonight could spark a semis bounce and bottom feeding.",
+   "action": "short",
+   "entry": 37,
+   "stop": null,
+   "method": "technical",
+   "reason": "Proprietary indicator flipped on the 'OpenAI bar'; sold every swing semi and shorted SOXL; SOX down ~7% since; trimming and moving stops given oversold conditions.",
+   "conviction": "medium",
+   "timestamp": "19:00",
+   "quote": "We sold every single semi that we had that day... When you're above here, I have no interest in putting on any long-term trades"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XOM",
+   "instrument_quoted": "XOM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Energy flipped its upper channel and can go parabolic; Exxon at all-time highs; integrated oils benefit most.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "we are setting up for energy stocks to go higher for longer. And the integrated companies really benefit from this"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CVX",
+   "instrument_quoted": "CVX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same energy-channel breakout; Chevron at all-time highs; integrateds favoured.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "CVX, all-time highs. And what this is telling us is that we are setting up for energy stocks to go higher for longer"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS (puts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     180
+    ],
+    "resistance": [
+     250
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": 220,
+   "stop": null,
+   "method": "technical",
+   "reason": "Neocloud names deteriorating since Firmus failed to IPO; puts from ~220 being closed because RSI ~27 risks a vicious oversold bounce.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "if we bounce, it's going to be a pretty vicious bounce. It doesn't mean that you can't have another leg down"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     900
+    ],
+    "resistance": [
+     950
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Dealers keep lowering put walls (950 flipped to resistance, new put wall 900), which he reads as bearish; watch whether 900 holds.",
+   "conviction": "low",
+   "timestamp": "20:00",
+   "quote": "They keep dropping the damn put walls. That's not good."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CoreWeave stock / CDS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holding the short overnight because of how ugly it is acting; CoreWeave CDS jumped from ~900 to ~1,000 in a day, implying higher default risk.",
+   "conviction": "medium",
+   "timestamp": "21:00",
+   "quote": "I have a short on Crowd that I'm going to hold overnight, right? And the reason is because how ugly it's acting"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Shorted on a secondary offering; covering early near the ~30 put wall because RSIs are oversold.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "I shorted IONQ because it did a secondary... the 30 30 was the put wall, so it doesn't make sense"
+  }
+ ],
+ "notes": "Recorded the evening of CPI day (Oct 14 per other channels; listing 10-15, not spoken). S&P '750' level unclear (likely SPY). SOXL entry 37 with 'now 42.75' is garbled. 'Crowd' assumed to be CoreWeave (CRWV) since he immediately shows CoreWeave CDS. Mild positives on financials (XLF holding) and defensives, plus shippers STNG/TNK weakening and a CIFR short ~13, not recorded as calls."
+}

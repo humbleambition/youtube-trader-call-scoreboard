@@ -1,0 +1,221 @@
+{
+ "video_id": "DgNhQoVWsz0",
+ "channel": "Geeks of Finance",
+ "title": "OpEx Week Is Starting To Get Crazy",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Anthony and Shawn (Geeks of Finance)",
+ "macro_themes": [
+  {
+   "theme": "Post-CPI selloff",
+   "view": "S&P fell 1.1% after CPI into the bottom of the 7700-7800 gamma range, but probabilities stay skewed to the upside."
+  },
+  {
+   "theme": "OpEx dampening",
+   "view": "OpEx week often fails to follow through on trend moves, especially downside, so a VIX spike may not extend."
+  },
+  {
+   "theme": "Bargain hunting",
+   "view": "Treat the tech pullback as an opportunity to buy dips in strong names."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7719.54,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7700
+    ],
+    "resistance": [
+     7800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Flipped to slightly negative GEX at the bottom of the weekly 7700-7800 range with heavy buying at 7700; possible further decline first but upside-skewed.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "while we view probabilities skewed to the upside, it is possible for us to retrace to the lower end of the range first."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 16.8,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     17
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "VIX only spiked to low 17s and closed below the 17 negative-GEX cluster; OpEx week tends to cap follow-through.",
+   "conviction": "low",
+   "timestamp": "2:50",
+   "quote": "I'm cautious here about seeing the VIX continue higher even if we see it trend change beyond this week."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 738,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     730,
+     700
+    ],
+    "resistance": [
+     750,
+     800
+    ],
+    "invalidation": 700
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bull flag with stacked rising moving averages, positive GEX skewed to 750/800 strikes, +16M bullish flow on the dip; holds Nov 20 700/690 put credit spread.",
+   "conviction": "medium",
+   "timestamp": "4:20",
+   "quote": "in our view, this pullback is just another opportunity to get in during this consolidation period on Meta."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 722.5,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     725,
+     720
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Deeply negative GEX but extreme distance below the HMA and rare -1.4B GEX reading have previously marked bottoms; expects mean reversion.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "looking for some mean reversion here with the risk reward tilted to the upside in my view."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": 375.04,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     370
+    ],
+    "resistance": [
+     450
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Healthy pullback to the 50-day EMA while still in positive GEX with bullish flows from 370 to mid-400s; 2026 market leader.",
+   "conviction": "medium",
+   "timestamp": "6:40",
+   "quote": "Palo Alto Networks also looking like a bargain opportunity."
+  }
+ ],
+ "notes": "CPI-day close. QQQ price is the after-hours ~722-723 level. Listing date may be a day late: they mention an expired 'October 14th' put, so this may be Oct 14."
+}

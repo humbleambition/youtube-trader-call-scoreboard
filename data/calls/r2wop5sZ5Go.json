@@ -1,0 +1,186 @@
+{
+ "video_id": "r2wop5sZ5Go",
+ "channel": "Meet Kevin",
+ "title": "*The Critical Release of the CPI Report* FED RATES",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Hot September CPI",
+   "view": "Headline 0.6% m/m matched but core printed ~0.335% vs 0.2% expected, a ~3.5-sigma miss with broad-based pressure (50% of categories at 3%+ y/y, supercore 0.42%)."
+  },
+  {
+   "theme": "More Fed hikes priced",
+   "view": "Odds of an October hike jumped from 23% to ~50% and the market now prices ~3.86 more hikes to a Sept 2027 peak; Waller's dovish talk now looks cheap."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "10-year rubber-banded above his 5.27% line to ~5.31%; only an Iran deal is likely to calm it."
+  },
+  {
+   "theme": "Iran deal is the only bailout",
+   "view": "A deal in the Oct 20-27 window would let the Fed look through war-driven inflation; no deal means more hikes, possibly October and December."
+  },
+  {
+   "theme": "Real wages falling",
+   "view": "Real average hourly earnings -0.7% y/y signal weakening consumers and eventual layoffs that could end the party."
+  },
+  {
+   "theme": "Cash-rich vs indebted stocks",
+   "view": "In a rising-rate world cash-rich companies like Apple outperform while indebted ones like CoreWeave suffer."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 735,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735,
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an Iran deal comes (Oct 20-27 window), buy the dip at support; if no deal, probably don't buy the dip.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hot CPI raises hike odds; peak fear (QQQ ~700) is behind them, but this isn't a dip worth buying; the outcome hinges on an Iran deal.",
+   "conviction": "medium",
+   "timestamp": "53:00",
+   "quote": "peak fear is indeed still behind us... this isn't the level where I want to buy the dip because it's not much of a dip"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.31,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "Yields only chill out if an Iran deal happens; otherwise hikes keep pressure on.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hot core CPI pushed the 10-year through his 5.27% line; he hopes it fades but sees only an Iran deal calming yields.",
+   "conviction": "medium",
+   "timestamp": "53:00",
+   "quote": "we have still rubber banded above that 5.27. Now, I hope this fades today because 5.312 is high"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long-term bullish case needs Warsh replaced ~2030 by a money-printing Fed chair.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold peaked with Warsh and won't rise even on hot CPI; it's not a hedge while the Fed isn't printing; wants it again after 2030.",
+   "conviction": "low",
+   "timestamp": "34:00",
+   "quote": "even on a hot CPI report, you can't get this crap to go up. It's It's not a hedge anymore"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": 227,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     227
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Cash-rich companies benefit when rates rise; Apple was rising on the hot CPI while indebted names fell.",
+   "conviction": "low",
+   "timestamp": "38:00",
+   "quote": "as usual, the cash-rich companies are doing the best. That's Apple."
+  }
+ ],
+ "notes": "No date spoken; CPI day — the David Lin video states CPI came out Wednesday Oct 14, so this stream is likely 2026-10-14 (listing says 10-15). Timestamps are approximate minute markers. 227 for Apple is an unlabeled level (put as resistance). CoreWeave mentioned as indebted laggard but no explicit call; TLT (~77-78 bottom since Oct 8) mentioned only as context."
+}

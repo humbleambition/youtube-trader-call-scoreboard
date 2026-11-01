@@ -1,0 +1,415 @@
+{
+ "video_id": "ddRqBVme3aQ",
+ "channel": "StockedUp",
+ "title": "The Stock Market Is Walking Into Something It Can’t Stop",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp hosts)",
+ "macro_themes": [
+  {
+   "theme": "Middle East escalation",
+   "view": "Houthi threats to Saudi oil facilities and Iran war preparations keep energy supply disruption worsening."
+  },
+  {
+   "theme": "Market fragmentation",
+   "view": "Record-low correlation between equal-weight and cap-weight S&P shows mega-caps distorting the index; focus on sectors instead of SPY."
+  },
+  {
+   "theme": "Negative equity risk premium",
+   "view": "S&P earnings yield is 1.5 points below the 10-year yield, signalling stretched valuations."
+  },
+  {
+   "theme": "AI trade under test",
+   "view": "CXMT memory progress hit Micron, Samsung and Korea; AI valuations make downside risk-reward favorable over weeks to months."
+  },
+  {
+   "theme": "CPI tomorrow",
+   "view": "CPI expected to rise to 3.6% y/y; a print above 3.6% would be the big risk."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     776,
+     775,
+     774,
+     772.5
+    ],
+    "resistance": [
+     778.8,
+     779.37,
+     781,
+     781.62
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY breaks under the 776 double bottom, more sell-off; if it breaks 779.37 (prior ATH), upside toward 781 and 781.62.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held Friday's low forming a double bottom and closed near premarket high; CPI tomorrow is the catalyst.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "if we see the spy break under this clear double bottom, I think that we could see more of a sell-off take place"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     245,
+     270
+    ],
+    "invalidation": null
+   },
+   "condition": "Prefer a clear break above 245.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Multi-month recovery from 2026 lows; double-bottomed in the middle of a gap, bullish continuation sign.",
+   "conviction": "medium",
+   "timestamp": "9:50",
+   "quote": "I will continue watching CRM to the upside for the next few trading days"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VG",
+   "instrument_quoted": "VG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "LNG exporter moving higher with natural gas names amid global energy supply disruption.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "They're still on the upside radar"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Broke above a double top; energy (XLE, CRAK) keeps exploding on supply disruption.",
+   "conviction": "medium",
+   "timestamp": "12:10",
+   "quote": "all of which are moving to the upside in a great way"
+  },
+  {
+   "group": "stocks",
+   "ticker": "APA",
+   "instrument_quoted": "APA",
+   "price_at_call": 48.1,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     47.45
+    ],
+    "resistance": [
+     48.1
+    ],
+    "invalidation": null
+   },
+   "condition": "If APA breaks $48.10 tomorrow, look for another move higher.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean break above recent high of 47.45 that held into the close; higher crude and shipping prices.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "if it's able to break that tomorrow, look for another move higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     585
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "China chip news and stretched AI valuation; broken uptrend often retests resistance before continuing lower.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "the risk-reward is favorable in a downside sense over the coming weeks and months"
+  },
+  {
+   "group": "stocks",
+   "ticker": "FSLR",
+   "instrument_quoted": "FSLR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     188
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks above 188, keep watching it up.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; strong close.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "If it breaks out above 188 keep watching it up tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LVS",
+   "instrument_quoted": "LVS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     37.1
+    ],
+    "invalidation": null
+   },
+   "condition": "If it breaks above $37.10, keep watching it up.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; strong recovery, negative correlation to the market.",
+   "conviction": "low",
+   "timestamp": "16:10",
+   "quote": "If it breaks out above $37.10 keep watching it up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JNJ",
+   "instrument_quoted": "JNJ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     245
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks under the low of day at 245, keep watching it down.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; sold off on poor earnings.",
+   "conviction": "low",
+   "timestamp": "16:20",
+   "quote": "If it breaks under the low of day at 245 keep watching it down"
+  },
+  {
+   "group": "metals",
+   "ticker": "SILJ",
+   "instrument_quoted": "SILJ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     27.35,
+     26,
+     24,
+     23
+    ],
+    "resistance": [],
+    "invalidation": 23
+   },
+   "condition": "Long-term bullish as long as the $23 support range holds; a bounce in silver off support would help.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$2.1M deep-ITM Jan-2029 $20 call trade; SILJ forming higher lows at a large support zone; falling rates would help metals.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "as long as we hold that 23 support range, I think that that would be a strong sign for the long term"
+  }
+ ],
+ "notes": "No date spoken; day before CPI (CPI \"tomorrow\", TSMC Thursday), so listing date fits. SPY levels transcribed as 77880/77937/78162 interpreted as 778.80/779.37/781.62. CRM: says it peaked near 270 yet trigger is a break above 245 - kept as said. Gold/silver mentioned as approaching support (conditional) - folded into SILJ."
+}

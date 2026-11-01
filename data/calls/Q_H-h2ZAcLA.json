@@ -1,0 +1,41 @@
+{
+ "video_id": "Q_H-h2ZAcLA", "channel": "David Lin", "title": "Hot Inflation Shocks Markets: The Worst Is Still To Come | Steve Hanke",
+ "video_date": "2026-10-14", "date_source": "transcript", "recorded_when": "intraday",
+ "video_type": "macro_interview", "speaker": "Steve Hanke",
+ "macro_themes": [
+  {"theme": "Inflation genie out of the bottle", "view": "Broad money (Divisia M4) growing ~7.5%, above the ~6% consistent with 2%, so all inflation measures stay above target until money growth slows."},
+  {"theme": "Diesel/oil logistics squeeze", "view": "Physical oil trades 35-40% above futures, backwardation reflects abnormally low inventories, and the diesel squeeze lasts into 2027 per IEA, which he agrees with."},
+  {"theme": "No recession soon", "view": "Rising money supply and velocity argue against a recession anytime soon, though real wages are falling."},
+  {"theme": "Rates stay high", "view": "Interest rates stay high until money supply growth slows, which is not happening; AI capex credit demand is fueling it."},
+  {"theme": "Fed next meeting", "view": "Defers to CME odds (67% no hike) and expects no change in fed funds at the next meeting."}
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy", "ticker": "CL", "instrument_quoted": "Brent crude (spot)",
+   "price_at_call": 108,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Post-Hormuz logistics bottlenecks, tanker shortage and abnormally low inventories keep physical oil and diesel prices elevated; backwardation signals storage shortage, not lower prices ahead.",
+   "conviction": "high", "timestamp": "29:00",
+   "quote": "they have the right diagnosis that these prices will sur stay high for quite some time."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "TNX", "instrument_quoted": "US 10-year Treasury yield (%)",
+   "price_at_call": 5.2,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "neutral", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "Rates stay high until money supply growth slows", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Money supply keeps growing on AI-driven credit demand, so yields stay elevated rather than falling.",
+   "conviction": "medium", "timestamp": "40:00",
+   "quote": "Well, they'll stay high until the money supply starts slowing down."
+  }
+ ],
+ "notes": "TNX view is 'stays high' (no direction beyond staying elevated), recorded as neutral medium-term. Oil price quoted is Brent spot ~108 (host's figure), normalized to CL. Gold mentioned only as a hypothetical store of value in double-digit inflation; skipped."
+}

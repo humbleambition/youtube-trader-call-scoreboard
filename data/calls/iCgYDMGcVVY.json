@@ -1,0 +1,262 @@
+{
+ "video_id": "iCgYDMGcVVY",
+ "channel": "Crypto World",
+ "title": "BITCOIN WARNING: PUMP & DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "BTC correlated with stocks",
+   "view": "Bitcoin is closely tracking the Nasdaq's bounce and reversal, so stock weakness is short-term bad for crypto."
+  },
+  {
+   "theme": "ETF inflows returning",
+   "view": "Roughly $525M daily ETF inflows signal returning fundamental demand for Bitcoin."
+  },
+  {
+   "theme": "BTC dominance at resistance",
+   "view": "A breakout in BTC dominance would be devastating for altcoins; struggling at resistance is good news for now."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 80600,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000,
+     80600
+    ],
+    "resistance": [
+     86000
+    ],
+    "invalidation": null
+   },
+   "condition": "If Nasdaq-100 breaks below its recent lows, BTC likely breaks below the 80-82k support.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short-term pump and dump tracking stocks; liquidation heat map shows downside liquidity at 80.6k; daily bearish divergence keeps it ranging under highs; weekly bullish divergence and supertrend green longer term.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "basically 80,600 is the major target to watch out for right now for the price of Bitcoin."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If a possible 4h RSI bullish divergence confirms, a short-term relief bounce could follow.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "NQ down ~2.5% undoing a week-long bounce; possible but unconfirmed bullish divergence on 4h.",
+   "conviction": "low",
+   "timestamp": "2:30",
+   "quote": "if that ultimately confirms, that could help with another short-term relief."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2300,
+     2400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retesting 2.3-2.4k support with daily bearish divergence active; expects weakness lacking bullish momentum for 1-2 weeks.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "if we're talking about the next one or two weeks, potentially, continue to expect weakness lacking bullish momentum."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": 1.3,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.25,
+     1.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bearish divergence active; could push toward 1.25-1.30 support if BTC drops into liquidity.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "that is still my prediction moving forward, weakness lacking bullish momentum"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     99,
+     100,
+     95,
+     105
+    ],
+    "resistance": [
+     107,
+     110
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected from 107-110 resistance; daily bearish divergence; expects range above ~100 support for coming days.",
+   "conviction": "medium",
+   "timestamp": "21:00",
+   "quote": "my exact prediction, at least for the coming days, is for the price to remain in this range here"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     11.8,
+     12.3,
+     10.8,
+     10.9
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If LINK confirms closes below 11.80, next support 10.80-10.90.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "3-day bearish divergence active, testing 11.80-12.30 support.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "overall expect a lot of weakness, lacking bullish momentum still to come"
+  }
+ ],
+ "notes": "Date inferred from host citing 'the Wednesday Bitcoin ETF flows' as now available and an intraday Nasdaq dump, giving Thursday 2026-10-22 (listing says 10-23); no explicit date said. XRP price_at_call ~1.30 since it is 'testing that dollar 30 support'. BTC 80.6k recorded as short-term target."
+}

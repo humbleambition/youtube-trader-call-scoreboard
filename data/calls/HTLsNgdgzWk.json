@@ -1,0 +1,202 @@
+{
+ "video_id": "HTLsNgdgzWk",
+ "channel": "TheTechnicalTraders",
+ "title": "Stock market technicals, cycles, sentiment and money flow point to lower prices.",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [
+  {
+   "theme": "AI bubble",
+   "view": "AI overspending fears are back; if tech/semis top out, could spark a big bear market."
+  },
+  {
+   "theme": "Stay out of stocks",
+   "view": "System says unfavourable; when the stock market falls everything falls, so hold no stocks."
+  },
+  {
+   "theme": "Rates and Fed",
+   "view": "Fed is in a pickle with high inflation; yields likely resume higher after a short-term top."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "S&P in short-term downtrend, money flowing out, momentum stalled; system says do not hold stocks.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "the S&P 500 and the Nasdaq both are in a short-term downtrend. Our system says it's unfavorable. You should not be holding any stocks."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Tech and semis breaking below recent lows; a topping formation could unwind quickly into a bear market.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "If this here is a top and it starts to break down, things could unwind very quickly to the next level"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short-term top in yields, pulling back to 50-day, then likely to strengthen higher unless a fast bear market forces Fed cuts.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "This, I think, will strengthen and probably continue to go higher"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil",
+   "price_at_call": 110,
+   "short_term": {
+    "bias": "bullish",
+    "target": 115,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 120,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Money flowing into oil; spiked to 110, within striking distance of 115-120 upside targets.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "Oil spiked all the way up to 110. Moving up to our next upside targets, which is like the 115 and 120 area."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "VIX still elevated; may see another bout of AI selling and a VIX spike.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "we might actually still see another bout of selling here with the AI space and we might see a spike in the VIX"
+  }
+ ],
+ "notes": "Oil 110 is the spike high mentioned, not necessarily current price. Speaker name not said in transcript; channel host assumed."
+}

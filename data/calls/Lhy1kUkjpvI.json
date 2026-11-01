@@ -1,0 +1,392 @@
+{
+ "video_id": "Lhy1kUkjpvI",
+ "channel": "Gareth Soloway",
+ "title": "Recession Signal? Yields Break 5% as Tech Stocks Collapse",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Oil is the culprit",
+   "view": "Oil averaging ~95 since the February Iran war is breaking the consumer; markets need oil to come down to rally."
+  },
+  {
+   "theme": "Recession signal in yields",
+   "view": "10-year yield falling below 5% is pricing in recession; war may escalate after midterms, oil could hit 120."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 7465,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7655,
+     7550,
+     7465
+    ],
+    "resistance": [
+     7800
+    ],
+    "invalidation": 7655
+   },
+   "condition": "Close below the trend line/7655 opens a drop to 7550 then ~7465 within a couple days; holding above 7655 allows a retest of ~7800.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ascending trend line squeeze; looking like it could break down, though oil must fall for upside.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "Right now, it's looking awfully like it could break to the downside, in which case it goes right here, probably within a couple days."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     25920,
+     24400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 25,920 breaks, opens the door to 24,400.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "At key trend line and gap-fill support; host is a net buyer into fear.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "if that breaks, it opens the door to this move all the way down to 24,000 six uh 24,400."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Head-and-shoulders/bear flag breakdown below 5% as yields price in recession from high oil.",
+   "conviction": "high",
+   "timestamp": "0:07",
+   "quote": "I told you guys yields were going lower, and yields are going lower."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (WTI)",
+   "price_at_call": 99,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the US-Iran war escalates after the midterms with no deal, oil could go back to 120.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Oil averaging ~95 since February; escalation risk after midterms.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "if there's no deal, this is going to escalate after. Which means oil could go back to $120."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ANET",
+   "instrument_quoted": "ANET",
+   "price_at_call": 170,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 170,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dropped from 217 to ~170 filling a gap; started a position, will add at lower gap-fill support.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I started a position. If it goes here at this gap fill support level, I'll add to that position"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRT",
+   "instrument_quoted": "VRT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fell from 380 to sub-200 since May into gap fill and pivot support; should see a technical bounce.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "Incredible fall, but should see some sort of technical bounce here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     210
+    ],
+    "resistance": [],
+    "invalidation": 210
+   },
+   "condition": "Still in uptrend as long as 210 trend line holds; a break below 210 is a major warning sign.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Uptrend intact above 210 trend line.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "As long as it holds 210, it's good, and it's still in a very nice uptrend."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3950,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 3950 breaks, next target 3500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed close below major trend line.",
+   "conviction": "high",
+   "timestamp": "0:10",
+   "quote": "I said 3950 is your target... If it can get through that, we're going back... we're looking at 3500 on gold."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     54,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "May swing trade at ~54 support; expects a pierce of 50 where he will load up.",
+   "action": "watch",
+   "entry": 50,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed bear flag breakdown below ascending trend line; long-held 50 retrace target.",
+   "conviction": "high",
+   "timestamp": "0:10",
+   "quote": "ultimately, I expect it to go down and pierce 50, and that's where I'll really be loading the boat myself."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fell back to 81,000 support after bounce; 'hanging on by a thread'.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "Bitcoin is hanging on by a thread."
+  }
+ ],
+ "notes": "Date inferred Oct 22 (Meta/Nasdaq -2.5% day; same events as other Oct 22 videos). Silver long_term bullish inferred from 'loading the boat' at 50. Oil call weak."
+}

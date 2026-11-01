@@ -1,0 +1,207 @@
+{
+ "video_id": "0M7Hea72gbM",
+ "channel": "BitcoinHyper",
+ "title": "Bitcoin LIVE: The Breakout Was A Trap! (it’s dumping) - BTC, ETH, XRP Price Prediction",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper (host)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD",
+   "price_at_call": 81350,
+   "short_term": {
+    "bias": "bearish",
+    "target": 77000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81350,
+     77000,
+     73600,
+     72440
+    ],
+    "resistance": [
+     82700,
+     84350
+    ],
+    "invalidation": 84500
+   },
+   "condition": "If decline is impulsive (wave 3), targets 72,440 and possibly below 50k-40k; if slow grind (ABC), target ~77k and bottom at 60k is in, then higher.",
+   "action": "short",
+   "entry": 84046,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at golden Fib + liquidity ~84,350 with deviation back into range; daily support 81.9k lost; 77k is 1:1 extension, weekly support and value area high.",
+   "conviction": "medium",
+   "timestamp": "0:27",
+   "quote": "I am looking right here for a push to the downside. Looking for Bitcoin to actually go... to approximately, let's say, 77,000 USD in the upcoming days."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 2220,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2220,
+     2000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 2,200 support is lost, next ~10% lower / ~2,000.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at golden Fib after liquidity grab, following BTC; 2,220 is anchored VWAP + recent low + golden pocket.",
+   "conviction": "medium",
+   "timestamp": "0:38",
+   "quote": "for Ethereum... literally it's going to be another push to the downside. Uh, looking for at least this specific price target"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRPUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 1.2,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would go long at ~1.2 if BTC is at its weekly support.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Expects push down to golden Fibonacci ~1.2, where it becomes a long setup.",
+   "conviction": "medium",
+   "timestamp": "0:47",
+   "quote": "I'm looking right here for a push down... Approximately at 1.2 US dollars is right here the next major price target on XRP."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOLUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 92,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     99,
+     92,
+     88,
+     85
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If BTC dumps, weekly support breaks and SOL takes lows toward 0.5 Fib ~92, possibly 85; then looks for a bounce.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly support likely lost on BTC weakness; 0.5 Fib / prior lows ~92, POC + golden pocket ~85; hidden bullish RSI divergence suggests bounce after.",
+   "conviction": "low",
+   "timestamp": "0:51",
+   "quote": "if Bitcoin does get a bigger push down, I do think this area is going to be tested... 92 US dollars it is going to be the first uh the first nice level"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BNB",
+   "instrument_quoted": "BNBUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would go long ~7% lower at anchored VWAP + weekly support if BTC is at support.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Best support ~7% lower where anchored VWAP, weekly level and value area high align.",
+   "conviction": "low",
+   "timestamp": "0:49",
+   "quote": "for BNB, the best target is this one, coming in 7% lower."
+  }
+ ],
+ "notes": "Host says 'today is Thursday', so 2026-10-22 (listing 2026-10-23). Host holds shorts on BTC (entry ~84,046, stop above the high ~84.5k), ETH, XRP, SOL. Medium-term BTC view explicitly undecided between bullish ABC (bottom at 60k in) and bearish five-wave (<50k, even 40k). USDT dominance discussed only as a bearish BTC indicator. BNB has no absolute price levels quoted. Much of the stream is a giveaway."
+}

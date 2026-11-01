@@ -1,0 +1,90 @@
+{
+ "video_id": "K5ilXeZDyPk",
+ "channel": "ShadowTrader",
+ "title": "ES & NQ Short-Term Balance",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Scott Schneider",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7676
+    ],
+    "resistance": [
+     7803.25
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Large Friday sell-off needs digestion; market rotating inside Friday's range = balance.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "Anything inside there can only really be looked at as a form of balance and rotation."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     30045.75
+    ],
+    "invalidation": null
+   },
+   "condition": "If NQ breaks above the Oct 16 high and holds during RTH, breakout; if back inside below 30,045.75, rotation within range",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same balance sequence as ES but NQ closer to breaking out above the Oct 16 range.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "NQ a little closer to breaking out above the 1016 range, 30,045.75."
+  }
+ ],
+ "notes": "Recorded Oct 20, published Oct 21."
+}

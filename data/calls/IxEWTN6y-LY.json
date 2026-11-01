@@ -1,0 +1,99 @@
+{
+ "video_id": "IxEWTN6y-LY",
+ "channel": "Ricky Gutierrez",
+ "title": "MEMORY CHIP STOCKS ARE CRASHING: HERE IS THE TRUTH",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Memory chip oversupply fear",
+   "view": "China's CXMT and Toshiba news raise fear of memory oversupply undercutting Micron, SK Hynix, Samsung, SanDisk."
+  },
+  {
+   "theme": "South Korea leverage",
+   "view": "Over-leveraged Korean retail in the KOSPI (Samsung, SK Hynix) is amplifying the semiconductor selloff."
+  },
+  {
+   "theme": "De-risking into CPI",
+   "view": "Markets overbought and expected to de-risk ahead of CPI this week; still a bullish trend of higher highs and higher lows."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Pullback after a huge run and memory-cycle/oversupply fears, but fundamentally undervalued at ~13x P/E with large profits.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "Fundamentally speaking, Micron is a very possibly undervalued company."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Overbought Nasdaq likely to de-risk into CPI; overall trend still higher highs and higher lows, so only a slight pullback.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "Nasdaq's overbought. CPI data report is this week. It's expected that markets were most likely going to de-risk."
+  }
+ ],
+ "notes": "Recorded during overnight session after the cash close. Micron down ~12.6% from 1,100 high; MU short-term bias is the ongoing pullback, long-term he says don't sell."
+}

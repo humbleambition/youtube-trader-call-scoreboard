@@ -1,0 +1,97 @@
+{
+ "video_id": "bvsA9SxOimU",
+ "channel": "tastylive",
+ "title": "Cem Karsan Explains Why Bonds Rallied on a Hot CPI Report",
+ "video_date": "2026-10-14",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Cem Karsan (guest)",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI, bonds rally",
+   "view": "Bonds rallied as a risk-off flight to safety and bond vol compressed, even though the bond market is the source of stress."
+  },
+  {
+   "theme": "Midterm stress",
+   "view": "Stress broadens into markets approaching the midterms; Trump's depression warnings are a green light to the bears."
+  },
+  {
+   "theme": "Loanable funds competition",
+   "view": "Host: hyperscalers and governments compete for long-end funds; weaker AI spend could ease long-end pressure."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Approaching midterms, stress spreads into markets and Trump is signaling he wants the market down while positioning is long.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "once we approach the midterms, the stress starts coming into the market more broadly."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Risk-off flight to safety into bonds plus bond-vol compression; yields falling despite hot CPI, but action 'muddy'.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "this is a risk-off move... The bond market is the cause of the stress, yet it is also the flight to safety"
+  }
+ ],
+ "notes": "Date inferred: hot September CPI day (Oct 14). TNX bias is for yields (bearish = yields down) inferred from 'flight to safety'; Karsan calls it muddy, low conviction. Transcript cuts off mid-interview."
+}

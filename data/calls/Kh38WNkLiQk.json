@@ -1,0 +1,389 @@
+{
+ "video_id": "Kh38WNkLiQk",
+ "channel": "TheTechnicalTraders",
+ "title": "Tech and Precious Metals Traders Pause And Wait to See If Selling Continues",
+ "video_date": "2026-10-23",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen",
+ "macro_themes": [
+  {
+   "theme": "Rotation to safety",
+   "view": "Money leaving speculative tech/metals/uranium for staples, dividends and equal-weight S&P."
+  },
+  {
+   "theme": "Yields",
+   "view": "10-year is pulling back within a bull market; expects a countertrend dip then new highs."
+  },
+  {
+   "theme": "AI overspending",
+   "view": "Thinks AI data center build-out is serious overspending; neo cloud names could implode."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (TNX x10)",
+   "price_at_call": 49.5,
+   "short_term": {
+    "bias": "bearish",
+    "target": 48.3,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     48.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fibonacci measured move points to 48.3 on the pullback, but yields are in a bull market and should rally to new highs after support; TLT rally is a bear-market rally.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "the yields are in a bull market, and they're having a pullback, which means once they find support, they're going to rally and probably hit new highs"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Higher highs and higher lows; pullback should find traction and work higher, pressuring metals.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "Expecting this to eventually uh find some traction and continue to work its way higher."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": 4000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 3300,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3855,
+     3600,
+     3300
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold in a bear market since spring; bounce off 4000 failed and Fibonacci measured moves point to 3855/3600, then ~3300 (17-18% drop).",
+   "conviction": "high",
+   "timestamp": "5:00",
+   "quote": "the odds are, the stats, the charts are pointing to lower pricing... 3,600 is kind of that next stop"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 38,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     38,
+     39
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver at the 61.8% retrace and heading back to the pre-parabolic 38-39 level to reset late FOMO buyers.",
+   "conviction": "high",
+   "timestamp": "7:00",
+   "quote": "now it is on its way to 38"
+  },
+  {
+   "group": "metals",
+   "ticker": "SIL",
+   "instrument_quoted": "silver miners ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 15,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Measured move down to ~15, about a 34% drop; miners fall like an elevator shaft in bear markets.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "silver miners could really have that big drop and collapse it has a usually an elevator shaft down"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean chart pointing to another 28-29% drop back to pre-parabolic levels.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "To the downside, we could see another 28, 29% drop"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     115,
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "115-120 still potential upside targets, but the upper half of the range is resistance where sellers hammer it; not a trade he'd touch.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "it might continue to grind higher, but not a trade that I'd be interested in touching"
+  },
+  {
+   "group": "stocks",
+   "ticker": "URA",
+   "instrument_quoted": "uranium stocks",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Uranium stocks down 45% and possibly accelerating despite a bullish spot price; be cautious.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "uranium stocks down fairly sharply, down 45% and potentially picking up speed"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DBA",
+   "instrument_quoted": "DBA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Agriculture ETF in an uptrend; pullback could lead to another push to highs, though not a trade for him.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "this could be an opportunity for it to have another push up to the highs"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 95000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it firms up and turns positive, could pop to ~95,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding ground in a bull-market environment while 5/20-day averages flip; neutral short term.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "if it starts to firm up and hold turn positive again here and starts to put in some bullish price action, uh, we could see that pop"
+  }
+ ],
+ "notes": "TNX quoted as '495'/'483' (index x10 convention). Silver-miners ETF not named; SIL assumed with target 15. Roundhill neo cloud ETF predicted to 'implode' but ticker not given; skipped. Speaker assumed Chris Vermeulen (not named in transcript)."
+}

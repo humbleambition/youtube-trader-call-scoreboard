@@ -1,0 +1,62 @@
+{
+ "video_id": "FWS2iBOEQxs",
+ "channel": "Ricky Gutierrez",
+ "title": "The News Dropping The Market Right Now?!",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "AI valuation doubts",
+   "view": "Reuters: investors trimming Anthropic's expected IPO valuation from ~$2T to ~$1.5T, shaking an already nervous AI tape."
+  },
+  {
+   "theme": "Fed/Warsh",
+   "view": "Kevin Warsh speaking at 8:30; hawkish tone on top of valuation doubts could mean a second leg down."
+  },
+  {
+   "theme": "Crypto risk-off",
+   "view": "BTC dip began before the Anthropic headline; unverified report MSCI removing Strategy (MSTR) from its indexes."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 725,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If futures gap down at the reopen on the Anthropic news, the worry is real; a hawkish Warsh adds a second leg down; if neutral, the drop probably fades.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "After-hours AI sell-off on Anthropic IPO valuation cut amid CoreWeave financing concerns; advises small size, no leverage.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "remember, markets can get worse before they get better."
+  }
+ ],
+ "notes": "Much of the commentary is from an AI news assistant ('coin flip leaning cautious'); Ricky's own stance is cautious buy-the-dip with small size. Recorded overnight/extended hours (futures break 5-6pm ET); Warsh speech the next morning. CoreWeave 16.7% intraday swing noted but no bias given."
+}

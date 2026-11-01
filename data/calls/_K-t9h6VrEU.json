@@ -1,0 +1,139 @@
+{
+ "video_id": "_K-t9h6VrEU",
+ "channel": "Meet Kevin",
+ "title": "Prepare: Gold Prices are Set to Skyrocket on THIS DATE.",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Fed balance sheet leads gold",
+   "view": "Gold peaks about 3-5 years after the Fed's money printer expands, so a no-QE Warsh regime is bearish for gold."
+  },
+  {
+   "theme": "Warsh Fed deflation",
+   "view": "Kevin Warsh as Fed chair (to May 2030) will usher in low money printing and deflation, positive for AI and corporations."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "An Iran deal would lift bond prices and lower yields rather than lift gold."
+  },
+  {
+   "theme": "AI deflation",
+   "view": "Post-build-out AI and job losses are likely deflationary."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4122,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     4300,
+     4500
+    ],
+    "invalidation": null
+   },
+   "condition": "Bearish until Warsh turns on QE in a severe recession or is replaced; next gold peak possibly 2033-2035 if printing restarts ~2030.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "No money printing under Warsh, clear downtrend in momentum, and lag between QE and gold peaks; bearish since Jan 30.",
+   "conviction": "high",
+   "timestamp": "5:00",
+   "quote": "when you combine Warsh with timing of money printer and momentum you have a bearish outlook"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductors (sector, no specific ticker)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ahead of an anticipated Iran deal.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Prefers buying the semiconductor dip before an Iran deal; Warsh-driven deflation is positive for the AI trade.",
+   "conviction": "medium",
+   "timestamp": "7:20",
+   "quote": "I'd rather buy the dip on semiconductors before an anticipated Iran deal. And I'd rather buy semiconductors than gold."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury bond yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If an Iran deal happens, bond prices rise and yields fall.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Lack of money printing seen as fiscal responsibility, so bonds benefit after an Iran deal.",
+   "conviction": "low",
+   "timestamp": "4:20",
+   "quote": "what goes up after an Iran deal are bonds. So, the prices of bonds go up. The yields of bonds come down."
+  }
+ ],
+ "notes": "Gold $4,122 (-1.3%) was quoted on the hot-CPI day, likely Wed 2026-10-14, so recording may predate listing date. Semis call is sector-level; SMH used as proxy ticker. 4,300/4,500 are Kalshi strike levels, not his targets."
+}

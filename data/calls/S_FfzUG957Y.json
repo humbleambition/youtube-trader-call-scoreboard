@@ -1,0 +1,154 @@
+{
+ "video_id": "S_FfzUG957Y",
+ "channel": "Ricky Gutierrez",
+ "title": "WATCH THIS BEFORE TESLA & META REPORT EARNINGS TODAY!",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 140,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Too much too soon after earnings pop; not a good deal at these levels.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "I wouldn't be surprised in a few weeks from now it trades below $140 per share. Do I care to short it? No."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Opened a small short position intraday.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "I just opened up a small short position on MSTR."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 700,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Earnings risk; not a great deal at ~700 but holds long-term from a lower cost basis.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "Do I think that Meta is an incredibly good deal long-term at these levels? No. Am I invested in Meta long-term? Yes."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Most overvalued Mag 7: ~399 PE, weak net income, falling car demand; fair value implies 34% downside.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "based off a fair value, 34%downside for Tesla"
+  }
+ ],
+ "notes": "Date from transcript: Tesla/Meta report 'today' (Oct 21)."
+}

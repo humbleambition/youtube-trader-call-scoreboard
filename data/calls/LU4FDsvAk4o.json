@@ -1,0 +1,139 @@
+{
+ "video_id": "LU4FDsvAk4o",
+ "channel": "Meet Kevin",
+ "title": "The War Against Iran is \"Restarting\" --- f**k",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "US-Iran deal odds",
+   "view": "Sees a 95% chance of a deal in the current window (from Oct 20), falling to 70% after Oct 29 and 30% after the Nov 3 election, when markets turn bearish into winter."
+  },
+  {
+   "theme": "Gold needs easier Fed",
+   "view": "Without the money printer gold struggles; needs Kevin Warsh out of the Fed for gold to move."
+  },
+  {
+   "theme": "Oil and inflation fears",
+   "view": "Brent at a 5-month high near $111 is weighing on airlines and stoking inflation-expectation fears alongside AI-bubble funding worries."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (\"the Qs\")",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     707,
+     700
+    ],
+    "resistance": [
+     715
+    ],
+    "invalidation": null
+   },
+   "condition": "buy the dip 707-700; if no Iran deal by after the Nov 3 election, turns bearish (\"bear mode\")",
+   "action": "buy",
+   "entry": 707,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rejected 715 as called and bouncing at the 707 line; deal window favors buying dips, but odds fall after the election.",
+   "conviction": "medium",
+   "timestamp": "21:30",
+   "quote": "I like the idea of buying the dip at my 707 line or even... the 700 line if you really want to be aggressive"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (and TLT)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Called 5.27 as the top; yield down 13.5bp and about to break below 5%; TLT bottoming on 77-78 weekly line, now 81.25.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "the 10-year Treasury is about to break below 5%"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold sells off even in war because the money printer is off; needs Warsh to exit the Fed.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "When you take the money printer away, it's really hard for gold to go up"
+  }
+ ],
+ "notes": "TLT view merged into TNX call (inverse). SpaceX (SPCX) call of rejection at ~165 to 150 was a prior-day prediction already reached; no new forward view, so not recorded. Brent mentioned at $111 with no forward call. Weekday Wednesday referenced as past, consistent with listing date Thu Oct 22."
+}

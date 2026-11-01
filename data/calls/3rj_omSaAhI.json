@@ -1,0 +1,105 @@
+{
+ "video_id": "3rj_omSaAhI",
+ "channel": "Ricky Gutierrez",
+ "title": "Is It Too Late to Buy Micron? | My Grok Bot Analysis",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ricky Gutierrez (with Grok bot)",
+ "macro_themes": [
+  {
+   "theme": "CPI risk",
+   "view": "Hot CPI tomorrow could knock semis lower; wait for the data before buying dips."
+  },
+  {
+   "theme": "Memory cycle worries",
+   "view": "CXMT competition and the memory cyclical thesis explain Micron's low 12.5x multiple."
+  },
+  {
+   "theme": "Korea/KOSPI selloff",
+   "view": "KOSPI (over half Samsung and SK Hynix) is down ~35% from highs, hurting leveraged traders."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 943,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     918,
+     903,
+     900,
+     705
+    ],
+    "resistance": [
+     952,
+     1100
+    ],
+    "invalidation": 900
+   },
+   "condition": "Buy on a break above ~952 (momentum) or a dip to 903-918 with stop under 900; otherwise wait until after CPI",
+   "action": "watch",
+   "entry": 952,
+   "stop": 900,
+   "method": "mixed",
+   "reason": "Bull case intact (record revenue, cheap 12.5x P/E) but five of six red days, CXMT fears and CPI risk; don't chase at 943.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "Don't buy the dip here... The cleaner entries are a break back above $952 or a dip to 903 to 918"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retesting previous resistance range; a support break would gap lower into CPI.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "If it ends up breaking the support, we have that gap down once again"
+  }
+ ],
+ "notes": "Date from 'Monday's close' plus 'CPI tomorrow, PPI Thursday' = Tue Oct 13. MU views come mostly from Ricky's Grok bot, which he endorses; 1,555 analyst average target and 1,100 prior high not recorded as his targets. 705 is the prior selloff low he warns about."
+}

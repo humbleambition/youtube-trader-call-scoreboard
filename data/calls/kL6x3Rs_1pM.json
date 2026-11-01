@@ -1,0 +1,397 @@
+{
+ "video_id": "kL6x3Rs_1pM",
+ "channel": "Meet Kevin",
+ "title": "The Market CRASH & Earnings",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "The 'great suckening'",
+   "view": "Massive AI capital raises (Meta, OpenAI, Anthropic, SpaceX, Broadcom, Oracle) drain the stock market and drive volatility; worst when cash flow is most negative."
+  },
+  {
+   "theme": "Yields peaked",
+   "view": "10-year yields peaked near 5.27% and are falling in a flight to safety."
+  },
+  {
+   "theme": "Valuations compressing",
+   "view": "Forward P/Es falling while forward earnings rise creates a buying opportunity."
+  },
+  {
+   "theme": "Post-midterm rally",
+   "view": "Expects a rally after the midterms, with an Anthropic IPO between midterms and Christmas."
+  },
+  {
+   "theme": "2030s deflation",
+   "view": "AI drives deflation; rates back to zero by 2032-33, oil to $40, real estate booms."
+  },
+  {
+   "theme": "Memory commoditizes",
+   "view": "Not bullish RAM; memory commoditizes and Morgan Stanley worries capex is inflated by memory pricing."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700,
+     702.87
+    ],
+    "resistance": [
+     707,
+     715
+    ],
+    "invalidation": null
+   },
+   "condition": "buy only in the 700-707 zone, not 707-715",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "700-707 was the peak-fear zone in September before a massive rally; they bought the dip there.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "Nasdaq is in buy the dip territory between 700 and 707. This is the exact range... that we said... was the buy range."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "broad US market (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Expects the market to rally after the midterms.",
+   "conviction": "medium",
+   "timestamp": "36:00",
+   "quote": "I think the market's going to rally after midterms"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Calls the yield peak at ~5.27%; yields down ~17-18bp today; suggests bonds/TLT; rates to zero by 2032-33.",
+   "conviction": "high",
+   "timestamp": "30:00",
+   "quote": "I think we just hit peak yields"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold keeps falling with no flight-to-gold despite the risk-off move.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "look, gold goes down even more. It's going to be in the 3,000 soon."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent",
+   "price_at_call": 113,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 40,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects the Middle East and Russia conflicts to be over and AI-driven deflation in the 2030s.",
+   "conviction": "low",
+   "timestamp": "40:00",
+   "quote": "we'll be over this Middle East and Russia bull crap, we'll be back to $40 per barrel on oil."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Nvidia captures ~$690B of AI capex; around a 0.58 PEG.",
+   "conviction": "high",
+   "timestamp": "45:00",
+   "quote": "this is very bullish Nvidia, by the way. Bullish Nvidia. Nvidia is dirt cheap right now."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bullish and buying the dip, though negative free cash flow and leases mean a headwind until Muse revenue shows (~2028).",
+   "conviction": "medium",
+   "timestamp": "43:00",
+   "quote": "I'm bullish Meta. I'm also, you know, I buy the dip on Meta, man."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 315,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought at ~315 expecting the iPhone Duo to sell out and start an upgrade cycle; Apple doesn't need to raise capital ('anti-suck').",
+   "conviction": "medium",
+   "timestamp": "51:00",
+   "quote": "we bought Apple at like 315... I think this is iPhone duo is going to sell out."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LDI",
+   "instrument_quoted": "LDI",
+   "price_at_call": 0.57,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 2,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if yields keep falling",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Very rate-sensitive; thinks loanDepot survives at least a year and benefits from peak yields. Has exposure.",
+   "conviction": "medium",
+   "timestamp": "48:00",
+   "quote": "I think they'll probably go back to $2 stock pretty damn quickly. If yields keep this."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LEN",
+   "instrument_quoted": "LEN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Offered as a rate-sensitive alternative that Berkshire is buying, but margins halved from 9% to 4.8% and revenue is down.",
+   "conviction": "low",
+   "timestamp": "49:00",
+   "quote": "their margins have gone from 9% to 4.8%. Their margins are getting sucked."
+  }
+ ],
+ "notes": "Date inferred as 2026-10-22 (listing says 10-23): the host notes the iPhone Duo launches 'tomorrow' (the next video says it goes on sale 'today'), the Bloom/WDC earnings came out after this close, and the David Lin video dates the same sell-off to Oct 22. No explicit date is spoken. Timestamps are mm:00 (minute markers). LEN bias is ambiguous (mixed)."
+}

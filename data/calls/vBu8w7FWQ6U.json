@@ -1,0 +1,375 @@
+{
+ "video_id": "vBu8w7FWQ6U",
+ "channel": "tastylive",
+ "title": "Tim Knight Says Friday Broke the Trend Lines Across Every Index",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Tim Knight",
+ "macro_themes": [
+  {
+   "theme": "Trend lines broken",
+   "view": "Friday broke trend lines across every index and major ETF; Monday's rebound is a fight back toward overhead supply."
+  },
+  {
+   "theme": "Precious metals long-term",
+   "view": "Ratio charts say precious metals have a very good future in the years ahead."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": 7745,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend line outright broken Friday; strong rebound expected to deflate soon; holds ~30 short positions.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "this strong strong fight back, which I think they're going to deflate those tires soon enough, maybe even tomorrow."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clearly shattered trend line; rebound is into a zone of overhead supply.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "we have a clearly shattered trend line, and all this right here is fighting back toward this zone of overhead supply."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short semis after trend-line break, but trimmed because a months-long support level has held.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "I have trimmed that to some degree, but I do think that damage matters on the SMH."
+  },
+  {
+   "group": "stocks",
+   "ticker": "QUBT",
+   "instrument_quoted": "QUBT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean symmetric triangle failure after ~40% wipeout; bounce is catching breath.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "Wonderful symmetric triangle, exceptionally clean... not a shocker that we're getting a bit of a bounce"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short quantum names.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "I'm short all these right now. So, IonQ um down about 1 and 1/2%."
+  },
+  {
+   "group": "stocks",
+   "ticker": "QBTS",
+   "instrument_quoted": "QBTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short quantum names (D-Wave).",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "QBTS up just a little bit. That's D-Wave."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU (Jan 15 $44 puts)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 37,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Utilities peaked into overhead supply after bond-proxy rally; large position in Jan 44 puts; aims ~37, maybe mid-30s.",
+   "conviction": "high",
+   "timestamp": "0:06",
+   "quote": "I'm in for kind of a fat move here getting into the... maybe even the mid mid-30s, but I certainly like the 37-ish type area."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Peaked long ago despite market strength, gently losing steam; may exit before earnings.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "my dumb guess is that I'll probably more inclined to slip lower than than push higher after earnings."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "4,000 is central psychological and chart support; ratio charts bullish for years ahead.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "4,000 I think is central support... in the years ahead, um precious metals have a very good future."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Has honoured support so far; must not break below right triangle; long-term bullish via ratio charts.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "it's pretty important to not cut below this right triangle as well."
+  }
+ ],
+ "notes": "Date: \"maybe we'll crash on Monday... we didn't\" plus Jan 15 puts with 88 days left -> Monday 2026-10-19. ES 7745 quoted by another host after Tim left. SpaceX mentioned as stuck near $150 with no bias."
+}

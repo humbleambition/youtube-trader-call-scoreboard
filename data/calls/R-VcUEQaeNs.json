@@ -1,0 +1,132 @@
+{
+ "video_id": "R-VcUEQaeNs",
+ "channel": "David Lin",
+ "title": "This Gold Stock Surged 400% While Gold Fell, Here's How",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Byron Coulthard (CEO, BRS Resources)",
+ "macro_themes": [
+  {
+   "theme": "Commodity super cycle",
+   "view": "We are at the beginning of a commodity super cycle and metals prices are more likely to rise than fall."
+  },
+  {
+   "theme": "Silver deficit",
+   "view": "Silver demand from AI data centers, EVs and electronics leaves a 46.3 million oz shortfall for 2026."
+  },
+  {
+   "theme": "Miners vs bullion",
+   "view": "Junior miners offer more upside than bullion as resources are proven, if downside risk is managed."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Commodity super cycle and demand; doesn't foresee gold going lower, though plans conservatively at $3,200. Cites panelists calling $7,000 by 2030 (not his own target).",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "I don't foresee the price of copper, gold, silver, uh, going lower. If anything, I see with demand... it's all going to go higher."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Structural silver deficit (46.3M oz shortage in 2026) from AI data centers, EVs and electronics.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "Silver is in high demand, as we all know, with AI data centers, EV, electronics."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Part of a commodity super cycle; expects copper with gold and silver to go higher on demand.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "I don't foresee the price of copper, gold, silver, uh, going lower."
+  }
+ ],
+ "notes": "Paid/sponsored interview ('disseminated on behalf of BRS Resources'); guest is the CEO promoting his own stock, so the BRS stock itself is not recorded as a call (ticker not given). Video says gold is down this year at ~$4,100."
+}

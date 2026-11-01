@@ -1,0 +1,103 @@
+{
+ "video_id": "BpaTmaBdMNs", "channel": "TheDailyGold", "title": "If You Own Silver or Gold, You Need to Watch This Signal Closely",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Jordan Roy-Byrne (host) with guest Vince Lanci (GoldFix)",
+ "macro_themes": [
+  {"theme": "Gold vs stocks ratio bottoming", "view": "Roy-Byrne sees a weekly double bottom in gold/S&P at the rising 40-month MA, signalling capital could rotate back from stocks into gold over the coming weeks and months."},
+  {"theme": "Peak in yields", "view": "Both see a peak or start of a topping process in the 2-year and real 10-year yields, which historically marks important gold bottoms."},
+  {"theme": "Fed near the end", "view": "Lanci expects a possibly final Fed hike in October, with the market pricing the Fed as done and the economy cooling."},
+  {"theme": "Precious metals seasonality", "view": "Lanci says hedge-fund fiscal-year liquidation weighs on metals Sep-Nov, with bottoms usually between mid-October and late November and buying from mid-November to mid-January."},
+  {"theme": "AI credit bubble", "view": "Lanci thinks the AI credit bubble is starting to pop, with Nasdaq weak relative to the S&P and investors drawn to ~5.5% bonds."},
+  {"theme": "Gold back into the monetary system", "view": "Both expect gold to return to the monetary system (e.g., Judy Shelton's gold-linked bonds), which Lanci says could double or triple gold over 5-10 years."}
+ ],
+ "calls": [
+  {
+   "group": "metals", "ticker": "GC", "instrument_quoted": "gold spot (USD/oz)",
+   "price_at_call": null,
+   "short_term": {"bias": "mixed", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": 4600, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [4000, 3900, 3720], "resistance": [], "invalidation": 3900},
+   "condition": "Possible false breakdown toward ~3,900 around an October Fed hike, then a slingshot; Lanci doesn't expect gold below 3,900 before mid-November.", "action": "", "entry": null, "stop": null,
+   "method": "mixed",
+   "reason": "Gold/S&P double bottom at the 40-month MA plus a peak in 2-year and real yields and a weakening dollar; seasonal low due mid-October to late November, then buying returns.",
+   "conviction": "medium",
+   "timestamp": "13:20",
+   "quote": "I don't think we get below 3,900 between now and say the middle of November... go to 4,600. That's that's a 10% move."
+  },
+  {
+   "group": "metals", "ticker": "SI", "instrument_quoted": "silver spot (USD/oz)",
+   "price_at_call": 55,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [55], "resistance": [120], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "mixed",
+   "reason": "Silver has held $55 support several times; it needs time after a huge move and likely won't retest its ~120 high for 2-2.5 years, but a ~20% move in the next 6 months is plausible.",
+   "conviction": "medium",
+   "timestamp": "18:50",
+   "quote": "be thankful for a 20% move in the next 6 months"
+  },
+  {
+   "group": "metals", "ticker": "GDX", "instrument_quoted": "GDX / large gold miners (Newmont)",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "hold", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Lanci is invested in miners (Newmont, GDX, West Red Lake) and expects miners to lead, with a 30-40% move in silver stocks if silver rises 20% in 6 months.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "miners will probably lead the way this time... you'll probably have a 30 or 40% move in silver stocks."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "TNX", "instrument_quoted": "2-year yield and real 10-year yield",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [5.0], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "mixed",
+   "reason": "Yields have been rejected three or four times in 15 days and gapped lower, a triple-top-like structure; the 2-year may top around 5% and the market sees the Fed nearly done.",
+   "conviction": "medium",
+   "timestamp": "6:50",
+   "quote": "the bond market seems to be topping."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "DXY", "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "mixed",
+   "reason": "Lanci sees the dollar working into a bear flag as yields peak.",
+   "conviction": "low",
+   "timestamp": "7:10",
+   "quote": "the dollar seems to be possibly working into a bear flag now to go lower."
+  },
+  {
+   "group": "indices_futures", "ticker": "NQ", "instrument_quoted": "Nasdaq vs S&P 500 (relative)",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Lanci says the AI credit bubble is starting to pop and money is leaving tech; gold/stocks ratio bottom implies capital moving from stocks to gold.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "The AI credit bubble is starting to pop."
+  }
+ ],
+ "notes": "No date stated in transcript; listing '22 hours ago' gives 2026-10-21 (could be 10-20). Lanci (guest) gives most specific levels; Roy-Byrne's own view is the gold/S&P double bottom and yield peak. TNX row actually reflects 2-year and real 10-year yields; 5.0 is the 2-year 'top out around 5%' level. Silver price 55 is the support level Lanci cites as roughly current."
+}

@@ -1,0 +1,272 @@
+{
+ "video_id": "y2ppO7E_Q5o",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Surges on Middle East Peace Talks: Breakout or Relief Rally?",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Middle East peace headlines/oil",
+   "view": "Fake peace-talk headlines sank oil and lifted crypto and stocks; cheaper oil helps the economy and risk assets."
+  },
+  {
+   "theme": "Institutional adoption",
+   "view": "BlackRock ETF inflows and JPMorgan adding Bitcoin to portfolio allocations are bullish."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     58000
+    ],
+    "resistance": [],
+    "invalidation": 58000
+   },
+   "condition": "Bull run 'officially on' only once BTC makes higher highs; a lower low below 58k would break the cycle pattern.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Still in a range with a lower high, needs higher highs; but halving-cycle timing (129 weeks) and BlackRock ETF inflows / JPMorgan adoption suggest 58k was the bottom.",
+   "conviction": "medium",
+   "timestamp": "4:20",
+   "quote": "it does look like, in my opinion, 58k was the bottom."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading inside a flag/range; long the bottom, short the top until something happens.",
+   "conviction": "low",
+   "timestamp": "6:40",
+   "quote": "ETH still just trading within its range... I'm really waiting for something more exciting to happen"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retest of broken descending parallel channel plus 38.2% fib and ascending trendline support.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "starting to feel a little bit bullish on Solana"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Chart is a bull-flag-like descending channel, but 6B XRP moved onto exchanges with whale buying at a 5-year low, typically a sell signal.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "So, not exactly what we want to see with XRP."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     0.21
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 0.21,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling wedge breaking upward from a fib/long level at 21 cents; may retest the descending trendline.",
+   "conviction": "medium",
+   "timestamp": "10:20",
+   "quote": "Falling wedges are bullish, folks... that's exactly what we're seeing with Cardano."
+  },
+  {
+   "group": "crypto",
+   "ticker": "AVAX",
+   "instrument_quoted": "AVAX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling wedge on the daily, bullish but may take until end of October to resolve.",
+   "conviction": "low",
+   "timestamp": "15:50",
+   "quote": "Little bit of a falling wedge on the daily here. This is bullish, but this one could be a while"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "HYPE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible head and shoulders forming (right shoulder then down), but target may still leave a higher low.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "maybe a head and shoulders forming... That is bearish."
+  }
+ ],
+ "notes": "Date from listing. PEPE (short only at top of channel), WLD, AERO, DOGE mentioned with setups but skipped as minor."
+}

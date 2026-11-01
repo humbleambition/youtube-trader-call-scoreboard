@@ -1,0 +1,74 @@
+{
+ "video_id": "QFf9R-aZbMQ",
+ "channel": "David Lin",
+ "title": "Massive Strike On Iran Next? Markets Face New War Risk | Hal Kempfer",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Hal Kempfer",
+ "macro_themes": [
+  {
+   "theme": "Iran war / Strait of Hormuz",
+   "view": "Tanker flows are back above pre-war levels under US Navy escort, but attack risk keeps insurance premiums and oil prices elevated; no quick end to the war expected."
+  },
+  {
+   "theme": "US time advantage after midterms",
+   "view": "Once the Nov 4 midterms pass, Iran loses leverage and time is on the US side; no need for an immediate massive escalation."
+  },
+  {
+   "theme": "Houthis / Bab el-Mandeb",
+   "view": "Saudi and allied forces will gradually push back the Houthis; Bab el-Mandeb traffic should eventually normalise like Hormuz."
+  },
+  {
+   "theme": "Counter-drone tech",
+   "view": "Laser and interceptor systems rolling out could neutralise much of the drone/missile threat, lowering shipping risk over time."
+  },
+  {
+   "theme": "China critical minerals deadline",
+   "view": "The Nov 27 antimony/critical-minerals suspension deadline matters for US munitions; expects talks to extend the waiver."
+  },
+  {
+   "theme": "China Belt and Road debt",
+   "view": "Possible cascading defaults on BRI loans could hit China's economy and real estate sector."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil prices (general, no levels quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "As Iran's ability to hit ships diminishes (counter-drone systems, blockade, Houthi rollback), the shipping risk premium falls and oil prices should come down; timing open-ended.",
+   "conviction": "low",
+   "timestamp": "44:00",
+   "quote": "I think it eventually will. I I think as things stabilize in the Strait of Hormuz... you're going to see that reflected in the market price."
+  }
+ ],
+ "notes": "Geopolitics interview, no price levels. Oil bearish call is vague on timing ('eventually'); medium-term bias inferred from his view that flows are normalising and US won't rush escalation. Timestamps use the transcript's minute markers (e.g. [0:44] = 44:00)."
+}

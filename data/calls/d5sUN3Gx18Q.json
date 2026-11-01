@@ -1,0 +1,248 @@
+{
+ "video_id": "d5sUN3Gx18Q",
+ "channel": "Meet Kevin",
+ "title": "PREPARE: The Bailout is Coming.",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Berkshire may fund Meta's AI raise",
+   "view": "A Berkshire convertible-preferred deal with Meta (like Alphabet's) would signal AI stocks are cheap and could spark big AI buying."
+  },
+  {
+   "theme": "Hedge fund de-leveraging",
+   "view": "Hedge-fund net leverage at 5-year lows and cheaper forward P/Es are a contrarian buy signal."
+  },
+  {
+   "theme": "Credit spreads widening",
+   "view": "Rising credit spreads and CDS on AI spenders make debt costly, pushing companies to equity raises."
+  },
+  {
+   "theme": "AI buildout far from peak",
+   "view": "Bloom and Western Digital earnings hint the AI buildout is nowhere near its peak."
+  },
+  {
+   "theme": "Post-election rally / Iran deal",
+   "view": "Expects a post-midterm rally, the Fed to hold, and is bullish on an Iran deal."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 708,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700,
+     707
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 704,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought the dip at 702-704; QQQ recaptured 707; hedge-fund leverage at multi-year lows (inverse signal) and expects a post-midterm rally once Iran/Fed clarity arrives.",
+   "conviction": "medium",
+   "timestamp": "14:45",
+   "quote": "I personally think we are setting up for a massive postelection rally"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Stock sits at the 200 DMA with Muse enthusiasm gone; possible Berkshire convertible deal would underwrite it.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "buying Meta stocks at this value. I I think it is a steal."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "'Anti-suck' safe haven in AI trade with negative Nasdaq correlation; bought at Duo launch expecting sellout.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "we bought Apple during the dual launch event... it's also your antisuck trade."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "New AMD play sent to members this morning; stock moving up.",
+   "conviction": "low",
+   "timestamp": "10:45",
+   "quote": "we also just did an AMD play this morning."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Reiterates call that 10-year yields have peaked.",
+   "conviction": "medium",
+   "timestamp": "17:30",
+   "quote": "I was so far very right about 10-year Treasury yields peeking out"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Reiterates prior call that gold has peaked.",
+   "conviction": "low",
+   "timestamp": "17:40",
+   "quote": "people got very mad at me calling a peak on gold. Uh and that was also correct."
+  }
+ ],
+ "notes": "Date from listing; host says the 'taco call' window ends 27th/28th (Tue/Wed) with ~5 days left, and refers to 'yesterday' buy-the-dip alerts at 702-704, which matches -HXNDeabnaM being the prior day. QQQ price 708 stated live at end. Gold and TNX are restated earlier calls, not new analysis."
+}

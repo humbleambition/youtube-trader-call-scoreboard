@@ -1,0 +1,54 @@
+{
+ "video_id": "Grzu1RJig3w",
+ "channel": "Meet Kevin",
+ "title": "holy moly META stock!",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "AI and labor",
+   "view": "AI lets businesses cut headcount; labor market is the real economic danger."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 720,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 1800,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Strong ad metrics, 15% sequential guide, ~22x PE vs ~18-24% growth; at ~1 PEG sees ~2.7x upside despite costs and negative FCF.",
+   "conviction": "high",
+   "timestamp": "0:15",
+   "quote": "I still think this is an $1,800 stock. I am very optimistic about the stock"
+  }
+ ],
+ "notes": "Post-earnings review; target stated as $1,800 (his calc gives ~1,890). Two-for-one split creates non-voting shares; price levels pre-split."
+}

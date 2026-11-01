@@ -1,0 +1,183 @@
+{
+ "video_id": "m9GxsKUhydM",
+ "channel": "David Lin",
+ "title": "Bond Market About To Flip: A Major Shakeup Is Coming | Jim Welsh",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Jim Welsh (guest), David Lin (host)",
+ "macro_themes": [
+  {
+   "theme": "Weak breadth",
+   "view": "A/D line very weak; rarely this weak without a meaningful decline; more downside risk than upside."
+  },
+  {
+   "theme": "Treasury yields near a peak",
+   "view": "Contrarian Economist 'bonds crash' cover signals yields are near a high; expects 10y/30y to decline over 2-3 months, possibly after one more 10y high."
+  },
+  {
+   "theme": "Fed path",
+   "view": "No hike in October (election, spacing hikes); expects a hike in December."
+  },
+  {
+   "theme": "AI capex mismatch",
+   "view": "AI spending growth slows next year; adoption lags spending; semis highly cyclical; eventual secular bear market as top-10% spending reverses."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": 7700,
+   "short_term": {
+    "bias": "bullish",
+    "target": 7775,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7750,
+     7800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bounce in semis/Mag 7 can lift S&P to 7750-7800 but weak breadth means more downside risk; sees secular bear market ahead.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "that can carry the S&P up maybe to 7750, maybe back up towards 7800... there's more downside risk than upside potential"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 460,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     503,
+     460
+    ],
+    "resistance": [
+     639
+    ],
+    "invalidation": null
+   },
+   "condition": "If SMH drops below 503 it sets up a great rally",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Completed ABC rally off 503 topping at 639; RSI ~30 gives a bounce, but expects a break below 503, maybe ~460.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I still believe we'll see SMH below the 503 level"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.0,
+   "short_term": {
+    "bias": "bullish",
+    "target": 5.36,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.36
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "10y pattern looks corrective and may take out the 5.36% high, but contrarian cover signal says yields are near a top and should decline over 2-3 months.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I am expecting a decline in Treasury yields. Now it's just a question of do we get a bounce in the near term that takes the 10-year to a higher high"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year Treasury yield (%)",
+   "price_at_call": 5.46,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.73
+    ],
+    "invalidation": null
+   },
+   "condition": "If 10y makes a new high above 5.36 but 30y stays below 5.73 (intermarket divergence), it's time to buy bonds",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Yields nearing a high; a divergence vs the 10-year would confirm the top.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "the most bullish thing for bonds could be the 10-year goes up, takes out the recent high at 5.36, and the 30-year doesn't get above 5.73"
+  }
+ ],
+ "notes": "Date from host ('Monday, October 19th'), recorded during the session (Nasdaq up 1.4% intraday). S&P short-term target is the midpoint of 7750-7800. SMH not in canonical list; kept as stock ticker. 10y price at call ~5.0-5.12% (host gave both)."
+}

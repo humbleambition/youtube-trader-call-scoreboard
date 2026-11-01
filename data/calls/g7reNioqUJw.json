@@ -1,0 +1,220 @@
+{
+ "video_id": "g7reNioqUJw",
+ "channel": "Crypto World",
+ "title": "BITCOIN $84K PRICE TARGET HIT (dump coming next)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Josh",
+ "macro_themes": [
+  {
+   "theme": "Stock market relief bounce",
+   "view": "Nasdaq 4h RSI oversold signal suggests a few days of relief or sideways action, not a straight move to highs; indices long-term bullish."
+  },
+  {
+   "theme": "Bitcoin dominance at resistance",
+   "view": "BTC dominance testing 60.5-61% resistance; altcoins likely to track Bitcoin until it confirms rejection or breakout."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq-100 (no prices given)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "4h RSI oversold signal, last seen late July, typically followed by a relief bounce; long-term indices push to all-time highs eventually.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "at least in the coming trading days here, I do expect a little more of a relief here. Once again, not a massive bullish move"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": 84500,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000
+    ],
+    "resistance": [
+     86000,
+     88000
+    ],
+    "invalidation": null
+   },
+   "condition": "If stocks keep recovering over coming weeks, BTC could invalidate daily bearish divergence and break above range highs in 1-2 weeks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "84.5k liquidation-heatmap target hit; daily bearish divergence still active; expects a little more upside then struggle/slight pullback near 86-88k resistance, range for rest of week; weekly bullish divergence keeps long-term trend bullish.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "start to expect this bullish relief to slow down as we approach this resistance and then expect a lot of struggle in the upper end"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2300,
+     2400
+    ],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bouncing from 2.3-2.4k support but daily bearish divergence still active; likely sideways range for ~a week, following BTC.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "very likely remain in this range here potentially in the next week or so"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.25,
+     1.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding ~1.25-1.30 support; slight bullish relief expected but no move beyond highs in next few days.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "a slight bullish relief, but unlikely a significant move beyond the highs in the next few days"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     95,
+     105
+    ],
+    "resistance": [
+     107,
+     110,
+     119,
+     124
+    ],
+    "invalidation": null
+   },
+   "condition": "If SOL breaks above 107-110, next resistance 119-124.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bouncing from 95-105 support, now testing 107-110 resistance with 3-day bearish divergence still active; relief should slow soon.",
+   "conviction": "low",
+   "timestamp": "0:18",
+   "quote": "it's unlikely we'll see a huge bullish momentum movement towards the highs and a breakout above the highs"
+  }
+ ],
+ "notes": "Chainlink also covered (support 11.80-12.30, resistance 13.20-13.30 and 14.20-14.40, range for 1-2 weeks) but omitted as non-canonical/minor. BTC price_at_call approximated as the 84.5k target just hit ('slightly above'). Date from listing; host gave no date."
+}

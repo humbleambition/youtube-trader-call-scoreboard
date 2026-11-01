@@ -1,0 +1,55 @@
+{
+ "video_id": "8LdfeOkMrSY",
+ "channel": "Verified Investing",
+ "title": "What Is Theta? How Time Decay Eats Your Options",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": 402.16,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 380,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     400,
+     370,
+     368
+    ],
+    "resistance": [
+     432
+    ],
+    "invalidation": null
+   },
+   "condition": "only if price breaks below $400",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rolling over near all-time highs (432) inside a long-term parallel channel from the Mar 27 2026 low, with RSI bearish divergence; needs a break of $400 for a move to 370-380. Ultimately passed on the put because the chain didn't fit and the trend lean is bullish.",
+   "conviction": "low",
+   "timestamp": "3:30",
+   "quote": "I'm thinking of a bearish setup ... a target of about 370 to 380. That would kind of give us room to if we broke the 400"
+  }
+ ],
+ "notes": "Mostly an options-education video on theta. Host says 'happy Monday'; with listing approx 2026-10-13 and a Friday expiry 4 days out, taken as Monday 2026-10-12. Target stated as a 370-380 zone; recorded 380 (upper end). Horizon 'next couple weeks, two months'. They passed on the trade."
+}

@@ -1,0 +1,51 @@
+{
+ "video_id": "E4BHGLgBB5k",
+ "channel": "tastylive",
+ "title": "Big Call Buyers Are Circling Into Meta Earnings",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (Signal vs Noise)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META options",
+   "price_at_call": 690,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     690
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Unusual flow flipped from $32M puts to $8M calls: Oct 30 695/700 and Nov 705 earnings calls (BE ~726-745) plus Dec 2028 850-910 LEAPs (BE ~998-1,041); 50-day MA catching price.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Meta's options money has just started to flip... Why not take a long entry here if you're still bullish on the stock?"
+  }
+ ],
+ "notes": "Bias reflects the options flow the host reports; host himself stays non-committal and notes Meta fell after 3 of last 4 reports. No targets recorded; breakevens and Wells Fargo $1,000 PT are not the host's targets."
+}

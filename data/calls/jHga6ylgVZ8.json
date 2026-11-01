@@ -1,0 +1,159 @@
+{
+ "video_id": "jHga6ylgVZ8",
+ "channel": "Slope of Hope",
+ "title": "Trendlines Galore!",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (Slope of Hope)",
+ "macro_themes": [
+  {
+   "theme": "Trendline phase changes",
+   "view": "Broken support trendlines become resistance; the QQQ and SPY uptrend lines are now damaged, signalling a possible phase change lower."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Trendline already fractured (opened below, closed above); increases likelihood price slips back below it.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ trendline violated intraday, the beginning of a support-to-resistance phase change seen in prior examples.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "it increases the likelihood that prices will be allowed to slip back below there"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trendline anchored to the March 2026 war bottom has taken damage for the first time, commencing a phase change.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "for the first time, this is also taken on some damage and I believe is commencing um the aforementioned phase change of the line."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "SLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Silver must cross above the descending trendline from its top before a rally to much higher prices.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trendline from the silver top caps price; a break above would be the first bullish signal.",
+   "conviction": "low",
+   "timestamp": "7:40",
+   "quote": "if you're looking, as I am, for silver to eventually get a rally going and move on to much higher prices, it has to cross above this trend line first."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Post-election spike ran right into the old broken support trendline, now resistance.",
+   "conviction": "low",
+   "timestamp": "5:10",
+   "quote": "And so here once more kind of an appealing place to enter a short."
+  }
+ ],
+ "notes": "Mostly an educational trendline video; biases are mild and inferred from chart commentary. No prices quoted."
+}

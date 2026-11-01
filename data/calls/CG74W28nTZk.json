@@ -1,0 +1,360 @@
+{
+ "video_id": "CG74W28nTZk",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Pumps: to Resistance: This Exact Level Decides Everything",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "BTC bear market over",
+   "view": "After a 267-day bear market, 58K was likely the bottom and the 2-day 200 cloud is support."
+  },
+  {
+   "theme": "US midterms and crypto",
+   "view": "November elections are a fork in the road; a less pro-crypto win would mean red candles and harsher regulation."
+  },
+  {
+   "theme": "Crypto treasury companies",
+   "view": "MSTR's STRC perpetual preferred is a bad business model; crypto stocks follow Bitcoin."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     86600
+    ],
+    "invalidation": null
+   },
+   "condition": "Sustained rally needs a daily open and close above the ~86,600 descending trendline; a rejection there continues lower highs.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price testing top of range; 2-day 200 EMA/SMA cloud acting as support after a 267-day bear market, 58K likely the bottom; ~$260M long liquidations below may get cleared first.",
+   "conviction": "medium",
+   "timestamp": "1:40",
+   "quote": "I do like the odds of Bitcoin pumping... we need to sustain price action above this level... right around $86,600"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2540,
+     2700
+    ],
+    "invalidation": null
+   },
+   "condition": "Could shoot past 2,540 toward 2,700.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pumping into a resistance range at ~2,537-2,540 defined by Oct 11-12 candle bodies; recent high ~2,700 next.",
+   "conviction": "low",
+   "timestamp": "7:10",
+   "quote": "I wouldn't hate a short at the top of that range... 2540, 2537"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 113,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     113
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of a down-sloping parallel channel; watching 113 for a slight rejection.",
+   "conviction": "medium",
+   "timestamp": "9:55",
+   "quote": "Solana broke out. We we were bullish on this... What's the level of resistance I'm watching for Solana? 113."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADA/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 0.26,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     0.26
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling wedge breakout; next resistance around 26 cents.",
+   "conviction": "low",
+   "timestamp": "10:35",
+   "quote": "We're also bullish on Cardano, falling wedge... keep an eye out on 26 cents for ADA if it does rally."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 1.41,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1.41,
+     1.4242
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean bull flag on the 1-minute with a 4-hour rejection level confluence giving a technical target near 1.41-1.42.",
+   "conviction": "low",
+   "timestamp": "11:50",
+   "quote": "this is a nice clean bull flag... 141 so our horizontal line"
+  },
+  {
+   "group": "crypto",
+   "ticker": "QNT",
+   "instrument_quoted": "QNT/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     426
+    ],
+    "invalidation": null
+   },
+   "condition": "Would set up a swing short near 426 (flag target / Sept 2021 bull-run high).",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flag target coincides with ascending trendline and the 2021 high; expects rejection there like XRP did at its prior ATH.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "that's the Quant short I would be looking at setting up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     164
+    ],
+    "invalidation": null
+   },
+   "condition": "Short at 164, subject to what Bitcoin does.",
+   "action": "short",
+   "entry": 164,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trendline from May 11 coincides with an Oct 6 gap fill where sellers may unload.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "So I'm looking at 164 short for MicroStrategy."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BMNR",
+   "instrument_quoted": "BMNR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     26
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 26,
+   "stop": null,
+   "method": "technical",
+   "reason": "Prior pivot-low area and Oct 6 gap overhead.",
+   "conviction": "low",
+   "timestamp": "17:20",
+   "quote": "I'm looking to short that right around $26."
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "COIN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch the trendline for a short unless Bitcoin skyrockets past it.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Coming into trendline resistance; 3-day bearish RSI divergences have played out repeatedly.",
+   "conviction": "low",
+   "timestamp": "18:20",
+   "quote": "I would maybe just watch that trend line for a potential short opportunity on Coin."
+  }
+ ],
+ "notes": "No current BTC price stated in this video. ZEC (short-term bear-div scalp, closed) and VVV (Venice token, caution) skipped as trade chatter. ETH levels: expects resistance at ~2,540 but also said 'we might be seeing a $2,700 Ethereum' - recorded as resistance, no target."
+}

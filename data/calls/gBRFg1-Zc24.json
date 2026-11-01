@@ -1,0 +1,302 @@
+{
+ "video_id": "gBRFg1-Zc24",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Liquidations: The $81K Flush and Exact Targets for the Bounce",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Crypto policy turmoil",
+   "view": "White House crypto council lost its last staffer and a WSJ expos\u00e9 on Bo Hines/Tether helped push prices down; could become a major story if Democrats take the House."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs a daily close above the Nov-2025 wick level to confirm support; a pump into the descending trend line would be a short spot",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price holding the Nov-2025 wick level on 4h closes; wedge between descending trend line and new lower boundary resolving by ~Oct 25.",
+   "conviction": "low",
+   "timestamp": "2:40",
+   "quote": "if we do get out of this zone, I would be looking at that place for a potential short on Bitcoin"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": 2405,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed long from 2400-2410 entries as price came within a hair of descending trend line resistance.",
+   "conviction": "low",
+   "timestamp": "5:10",
+   "quote": "we're out of the ETH trade, everybody. We're out of the ETH long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOLUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if SOL drops to the three-factor confluence (ascending + descending trend lines + 0.5 fib)",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Three-factor confluence of trend lines and 0.5 Fibonacci retrace below price.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "that to me is going to be a very, very good place for a Solana long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADAUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     0.21,
+     0.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 0.21,
+   "stop": null,
+   "method": "technical",
+   "reason": "Limit order at 0.21: ascending trend line, psychological level and 0.5 fib retrace.",
+   "conviction": "medium",
+   "timestamp": "8:10",
+   "quote": "I got a limit order right here, 21 cents. So, I like this level, 21 cents"
+  },
+  {
+   "group": "crypto",
+   "ticker": "UNI",
+   "instrument_quoted": "UNIUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish RSI divergence on the 1h chart near the lows.",
+   "conviction": "low",
+   "timestamp": "10:50",
+   "quote": "if anything, you should be looking for a long on Uniswap"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HBAR",
+   "instrument_quoted": "HBARUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Support at pivot top near Oct-10 wick; possible swing long.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "this might be more of a swing long. You might be able to keep this one open for a little bit"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRPUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading in a parallel channel; short near top, long lower; closed a liquidation-heat-map long early.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "If you're interested in a long, wait for it to come down a little bit lower"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZECUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 15% in 4h into descending trend line with hidden bearish RSI divergence; at break even with tight stop.",
+   "conviction": "medium",
+   "timestamp": "13:50",
+   "quote": "that right there, it's a clean short"
+  }
+ ],
+ "notes": "No date said on air; listing date used (could be 2026-10-15, same session as the $81K flush). Most levels shown on chart only, no numbers. DOGE long closed for +48% (no forward view) and STX/OP/XCN only commented in passing; skipped."
+}

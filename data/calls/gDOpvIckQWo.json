@@ -1,0 +1,54 @@
+{
+ "video_id": "gDOpvIckQWo",
+ "channel": "tastylive",
+ "title": "Paul Tudor Jones Says 2027 Gets Rough, and It's Not About Valuations",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "tastylive host (discussing Paul Tudor Jones)",
+ "macro_themes": [
+  {
+   "theme": "Buybacks vs capex/IPO supply",
+   "view": "PTJ says 2027 will be rough as buybacks stall, capex soars and mega IPOs add supply; host notes buybacks still ~2x new issuance, so the engine is coughing, not stalled."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX options, Dec 2027)",
+   "price_at_call": 7800,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "PTJ bearish on 2027 on equity-supply grounds; host counters with Goldman buyback math and frames options-implied range of ~6,000-9,600 (or 6,600-9,000) by Dec 2027.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Paul Tudor Jones says 2027 will be really, really challenging. His reasoning isn't valuations, it's supply."
+  }
+ ],
+ "notes": "PTJ's bearish view is reported second-hand, not a guest appearance; host is neutral, so long_term recorded as mixed. 6,000/9,600 are expected-move bounds, not targets."
+}

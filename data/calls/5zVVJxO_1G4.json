@@ -1,0 +1,10 @@
+{
+ "video_id": "5zVVJxO_1G4", "channel": "tastylive", "title": "Dr. Jim Schultz Shows How to Trade Earnings Season as a Premium Seller",
+ "video_date": "2026-10-15", "date_source": "transcript", "recorded_when": "intraday",
+ "video_type": "daily_market", "speaker": "Jim Schultz",
+ "macro_themes": [
+  {"theme": "Earnings season approach", "view": "Earnings outcomes are essentially a coin flip with a slight upside drift; trade them with defined risk, smaller size (half to a third of normal), entered near the close before the report."}
+ ],
+ "calls": [],
+ "notes": "Educational options show with no stated market views. Alcoa (AA) bullish put spread and Netflix (NFLX) upside expected-move butterfly (buy 73 / sell 2x 79 / buy 85) were illustrative examples only ('just flip a coin, man'), so not recorded as calls. video_type set to daily_market as the closest fit for an education segment."
+}

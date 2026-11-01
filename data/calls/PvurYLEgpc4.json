@@ -1,0 +1,140 @@
+{
+ "video_id": "PvurYLEgpc4",
+ "channel": "VRIC Media",
+ "title": "Andy Schectman: I’ve Been Buying Gold Every 2 Weeks",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Andy Schectman",
+ "macro_themes": [
+  {
+   "theme": "COMEX delivery surge",
+   "view": "Record gold/silver standing for delivery shows sophisticated buyers (possibly Treasury proxies or Tether) accumulating physical metal while paper prices are suppressed."
+  },
+  {
+   "theme": "Paper manipulation",
+   "view": "Paper-market weakness is being used to transfer metal from weak to strong hands; not a genuine collapse in demand."
+  },
+  {
+   "theme": "De-dollarisation / central bank gold",
+   "view": "Countries are repatriating gold and building non-Western payment systems, using gold instead of Treasuries."
+  },
+  {
+   "theme": "Equity market concentration and leverage",
+   "view": "Retail is all-in on ~10 stocks with record margin and option exposure; most S&P stocks are down ~20%, a fragile setup."
+  },
+  {
+   "theme": "Gold-linked monetary reform",
+   "view": "Judy Shelton's appointment to Bessent's advisory council is more than a coincidence and signals gold moving back into monetary policy."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot (USD/oz)",
+   "price_at_call": 4100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "The ~30% drop from $5,500-5,600 was the correction; central banks, China and COMEX delivery takers keep accumulating regardless of price, so he doesn't expect further falls.",
+   "conviction": "high",
+   "timestamp": "28:00",
+   "quote": "Question is, does it continue to fall? I don't think so. The physical demand is too strong."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot (USD/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Silver is down over 50% but fundamentals are unchanged: ongoing deficit, record Chinese imports, ~$18B delivered on COMEX this year; big money is accumulating at suppressed prices.",
+   "conviction": "high",
+   "timestamp": "24:00",
+   "quote": "Of course. I mean mathematically there's tremendous potential... it stings, but nothing has really changed."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "mining and natural-resource shares (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Mining, rare-earth and resource stocks are an undervalued, unloved segment as countries race to secure strategic metals and energy.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I buy mining shares and and natural resource stocks, which I believe where we are heading represent a true undervalued segment"
+  }
+ ],
+ "notes": "Gold price_at_call 4100 is the host's quote ('4,100 / $4,000'), not the guest's. Gold medium-term bias inferred from 'does it continue to fall? I don't think so'. Freeport-McMoRan (FCX) mentioned only as a long-held position that did well; skipped. Miners mapped to GDX though he talks about resource stocks broadly. Contains conference promo."
+}

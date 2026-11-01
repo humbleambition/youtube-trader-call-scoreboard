@@ -1,0 +1,458 @@
+{
+ "video_id": "gMlHic_ybDs",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | TSM Earnings + PPI Data Release",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Hot PPI / inflation",
+   "view": "PPI and core PPI came in far above consensus, highest readings since 2022; the Fed has no choice but to raise rates."
+  },
+  {
+   "theme": "Rotation to defensives and value",
+   "view": "Money is rotating out of tech/growth into energy, utilities, staples and cash-flowing non-tech; growth vs value (VUG/VTV) is imploding."
+  },
+  {
+   "theme": "AI/data-center stress",
+   "view": "Anthropic data was bad, CoreWeave is the poster child of data-center problems, and mega-cap tech like Meta is next to get smoked."
+  },
+  {
+   "theme": "Bonds",
+   "view": "Yields will come in hard as people worry and rotate into treasuries, so buying treasuries and rate-sensitive housing names makes sense."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (also NQ futures)",
+   "price_at_call": 720,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     720,
+     712
+    ],
+    "resistance": [
+     725
+    ],
+    "invalidation": null
+   },
+   "condition": "If QQQ loses 720, 712 is on the table; 725 put wall likely acts as a bounce magnet/level",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill into the 725 put wall; 4-hour RSI around 15 is deeply oversold so sharp snapback bounces are likely, but within a downtrend and he is not buying tech.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "if you lose 720, you're looking at 712. I I just think with a 725 put wall that at some point you're setting up to have some kind of bounce"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY / ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold on the 4-hour RSI after rejecting the October area; shorts must be quick as snapback rallies can be vicious; SPY relatively stronger than QQQ.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "this is not an area where you get like short for super long term... the snapback rallies in situations like this can be pretty darn vicious"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "semis index ('socks')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch how semis act at the 500 put-wall level today; that is paramount",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapping down into the semis put wall at 500 and starting to bounce off it.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "watch how you act in that 500 level today. That is going to be paramount to everything"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "energy sector / integrated oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Higher crude plus falling shipping costs means integrated oil companies will print cash; energy chart setting up to rip. He holds an integrated position.",
+   "conviction": "high",
+   "timestamp": "7:00",
+   "quote": "this is setting up to just like rip everybody's face off"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "utilities sector",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "With rates likely to rise, money chases yield into utilities; expects a break of the downtrend line. He started buying utilities.",
+   "conviction": "high",
+   "timestamp": "7:00",
+   "quote": "utilities are really setting up to to rip here. I think they're going to break this DTL"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CoreWeave",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "CoreWeave is the poster child of data-center problems (15% bonds); currently short, though warns of short-squeeze bounces.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I'm currently short this, but to me, yeah, I think there's some real issues out there with the data center side"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "Meta",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "No flight to safety into the dollar; mega-cap tech like Meta is next to get smoked; he dumped most swing tech last Thursday.",
+   "conviction": "medium",
+   "timestamp": "20:00",
+   "quote": "the metas of the world, um you know, these names got to get smoked and I think that's next"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASTS",
+   "instrument_quoted": "AST SpaceMobile",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Wants a bounce first to start shorting",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "SpaceX direct-to-cell news is a major problem for ASTS; down $15 since the news.",
+   "conviction": "high",
+   "timestamp": "28:00",
+   "quote": "who's going to go under is ASTS... I think this is going a lot lower"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "Nvidia",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Super-long-term holding he will never sell even if cut in half, though notes Nvidia is becoming a lender for chip purchases.",
+   "conviction": "high",
+   "timestamp": "21:00",
+   "quote": "the super long-term Nvidia, it can go to 100. I'm not getting out of it. Like I'll just hold it forever"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "treasuries / yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects people to worry about rate hikes and rotate into bonds, pushing yields down hard; treasuries, Rocket and homebuilders worth looking at.",
+   "conviction": "medium",
+   "timestamp": "29:00",
+   "quote": "I think buying treasuries now makes a lot of sense... Yields are going to drop"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BRK.B",
+   "instrument_quoted": "Berkshire Hathaway",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "New CEO is wielding Berkshire's cash aggressively like a sword (e.g. Bending Spoons stake); makes a ton of sense to get involved longer term.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "I actually think that this makes a ton of a ton of sense right now to to look at um and to get involved with from a longer-term perspective"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Says he would not go near AMD in this environment.",
+   "conviction": "low",
+   "timestamp": "34:00",
+   "quote": "AMD, I wouldn't go near. These are just notes from before. I wouldn't go near this"
+  }
+ ],
+ "notes": "No date spoken; PPI-release day, approx_date used. 'Socks' = semis index, quoted level 500 (likely SOXX); ticker SOXX used. Visa, Mastercard, Lilly called 'fantastic' charts but he is not chasing; Walmart/Costco/XLP defensive mentions not recorded. 'Nvidia can go to 100' read as willingness to hold through a drop, not a target."
+}

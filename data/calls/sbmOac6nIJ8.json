@@ -1,0 +1,146 @@
+{
+ "video_id": "sbmOac6nIJ8",
+ "channel": "TheDailyGold",
+ "title": "If You Own Silver or Gold, Please Don't Make This Mistake",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "metals",
+ "speaker": "Jordan Roy-Byrne",
+ "macro_themes": [
+  {
+   "theme": "Secular bull in metals",
+   "view": "Gold and silver are in secular bull markets; buy, hold and trim, and don't trade in and out."
+  },
+  {
+   "theme": "Drawdown mostly done",
+   "view": "The precious metals correction does not have much longer or deeper to go; most damage is done."
+  },
+  {
+   "theme": "2-year yield peaking",
+   "view": "A peak and roll-over in the 2-year yield (near 5%) would mark the end of the drawdown and start the next leg up for gold."
+  },
+  {
+   "theme": "Low metals allocation",
+   "view": "Implied allocation to precious metals (3.7%) and gold (~1.9%) is tiny vs past peaks, so this is not 1980 or 2011."
+  },
+  {
+   "theme": "Stocks vs gold",
+   "view": "S&P/gold ratio may rally another 6-8% to its falling 40/80-month averages, then roll over as capital rotates from stocks to metals."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Broke out of a 13-year cup and handle; down 29%, maybe a bit more, but no 40-50% correction; next leg up when 2-year yield rolls over.",
+   "conviction": "high",
+   "timestamp": "1:00",
+   "quote": "we're not going to see a 50% or 40% correction right now. So, you shouldn't be worried about that much more downside"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": 56,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50,
+     48
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of a 45-year base; down 55%, similar to 2008 decline; strong support at 48-50.",
+   "conviction": "high",
+   "timestamp": "2:50",
+   "quote": "when we're looking out the next 5 or 10 years, this is going to be trading in the hundreds of dollars per ounce"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDXJ",
+   "price_at_call": 110,
+   "short_term": {
+    "bias": "bearish",
+    "target": 94,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 94,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100,
+     94
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breadth above 200-day not yet washed out; GDXJ could fall another 10-13% to strong support near 94, then a major bottom and big move up.",
+   "conviction": "medium",
+   "timestamp": "17:30",
+   "quote": "GDXJ could still decline here 10, 12, 13% or so down to this really strong support"
+  }
+ ],
+ "notes": "No date spoken; end-of-week video (\"as this week closes\", \"great weekend ahead\"), date from listing. Silver \"hundreds of dollars\" over 5-10 years not given as a number, so no target. GDXJ normalised to GDX ticker, levels in GDXJ units; short-term he noted a rebound first, so the 94 downside is more weeks out."
+}

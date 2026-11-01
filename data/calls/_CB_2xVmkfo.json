@@ -1,0 +1,127 @@
+{
+ "video_id": "_CB_2xVmkfo",
+ "channel": "Verified Investing",
+ "title": "Buy The Dip With Anchored VWAP: Oracle, SMCI And SpaceX",
+ "video_date": "2026-10-18",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "deep_dive_stock",
+ "speaker": "Lawton (Verified Investing)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     120
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 120,
+   "stop": null,
+   "method": "technical",
+   "reason": "Anchored-VWAP secondary multiplier band near 120 plus open gap fill from July 29; wants to buy 8-9% lower.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "if we come down maybe 8% lower, 9% lower on Oracle... that's where I'm looking to be a buyer, to go long Oracle"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMCI",
+   "instrument_quoted": "SMCI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     24,
+     23
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 23.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill, pivot low and secondary anchored-VWAP band off highest-volume candle at $23-24, ~26% below current.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "$23 to $24 would be that potential entry... this is the level I love, absolutely love for a potential entry long"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPCX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     140,
+     138
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 140,
+   "stop": null,
+   "method": "technical",
+   "reason": "Anchored VWAP from highest-volume candle since IPO; secondary/tertiary bands align with pivot lows near 140 and 138 (~5% and ~11% lower).",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "if SpaceX comes down and into those levels, I will 100% be looking at those for potential long"
+  }
+ ],
+ "notes": "Host says 'this Saturday' but signs off 'rest of your Sunday' and episode format is the Sunday setups episode; dated Sun Oct 18 (listing said Oct 19). Buy-the-dip limit levels, no current prices given; SpaceX levels described as 5%/11% away though quoted 140/138."
+}

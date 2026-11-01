@@ -1,0 +1,354 @@
+{
+ "video_id": "yGRRWe-7aV0",
+ "channel": "Arete Trading",
+ "title": "The Stock Market Trap Wall Street Set (Earnings, AI Stocks & Oil)",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "AI capex slowdown",
+   "view": "Tesla's capex cut, Lam's low-end guide and a $25B state penalty on Meta could push out AI capex and dissolve the memory bottleneck."
+  },
+  {
+   "theme": "French-German bond spread carry trade",
+   "view": "A widening France-Germany 10-year spread could unwind a levered carry trade like the yen trade and is a systemic risk."
+  },
+  {
+   "theme": "Growth-to-value rotation",
+   "view": "Money is moving from tech into value, homebuilders, insurers and utilities since around Oct 8."
+  },
+  {
+   "theme": "Iran escalation",
+   "view": "Mines in the strait and talk of a post-midterm strike raise military risk and put a bid in crude."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SOX",
+   "instrument_quoted": "SOX semiconductor index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     500
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "SOX broke its 500 put wall that had held repeatedly; Tesla capex cut, Lam's low-end guide and pushed-out robot demand weaken the memory bottleneck story.",
+   "conviction": "high",
+   "timestamp": "3:00",
+   "quote": "I think it's pretty much a foregone conclusion that you have to undercut this at some point."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P futures forming a high-probability bearish candlestick pattern amid risk-off.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "S&P futures are forming a really nefarious pattern here. We have to be very careful of this."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (put wall 700)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 700 put wall breaks tomorrow (Friday), downside accelerates.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Nasdaq down 3%; bear flag broke; doesn't see the trade washing out in a day and needs a V-reversal.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "if you break 700 tomorrow, this put wall is enormous and if we break that, then we're going to have an issue."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 350,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "First company to cut capex, extended timelines; gravestone on chart; bought puts on RSI/EMA breakdown.",
+   "conviction": "medium",
+   "timestamp": "5:30",
+   "quote": "I think you have to come down to that 350 level."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     850
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Breaking 850 put wall as NAND/memory names sell off after Lam guide.",
+   "conviction": "medium",
+   "timestamp": "18:20",
+   "quote": "850 put wall on MU... all these are breaking down and they're breaking down hard."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 1250,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1300
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Broke 1300 put wall, likely walks into 1250.",
+   "conviction": "medium",
+   "timestamp": "18:25",
+   "quote": "SanDisk was 1300. They're probably going to walk into 1250."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": 5.0,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10-year broke 5% on recession/systemic-risk fears (French-German spread carry trade unwind); expects rates to drop, driving rotation into value.",
+   "conviction": "medium",
+   "timestamp": "12:45",
+   "quote": "they're going to start buying the home builders because rates are going to drop"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BRK.B",
+   "instrument_quoted": "BRK.B",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rotation from growth to value since ~Oct 8; Berkshire breaking out.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "just disclosure I recently bought Berkshire... That's why Berkshire is breaking out like it is."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LEN",
+   "instrument_quoted": "LEN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Homebuilders benefit as rates drop and money rotates to value/hard assets.",
+   "conviction": "medium",
+   "timestamp": "16:10",
+   "quote": "Lennar I own, it's doing exceptionally well. So they're going to start buying the home builders because rates are going to drop"
+  }
+ ],
+ "notes": "Date inferred: host says 'tomorrow... on a Friday' and Meta/Tesla/Lam reported 'last night', giving Thursday 2026-10-22 (listing 10-23). '10-year broke 5%' read as falling below 5% given his bond-rally/rates-dropping commentary; ambiguous. QQQ 700 put wall instrument not named explicitly. SOX kept as its own ticker. 'EWW put wall 150' likely means EWY (South Korea); skipped."
+}

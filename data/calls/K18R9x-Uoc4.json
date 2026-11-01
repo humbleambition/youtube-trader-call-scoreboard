@@ -1,0 +1,151 @@
+{
+ "video_id": "K18R9x-Uoc4",
+ "channel": "David Lin",
+ "title": "How High Do Interest Rates Go? When Do Oil Prices Fall? Economist Answers | Peter Berezin",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Peter Berezin (BCA Research)",
+ "macro_themes": [
+  {
+   "theme": "Oil / refined products",
+   "view": "Brent above $100 with high shipping costs and crack spreads; little scope for oil relief this year, probably improving next year."
+  },
+  {
+   "theme": "Iran war",
+   "view": "A 'kinetic equilibrium' that will likely keep simmering for at least the next few months."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "Higher yields are driven more by the AI capex boom crowding out other spending than by oil; 5.5% on the 10y is where he turns bullish on bonds."
+  },
+  {
+   "theme": "AI capex boom",
+   "view": "Capex boom likely continues 12-24 months, peaking ~2028; stocks typically peak before capex, maybe in 2027."
+  },
+  {
+   "theme": "Profit margins risk",
+   "view": "The bubble is in earnings/margins rather than P/E; at 2019 margins the S&P forward P/E would be 27, not 19."
+  },
+  {
+   "theme": "K-shaped economy",
+   "view": "Real disposable income barely growing; consumption driven by wealthy households, so an AI/tech bust would hit spending hard with limited policy room."
+  },
+  {
+   "theme": "Reproductive tech",
+   "view": "Expects a bull market in reproductive tech (IVF) over the next 3-5 years as governments subsidise fertility."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Base case: stocks move sideways for rest of year then start falling next year, as stocks historically peak before the AI capex peak (~2028); recommends benchmark equity allocation.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "I see stocks as likely moving sideways for the remainder of the year before starting to fall next year."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield (%)",
+   "price_at_call": 5.25,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 5.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.5,
+     6.5
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 10y reaches ~5.5% he would go long the 10-year (bullish bonds = bearish yields); relief for yields could come in 2027 if oil falls and AI capex busts.",
+   "action": "watch",
+   "entry": 5.5,
+   "stop": null,
+   "method": "macro",
+   "reason": "AI capex and lower savings push rates up; at 5.5% the 10y locks in a good return so he'd buy bonds, possibly within a couple of weeks.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "five and a half is the level on the 10 year that I've been saying that would be high enough for me to get bullish on bonds."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "High shipping costs, crack spreads and Ukraine strikes on Russian refineries keep prices high; no big relief this year, probably improving next year.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "I don't see a huge scope for relief in oil prices this year. Next year, who knows what'll happen. Probably things will improve by then."
+  }
+ ],
+ "notes": "Host says 'happy Canadian Thanksgiving' (Oct 12, 2026), so recording may be ~Oct 12-13; listing date used. Brent quoted 'above $100'; 10y quoted '5.2 5.3%' (price_at_call 5.25 midpoint). TNX medium-term 'bullish' means yields may rise to 5.5 before he buys bonds; long-term bearish yields is implied by his 2027 relief scenario. Fed described as having just raised rates."
+}

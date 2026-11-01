@@ -1,0 +1,111 @@
+{
+ "video_id": "G5vZo6ZH8uo",
+ "channel": "Meet Kevin",
+ "title": "Selling Continues.. Stocks, Bonds, Oil, Geopolitics... the ELECTION",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "10-year yield topped",
+   "view": "His 5.27% top call on the 10-year has held; yields now ~5.08% and he hopes they stay below it despite hot CPI/PPI."
+  },
+  {
+   "theme": "Oil-driven inflation",
+   "view": "Oil ~105 is an expensive level; energy is driving most of the PPI/CPI increases."
+  },
+  {
+   "theme": "Iran deal and midterms",
+   "view": "Expects a US-Iran deal between Oct 20-27; without one, a Democratic sweep is almost certain, with a deal a split Congress is likely."
+  },
+  {
+   "theme": "Solar / renewables",
+   "view": "A Democratic sweep (no Iran deal) would be a tailwind for renewables; 'time to buy some solar plays again'."
+  },
+  {
+   "theme": "AI hardware selloff / tech-lash",
+   "view": "Hardware and AI-infrastructure names (e.g. CoreWeave) are getting hit; political backlash may delay but not stop data-center buildout."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.085,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": 5.32
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Restates his call that ~5.27% was the top in the 10-year yield (plus or minus 5 bps); yield has fallen ~20 bps since.",
+   "conviction": "high",
+   "timestamp": "59:55",
+   "quote": "I am confident that this is the top on the 10-year, and it was."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715
+    ],
+    "resistance": [
+     725
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ lost 725 at the open; notes it is not near the 715 line, which is good. Levels only, no directional call.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "we have the queues losing 725. Now, we are not nowhere near the 715 line, which is good."
+  }
+ ],
+ "notes": "No date spoken; listing approx_date 2026-10-17 is a Saturday but this is a live market-hours stream (mentions 'yesterday' PPI), so actual date is likely Fri 2026-10-16. TNX invalidation 5.32 inferred from his 'plus or minus five basis points' around 5.27. Solar 'buy' is conditional on no Iran deal and names no ticker, so kept in macro_themes only. Oil (~105) and gold mentioned without a bias."
+}

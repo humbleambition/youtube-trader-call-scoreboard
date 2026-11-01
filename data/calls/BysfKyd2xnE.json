@@ -1,0 +1,175 @@
+{
+ "video_id": "BysfKyd2xnE",
+ "channel": "A1 Trading",
+ "title": "Is the AI Crash Starting?",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "macro_interview",
+ "speaker": "A1 Trading panel: host with Allan and Merrily",
+ "macro_themes": [
+  {
+   "theme": "High yields weigh on stocks",
+   "view": "Yields at these levels make investors cautious; rate-sensitive sectors (real estate, regional banks, industrials) have been hurt."
+  },
+  {
+   "theme": "AI trade wobble",
+   "view": "Korean memory sell-off on Chinese chip progress shows a fragile AI/Nasdaq setup."
+  },
+  {
+   "theme": "Rotation out of tech",
+   "view": "A tech pullback could cool yields and help the Russell and Dow; breadth is improving from washed-out levels."
+  },
+  {
+   "theme": "Earnings expectations too high",
+   "view": "Big-tech expectations are so high that anything short of perfect, especially on capex and free cash flow, causes drama."
+  },
+  {
+   "theme": "Curve regimes",
+   "view": "The curve flips between bear flattener and bear steepener; both mean yields rising, and markets need falling yields."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fragile time for tech into earnings with high expectations and high yields; would not mind a pullback.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "I've been kind of leaning off NASDAQ for a little while now"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "RTY futures / Russell shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bought after the large wick; breadth improving from washed-out levels, credit calm, yields pulling back favor a rotation into small caps.",
+   "conviction": "medium",
+   "timestamp": "2:50",
+   "quote": "I entered actually some um some Russell shares... So, that's where my stop is is below those lows"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Money leaving AI may seek safety at attractive yields, a catalyst for a short-term bottom in TLT; sold 75.50 puts and took profits early.",
+   "conviction": "low",
+   "timestamp": "4:30",
+   "quote": "that could be a really good catalyst to kind of put a bottom in in yields for the short term. TLT"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Sold 820 calls (Nov 20 expiry) after Oct 28 earnings because expectations for big tech are extremely high.",
+   "conviction": "low",
+   "timestamp": "6:50",
+   "quote": "with expectations incredibly high, I've actually sold some calls on uh Meta"
+  }
+ ],
+ "notes": "Panel livestream before the NY open in CPI/PPI week; date from listing. Speaker names partly unclear (host addressed as Allan; Merrily is the guest; Chris mentioned). TLT kept as its own ticker (bond ETF, inverse of TNX). META call-selling implies neutral-to-bearish/capped upside; recorded as low-conviction bearish. Russell stop \"below those lows\" of the wick day, no number given. Real estate bullish only if Middle East war resolves (conditional, not recorded as a call)."
+}

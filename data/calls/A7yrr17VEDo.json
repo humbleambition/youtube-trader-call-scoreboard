@@ -1,0 +1,101 @@
+{
+ "video_id": "A7yrr17VEDo",
+ "channel": "Meet Kevin",
+ "title": "The Global Debt Crisis JUST Got Twice as Bad.",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Private credit shadow defaults",
+   "view": "JPMorgan analysis shows shadow default rate ~16% (doubling) in $1.3T private credit; more worrying than AI debt because zombie bankruptcies cause permanent layoffs."
+  },
+  {
+   "theme": "AI debt issuance",
+   "view": "AI bond weakness (e.g. CoreWeave) reflects heavy new issuance, not necessarily rising default risk; GPU collateral retains value."
+  },
+  {
+   "theme": "Debt avoidance",
+   "view": "Personally holds no debt; fine buying great companies and housing with little/no debt despite bubble fears."
+  },
+  {
+   "theme": "Speculative excess",
+   "view": "Deals like the Bumble buyout show the cycle is still in its 'early drunk days'."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10-year at 24-year highs; may have just peaked giving some breathing room, but the uptrend is obvious and adds stress to indebted borrowers.",
+   "conviction": "low",
+   "timestamp": "3:30",
+   "quote": "It seems like it recently peaked, which a little bit of uh, know, a breather. ... but this, the trend here is pretty obvious."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": 77,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Stock down from $187 to ~$77; bonds trade at junk (~15% yield) as heavy new AI issuance competes for money; ~$10B cash vs ~$18B bills. But GPU collateral keeps residual value, so not a sign the AI market is collapsing. No explicit stock bias.",
+   "conviction": "low",
+   "timestamp": "4:30",
+   "quote": "I agree there is excess. I agree CoreWeave doesn't have money."
+  }
+ ],
+ "notes": "Solo commentary video (not an interview); classified as macro_interview as closest type. Recording time not stated. Bumble take-private at $6.08 discussed critically but no trading call."
+}

@@ -1,0 +1,420 @@
+{
+ "video_id": "SiigUuBDCEE",
+ "channel": "David Lin",
+ "title": "Tech Stocks Going To ZERO: 'The Whole Thing Is Going To Collapse' | George Noble",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "George Noble (guest), David Lin (host)",
+ "macro_themes": [
+  {
+   "theme": "AI debt financing breaking",
+   "view": "The financing architecture of AI (OpenAI/Anthropic funding rounds, neocloud debt) is coming apart and the whole edifice will collapse."
+  },
+  {
+   "theme": "Global monetary tightening",
+   "view": "Cost of capital is rising everywhere; avoid indebted, high-P/E, long-duration companies and own cash-flow and inflation beneficiaries."
+  },
+  {
+   "theme": "Life insurance / private equity risk",
+   "view": "PE-controlled life insurers (Athene, Prudential, Equitable, MetLife) are overleveraged in illiquid related-party assets; a crisis is developing."
+  },
+  {
+   "theme": "Post-election volatility",
+   "view": "Government incentive to prop up stocks and suppress oil fades after the election, so volatility should rise."
+  },
+  {
+   "theme": "Narrow market",
+   "view": "Indices are held up by a few big names; average stock is down ~15% from highs; it is a stock-picker's market."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 30,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 480,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Cash-flow burn intensifying; 'the product is the stock'; robotics hype worth only $30-40B; fundamental value ~$30/share.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "it remains a favorite short of mine... my fundamental assessment for each of those two stocks is they're worth $30 a share"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 30,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Big cash-flow problem; fund doubled the short recently; fundamental value ~$30/share.",
+   "conviction": "high",
+   "timestamp": "0:04",
+   "quote": "SpaceX has got a big cash flow problem... they're worth $30 a share"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CoreWeave (CRWV)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 107,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "$55B debt, ROIC 8.9% below borrowing cost, bonds yielding ~15%, retail piling in; 'WeWork with GPUs'; expects bankruptcy. Short from 107, added at ~81.",
+   "conviction": "high",
+   "timestamp": "0:09",
+   "quote": "We actually doubled the short a couple of weeks ago. It's our biggest position. I think there's a very good chance CoreWeave goes bankrupt."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Neoclouds (IREN, NBIS, CIFR) are the most leveraged part of AI infrastructure; bond market signals equity near worthless; NBIS 'best of the lot'.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "It's not just CoreWeave, it's IREN, it's NBIS, it's CIFR... NBIS is the best of the lot"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": 140,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Negative free cash flow, $260B of data-center leases, on the cusp of junk rating; price drop doesn't make it attractive.",
+   "conviction": "low",
+   "timestamp": "0:39",
+   "quote": "you can mark Oracle equity zero. I'm not predicting that right here right now"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Market held up by a few big tech names that will roll; volatility to pick up after the election; says predicting the index is a fool's errand.",
+   "conviction": "low",
+   "timestamp": "0:27",
+   "quote": "The market's being held up by a few big names. These things roll and the indices are going to roll."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Said to short more bonds when Bessent doubled buybacks with 10y near 4.70%; Fed not in control, global synchronous tightening raises cost of capital.",
+   "conviction": "medium",
+   "timestamp": "0:41",
+   "quote": "What Bessent really meant was you should short more bonds."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SSRM",
+   "instrument_quoted": "SSRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Likes gold miners as inflation beneficiaries; SSRM only 7-8x earnings.",
+   "conviction": "medium",
+   "timestamp": "0:46",
+   "quote": "I like the gold mining stocks. I think SSRM is particularly attractive and only seven or eight times earnings."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SBLK",
+   "instrument_quoted": "SBLK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Long shipping stocks as cash-flow, inflation-benefiting names.",
+   "conviction": "low",
+   "timestamp": "0:46",
+   "quote": "Then we have a couple shipping stocks... star bulkers, SBLK"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SLB",
+   "instrument_quoted": "SLB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Heavy energy weighting (Schlumberger, Valaris, Harbor Energy) as short-duration, inflation-benefiting cash-flow names.",
+   "conviction": "medium",
+   "timestamp": "0:45",
+   "quote": "We love energy stocks... You have Schlumberger, Valaris"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VAL",
+   "instrument_quoted": "VAL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Part of long energy book (Valaris) as inflation beneficiary.",
+   "conviction": "low",
+   "timestamp": "0:45",
+   "quote": "You have Schlumberger, Valaris. There a bunch of other ones on here as well."
+  }
+ ],
+ "notes": "Date from listing (2026-10-21); host says Tesla reports 'tomorrow'. Tesla short entry quoted as 475-485 (used 480). SpaceX ticker unknown, recorded as 'SPACEX'. CoreWeave long-term target 0 = expected bankruptcy (not a stated price). Also long MAKO (silver), AUGO, Harbor Energy - not recorded as separate calls (unclear tickers / passing). Most positions from scorecard shown on screen, not read out."
+}

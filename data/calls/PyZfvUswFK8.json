@@ -1,0 +1,59 @@
+{
+ "video_id": "PyZfvUswFK8",
+ "channel": "VRIC Media",
+ "title": "Melody Wright: I'm Out of Stocks — Only Holding Gold, Silver & Cash",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Melody Wright (guest), host Darrell Thomas",
+ "macro_themes": [
+  {"theme": "AI data center story propping up economy", "view": "The AI data-center buildout is the only thing holding the economy up, and growing delays and pull-outs will widen the cracks."},
+  {"theme": "Long-end yields rising / Fed lost control", "view": "The Fed lost control of the long end in Sept 2024; she would not buy long Treasuries, only T-bills ('T-bill and chill')."},
+  {"theme": "Housing correction", "view": "Housing is oversupplied, foreclosures are rising from lows, and home prices will fall significantly over several years toward ~3x median income."},
+  {"theme": "Inflation then demand destruction", "view": "Near-term high prices (gas, food) push CPI up, but demand destruction and falling rents/home prices should counter it around Q2 next year."},
+  {"theme": "Energy as the next story", "view": "Long energy is the next big story longer term, but it is too volatile now and she is waiting for confirmation."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "ES", "instrument_quoted": "US stock market (general)",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "sell", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Market trades on momentum and narrative, not fundamentals; AI data-center cracks and weak economy should bring a correction, though timing could take a while.",
+   "conviction": "medium", "timestamp": "7:00",
+   "quote": "I do believe we will get some kind of correction in the stock market. still take some time."
+  },
+  {
+   "group": "metals", "ticker": "GC", "instrument_quoted": "gold (general)",
+   "price_at_call": null,
+   "short_term": {"bias": "mixed", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "mixed", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "If a broad correction brings selling everywhere, she would buy more gold on the dip.", "action": "hold", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Gold is central to any debt solution (possible gold-backed bonds), but speculation means a correction could hit it short term.",
+   "conviction": "medium", "timestamp": "12:00",
+   "quote": "long term, I'm a fan... I'm just kind of nervous right here... I'll be buying"
+  },
+  {
+   "group": "metals", "ticker": "SI", "instrument_quoted": "silver (general)",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "hold", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Holds only gold, silver and cash; silver bias implied by her positioning, not argued separately.",
+   "conviction": "low", "timestamp": "31:00",
+   "quote": "I'm out of the markets, except for gold and silver, and the rest is cash."
+  }
+ ],
+ "notes": "Guest is a housing/mortgage analyst, not a trader; calls are positioning, not timed. Silver call inferred only from her holdings. No price levels given. Energy/uranium bullish long term but no specific ticker, so kept in macro_themes."
+}

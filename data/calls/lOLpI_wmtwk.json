@@ -1,0 +1,201 @@
+{
+ "video_id": "lOLpI_wmtwk",
+ "channel": "Verified Investing",
+ "title": "Natural Gas Is Dumping: The Trade I\u2019m Waiting For",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Nick Valdez",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "UNG options",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     9.7,
+     9.6,
+     9.25,
+     9.0
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Load up on UNG options if UNG drops to ~9.60-9.70, especially 9.25 or 9",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nat gas dumping on mild hurricane season, but UNG in a falling wedge that usually breaks upward.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I'm looking to add up some UNG options. I'll be I would be loading up, folks."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chopping on an ascending trend line from July 2025, breakdown measured move points sub-$4,000; long-term bullish on money printing and China buying.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "we're talking about sub $4,000 gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "spot silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     54
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Add spot silver if it reaches ~$54",
+   "action": "buy",
+   "entry": 54,
+   "stop": null,
+   "method": "technical",
+   "reason": "Approaching double-top support zone around $54 long watched by the desk.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "I am looking to add spot silver to my collection if we come to this $54 range."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     104,
+     105
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range/wedge with possible head-and-shoulders and descending trendline; resistance 104-105.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "definitely a lot of resistance right around the 104 area, 105 area"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WEAT",
+   "instrument_quoted": "WEAT (Teucrium Wheat Fund)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price at 0.618 Fibonacci retracement of multi-month swing; may nibble on options.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "this might be a little move I might have to get a little bit of a nibble on. Might have to get some wheat options."
+  }
+ ],
+ "notes": "NG call is via UNG prices. WEAT has no price levels given."
+}

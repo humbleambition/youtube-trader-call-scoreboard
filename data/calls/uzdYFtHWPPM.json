@@ -1,0 +1,26 @@
+{
+ "video_id": "uzdYFtHWPPM",
+ "channel": "tastylive",
+ "title": "Kevin Davitt Explains Why Leveraged ETFs Secretly Amplify Every Market Move",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Davitt (Nasdaq), with tastylive host",
+ "macro_themes": [
+  {
+   "theme": "Leveraged ETF rebalancing",
+   "view": "Levered products like SOXL are inherently short gamma and amplify market moves via end-of-day rebalancing flows."
+  },
+  {
+   "theme": "Rates vs Nasdaq",
+   "view": "The Nasdaq-100 had been rising alongside higher rates until the past 5-10 days, when that paused."
+  },
+  {
+   "theme": "Index skew into earnings",
+   "view": "Watching for inflections in NDX put/call skew through big earnings over the next two weeks."
+  }
+ ],
+ "calls": [],
+ "notes": "Educational/flow discussion only. Mentions Nasdaq-100 rolling 5-day return near -4% looked 'ripe for a bounce' (seen the prior day) but explicitly says 'What it means looking ahead, I don't know.' No directional calls recorded. Date: host says Friday; listing 2026-10-17, set to Friday 2026-10-16."
+}

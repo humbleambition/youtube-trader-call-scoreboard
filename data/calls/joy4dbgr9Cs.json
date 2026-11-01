@@ -1,0 +1,275 @@
+{
+ "video_id": "joy4dbgr9Cs",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | NFLX SPCX Earnings Preview",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "AI data-center weakness",
+   "view": "Neoclouds and data-center power plays are in trouble; a data-center IPO down 33% day one signals a problem."
+  },
+  {
+   "theme": "Bond rally",
+   "view": "Treasuries rallying either on less corporate issuance or recession defensiveness; either way not great for tech."
+  },
+  {
+   "theme": "Rotation to the 493",
+   "view": "Expects the S&P 493 to outgrow the Mag 7 next year; favours energy, beverages, defensives."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 7550,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7751,
+     7550
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ES holds 7751 it might form a bottom; otherwise 7550 on the table.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "ES rejecting at value area after 4h RSI divergence; leaning toward the bounce being only an oversold bounce, though holding 7751 could form a bottom. Expects ES to outperform NQ.",
+   "conviction": "medium",
+   "timestamp": "3:20",
+   "quote": "I'm really very close now to saying it's just an oversold bounce and we're probably going lower."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Expects Nasdaq to underperform the S&P; suggests pair trade long SPY / short QQQ.",
+   "conviction": "low",
+   "timestamp": "5:10",
+   "quote": "you just go long the SPY and short, uh, the Q's and uh, it tends to work out really well"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Neocloud earnings on the 22nd could be a 'dumpster fire'; even a good quarter likely gets sold. He has been shorting it, though mentions cheap 170 calls as a lottery.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "NBIS could be a freaking dumpster fire... if they have a really good quarter, they're just going to sell the hell out of it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BE",
+   "instrument_quoted": "BE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Data-center power names (and uranium) are 'toast'; a data-center IPO trading 33% below its price signals data centers have a problem.",
+   "conviction": "medium",
+   "timestamp": "22:20",
+   "quote": "Be to me is probably like the easiest short in the world."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EOG",
+   "instrument_quoted": "EOG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Energy is the only sector that makes sense to him right now; EOG chart 'looks fantastic'.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "This looks fantastic. Energy is the only thing that makes any sense to me."
+  },
+  {
+   "group": "stocks",
+   "ticker": "KDP",
+   "instrument_quoted": "KDP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy on a break through resistance.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Beverage/bottler names undervalued and should keep grinding as growth broadens beyond the Mag 7; interested on a breakout.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "I am really interested um in this name on a break if I can get through"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Likes the Amazon news and earnings, but has trust issues with the market and won't chase until stability.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "I like the fact that you're holding, but I don't trust anything here right now until I see some level of stability."
+  }
+ ],
+ "notes": "Host says 'hit your level yesterday on Friday' though listing implies Wed Oct 21; date left as listing. ES 7550 treated as downside target ('can get down to 7550')."
+}

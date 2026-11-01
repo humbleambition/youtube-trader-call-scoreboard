@@ -1,0 +1,417 @@
+{
+ "video_id": "zt-hneu3BQA",
+ "channel": "StockedUp",
+ "title": "Tomorrow Will Be Insane: $1 Trillion Wiped Out",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp hosts)",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "September CPI at 3.7% (core 2.6%) triggered a 1% S&P drop and ~40% odds of a Fed hike; volatility may just be beginning."
+  },
+  {
+   "theme": "AI debt stress",
+   "view": "Growing concern over AI companies' debt (CoreWeave bond yields ~15%) is pressuring AI and growth stocks."
+  },
+  {
+   "theme": "Middle East energy disruption",
+   "view": "Houthi/Saudi and US-Iran escalation is causing historic energy supply disruption that should keep benefiting energy stocks."
+  },
+  {
+   "theme": "Market concentration",
+   "view": "Ten mostly-AI stocks drove 70% of the S&P's gain, and they now face a real test into earnings."
+  },
+  {
+   "theme": "Rotation to defensives",
+   "view": "Money is rotating out of risky tech into consumer staples and healthcare."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 766.5,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     766.5,
+     765,
+     764,
+     762,
+     760,
+     758
+    ],
+    "resistance": [
+     770,
+     772,
+     774
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY breaks clearly below 766.50 (today's low), expect further downside toward 765/764/762; otherwise a small multi-day bounce to test resistance before falling again is likely.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke several supports on a 1% drop but still in an uptrend from the June low; sharp drops are often followed by a small secondary bounce.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "if we see a clear breakout of this level tomorrow, don't be surprised if SPY continues to fall"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 9.5,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     9.5
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke a multi-year trend line and the recent low with confirmation; other chip names also breaking key levels.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "I see a lot of potential for downside right now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 600,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish pattern pushing toward lows, overvalued after AI boom, China chip-architecture news; prefers entering on small bounce days.",
+   "conviction": "medium",
+   "timestamp": "11:50",
+   "quote": "I'm still pessimistic about AMD over the next few weeks and months"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WMT",
+   "instrument_quoted": "WMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     117,
+     118,
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Up 3.5% with weekly 116 calls up 600%; closed August gap, strong momentum, low correlation to SPY as money rotates to staples.",
+   "conviction": "medium",
+   "timestamp": "13:20",
+   "quote": "I believe there is potential for a breakout"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLV",
+   "instrument_quoted": "XLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Money rotating out of risky stocks into healthcare; XLV up 2.5%, could be a multi-month macro trend.",
+   "conviction": "medium",
+   "timestamp": "16:10",
+   "quote": "I wouldn't be surprised if the healthcare sector showed a macro trend that would last for several months"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Historic Middle East energy supply disruption should keep benefiting energy companies (XLE, CRAK).",
+   "conviction": "medium",
+   "timestamp": "15:50",
+   "quote": "I think energy companies will continue to benefit as long as this conflict in the Middle East continues"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CVS",
+   "instrument_quoted": "CVS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     90.75
+    ],
+    "invalidation": null
+   },
+   "condition": "If CVS breaks above $90.75, watch for continuation higher.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play for next-day continuation.",
+   "conviction": "low",
+   "timestamp": "17:20",
+   "quote": "If CVS can break through the $90.75 level, continue to watch its growth"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     182
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If NBIS falls below $182, watch for further decline.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; fell 10% with AI/growth sell-off.",
+   "conviction": "low",
+   "timestamp": "17:30",
+   "quote": "if Neuvirth can fall below $182, continue to watch for its further decline"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SPCX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     151
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If SPCX falls below 151, expect continued decline.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play; AI/space stock fell 2.8% with the market.",
+   "conviction": "low",
+   "timestamp": "17:50",
+   "quote": "If it falls below 151, expect SpaceX to continue its decline"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RGTI",
+   "instrument_quoted": "RGTI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 10,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     10,
+     8,
+     7.5
+    ],
+    "resistance": [
+     12.5,
+     14,
+     14.5,
+     16
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$2.64M Jan-2027 $12 put trade; stock broke multi-year $12.50-14 support, could fall to mid-range ~$10 or $8; small pullback possible first.",
+   "conviction": "medium",
+   "timestamp": "20:50",
+   "quote": "I wouldn't be surprised if they fell to the middle of their old range, somewhere around $10, or even $8"
+  }
+ ],
+ "notes": "No date spoken; CPI-release day, recorded after the close. NVDA prices as transcribed ($9.50 low, hypothetical $8/$7) look like transcription errors (likely ~$195/$180/$170) and are kept as said; $8/$7 were framed hypothetically so not used as targets. SPCX ticker as spoken for SpaceX. Gold mentioned only in passing (below $4,100)."
+}

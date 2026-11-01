@@ -1,0 +1,234 @@
+{
+ "video_id": "s7ZDPpVISjU",
+ "channel": "Verified Investing",
+ "title": "The Dollar Gains On Everything Except The Yuan",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Lawton Ho (intro says Martin)",
+ "macro_themes": [
+  {
+   "theme": "US dollar strength",
+   "view": "USD gaining against most majors except the Chinese yuan, likely yuan strength."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDGBP",
+   "instrument_quoted": "USD/GBP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     0.76,
+     0.77
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse H&S target hit (+2.2%); now a potential bull flag, resistance at prior pivot 0.76-0.77.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "certainly looks like it's on the rise."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDCAD",
+   "instrument_quoted": "USD/CAD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Push up followed by sideways bull flag below 2024-25 congestion; favors move higher.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "it looks like it favors a move actually higher"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDCNY",
+   "instrument_quoted": "USD/CNY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     6.65
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the January-2023 pivot low support breaks, next support ~6.65.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "USD weakening vs yuan, sitting on key 2023 pivot-low support.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "compared to the Chinese Yuan, we are starting to calm down significantly."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDJPY",
+   "instrument_quoted": "USD/JPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 165,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the inverse head and shoulders breaks out, move to new highs ~165.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed H&S breakdown; now an inverse H&S forming with measured move to ~165.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "Looking for a move up to new highs around 165."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDEUR",
+   "instrument_quoted": "USD/EUR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 0.87,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the up-sloping channel bottom breaks, fall to ~0.87 (about -1%).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tight rising channel, less bullish than a bull flag; a channel break targets 0.87.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "we could ultimately end up seeing a fall down to 87 cents per euro"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDAUD",
+   "instrument_quoted": "USD/AUD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the inverse head and shoulders breaks to the upside, measured move ~6% higher.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse H&S forming, right shoulder not yet broken.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "a break to the upside, measured move about 6% higher."
+  }
+ ],
+ "notes": "'Wonderful Tuesday' -> Oct 13 (listing Oct 14). Pairs quoted as USD/X (e.g. USD/EUR 0.87), not market-convention EURUSD. No price levels given for current rates."
+}

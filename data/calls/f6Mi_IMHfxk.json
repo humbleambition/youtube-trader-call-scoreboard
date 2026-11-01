@@ -1,0 +1,54 @@
+{
+ "video_id": "f6Mi_IMHfxk",
+ "channel": "Verified Investing",
+ "title": "Why We\u2019re Fading Home Depot With A Put",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (with Tabby Pierce)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "HD",
+   "instrument_quoted": "HD",
+   "price_at_call": 315,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     325,
+     331.37,
+     334.85,
+     335
+    ],
+    "invalidation": 334.85
+   },
+   "condition": "Thesis dead if HD pushes through the descending trend line (~334.85) and holds",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 12% since October into stacked resistance 325-335 (trend line from Sep-2025 high, 331.37 pivot, gap fill 334.85); contrarian fade, bought Jan-15-2027 325 put (delta -0.59, mid ~24.10).",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I don't think price is going to get past the zone"
+  }
+ ],
+ "notes": "Bearish view expressed by buying the HD Jan 15 2027 325 put, not shorting stock; entry left null (option mid ~24.10). price_at_call ~315 inferred from '$20 away' from 334.85. No date said ('yesterday' had big volatility); listing date 2026-10-17 is a Saturday, so recording was probably Friday 2026-10-16 afternoon."
+}

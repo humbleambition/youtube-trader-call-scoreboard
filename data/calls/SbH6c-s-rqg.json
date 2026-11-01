@@ -1,0 +1,56 @@
+{
+ "video_id": "SbH6c-s-rqg",
+ "channel": "Verified Investing",
+ "title": "Why Two Identical Options Cost Different Prices",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (with Tabby Pierce)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "JNJ",
+   "instrument_quoted": "JNJ stock (Jan 15 2027 260 call)",
+   "price_at_call": 247.1,
+   "short_term": {
+    "bias": "bullish",
+    "target": 250,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 260,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     244.88,
+     246.35
+    ],
+    "resistance": [
+     250,
+     260,
+     270
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 7.3,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Contrarian bounce after ~5% post-earnings drop into ascending trend line from Apr 2025 low plus unfilled gap 244.88 and pivot shelf 246.35; put/call 0.36 call-heavy, IV rank down to ~63.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "I would buy a call here. And with that, okay, now you have a bullish thesis. You think it gets a bounce here."
+  }
+ ],
+ "notes": "Date from 'happy Tuesday' + Jan 15 2027 expiry being 94 days out (=Oct 13). Entry 7.30 is option premium per share, not stock price. Targets 250/260/270 stated as targets; 270 left in resistance. Educational options episode."
+}

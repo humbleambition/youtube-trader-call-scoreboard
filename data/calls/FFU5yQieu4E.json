@@ -1,0 +1,62 @@
+{
+ "video_id": "FFU5yQieu4E", "channel": "tastylive", "title": "Why Today's Expiration Could Be a Turning Point",
+ "video_date": "2026-10-20", "date_source": "transcript", "recorded_when": "intraday",
+ "video_type": "daily_market", "speaker": "Brent Kochuba (SpotGamma)",
+ "macro_themes": [
+  {"theme": "Options expiration as pivot", "view": "VIX monthly expiration often acts as a market turning point and may mark a bounce after weakness in Nasdaq and small caps."},
+  {"theme": "Rotation out of tech", "view": "Selling has mostly been rotation from tech and small caps into Dow, financials and cyclicals, but rising 3-month correlation hints it could broaden into a real sell-off."},
+  {"theme": "Bearish skew building", "view": "Put wing is getting bid and call skew compressing while ATM vol stays cheap - a 'bearish hors d'oeuvre' but not yet confirmed."},
+  {"theme": "Oil, Iran, earnings catalysts", "view": "An Iran deal, falling oil and decent earnings (SpaceX, Meta, Tesla) could crush vol and send the market sharply higher."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "ES", "instrument_quoted": "SPX",
+   "price_at_call": 7800,
+   "short_term": {"bias": "mixed", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": 8000, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [7700, 7600], "resistance": [7730, 7740, 7800], "invalidation": 7700},
+   "condition": "Above 7,700 risk level stay cautiously bullish; rally to 8,000 into year-end if Iran deal, decent earnings, lower oil; below 7,700 negative gamma and significant downside risk",
+   "action": "",
+   "entry": null, "stop": null,
+   "method": "options_flow",
+   "reason": "SPX holds above the 7,700 gamma risk level and SpotGamma's setup shifted to 'cautious bull', but rising put skew and correlation mean a break of 7,700 could accelerate downside; he holds both calls and put spreads.",
+   "conviction": "medium",
+   "timestamp": "23:00",
+   "quote": "I think you could see a very sharp move to 8,000 into year-end, if we kind of get an Iran deal, if earnings are decent"
+  },
+  {
+   "group": "indices_futures", "ticker": "VIX", "instrument_quoted": "VIX index / VIX options",
+   "price_at_call": 17.8,
+   "short_term": {"bias": "bearish", "target": 17, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [17, 16], "resistance": [20], "invalidation": null},
+   "condition": "VIX pressured toward 17 (16 extreme) into Wednesday expiration; vol expected to wake up after earnings/FOMC",
+   "action": "",
+   "entry": null, "stop": null,
+   "method": "options_flow",
+   "reason": "Dealers are short VIX calls at 20+ and long puts near 17-17.5, so flows cap VIX at 20 and push it down into expiration; gamma flip at 17.8. Afterwards he expects vol to start waking up.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "maybe you get a little bit more to get down to to 17 handle flat. Um so, you know, there's potential a little little bit more to squeeze out"
+  },
+  {
+   "group": "stocks", "ticker": "NVDA", "instrument_quoted": "NVDA call options",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "",
+   "action": "hold",
+   "entry": null, "stop": null,
+   "method": "options_flow",
+   "reason": "Still holding Nvidia calls bought a week or two earlier when cheap, as a right-tail position in case the market rips.",
+   "conviction": "low",
+   "timestamp": "24:00",
+   "quote": "We we are still in Nvidia call options from a week or two ago, when those were really rather cheap."
+  }
+ ],
+ "notes": "Date from transcript: VIX options last trading day 'today, that is Tuesday' -> Tue 2026-10-20 (listing said 10-21). SPX 7800 is approximate ('currently at 7,800'). VIX medium-term bullish is inferred from 'vol starts to wake back up' after earnings/FOMC."
+}

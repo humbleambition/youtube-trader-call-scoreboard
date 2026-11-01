@@ -1,0 +1,103 @@
+{
+ "video_id": "r0m6zs83Eo0",
+ "channel": "Meet Kevin",
+ "title": "Kevin Warsh *JUST* Bailed out the Stock Market HIMSELF",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Fed hikes fading",
+   "view": "Warsh's speech signals caution and a focus on employment, so further hikes are less likely; possibly only one hike this year and none in 2027."
+  },
+  {
+   "theme": "Inflation expectations stable",
+   "view": "5-year breakevens around 2.3-2.35% are well below earlier peaks, so hot CPI/PPI is not a reason to hike."
+  },
+  {
+   "theme": "AI and jobs",
+   "view": "AI adoption tends to produce a U-shaped employment dip that could be recessionary before new jobs arrive."
+  },
+  {
+   "theme": "Euphoric run then pain",
+   "view": "Bullish on another euphoric market run, but advises paying down debt and expects rates to go to zero if things go bad later."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (chart; unclear, possibly SPY)",
+   "price_at_call": 715.85,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 715.43,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought the dip on a bounce at $715 as flagged in Alpha report; Warsh comments reduce rate-hike odds, which is bullish for the market.",
+   "conviction": "high",
+   "timestamp": "0:06",
+   "quote": "we mentioned that you should buy the dip if we end up bouncing at $715... Then we actually put six figures on it."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "broad market",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fewer or no further hikes with stable breakevens would be euphoric for the economy and market; longer term warns of an AI-driven recessionary U-shaped job dip.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "think about how bullish that's going to end up being for the economy and the market broadly. Oh my gosh, it's going to be euphoric."
+  }
+ ],
+ "notes": "Recorded at night after a hot PPI morning; no explicit date, listing date used (could be 2026-10-16). The $715 chart instrument isn't named; 'collapse in the queues' suggests QQQ but it may be SPY. Also bought Kalshi 'exactly one rate hike this year' YES (~16%), not recorded as a ticker call."
+}

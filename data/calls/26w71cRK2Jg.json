@@ -1,0 +1,499 @@
+{
+ "video_id": "26w71cRK2Jg",
+ "channel": "Arete Trading",
+ "title": "Hot Inflation Just Hit Your AI Stocks. (Watch This Now)",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Hot PPI, yields collapse",
+   "view": "Despite a hot PPI the 10-year gapped down hard; he thinks the top in the 10-year is in and markets believe inflation is under control."
+  },
+  {
+   "theme": "Rate-sensitive rotation",
+   "view": "Falling rates should lift homebuilders, mortgage lenders, regional banks, consumer discretionary, travel and airlines; value plays are not the worst idea."
+  },
+  {
+   "theme": "Put walls holding / oversold bounce",
+   "view": "Major put walls held and semis breadth improved, so an oversold bounce and base-building is likely, though not out of the woods."
+  },
+  {
+   "theme": "Anthropic IPO valuation cut",
+   "view": "A cut from $2T to $1.5T is actually good news because it shows real demand exists for the IPO."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 765,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     765
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to hold the put wall and get back over the 55-day moving average to build a base and rally",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Hot PPI drove price down to the 765 put wall and 55-day MA, an undercut that reversed perfectly; expects base-building rather than a V.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "if you hold here, which it looks to me like you have a really good shot of holding, you have nothing but time"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "4-hour RSI around 15 signalled an oversold bounce; undercut and reclaim of the 55-day with a gap fill and divergences.",
+   "conviction": "medium",
+   "timestamp": "0:45",
+   "quote": "It was like at a 15 on the 4-hour in the NQ. So you knew that you were due for some kind of oversold bounce"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXX",
+   "instrument_quoted": "semis sector",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Proprietary semis breadth indicator improved to flat after the OpenAI-day sell signal; semis held put walls; he bought semis broadly and sold puts.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "I already started buying some semis today, mostly selling puts, but I did buy semis broadly"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     900
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Micron got back over its ~900 put wall and stayed there on heavy buying with clear divergences.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "the way that we acted today on Micron, it was really impressive how you got over that call or over that put wall and you stayed over it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWW",
+   "instrument_quoted": "EWW",
+   "price_at_call": 150,
+   "short_term": {
+    "bias": "bullish",
+    "target": 165,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [
+     165,
+     170
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bounced perfectly off the 150 put wall on the highest volume since August, similar to prior bottoms; 38.2% retrace ~165 is a first tiring point.",
+   "conviction": "low",
+   "timestamp": "6:45",
+   "quote": "So maybe 165 you could get to before you'd have to concern yourself"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "Western Digital",
+   "price_at_call": 350,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     350
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "A ~$150M block trade bought at the 350 level shows someone wants to own it there.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "somebody wants to own it at that level and I think that's important"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Crude broke out; he saw it as a perfect entry with the 22-day MA as a stop (did not take it).",
+   "conviction": "low",
+   "timestamp": "8:30",
+   "quote": "you broke out right here and I'm like, you know what? This is actually perfect spot to get involved and then you're just using that 22 as a stop"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "The 10-year gapped down hard after a hot PPI; a move that size takes billions and is sustainable.",
+   "conviction": "medium",
+   "timestamp": "9:30",
+   "quote": "So it's very clear that top on the 10 year is in"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ITB",
+   "instrument_quoted": "homebuilders",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Homebuilders sit on the 200-week MA with a daily divergence; falling yields mean lower mortgages; many trade under tangible book value. Also likes NAIL.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "the home builders will start to get a bid here because they start looking out like 18 months to 2 years"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KRE",
+   "instrument_quoted": "regional banks (KRE / DPST)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Regional banks setting up as interest-rate sensitive plays; he bought DPST today.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "things like DPST had a good day. I own this. I We bought it today"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BRK.B",
+   "instrument_quoted": "Berkshire Hathaway",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Berkshire deploying cash aggressively like an 800-lb gorilla; chart keeps making higher highs.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "you have the higher high. So this continues to lift"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "Moderna",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hitting another high despite naysayers; biotech rotation ahead of an event in two weeks.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "MRNA, I keep hearing like all the naysayers, meanwhile you're hitting another high on this. It's just been an absolute monster trade"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASML",
+   "instrument_quoted": "ASML",
+   "price_at_call": 1600,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Held up well right at its 1600 put wall; he sold puts on it.",
+   "conviction": "low",
+   "timestamp": "17:15",
+   "quote": "ASML held up very well right against its put wall today at 1600. I sold puts on that. I really like the action today"
+  }
+ ],
+ "notes": "Date inferred as Thu 2026-10-15 from 'get you through tomorrow with the OpEx' (Oct 16 is monthly OpEx) and same-day PPI; listing approx_date is 10-16. 765 put wall assumed SPY (matches Verified Investing's 766 SPY support); the Nasdaq 55-day reference had no level. The '900 put wall' attributed to MU from context. Energy (XOM) and utilities (SO, DUK) rejections noted as surprises, no call. XBI/LABD and V/MA mentioned positively but briefly."
+}

@@ -1,0 +1,267 @@
+{
+ "video_id": "XJGWsnQvblY",
+ "channel": "Verified Investing",
+ "title": "Critical XRP Bug Found: CRISIS AVERTED",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "XRP overflow bug",
+   "view": "White-hat-found overflow bug could have minted ~38T XRP; no evidence of exploitation, fixed with bounty paid."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding support zone (Nov wick low to May high); 20-min and 1-min bullish RSI divergence; longs largely liquidated; wants weekly close above support.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "Might be a good sign for Bitcoin to do a little bit of a reversal."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price and RSI both falling on 20-min (weaker than BTC); watching a parallel channel before trading; open to long or short.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "Should we long it? Should we short it? Uh, I'm I'm open to either."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     106,
+     105
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 106,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hidden divergence (flat RSI while price falls), slightly bullish; opened long before stream and willing to add at 106 and 105.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "we got 150 Salana long... I'm willing to add to the entry right around 106. Might also add to the entry around 105."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line on 4h expected to act as resistance one or two more times; bull flag boundaries are lines in the sand; ETH dumping.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "if you're long on ETH, I would maybe take some profit on this... descending trend line"
+  },
+  {
+   "group": "crypto",
+   "ticker": "PUMP",
+   "instrument_quoted": "PUMP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long 400k tokens in profit after deep oversold and liquidations; next level is Oct 2 wick; may scalp; lose trend line = exit.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "We are long on pump and... this thing's starting to move."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZRO",
+   "instrument_quoted": "ZRO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Took a long on what may be a bottom; starting to look bullish.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "threw in a long maybe caught a nice little bottom right there on zero... Starting to look pretty bullish."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ENA",
+   "instrument_quoted": "ENA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "1h bearish divergence and 15m weak, but RSI deep oversold; not enough to enter.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "not enough for me to want to jump in on a trade now."
+  }
+ ],
+ "notes": "No price levels stated for BTC/ETH/XRP. SOL '150' read as position size (entry ~106); could be misheard. 'Zero' assumed LayerZero (ZRO), 'Athena' = Ethena (ENA)."
+}

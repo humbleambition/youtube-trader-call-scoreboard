@@ -1,0 +1,499 @@
+{
+ "video_id": "A4WruBd2Ndo",
+ "channel": "Ross Givens",
+ "title": "I'm Hunting for the NEXT BIG WIN\u2026 Let's Trade!",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Weak market breadth",
+   "view": "Net new lows for 6 weeks, only ~50% of S&P stocks above 200dma, A/D line rolling over: narrow, unhealthy market; trading little and small."
+  },
+  {
+   "theme": "Tightening financial conditions",
+   "view": "NFCI rising and Treasury and high-yield rates up, pressuring stocks; defensive sectors (staples, healthcare) leading."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "AI stocks priced for perfection on debt-fueled buildout; will eventually crash like past tech manias."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breadth deterioration (net new lows, % above 200dma ~50%, A/D line rolling over), rising NFCI and yields, defensive leadership.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "we are seeing these signs that this market is in fact very, very weak"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Suggests hedging tech portfolios with QQQ 680 puts (~5% OTM) to January to protect through next quarter.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "if I was trying to protect, I'd buy puts on the Qs at about 5% below the current price... the 680 puts out to like January"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SYK",
+   "instrument_quoted": "SYK",
+   "price_at_call": 283,
+   "short_term": {
+    "bias": "bullish",
+    "target": 331,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 367,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     277
+    ],
+    "resistance": [
+     320,
+     350
+    ],
+    "invalidation": 276
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 283,
+   "stop": 276,
+   "method": "technical",
+   "reason": "Medical stock consolidated and broke out; gap-down retest of breakout level instantly bought; first target prior acceptance zone 320-350.",
+   "conviction": "medium",
+   "timestamp": "0:54",
+   "quote": "I think you can buy Stryker here... long 30 shares"
+  },
+  {
+   "group": "stocks",
+   "ticker": "STM",
+   "instrument_quoted": "STM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 32.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30,
+     35
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pivot failure and base failure after consolidation; likely back to prior acceptance area.",
+   "conviction": "medium",
+   "timestamp": "0:24",
+   "quote": "this thing is in all likelihood going back down to 30 or 35 bucks a share"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": 1600,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 1200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 700,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1200,
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed consolidation breakout after 4000% run; expects retest of lows ~1200, potentially 700.",
+   "conviction": "medium",
+   "timestamp": "0:26",
+   "quote": "it's going to at least retest these lows down here at like 1200-ish. Potentially come all the way down here to 700"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IREN",
+   "instrument_quoted": "IREN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 20,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower highs and lower lows, failed runs; rolling over.",
+   "conviction": "medium",
+   "timestamp": "0:28",
+   "quote": "it is rolling over. It's probably going down here to about 20."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": 145,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would buy long-term only under 100",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Overvalued now given heavy debt needs and years from profit; more insider unlock selling in Oct/Nov; thinks worth ~$200 by 2030.",
+   "conviction": "medium",
+   "timestamp": "0:29",
+   "quote": "I'm not buying it here at 140, 150. It needs to be under 100 for me to buy it long-term."
+  },
+  {
+   "group": "stocks",
+   "ticker": "APLD",
+   "instrument_quoted": "APLD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "First insider buying by CEO and president ($5.6M, $1M) after years of selling, despite a strong technical downtrend.",
+   "conviction": "low",
+   "timestamp": "0:34",
+   "quote": "this is absolutely one to look at in terms of insider buying. So technically it looks terrible"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 11000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Still accumulating gold long-term; currently penalised by higher rates.",
+   "conviction": "medium",
+   "timestamp": "0:39",
+   "quote": "I still think gold is 10, 12,000 dollars an ounce within a few years."
+  },
+  {
+   "group": "stocks",
+   "ticker": "KGC",
+   "instrument_quoted": "KGC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Phenomenal miner for long-term accumulation, but no short-term momentum until gold runs.",
+   "conviction": "low",
+   "timestamp": "0:40",
+   "quote": "I still love Kinross... Short-term momentum is bad, though."
+  },
+  {
+   "group": "stocks",
+   "ticker": "HNGE",
+   "instrument_quoted": "Hinge Health",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     95
+    ],
+    "resistance": [],
+    "invalidation": 95
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clear breakout from consolidation in leading healthcare group; would exit below 95.",
+   "conviction": "low",
+   "timestamp": "0:25",
+   "quote": "I would bet this thing holds at worst above 95 bucks a share. If not, I'd be out of it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed long after ~10-15% dead-cat bounce into the 50-day MA; expects sellers to return.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "It's a little dead cat bounce... they're probably going to pick right back up and short and sell it down"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ABBV",
+   "instrument_quoted": "ABBV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     270
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean stage-two breakout after months of tight consolidation on the 50-day MA; leadership.",
+   "conviction": "low",
+   "timestamp": "0:47",
+   "quote": "See how clean this breakout is here in AbbVie? This is beautiful."
+  }
+ ],
+ "notes": "Date from host ('Monday, October the 19th, 8:00 a.m.'). SYK fill price not read out; ~283 inferred from '$6 late' vs 277 breakout, entry approximate. SYK second target given as 365-370 (used 367). STM target midpoint of 30-35. SpaceX price ~140-150. Hinge support 95 vs '470/480' buyers comment ambiguous (may refer to another chart). QQQ hedge implies QQQ ~715."
+}

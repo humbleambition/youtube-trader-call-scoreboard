@@ -1,0 +1,432 @@
+{
+ "video_id": "7Nzr74xVXYU",
+ "channel": "Verified Investing",
+ "title": "Meta And Tesla Earnings Can't Save Markets, NASDAQ Collapse, Oil Crushing Consumers",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Sticky $100 oil",
+   "view": "Oil stuck near $99-100 for months is eroding the consumer; if it stays there a recession comes and stocks go a lot lower; a US-Iran deal taking oil to $70-80 would send the S&P to new highs."
+  },
+  {
+   "theme": "AI trade unwind",
+   "view": "Good earnings are not enough: the bar is very high and AI spenders like Meta turning cash-flow negative with more debt is spooking investors."
+  },
+  {
+   "theme": "Falling yields as recession signal",
+   "view": "The 10-year yield dropping despite high oil signals eroding confidence and a recession on the horizon."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures (ES)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "new highs toward 8,000 need oil to come down (Iran deal); if oil stays ~$99, recession and a much lower market",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gap down ~1% on oil fears, but the daily chart still points to 8,000.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "If oil drops to 80 or $70 a barrel, you will see the stock market ripping up... towards that 8,000 level"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq E-mini futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "taking out Tuesday's low becomes an issue for the market",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "E-minis down 1.7% back to Tuesday lows as AI names sell off after earnings.",
+   "conviction": "low",
+   "timestamp": "2:40",
+   "quote": "if we take out this low here, that becomes an issue for the market"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bear flag / head-and-shoulders playing out; falling yields signal recession risk from $100 oil.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "the lower that yield goes, the more it is starting to say, \"Recession on the horizon.\""
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 680,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     666,
+     650
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "day-trade long at the 666 gap fill, or 650 trend line",
+   "action": "buy",
+   "entry": 666,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill at 666 and descending trend line at 650 are major technical supports.",
+   "conviction": "medium",
+   "timestamp": "5:10",
+   "quote": "We have 666 and potentially 650 as the two major technical supports"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     353,
+     350
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "potential day-trade long near 350-353",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at the upper band of its parallel channel after earnings; low-pivot trend line near 350.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "watch that 350 level today as a potential trading opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LRCX",
+   "instrument_quoted": "LRCX",
+   "price_at_call": 234,
+   "short_term": {
+    "bias": "bearish",
+    "target": 224,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     224
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "day-trade long if it falls into the 224 gap fill",
+   "action": "buy",
+   "entry": 224,
+   "stop": null,
+   "method": "technical",
+   "reason": "Guidance below a very high bar; huge gap fill at 224.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "If LRCS falls into 224, there's a huge gap fill right there. That looks amazing as a potential day trade long"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPOT",
+   "instrument_quoted": "SPOT",
+   "price_at_call": 563,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     576
+    ],
+    "invalidation": null
+   },
+   "condition": "possible scalp short at the 576 pivot top",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong stock in a weak market after an earnings pop; prefers buying beaten-down names.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "Pivot top right here at 5:76. I may consider a scalp trade right at that level. I'm not sure yet"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3950,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4065,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "close below ~4,065 targets 3,950; if that breaks, 3,500",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakdown continuing; long-term gold bug but the chart is the chart.",
+   "conviction": "medium",
+   "timestamp": "11:50",
+   "quote": "If we close below these recent lows of around 4,066, 4,065, you will start to head towards 39.50"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": 55,
+   "short_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 50,
+   "stop": null,
+   "method": "technical",
+   "reason": "Wedge breakdown confirmed and bear flag; buy orders near or on a pierce of $50.",
+   "conviction": "medium",
+   "timestamp": "12:20",
+   "quote": "when we get down to about $50 or a pierce of 50, I will start to inch in to silver"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bouncing off the major trend line he flagged after a big sell-off; inventories due.",
+   "conviction": "low",
+   "timestamp": "14:30",
+   "quote": "right to technical support, catching a little bit of a bounce"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000
+    ],
+    "resistance": [
+     87200
+    ],
+    "invalidation": null
+   },
+   "condition": "daily close below 81,000 with confirmation targets 75,500; break above 87,200 with confirmation targets 95,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Choppy range; no position until it breaks out or down.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "Break of 81,000 on a daily closing basis with confirmation, it's going to 75,500"
+  }
+ ],
+ "notes": "No date stated; listing 2026-10-22 used, but this is the morning after Meta/Tesla earnings, which other videos listed 10-22 report after the close, so the true date is likely 2026-10-23. Spotify prices spoken as \"5:25/5:63/5:76\" read as 525/563/576. LRCX spoken as \"LRCS\"."
+}

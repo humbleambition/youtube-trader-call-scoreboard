@@ -1,0 +1,95 @@
+{
+ "video_id": "bqN6cbkeoJ0",
+ "channel": "Ricky Gutierrez",
+ "title": "Is This The End Of The Bull Market? (How To Survive)",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "AI sell-off",
+   "view": "Speculative AI and neo cloud stocks hit hardest in a $1.1T one-day wipeout; sees it as a buying opportunity."
+  },
+  {
+   "theme": "Inflation and Fed",
+   "view": "Rising inflation and one more expected Fed hike this year mean cash in savings loses to inflation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (level ~700, likely QQQ)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq approaching prior support above 700 and oversold; shorting has poor risk-reward here and a recovery should lift everything.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "We tend to hold, tend to hold above 700... A nice little dip by opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Memory shortage lets Micron charge premiums; low forward P/E, cash-rich, high margins; risk is cyclical oversupply.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "This is why MU, in my opinion, is one of my favorite stocks."
+  }
+ ],
+ "notes": "No date stated; listing date used. MU target 1000 inferred from 'recovers back up to a thousand dollars, I make 19%' (implies price ~840, not stated directly). Nasdaq instrument unclear; 700 level fits QQQ. Heavy Seeking Alpha sponsorship."
+}

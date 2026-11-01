@@ -1,0 +1,92 @@
+{
+ "video_id": "cVd9h6VDfxU",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *200EMA* Could Trigger a MASSIVE SQUEEZE Tomorrow!",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (JJ)",
+ "macro_themes": [
+  {
+   "theme": "Consumer sentiment report",
+   "view": "Friday 10:00 ET consumer sentiment release is likely the day's biggest mover."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures (E-mini S&P)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 7275,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7600,
+     7275
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects bears to stretch lower to finish unfinished business (7600, triangle low 7275), then a bear-trap squeeze back up toward recent highs; a pop into a higher range first is likely a bull trap to sell.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily triangle low at 7275 not yet taken out, hourly measured move hit implying a range, breakout-pullback zone below on tick chart.",
+   "conviction": "medium",
+   "timestamp": "10:10",
+   "quote": "You're telling me right now we're going to go all the way down like this and not take out that 7275. I call bull crap"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 (NQ)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects price to extend lower into the daily 200-day moving average, then buy bear traps for a short squeeze Friday/Monday.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed pendulum swing in daily range projects to the 200 DMA just below; hourly measured move hit, so a range and rotation expected.",
+   "conviction": "medium",
+   "timestamp": "1:01",
+   "quote": "History says price will try to extend lower into that 200-moving average"
+  }
+ ],
+ "notes": "Date from transcript ('Tesla and Meta report last night', plan for 'Friday's live stream' tomorrow) = Thursday 2026-10-22. ES levels '76 even' read as 7600 and '72 and 3/4'/7275 as the same triangle low. Short-term bias 'mixed' = dip first then squeeze; no NQ price levels given."
+}

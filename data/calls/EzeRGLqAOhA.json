@@ -1,0 +1,175 @@
+{
+ "video_id": "EzeRGLqAOhA",
+ "channel": "Ricky Gutierrez",
+ "title": "Market Rally Without News? Here Is What You Need To Know",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "CoreWeave debt stress",
+   "view": "CoreWeave's $51B obligations and >10% CDS cost are the root of the AI sell-off; still a live concern."
+  },
+  {
+   "theme": "Meta earnings is the test",
+   "view": "Meta's capex guidance Wednesday will move all AI stocks; a double-edged sword for Meta vs CoreWeave."
+  },
+  {
+   "theme": "Buy dips with small size",
+   "view": "Markets oversold on recent time frames; buy the dip in sizes you can tolerate, beginners shouldn't short."
+  },
+  {
+   "theme": "Geopolitics/midterms",
+   "view": "US-Iran deal hopes vs Middle East warnings; Trump could get erratic if Republicans lose midterms."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up ~2% with no news, technically overbought intraday (he shorted), but still oversold on recent time frames for swing/investing.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "It's a little bit on the overbought side. It had a really strong rally... I would be careful"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought last week below $900 as a good-enough deal after the sell-off; will add if it keeps falling.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I only plan to add more if Micron continues to sell off"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Recovery potential (analysts ~66% upside) but debt fears and Meta earnings make it risky; only small positions.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I would rather buy $1,000 than buy 10"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100
+    ],
+    "resistance": [
+     176
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Overvalued, loses $8B/yr, no path to profitability; risk/reward not good enough to buy, holding kids' shares from ~118.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "do I think it's a great time to invest in SpaceX? No"
+  }
+ ],
+ "notes": "Weekday not stated explicitly; dated Monday 2026-10-19 from context (bought Friday, SpaceX earnings 'tomorrow', Meta 'this Wednesday') vs listing 2026-10-20. SpaceX ticker unknown; recorded as SPACEX. NQ short-term bias is intraday only."
+}

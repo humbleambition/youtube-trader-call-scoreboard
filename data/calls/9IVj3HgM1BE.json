@@ -1,0 +1,189 @@
+{
+ "video_id": "9IVj3HgM1BE",
+ "channel": "tastylive",
+ "title": "The Simplest Charting Tool Most People Draw Wrong",
+ "video_date": "2026-10-18",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (inferred; uses SlopeCharts)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ opened below a long ascending trend line and closed above it; he calls the line fractured, the start of a support-to-resistance phase change.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "it increases the likelihood that prices will be allowed to slip back below there"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend line from the March 2026 war bottom has taken damage for the first time, beginning a phase change.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "this is also taken on some damage and I believe is commencing um the aforementioned phase change of the line."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "SLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to cross above the descending trend line from the silver top first.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line from the top caps silver; he is looking for an eventual rally to much higher prices once it is broken.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "if you're looking, as I am, for silver to eventually get a rally going and move on to much higher prices, it has to cross above this trend line first."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "Brazil ETF (said 'EWC')",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Post-election spike ran right up to the broken trend line, now resistance.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "here once more kind of an appealing place to enter a short."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke above a descending trend line and has traded above it since; resistance conquered.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "ever since then, it's been trading above the trend line because that resistance was conquered."
+  }
+ ],
+ "notes": "Educational trend-line video; biases are implied from chart commentary. Brazil ETF was called 'EWC' (Canada's ticker); mapped to EWZ. XLE bullish is implied only. Speaker name not stated."
+}

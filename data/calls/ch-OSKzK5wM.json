@@ -1,0 +1,275 @@
+{
+ "video_id": "ch-OSKzK5wM",
+ "channel": "Verified Investing",
+ "title": "Tesla Unveils a Flying Car, Then Stock CRASHES",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Oil vs stocks",
+   "view": "Stocks dumped intraday as US oil pumped, and steadied as oil reversed."
+  },
+  {
+   "theme": "AI credit stress",
+   "view": "CoreWeave's unsecured debt yields jumping from ~8% to ~15% shows investors doubting AI build-out borrowers."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     338
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sold off ~8% after flying-car unveil; descending daily trendline is resistance, near-bottoming-tail candle and $338 pivot low as support.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "I'm watching this area maybe for a wick low for a strong level of support on Tesla here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Topping tail called the prior top; a new bottoming tail suggests a local bottom.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "I am still pretty bullish on SpaceX... probabilities are saying this might be a local bottom for SpaceX."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "0.382 Fibonacci level coincides with a trendline that flipped to support, giving factors for a bounce.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "these levels starting to coincide and giving us a couple factors for a bounce on Palantir."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sold off on debt repricing (bond yields ~15%), but may be bottoming at the July pivot low.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "maybe finding a nice little bottom at this pivot low right here from July."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 203,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     203,
+     200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects unfilled Sept 2 gap to fill near $203; ~$200 seen as a buy level.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Unfilled Sept 2 gap plus ascending trendline give a $203 target near the $200 psychological level.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "we have a nice little ascending trend line that's given us a $203 target for CrowdStrike."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "PANW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 330,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     330
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill coinciding with an ascending trendline gives a $330 target after a 7.7% decline.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "We have a $330 target. So, that's what I'm watching for this one."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Largest red candle since the cancer-drug surge; bearish RSI divergence (higher highs in price, lower RSI).",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "I wouldn't be surprised if we start to see Moderna pull back."
+  }
+ ],
+ "notes": "Host says 'as we head to the next week', so likely recorded Fri 2026-10-16 after the close; listing date kept. CRWD/PANW targets are downside gap-fill targets that he frames as possible buy levels. SpaceX ticker unknown, recorded as SPACEX. His TSLA long 362->382 was a closed past trade (via crypto-venue stock perps), not recorded as a call."
+}

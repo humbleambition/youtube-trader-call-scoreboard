@@ -1,0 +1,86 @@
+{
+ "video_id": "zTUUTYRENk4",
+ "channel": "Joseph James Trading With JJ",
+ "title": "This *RETEST TRADE* Could Be EASY MONEY Tomorrow!",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James (JJ)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures (NQ)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     29656
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "after the strong earnings drop, buy a bear trap/retest of the low (or at the 29,656 breakout-pullback zone) rather than chasing highs",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bull channel, breakout pullback and measured move holding; strong moves down tend to retest then rotate higher within a range.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "we definitely have an idea here for buyers getting a bullish reversal right now"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures (ES)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 7906,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "buy the retest/bear trap near the gap around the x,x46/x,x43 levels",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily triangle rotating up; buyers keep buying dips on the hourly; the 7,906 all-time high from the August move is unfinished business.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "I think we're more bullish than bearish right now"
+  }
+ ],
+ "notes": "Host says game plan is for Thursday morning, so recorded Wednesday night; dated 2026-10-21 (listing said 10-22). ES buy zone given only as \"46, 43\" (hundreds digit not stated) so not entered as numbers. 7906 ATH treated as medium-term target (\"unfinished business\"); it is implicit."
+}

@@ -1,0 +1,62 @@
+{
+ "video_id": "6xKIoMT3wcc",
+ "channel": "Ross Givens",
+ "title": "The AI Bubble Is About to POP… Here's the Warning Sign Nobody Sees",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "AI bubble",
+   "view": "AI follows the four-step tech-bubble pattern (borrowed build-out, product price collapse, costly money, levered players break); three steps are already underway."
+  },
+  {
+   "theme": "Credit tightening",
+   "view": "Data center loans are hard to syndicate, private credit inflows dried up, CoreWeave and Oracle credit stress rising."
+  },
+  {
+   "theme": "GPU rental rates",
+   "view": "Rental prices still rising (H100 ~$3.81/hr); a sustained rollover would be the trigger for the bust, so no immediate pop."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "AI/tech stocks (Nasdaq)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bust begins once weekly GPU rental rates fall for a couple of months or a hyperscaler cuts capex plans",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hyperscaler capex outruns cloud revenue and is increasingly debt-financed; history says AI stocks will crash like railroads/telecom, but GPU rents are still rising so not yet.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "Three of the four steps are already here. The fourth is a number you can check every week"
+  }
+ ],
+ "notes": "No date in transcript (references prices 'as of October 19th' and upcoming Oct 28-29 earnings). Ticker is a proxy for 'AI stocks'; he explicitly says he doesn't expect an immediate pop. Promises buy list in a follow-up video."
+}

@@ -1,0 +1,531 @@
+{
+ "video_id": "th335WihPzI",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Stock Market Outlook",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Extreme geopolitical instability",
+   "view": "Ukraine/Russia, the Middle East/Iran and unrest in Europe make this the most unstable world since about 2003, favoring energy and materials."
+  },
+  {
+   "theme": "Rotation to S&P over Nasdaq",
+   "view": "Breadth broadening into defensives and energy points to S&P outperforming the Nasdaq."
+  },
+  {
+   "theme": "Defense election trade priced in",
+   "view": "Defense selling on expectations of a Democratic sweep and lower spending looks already priced in."
+  },
+  {
+   "theme": "Don't chase the bounce",
+   "view": "With no trend, treat today as either a quick scalp or slow long-term building with tight stops, not a swing chase."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Overnight bounce ran into the top of the October volume profile and a channel with RSI divergence and is rejecting; much of the oversold bounce may already be done and a retest of lows is likely. S5FI/NDFI breadth ratio signals S&P outperforming Nasdaq.",
+   "conviction": "medium",
+   "timestamp": "6:06",
+   "quote": "I would be on the sense that you probably come back at some point and retest some of those areas"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P looks better than the Nasdaq; the breadth indicator flipped and suggests a bottom is forming, but he would not chase the gap up and prefers to wait.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "the breath is getting better on the market and we probably are starting to carve out a bottom"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "energy stocks (CNQ, APA asked about)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Global geopolitical instability (Ukraine/Russia, Middle East/Iran, Europe) is the highest in decades, so anything energy-related, and materials, should do very well; CNQ chart looks perfect but he would not chase it.",
+   "conviction": "medium",
+   "timestamp": "16:20",
+   "quote": "Anything energy related to me is going higher because of all the instability that you have in the world right now."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CLF",
+   "instrument_quoted": "CLF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Strong steel demand from data-center construction; it crushed earnings on enormous volume.",
+   "conviction": "low",
+   "timestamp": "18:30",
+   "quote": "Cleveland Cliffs does make sense to me."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1350,
+     1400
+    ],
+    "invalidation": null
+   },
+   "condition": "Wants the sector to hold the put wall, build a base, then try to get through 600 again before turning constructive.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bouncing off the sector put wall into major levels after imploding since September 24th; shorts are trapped and could be squeezed, but he would not rush in.",
+   "conviction": "low",
+   "timestamp": "19:30",
+   "quote": "1350 is a huge level. 1400's a huge level. You know, you're bouncing and everyone's like, 'This is it. This is the bottom.'"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWY",
+   "instrument_quoted": "EWY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Stop on a rejection of the Thursday low.",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding a long built on the drop as a thematic ETF position, hoping a bottom was caught, but notes it could gap-fill and come back in after a 20% fall in 10 days.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "I might have caught the bottom and this could be for months and then I could grind up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LMT",
+   "instrument_quoted": "LMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Defense sold off on a Democratic-sweep / lower defense spending trade that already seems priced in; earnings should be strong given overseas conflict.",
+   "conviction": "low",
+   "timestamp": "26:00",
+   "quote": "to me, these names are setting up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RTX",
+   "instrument_quoted": "RTX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Earnings due tomorrow after crushing last quarter; it seems to be benefiting more from the overseas conflict than NOC.",
+   "conviction": "low",
+   "timestamp": "26:50",
+   "quote": "maybe RTX over seems to be doing better with what's going on overseas"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOC",
+   "instrument_quoted": "NOC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Grouped with Lockheed as defense names setting up into earnings tomorrow; he does not see how they report badly.",
+   "conviction": "low",
+   "timestamp": "26:05",
+   "quote": "I don't know how Lockheed has bad earnings with what you're doing over there or NOOCC"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MELI",
+   "instrument_quoted": "MELI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to hold 1800.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trades technically with buyers on a favorable Brazil poll; too thin to trade today.",
+   "conviction": "low",
+   "timestamp": "27:20",
+   "quote": "watch the 1800 level. You you really got to hold that 18."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LLY",
+   "instrument_quoted": "LLY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stuck in the same range since June and setting up to take out the range high.",
+   "conviction": "low",
+   "timestamp": "28:50",
+   "quote": "Lily is setting up to take this out"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Software sold off hard on Friday, like holders could not get out fast enough, so be very careful with software today.",
+   "conviction": "low",
+   "timestamp": "31:00",
+   "quote": "I think you have to be really careful with software today."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     690,
+     680
+    ],
+    "resistance": [
+     700
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Gives levels only: 700 to watch, support at 690, put wall at 680.",
+   "conviction": "low",
+   "timestamp": "32:00",
+   "quote": "watch 700 there. 690, there's some support. 680 is your put wall"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Cannot get back through the put wall, so he has no interest.",
+   "conviction": "low",
+   "timestamp": "25:15",
+   "quote": "you can't even get back through the put wall. So, I I have no interest in gold."
+  }
+ ],
+ "notes": "No explicit date in transcript; references to missing Friday's buy and NOC/RTX earnings 'tomorrow' suggest a Monday (likely 2026-10-19) but listing date kept. Index calls have no numeric levels. EWY entry said as '1556' (likely 155.56), left null. The gold 'put wall' remark may refer to a ticker in the chat rather than gold itself. The '720 huge level' (around 30:50) is for an unnamed ticker and was not recorded. A tactical semis indicator reading 'really bearish' was not recorded as a call."
+}

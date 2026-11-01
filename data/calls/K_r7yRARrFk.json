@@ -1,0 +1,53 @@
+{
+ "video_id": "K_r7yRARrFk",
+ "channel": "ShadowTrader",
+ "title": "GE Iron Condor Payoff Diagram",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Yosi (ShadowTrader)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "GE",
+   "instrument_quoted": "GE stock / options",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     290
+    ],
+    "resistance": [
+     310
+    ],
+    "invalidation": null
+   },
+   "condition": "Iron condor profits if GE stays between 290 and 310 through Oct 23 expiry",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "GE range-bound between 290 and 310 with earnings-elevated implied volatility; sold 290 put / 310 call spreads for $1.07 credit.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "GE Aerospace is the one that I'm selecting because it's a stock in a range between 310 and 290."
+  }
+ ],
+ "notes": "Date inferred from 'October 23rd Friday expiry with the two days left' (=Oct 21). Neutral options income trade, not directional."
+}

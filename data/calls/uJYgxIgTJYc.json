@@ -1,0 +1,105 @@
+{
+ "video_id": "uJYgxIgTJYc",
+ "channel": "Global Money Signals",
+ "title": "James Rickards | SILVER INVESTORS WILL REGRET MISSING THIS CRITICAL SHIFT",
+ "video_date": "2026-10-03",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "James Rickards (as presented by the channel)",
+ "macro_themes": [
+  {
+   "theme": "Fiscal dominance",
+   "view": "US debt (>$35T) and interest costs leave the Fed trapped; it will ultimately monetize debt and inflate it away."
+  },
+  {
+   "theme": "Silver structural deficit",
+   "view": "Sixth straight annual deficit (~760M oz cumulative since 2021) with price-inelastic by-product supply and surging solar/AI/EV demand."
+  },
+  {
+   "theme": "Paper vs physical silver",
+   "view": "Paper claims vastly exceed vault metal; expects delivery failures/force majeure and a decoupling of physical from paper prices."
+  },
+  {
+   "theme": "De-dollarization",
+   "view": "Russian reserve freeze accelerated central-bank gold buying; sovereign demand spills over into silver."
+  },
+  {
+   "theme": "Avoid 60/40",
+   "view": "Equities and sovereign bonds are in the blast radius of inflation and banking freezes; hold physical metal outside the banking system."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (generic spot/physical)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 250,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If gold reaches $5,000-10,000 and the gold/silver ratio reverts to ~20:1, silver prices at $250-500/oz.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Structural supply deficit, paper-market leverage heading for a delivery failure, and sovereign/industrial hoarding make a 'catastrophic price explosion' a 'mathematical certainty'; advises 5-10% of wealth in physical silver.",
+   "conviction": "high",
+   "timestamp": "21:00",
+   "quote": "physical silver mathematically prices between 250 and $500 per ounce"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (generic spot/physical)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 5000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Central-bank accumulation and de-dollarization push gold toward 'institutional targets' of $5,000-10,000; advises 10% of investable wealth in physical gold.",
+   "conviction": "medium",
+   "timestamp": "21:00",
+   "quote": "If gold continues its current trajectory toward institutional targets of 5,000 or $10,000 per ounce"
+  }
+ ],
+ "notes": "No date in transcript; listing approx_date used. No timeframe given for any target, all treated as long-term. SI target 250 is the low end of the stated $250-500 conditional range. GC 5000 is the low end of the '$5,000 or $10,000' targets he attributes to institutions. Recommends physical bullion (Eagles, Maples, Britannias), not ETFs/futures. CAUTION: heavy subscribe-or-else scripting and reading style suggest this may be an AI-voiced/impersonation channel rather than Rickards himself; unverified. Current gold/silver prices are not quoted. Timestamps are the transcript's minute markers (m:00), so accurate to the minute only."
+}

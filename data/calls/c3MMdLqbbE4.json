@@ -1,0 +1,232 @@
+{
+ "video_id": "c3MMdLqbbE4",
+ "channel": "Crypto World",
+ "title": "BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-18",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Stocks drive crypto",
+   "view": "The US stock market open will decide whether crypto supports hold; a stock sell-off raises the odds of breakdowns."
+  },
+  {
+   "theme": "Bitcoin dominance",
+   "view": "BTC dominance is testing 60.5-61% resistance; a confirmed break above 61.5% would be very bad for altcoins."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     82000,
+     80000,
+     76000
+    ],
+    "resistance": [
+     84500,
+     86000,
+     88000
+    ],
+    "invalidation": 80000
+   },
+   "condition": "If stocks bounce, move toward the 84.5k liquidity; if stocks keep falling and 80k breaks, target ~76k",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily bearish divergence caps momentum while a 6h bullish divergence gives a small relief; the weekly bullish divergence points to a multi-year bull market.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "between now and tomorrow, I expect more of the same, basically the calm before the storm"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2400,
+     2300
+    ],
+    "resistance": [],
+    "invalidation": 2300
+   },
+   "condition": "If stocks and BTC break down, ETH likely loses 2.3-2.4k",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding 2.3-2.4k support, but the daily bearish divergence means weakness and no real bullish momentum.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "don't expect any significant bullish momentum... expect a lot of weakness"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 1.16,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.27,
+     1.25,
+     1.16,
+     1.02
+    ],
+    "resistance": [
+     1.3
+    ],
+    "invalidation": 1.25
+   },
+   "condition": "A break below 1.24-1.25 targets 1.16-1.17; below that, about 1.02-1.03",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Losing $1.30 weekly support and testing September lows with an active daily bearish divergence.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "that'll be a very bearish signal for the price of XRP pointing towards easily a drop down towards $1.16"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     99,
+     96,
+     95,
+     83,
+     81
+    ],
+    "resistance": [
+     107,
+     110,
+     119,
+     124
+    ],
+    "invalidation": 95
+   },
+   "condition": "A confirmed break below 95-96 targets 81-83",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish divergence on the 3-day and daily charts; likely drifts toward the 96-99 support.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "don't expect significant bullish momentum anytime soon"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     12.3,
+     11.8,
+     10.8,
+     10.7
+    ],
+    "resistance": [],
+    "invalidation": 11.8
+   },
+   "condition": "A confirmed break below ~11.80 targets 10.70-10.80",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Larger bearish divergence; close to breaking support and weaker than BTC, especially if BTC dominance breaks out.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "we are moving closer towards actually breaking below this area of support"
+  }
+ ],
+ "notes": "Date taken as Sun 2026-10-18 from \"US stock market opening back up tomorrow\". BTC 84.5k is a liquidity target, conditional on a stock bounce. BTC dominance view is in macro_themes, not recorded as a call."
+}

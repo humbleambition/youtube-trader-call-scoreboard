@@ -1,0 +1,104 @@
+{
+ "video_id": "9tUPpip6j88",
+ "channel": "tastylive",
+ "title": "Why Everyone Is Wrong About the Market Selloff",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Brent (guest) with Jermaine (tastylive)",
+ "macro_themes": [
+  {
+   "theme": "Rotation not liquidation",
+   "view": "Selling is concentrated in tech while RSP/Dow/value outperform, so downside likely limited unless correlation and vol lift."
+  },
+  {
+   "theme": "Volatility signals",
+   "view": "Watch fixed-strike vol, VIX9D and a flattening VIX term structure as warning of broader selling."
+  },
+  {
+   "theme": "OPEX relief",
+   "view": "Monthly OPEX tomorrow could relieve put pressure and allow a rally early next week."
+  },
+  {
+   "theme": "Credit risk",
+   "view": "The big risk is credit (Oracle, CoreWeave); if credit falters, all equities fall sharply."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7690,
+     7450
+    ],
+    "resistance": [],
+    "invalidation": 7690
+   },
+   "condition": "If SPX loses the 7690 risk pivot and vol lifts, expect a real selling move toward 7450 worst case (and he would play short); otherwise OPEX could bring a rally into early next week",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "7690 risk pivot; rotation rather than broad selling; dips bought for 3 months; year-end seasonality strong.",
+   "conviction": "medium",
+   "timestamp": "0:50",
+   "quote": "I don't think it's over yet for the bulls"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pitching cheap Nov/Dec NVDA calls for upside exposure; market has nasty right tails and TSMC earnings were good.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "I've been pitching Nvidia uh Nov- Noven Dec options because they were so cheap"
+  }
+ ],
+ "notes": "Date: hot CPI 'yesterday' and OPEX 'tomorrow' = Thursday 2026-10-15. Guest is 'Brent' (likely Brent Kochuba, SpotGamma; surname not said). '7890' slip corrected on air to 7690. ES worst-case 7450 is a scenario level, not a target."
+}

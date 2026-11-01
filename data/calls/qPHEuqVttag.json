@@ -1,0 +1,99 @@
+{
+ "video_id": "qPHEuqVttag",
+ "channel": "Ricky Gutierrez",
+ "title": "WHY ARE MEMORY STOCKS CRASHING RIGHT NOW?!",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Memory chip oversupply fears",
+   "view": "KOSPI/SK Hynix sell-off on oversupply and cheap Chinese memory competition is driving memory names lower; same story as last week."
+  },
+  {
+   "theme": "Kim Jong-un death rumor",
+   "view": "Unverified rumor, treated as noise for markets."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     901,
+     907
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Intraday overbought reversal (he shorted), then bought the dip at ~901 and carried a small long overnight; larger time frames oversold, so long makes more sense than short.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I still said it made more sense to go long than to go short, especially at these oversold levels on the larger time frames"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700,
+     715
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq still technically oversold at the 700 support range; warns it can get worse before better.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "if we look at the overall Nasdaq market, still technically kind of oversold and still at that 700 support range"
+  }
+ ],
+ "notes": "'Happy Monday', SpaceX/Netflix earnings 'tomorrow' => Mon Oct 19 evening. MU levels '9:08, 9:07... 9:01' read as $908/$907/$901 (transcription). SK Hynix called fundamentally cheap (5.7 P/E) but no trade view; skipped."
+}

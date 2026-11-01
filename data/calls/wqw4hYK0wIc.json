@@ -1,0 +1,56 @@
+{
+ "video_id": "wqw4hYK0wIc",
+ "channel": "ShadowTrader",
+ "title": "CPI!  What would change the auction?",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Nathan (ShadowTrader)",
+ "macro_themes": [
+  {
+   "theme": "CPI release",
+   "view": "CPI may move price, but only how the auction accepts or rejects prices afterward shows whether value is changing; no need to predict it."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures (Dec, Z)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7775
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If price revisits last week's low / 7775 POC, watch for responsive buyers vs sellers facilitating trade below; acceptance back into the lower distribution would change the read.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly volume profiles show a clean value structure with a value gap from the early-October rally to new highs and unrevisited POCs below; he waits to see acceptance after CPI.",
+   "conviction": "low",
+   "timestamp": "3:45",
+   "quote": "we don't need to predict that tonight. We'll watch anticipantly for tomorrow."
+  }
+ ],
+ "notes": "Explicitly no directional prediction; neutral recorded only to capture key levels. Date: 'Tuesday afternoon... CPI tomorrow' (listing approx 2026-10-14). Recorded_when is afternoon, possibly before the close."
+}

@@ -1,0 +1,59 @@
+{
+ "video_id": "4F6icqrIs3I",
+ "channel": "Verified Investing",
+ "title": "Open Interest Vs Volume: Which One Tells The Truth?",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (with Tabby Pierce)",
+ "macro_themes": [
+  {
+   "theme": "Defense rotation fading",
+   "view": "Defense names that surged on Friday's sell-off are giving it back."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "NOC",
+   "instrument_quoted": "NOC",
+   "price_at_call": 512,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 480,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     500,
+     480
+    ],
+    "resistance": [
+     513
+    ],
+    "invalidation": null
+   },
+   "condition": "Would buy puts only if IV normalises (~50-60th pct) after earnings or put/call volume confirms bearish (2-3); passed for now",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rejected at a six-touch down-sloping trend line from March 2026; target 500 then 480 gap fill; long-term falling wedge should break up. Chain didn't confirm (PCV 1.15, IV pct 86-89, earnings tomorrow).",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "I think uh Northrop Grumman would con- could continue to sell back towards 500, if not lower to about 480"
+  }
+ ],
+ "notes": "Educational options segment; put trade explicitly passed. Host says 'Monday's episode' and earnings 'tomorrow' -> 2026-10-19."
+}

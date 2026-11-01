@@ -1,0 +1,49 @@
+{
+ "video_id": "oQC7Fmz8hIc",
+ "channel": "Ricky Gutierrez",
+ "title": "WHY IS TESLA CRASHING AFTER \"GOOD EARNINGS\"?!",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Earnings show declining revenue, energy and FCF; 400x PE for a car company; will crash hardest in a pullback.",
+   "conviction": "high",
+   "timestamp": "0:02",
+   "quote": "if you think that it's uncertain that maybe markets can begin to pull on back, I can reassure you one thing, Tesla will be one of those that crash the hardest"
+  }
+ ],
+ "notes": "Wednesday Oct 21 post-earnings recap. META short trade was intraday and closed (peaked near 750); no forward call, skipped."
+}

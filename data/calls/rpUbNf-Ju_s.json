@@ -1,0 +1,23 @@
+{
+ "video_id": "rpUbNf-Ju_s", "channel": "David Lin", "title": "Debt Crisis Heats Up: Higher Rates Could Break The System | Patrick Yip",
+ "video_date": "2026-10-18", "date_source": "listing", "recorded_when": "unknown",
+ "video_type": "macro_interview", "speaker": "Patrick Yip (APMEX / OneGold)",
+ "macro_themes": [
+  {"theme": "Debt limits Fed hiking", "view": "Federal debt above 100% of GDP means the Fed cannot sustain a Volcker-style hiking cycle, and a weaker dollar is the easy way out, which favors gold."},
+  {"theme": "Central bank gold buying", "view": "Central banks buying over 1,000 tons a year supports gold."},
+  {"theme": "Retail metals sentiment normalized", "view": "Silver mix, buybacks and refinery backlogs signalled the January peak; now metrics are back to normal with steady automated buying, so he doesn't see another big drop."},
+  {"theme": "1970s-style mid-cycle pause", "view": "Gold is in a pause similar to the mid-1970s before a longer run, though cycles are getting smaller."}
+ ],
+ "calls": [
+  {"group": "metals", "ticker": "GC", "instrument_quoted": "gold spot", "price_at_call": 4100,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "buy", "entry": null, "stop": null, "method": "mixed",
+   "reason": "Debt above 100% of GDP, central bank buying, normalized retail sentiment with no selling, and portfolio math favoring a 20-30% allocation; within a year expects all-time highs or above.",
+   "conviction": "medium", "timestamp": "25:00",
+   "quote": "sometime in the next year I wouldn't be surprised if we uh you know hit the all-time highs or even exceed that."}
+ ],
+ "notes": "No date in transcript; listing date used. Sponsored content (OneGold). Speaker had a $4,900 year-end target but backed away from it; long-term target 'all-time highs' left null because the ATH level was not stated (gold peaked above $5,000 in Jan 2026 per the interview). Medium-term bullish inferred from 'I don't think you necessarily have another big drop'. Says he sold silver at $103 in January; no current silver call."
+}

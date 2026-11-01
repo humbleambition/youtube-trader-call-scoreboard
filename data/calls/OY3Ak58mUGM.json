@@ -1,0 +1,276 @@
+{
+ "video_id": "OY3Ak58mUGM",
+ "channel": "tastylive",
+ "title": "Oil is Up But Gold Won't Fall the Dollar Won't Rally. What Gives?",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ilya Spivak (tastylive head of global macro)",
+ "macro_themes": [
+  {
+   "theme": "Growth scare brewing",
+   "view": "Bonds rising, gold holding and dollar weak despite surging oil and hot CPI/PPI suggest markets see a growth risk."
+  },
+  {
+   "theme": "Consumer strain broadening",
+   "view": "Beige Book shows pain spreading to middle-income households; wages lag CPI, confidence near record lows, GDPNow trending lower."
+  },
+  {
+   "theme": "Hikes may come off the board",
+   "view": "If PMIs disappoint and earnings don't excite, priced-in 2027 rate hikes will be removed."
+  },
+  {
+   "theme": "Deglobalization/regionalization",
+   "view": "Favours Mexico and Brazil equities on regionalization theme."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES Dec 2026 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A break of the current shelf would confirm a top",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower highs/lower lows on the 8-hour; bounce looks like a retracement within a decline, retesting broken range support as resistance.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "we're flirting with what could be the formation of a top. It's not confirmed for now"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Soggy rebound turning back exactly at the broken former range support.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "just where you might think would be the line in the sand is where the market turns back"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold refusing to sell off despite oil surge and hot inflation hints at a growth scare and fewer hikes.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "I'm still long gold"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "FX crosses (AUD, GBP, EUR, CAD vs USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Long USD vs AUD, GBP, EUR but added short USD vs CAD, while describing the dollar as unusually weak.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "short the Aussie, the pound, and the euro. So, long the dollar here"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If PMIs/earnings disappoint, hikes come off and yields keep falling",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields have retreated all month as breakevens stop following oil; growth scare.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "some of these rate hikes are going to have to come off the board"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWW",
+   "instrument_quoted": "EWW (call vertical)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Exploratory call vertical as Mexico ETF tries to break out; regionalization theme.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "I've got a little exploratory call vertical on EWW... It seems to be trying to break out"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "EWZ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Held since early 2025 on deglobalization/regionalization thesis.",
+   "conviction": "medium",
+   "timestamp": "0:17",
+   "quote": "the one that's had me holding EWZ, the Brazilian uh ETF since early 2025"
+  }
+ ],
+ "notes": "Speaker name garbled ('Uisback'); assumed Ilya Spivak. Dated Monday 2026-10-19 from context (SpaceX earnings 'tomorrow', Tesla Wednesday, housing data tomorrow). DXY positioning mixed (long USD vs AUD/GBP/EUR, short vs CAD). Transcript cut off at 18:00."
+}

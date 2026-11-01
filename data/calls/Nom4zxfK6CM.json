@@ -1,0 +1,34 @@
+{
+ "video_id": "Nom4zxfK6CM", "channel": "tastylive", "title": "The AI Bubble: Why Being Right About the Tech Means Being Wrong About the Stock",
+ "video_date": "2026-10-14", "date_source": "transcript", "recorded_when": "intraday",
+ "video_type": "macro_interview", "speaker": "Kevin Muir (guest), host Ilya Spivak",
+ "macro_themes": [
+  {"theme": "AI bubble", "view": "AI is a bubble of dot-com proportions; transformative technologies attract over-investment and end up poor investments."},
+  {"theme": "Equity supply rising", "view": "Hyperscalers have gone from buybacks to record debt and equity issuance as free cash flow turns negative, removing a key bull tailwind."},
+  {"theme": "Global fiscal expansion", "view": "Everyone (US, Canada, Germany, Japan) is now running hot fiscal policy, pushing real long-term yields higher."},
+  {"theme": "Bonds vs equities", "view": "Bonds breaking will break equities until equities breaking saves bonds; when the AI trade cracks, money rotates into long bonds."},
+  {"theme": "US more at risk than China", "view": "US economy depends on the stock-market bubble and record deficits; China is deliberately running slow and has the savings to stimulate later."}
+ ],
+ "calls": [
+  {"group": "indices_futures", "ticker": "NQ", "instrument_quoted": "Nasdaq / AI and Mag 7 stocks (no prices)", "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "macro",
+   "reason": "AI capex is debt- and equity-funded with negative free cash flow, earnings are pulled forward from hyperscaler spending, and over-investment always ends badly; higher rates are choking the real economy leaving only the bubble.",
+   "conviction": "high", "timestamp": "12:00",
+   "quote": "This is a bubble of dot proportions."},
+  {"group": "rates_fx_energy", "ticker": "TLT", "instrument_quoted": "TLT / long-dated Treasuries", "price_at_call": null,
+   "short_term": {"bias": "mixed", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "mixed", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "If stocks stop going up / the AI trade comes unglued, money rotates into bonds; he still half-expects a final puke lower in bonds first",
+   "action": "buy", "entry": null, "stop": null, "method": "macro",
+   "reason": "Has taken stabs long bonds; pensions fully funded, bearish Economist cover is contrarian, and stocks selling off while bonds rally on hot CPI may mark the return of negative correlation. Long run he fears a steepening.",
+   "conviction": "medium", "timestamp": "21:45",
+   "quote": "I am no longer as bearish. Um I I I have taken stabs on the long side."}
+ ],
+ "notes": "Taped 'Wednesday', hot CPI day; Wednesday in that week is 2026-10-14 (listing said 10-15). Bond call recorded on TLT (bullish = yields down) rather than TNX/TYX to keep bias direction clear. Long-term bond bias 'mixed' because he calls himself a bond bear at heart and worries about curve steepening. Silver anecdote (bought 30, sold 60, went to 120) is past, not a call."
+}

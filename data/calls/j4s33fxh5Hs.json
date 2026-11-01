@@ -1,0 +1,95 @@
+{
+ "video_id": "j4s33fxh5Hs",
+ "channel": "tastylive",
+ "title": "This 15-Minute Video Answers 4 Questions Every Options Trader Asks",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tom Sosnoff? / Chris (tastylive hosts)",
+ "macro_themes": [
+  {
+   "theme": "Volatility spikes are brief",
+   "view": "IV spikes over the past five years rarely last more than days to a couple of weeks, so sell premium into them right away."
+  },
+  {
+   "theme": "Rotation not exit",
+   "view": "The sell-off looked like rotation (defensives up while mega-cap tech fell) rather than capital leaving the market."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 16.65,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "VIX spiked near 18 then faded; vol spikes historically don't persist, so they sell into them immediately.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "when I see a spike in volatility, I don't wait for it to confirm... because it may not last. In fact, it probably won't last."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": 7700,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Dealers defended the 7,700 strike intraday and breadth showed rotation into defensives, with the S&P recovering to green.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "today, you see a defense of 7,700 here in the S. And we're now positive up by 10 points in the session"
+  }
+ ],
+ "notes": "Mostly options education Q&A; directional views are thin. Speaker names not stated in the transcript except 'Chris' and 'TP'; the speaker label is a guess. ES bias recorded as neutral (only a level defended). Recorded intraday; listing date used."
+}

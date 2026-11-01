@@ -1,0 +1,106 @@
+{
+ "video_id": "yygH0lmDD_Q",
+ "channel": "Meet Kevin",
+ "title": "The Tesla Roadster Event LIVE w/ Meet Kevin [Elon Musk Reveal!]",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "High yields pressuring stocks",
+   "view": "With yields around 5.25-5.5%, large capital raises are making the market nervous."
+  },
+  {
+   "theme": "AI capital raises draining liquidity",
+   "view": "Mega fundraises (SpaceX, Broadcom, Oracle) are 'sucking' money out of the market and contributed to the recent selloff."
+  },
+  {
+   "theme": "Older AI chips appreciating",
+   "view": "Open-weight models let H100s run near-frontier AI cheaply, so older GPUs are rising in value, which benefits SpaceX's compute."
+  },
+  {
+   "theme": "Tesla-SpaceX merger",
+   "view": "Roadster event is marketing for a Tesla-SpaceX combination; merger unlikely while both stock prices stay stable."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 715.43,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If QQQ bounces at the 715 line, buy the dip",
+   "action": "buy",
+   "entry": 715.43,
+   "stop": null,
+   "method": "technical",
+   "reason": "Alpha report flagged 715 on QQQ as a bounce level; it bounced within 43 cents and he bought six figures of the dip.",
+   "conviction": "high",
+   "timestamp": "0:05",
+   "quote": "If the market bounces, the Q's bounce at 7:15, buy. ... it was like 7:15 and 43 cents ... Bought. Six figs"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     132,
+     135
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": 135,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Open-weight models make SpaceX's large H100 fleet appreciate rather than depreciate; re-underwrote and bought at ~132-135 support.",
+   "conviction": "high",
+   "timestamp": "0:51",
+   "quote": "I turned bullish on SpaceX at around 132 bucks... bought more uh at about 135-ish cuz we've got a support line"
+  }
+ ],
+ "notes": "Transcript gives no date; event was the Roadster reveal rescheduled ~2 weeks after Oct 1, so listing date 2026-10-16 (approx) used. QQQ '7:15' read as $715 level. SpaceX ticker unknown, recorded as 'SPACEX'. TSLA discussed at length but no clear price bias (skeptical on Roadster 2028 production; cybercab validation speed is the catalyst), so no TSLA call."
+}

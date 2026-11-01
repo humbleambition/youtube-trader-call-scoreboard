@@ -1,0 +1,402 @@
+{
+ "video_id": "AddvhRaszlM",
+ "channel": "Meet Kevin",
+ "title": "omg what's happening",
+ "video_date": "2026-10-14",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Beige Book second-round inflation",
+   "view": "Oil-driven price pass-through and resilient high-income spending force the Fed's hand toward hikes."
+  },
+  {
+   "theme": "Iran deal as the key catalyst",
+   "view": "Expects an Iran deal around Oct 20-27; until then expect volatility, after it oil and yields fall."
+  },
+  {
+   "theme": "Bond yields / curve flattening",
+   "view": "10y respected the 5.27% ceiling and is falling while the 2y holds, signalling growth fears; TLT bottoming."
+  },
+  {
+   "theme": "Neocloud credit stress",
+   "view": "CoreWeave's debt is distressed and neoclouds will likely be absorbed by hyperscalers, weighing on hardware."
+  },
+  {
+   "theme": "Gold and the money printer",
+   "view": "Gold peaks 3-5 years after QE; under a no-printing Warsh Fed gold is in a lost period, next peak ~2033-2035."
+  },
+  {
+   "theme": "AI-led labor deflation",
+   "view": "AI is cutting hiring outside specialised trades, which is deflationary longer term and may temper Fed hikes."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 726.39,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     725.5,
+     712,
+     700
+    ],
+    "resistance": [
+     735
+    ],
+    "invalidation": null
+   },
+   "condition": "Would get excited buying the dip only if QQQ drops to 712-700; recovery expected after an Iran deal",
+   "action": "watch",
+   "entry": 712,
+   "stop": null,
+   "method": "mixed",
+   "reason": "QQQ lost the 735 line; expects volatility and buy-the-dip opportunities until an Iran deal, which he expects Oct 20-27.",
+   "conviction": "medium",
+   "timestamp": "1:02",
+   "quote": "you got to bring me back to like 712 or 700 on the Nasdaq 100 and then I'll get excited about buying the dip"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10y respected the 5.27 peak and gave back all of CPI-day gains; growth fears bring bids, and an Iran deal would push yields down.",
+   "conviction": "high",
+   "timestamp": "1:00",
+   "quote": "I still maintain 527 is the ceiling."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     77,
+     78
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bigger upside on an Iran deal",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "TLT recaptured the 77-78 line it keeps bouncing off on the weekly; hardware fears turning into Treasury buying.",
+   "conviction": "medium",
+   "timestamp": "1:01",
+   "quote": "the more people get nervous about hardware, the more TLT actually confirms its bottom"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot ($/oz)",
+   "price_at_call": 4122,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bearish until Warsh turns on the money printer or is replaced (~May 2030); next gold peak 2033-2035 if printing resumes",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gold peaks 3-5 years after QE; a no-printing Warsh regime plus a clear momentum downtrend and an Iran deal lifting bonds keeps gold weak.",
+   "conviction": "high",
+   "timestamp": "1:20",
+   "quote": "when you combine Warsh with timing of money printer and momentum, you have a bearish outlook"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SanDisk (no price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Memory is a commoditised product; 2026 is the memory peak with new US supply and Chinese state-backed DRAM competition.",
+   "conviction": "medium",
+   "timestamp": "1:02",
+   "quote": "I'm bearish memory and the memory cycle. I'm also bearish uh SanDisk"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron (no price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Higher-cost US supply plus cheaper Chinese DRAM is a double-edged hit to Micron as memory peaks.",
+   "conviction": "low",
+   "timestamp": "0:57",
+   "quote": "You kind of got a double-edged hit there on a on a memory play like a Micron"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 220,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     220
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Hardware weak until an Iran deal and memory fears pass, then recovers",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Higher yields and neocloud stress hit hardware now; cheaper memory later benefits logic makers like Nvidia; prefers buying semis over gold.",
+   "conviction": "medium",
+   "timestamp": "1:02",
+   "quote": "I'm actually bullish a hardware recovery once we get through the Iran situation"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL (no price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Green on a red day; the exception to bearish hardware because it doesn't spend on data centers, and it pockets cheaper memory in margins.",
+   "conviction": "medium",
+   "timestamp": "0:54",
+   "quote": "you have to be bearish hardware with the exception of Apple"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CoreWeave (no price; bonds below 80c)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Balance sheet is horrible, ~$8B short, bonds at distressed levels; likely bankruptcy or absorption by hyperscalers.",
+   "conviction": "high",
+   "timestamp": "1:04",
+   "quote": "Can it go bankrupt? Of course. Yeah. Uh they their balance sheet is horrible."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "Netflix (no price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Thinks Netflix will be a huge beneficiary of AI efficiencies after laying off ~1,000 workers.",
+   "conviction": "low",
+   "timestamp": "1:07",
+   "quote": "You know what I actually think is going to be a huge beneficiary of investing in artificial intelligence? Netflix."
+  }
+ ],
+ "notes": "Date inferred from host: CPI 'this morning', Warsh speaks 'Thursday. That's tomorrow' -> Wednesday 2026-10-14 (listing said 10-15). QQQ price = 725.50 line + 0.89 as he described. 10y price not given exactly ('still under 5.2'). Gold Kalshi discussion: he leans to 'No' on gold >= $4,500 by year end and notes 57% odds of gold < $4,300; not recorded as targets. Fed odds: ~35% October hike, December hike near certain."
+}

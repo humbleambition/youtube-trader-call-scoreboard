@@ -1,0 +1,124 @@
+{
+ "video_id": "YWko9ktMKgA",
+ "channel": "Meet Kevin",
+ "title": "The NEXT Frontier: THESE 3 Stocks Boom",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "AI in healthcare",
+   "view": "AI is shortening drug and therapy design (cancer vaccines, phage therapy) and is the next frontier for AI investing."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MRNA",
+   "instrument_quoted": "MRNA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Binary on the Oct 24 phase-3 presentation: good readout could mean ~$300, bad readout back to ~$140.",
+   "action": "hold",
+   "entry": 140,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Owns it (bought ~135-145); AI speeds personalized cancer-vaccine design and the Saturday Oct 24 phase-3 melanoma update with Merck is a catalyst. High single-trial risk: could be $300 or back to $140.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "I personally am exposed to Moderna stock. I'm very excited about it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LLY",
+   "instrument_quoted": "LLY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "'S&P 500 of healthcare AI': acquisition machine with PEG ~1.9 and reasonable valuation; lowest-risk play in AI healthcare.",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "this I think is the lowest risk play, and I still think their valuation is reasonable"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TEM",
+   "instrument_quoted": "TEM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "AI data/apps segment growing fastest with better margins, but not profitable until 2028; too early to call a winner, he doesn't own it.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "I don't invest in them. I still think it's it's potentially a little early"
+  }
+ ],
+ "notes": "MRNA entry given as range 135-145 (stored 140 midpoint); the 300/140 figures are scenario outcomes, not targets. Speaker owns 2 of the 3 names (implied MRNA and LLY)."
+}

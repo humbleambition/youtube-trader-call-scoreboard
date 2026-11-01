@@ -1,0 +1,435 @@
+{
+ "video_id": "dSezk2qeW3k",
+ "channel": "Verified Investing",
+ "title": "AI Trade Set To Bounce, SpaceX (SPCX) Surges, Netflix Tanks As Bond Auction Takes Center Stage",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "AI trade supported by SpaceX",
+   "view": "SpaceX earnings and data-center buildout plans soothe fears of an AI-trade collapse."
+  },
+  {
+   "theme": "Yields heading lower",
+   "view": "10-year yield setting up bear flag / head and shoulders toward 4.7%, but structural debt and sticky inflation mean yields will not return to COVID lows."
+  },
+  {
+   "theme": "Oil down, yields down, good earnings",
+   "view": "That combination is a recipe for equity upside."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures (ES)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7719.0
+    ],
+    "invalidation": null
+   },
+   "condition": "break above 7,719 (yesterday high pivot) for the next move up; turns bearish only if the ascending trend line breaks",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding the ascending trend line on the daily; SpaceX earnings and falling oil support futures.",
+   "conviction": "medium",
+   "timestamp": "2:50",
+   "quote": "as long as we stay up in this range, I'm expecting the S&P to climb up to this level at around 8,000"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SpaceX (SPCX)",
+   "price_at_call": 160,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     171.85
+    ],
+    "invalidation": null
+   },
+   "condition": "only if it surges into the 171.85 gap fill / pivot top",
+   "action": "short",
+   "entry": 171.85,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill, pivot top and trend line confluence at 171.85; day trade only, not a swing.",
+   "conviction": "low",
+   "timestamp": "4:20",
+   "quote": "if we get a surge up there, that is my short trade of the day on SpaceX"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 61.5,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     61.5,
+     61.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "buy at the ~61.50 trend line / gap-fill confluence",
+   "action": "buy",
+   "entry": 61.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weak guidance broke the July 2026 pivot low, opening the trapdoor to ~61.50 where trend line and unfilled gap converge; day and swing long there.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "For Netflix, this is both a day trade long and, in my humble opinion, a swing trade long as well"
+  },
+  {
+   "group": "stocks",
+   "ticker": "T",
+   "instrument_quoted": "AT&T (T)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     21.13,
+     20.6
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "day-trade long if it drops into the gap-fill shelf",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill with a shelf and secondary support below after the earnings drop.",
+   "conviction": "low",
+   "timestamp": "8:30",
+   "quote": "Would I swing trade this level? I don't think so at this point. Probably just as a day trade today"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 4.7,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "head and shoulders must trigger by breaking the neckline",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag and potential head and shoulders with measured target 4.7%, confluent with prior high pivots.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "it's looking more and more like the 10-year yield's going to roll over and go to 4.7%"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     665,
+     650
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if it dumps on earnings, buy the ~650-665 zone",
+   "action": "buy",
+   "entry": 650,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill at 665 and descending trend line into the 650 zone.",
+   "conviction": "medium",
+   "timestamp": "13:10",
+   "quote": "I'd probably be looking to buy a pullback into this level on earnings on Meta"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     350
+    ],
+    "resistance": [
+     400
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "First test just under 400 at the descending trend line; 350 the level to watch on a drop; expects at least a beat after SpaceX.",
+   "conviction": "low",
+   "timestamp": "13:45",
+   "quote": "The big first test is going to be just under 400 at this descending trendline"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakdown below trend line, which is now resistance; looks very weak despite falling yields.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "gold right now is looking very, very weak"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     60
+    ],
+    "invalidation": 60
+   },
+   "condition": "needs to recapture $60 to turn bullish",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broken down on the daily.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "It would need to recapture $60 to start turning bullish"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 2.73,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2.73
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Six down days into longer-term ascending trend line near 2.73; added to his position on the breakdown into support.",
+   "conviction": "medium",
+   "timestamp": "15:40",
+   "quote": "I added to my position in nat gas on this breakdown into some decent support"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 87200,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 95000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     87200
+    ],
+    "invalidation": null
+   },
+   "condition": "if it rallies to 87,200 and breaks out, targets 95-97k",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hammered on the line and held, showing resilience.",
+   "conviction": "medium",
+   "timestamp": "16:40",
+   "quote": "if it breaks out, 95 to 97,000 is your upside target"
+  }
+ ],
+ "notes": "No date stated; listing 2026-10-21 used, but content (Meta/Tesla report after the bell today, SpaceX/Netflix yesterday) matches Sl2G2HnO2L8 (listed 10-22), so one of the two listing dates is off by a day. ES breakout spoken as \"77 190\" read as 7719.0. NFLX levels read as 61.50 per his \"almost a dollar\" gap description. AT&T levels unclear (\"2113... 2191\")."
+}

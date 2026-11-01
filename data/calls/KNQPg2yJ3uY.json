@@ -1,0 +1,104 @@
+{
+ "video_id": "KNQPg2yJ3uY",
+ "channel": "BitcoinHyper",
+ "title": "Bitcoin LIVE: Falling Wedge Breakout Loading! (target $85,000) - BTC, ETH, XRP Price Prediction",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper (host)",
+ "macro_themes": [
+  {
+   "theme": "Bearish October seasonality",
+   "view": "A second red October close in a row would be unprecedented and historically red Octobers were followed by red November/December, supporting a bigger ABC correction."
+  },
+  {
+   "theme": "Bear market bottom timing",
+   "view": "Fibonacci time projections put the next BTC/ETH cycle bottom around January-March 2027."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD/BTCUSDT spot",
+   "price_at_call": 81000,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 72000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     79700,
+     78000,
+     77000
+    ],
+    "resistance": [
+     83000,
+     84000,
+     84500,
+     84600,
+     85000
+    ],
+    "invalidation": 80000
+   },
+   "condition": "Holds long while above the recent low/value area low; if the falling wedge breaks up and BTC tags the 61.8% fib/liquidations near 84,500-84,600, expects a wave-2 top then a third-wave drop toward ~72,000 (1.618 ext, aligned with anchored VWAP); losing the recent low stops him out, re-long only on a swing-failure reclaim near 79,700.",
+   "action": "hold",
+   "entry": 81580,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling wedge read as a leading diagonal (wave 1 of a bearish C wave); short squeeze into short-liquidation cluster above highs, then 1.618 extension target; hidden bullish divergences on 2-day RSI/MFI/MACD support near-term bounce.",
+   "conviction": "medium",
+   "timestamp": "18:18",
+   "quote": "I am still expecting lower. However, in terms of the short-term prediction, because right here is the falling wedge pattern, we could be expecting... a bounce"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSDT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If Bitcoin gets its correction",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Expanded-flat / ABC count; C-wave 1:1 and 0.618 extensions below recent lows; Fibonacci time points to a bottom around March 2027.",
+   "conviction": "low",
+   "timestamp": "46:05",
+   "quote": "I do think Ethereum in this scenario, it is probably going to go below our recent lows right here."
+  }
+ ],
+ "notes": "Date: listing says 2026-10-19 but host says 'middle of the weekend', so likely streamed 2026-10-18 (Sun). Invalidation 'below the recent low' is not given as an exact number; ~80,000 is the low he cites. At 44:59 he says wave-2 target 'above the recent high at approximately 74,500' - almost certainly a slip for 84,500. Lower possible targets mentioned: ~71,000 (0.5 retrace) and 62,500 in a deeper ABC drop. He also mentions having 're-entered' a BTC short (36:05), contradicting his stated long; treated long as main position."
+}

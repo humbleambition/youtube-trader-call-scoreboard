@@ -1,0 +1,101 @@
+{
+ "video_id": "3Di3h4mTvjg",
+ "channel": "BitcoinHyper",
+ "title": "Bottom Or Not, Bitcoin Drops First",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [
+  {
+   "theme": "Bitcoin wave-2 correction",
+   "view": "Even if the bottom (~58k) is in, a bullish Elliott count still needs a wave-2 retrace to at least the 0.5 fib (~71k) before continuation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": 81500,
+   "short_term": {
+    "bias": "bearish",
+    "target": 76500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 71000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81350,
+     80600,
+     77000,
+     76800,
+     76000,
+     75000,
+     71000,
+     67000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If BTC loses the ~81,350 value area low, target 76-77k; if that breaks, 0.5 fib ~71k (golden ratio ~67k), where a hidden bullish divergence would make a long attractive.",
+   "action": "short",
+   "entry": 84000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Support at 81-82k retested many times, liquidity below 80.6k, daily stochastic overbought, lower-timeframe Hypertrend downtrend; bullish Elliott wave count still needs wave-2 to 0.5 fib.",
+   "conviction": "medium",
+   "timestamp": "5:05",
+   "quote": "in the upcoming hours, in the upcoming days, my main plan on Bitcoin is actually another push toward the upside, at least toward the area of support"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 2220,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2220,
+     2200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If BTC drops 6-7%, ETH falls ~8% to ~2,200-2,220, where he would look to go long.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Anchored VWAP support and golden fib at ~2,220; daily and 2-day hidden bullish divergence implies uptrend continuation after.",
+   "conviction": "medium",
+   "timestamp": "14:14",
+   "quote": "I also do believe that Ethereum can then also drop to approximately 8% back down to $2,200 area"
+  }
+ ],
+ "notes": "BTC quote contains a verbal slip ('push toward the upside') where context clearly means downside toward 76-77k support. BTC price_at_call ~81.5k inferred from 'approximately where Bitcoin is trading' (81-82k zone). Also holds shorts on XRP and SOL with no levels (omitted). Short-term target 76,500 = midpoint of 76-77k."
+}

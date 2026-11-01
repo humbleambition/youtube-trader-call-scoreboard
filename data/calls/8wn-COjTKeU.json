@@ -1,0 +1,685 @@
+{
+ "video_id": "8wn-COjTKeU",
+ "channel": "Verified Investing",
+ "title": "Investors Panic On AI Trade Collapse, Oil Keeps Surging...Here Are The Trades For Next Week",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "AI trade collapse",
+   "view": "AI panic escalating (CoreWeave -13%, semis, Palantir); debt-funded build-out looks like a dot-com style bust; tech has topped until proven otherwise."
+  },
+  {
+   "theme": "Rotation",
+   "view": "Money rotating into staples/defensives (KO, WMT, ABBV) and energy rather than leaving the market."
+  },
+  {
+   "theme": "Oil and recession",
+   "view": "Oil near $99 hurts the economy and AI demand; yields falling on recession fear despite hot CPI/PPI."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575,
+     7500,
+     7000
+    ],
+    "resistance": [],
+    "invalidation": 7575
+   },
+   "condition": "Above 7575 neutral zone stay bullish; break -> neutral; break below the neutral zone -> bearish toward 7500 or 7000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart not broken, still above neutral zone; diversification allows a last push to 8000 before a major top.",
+   "conviction": "medium",
+   "timestamp": "1:20",
+   "quote": "there may still be a little bit of upside, albeit just to 8,000, before we see a major top"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 710,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 661,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700,
+     661
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If QQQ breaks 700, trap door to 661 (July low)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq peak already in; at neutral-zone pivot at 700.",
+   "conviction": "high",
+   "timestamp": "2:30",
+   "quote": "If that breaks, that opens the trap door down to this pivot low ... 661"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 736,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     736
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Peaked June 2026, bear flag, now in free fall; first major support July low 736; bounce possible before rolling over.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "Now it's broken down, and we are now in free fall"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CBRS",
+   "instrument_quoted": "CBRS",
+   "price_at_call": 126,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 126,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bought at end of day at all-time lows touching a descending trend line.",
+   "conviction": "low",
+   "timestamp": "4:30",
+   "quote": "I did buy one semiconductor at the end of the day because of the chart. And that chart was CBRS"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": 61,
+   "short_term": {
+    "bias": "bearish",
+    "target": 51.5,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     61,
+     51.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ~61 short-term support breaks, likely goes to 51-51.50 where he would nibble long",
+   "action": "watch",
+   "entry": 51.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gap fill and pivot area at 51.50.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "if we break this current level of around 61 or so on Coreweave, you likely see a move down to 51"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rebought near lows at gap fill with ascending trend line; likes future supercomputing tech; small size.",
+   "conviction": "low",
+   "timestamp": "9:20",
+   "quote": "we rebought in towards the lows today because of this exact trend line setup"
+  },
+  {
+   "group": "stocks",
+   "ticker": "OKLO",
+   "instrument_quoted": "OKLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     25,
+     18
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 25,
+   "stop": null,
+   "method": "technical",
+   "reason": "Annihilated; nibbling small, levels near 25 (as low as 18) look interesting.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "we're talking about levels down around $25 here, where this starts to look very interesting"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASTS",
+   "instrument_quoted": "ASTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Beaten-up tech name; very small nibble position.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "names that again have been beaten up OKLO, IonQ, ASTS, very small positions, but beginning to nibble"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     210
+    ],
+    "resistance": [],
+    "invalidation": 210
+   },
+   "condition": "Breaking 210 would be very negative",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held up better than peers, still in uptrend above support zone.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "If it breaks 210, that would be a very negative thing in the charts"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     325,
+     315
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Potential swing long in the 315-325 zone",
+   "action": "watch",
+   "entry": 320,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line into gap fills; buying into fear in high-quality names (not a long-term investment).",
+   "conviction": "medium",
+   "timestamp": "7:20",
+   "quote": "it is on my radar for Monday for a potential swing trade long"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the major trend line breaks next week, starts a mega-cap collapse",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Big down day at risk of breaking major trend line; Gemini spending at risk from consumer strain.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "if this breaks, this starts the mega cap potential collapse"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Opened higher on flying-car unveil and sold straight down, breaking a key technical line.",
+   "conviction": "low",
+   "timestamp": "11:40",
+   "quote": "Tesla opened up and it just sold straight down. Even in this market, even in this market, it could not hold up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ABBV",
+   "instrument_quoted": "ABBV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Huge rotation run up into major resistance.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "This is actually one that I actually like as a short now. ABBV"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VLO",
+   "instrument_quoted": "VLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holding a short; very bearish on refiners at upper levels since an Iran deal could drop them 20%.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "Valero, by the way, amazing shortable opportunity here in my opinion"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above trend line, breakdowns never confirmed; safe-haven bid.",
+   "conviction": "low",
+   "timestamp": "12:20",
+   "quote": "Gold is continuing to hang in there, maybe a little bit of a safe haven play here"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Needs to hold 55; if it breaks, he'll buy at 50",
+   "action": "buy",
+   "entry": 50,
+   "stop": null,
+   "method": "technical",
+   "reason": "Industrial metal dipped but did not collapse.",
+   "conviction": "low",
+   "timestamp": "12:40",
+   "quote": "If it breaks 55, basically I'll be putting some orders at 50 bucks"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude ($/bbl)",
+   "price_at_call": 99,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Admits being wrong so far but still thinks oil comes in at some point.",
+   "conviction": "low",
+   "timestamp": "15:10",
+   "quote": "I do think at some point it comes in"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75500
+    ],
+    "resistance": [
+     87000
+    ],
+    "invalidation": null
+   },
+   "condition": "Holding 81k is technically OK; break -> 75,500; retest of ~87k could lead to breakout",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Old resistance at 81k flipped to support.",
+   "conviction": "medium",
+   "timestamp": "16:40",
+   "quote": "Bitcoin continues to hold the 81,000 level. As long as it does that, it's technically okay"
+  }
+ ],
+ "notes": "Date: weekly wrap after Friday's session (Tesla flying-car open, 'Monday morning' next) = 2026-10-16. QQQ price ~710 inferred from '10 points away' from 700. ES neutral zone stated as '75 75' read as 7575; downside 'to 75 or 7,000' read as 7500/7000. NG (broke back below key level) and PLTR (not a buy yet) left out as no clear view."
+}

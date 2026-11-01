@@ -1,0 +1,213 @@
+{
+ "video_id": "C358wmTbV3I",
+ "channel": "Meet Kevin",
+ "title": "Is the Recession Beginning?!?!?!",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "Hot PPI, falling yields",
+   "view": "PPI doubled expectations (mostly fuel) yet 10y yields fall as investors flee AI-trade fear into risk-free 5%."
+  },
+  {
+   "theme": "AI capex 'suckening'",
+   "view": "Huge debt/equity raises (SpaceX, Broadcom, Oracle $140B) drain liquidity and hit hardware/tech, but AI underwriters (Anthropic) show the trade is not over."
+  },
+  {
+   "theme": "Consumer softening",
+   "view": "Retail sales control group missed; labor market OK for now but early warning signs."
+  },
+  {
+   "theme": "Iran deal",
+   "view": "Market selloff pressures Trump toward an Iran deal, which would rocket stocks and bonds."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.06,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": 5.27
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Called 5.27 as the top; flight from AI trade into risk-free bonds pushes yields down despite hot inflation; Iran deal would rally bonds.",
+   "conviction": "high",
+   "timestamp": "2:00",
+   "quote": "5.27 was going to be the top in the 10-year Treasury yield"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     78.77
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Long-term floor near 78.77 respected for years; 5% risk-free attractive; TLT up is part of their suckening playbook.",
+   "conviction": "medium",
+   "timestamp": "5:30",
+   "quote": "TLT, where it is, very attractive offer"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 725,
+   "short_term": {
+    "bias": "bearish",
+    "target": 700,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715,
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Lost 725; if 715 is lost, QQQ goes to 700",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Capital raises weigh on tech near term; still expects 800 by year end; prior dip buys at 700-715.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "I still have a belief that we go to 800 by the end of the year"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Apple does not raise capital, so it outperforms during tech 'suckening' periods.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "tech stocks do poorly with the exception of Apple because Apple doesn't raise capital"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Said AMD overbought near ~620 and to sell year-end calls; hardware falls in suckening but expects big rally back later.",
+   "conviction": "medium",
+   "timestamp": "17:30",
+   "quote": "now would be a good time to sell some calls on AMD. I think AMD is over bought"
+  }
+ ],
+ "notes": "Kevin's own monologue, not a guest interview; typed macro_interview as closest. AMD call was originally made earlier (~620); long-term bullish is inferred from 'expect a big rally back' in hardware. Date: PPI/retail sales/Philly Fed 'just came out' = Thursday 2026-10-15 (same day as StockedUp PPI)."
+}

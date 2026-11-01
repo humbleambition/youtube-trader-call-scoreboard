@@ -1,0 +1,100 @@
+{
+ "video_id": "4BmB4eGZprY",
+ "channel": "tastylive",
+ "title": "Nasdaq IV Rank Says 42. Implied Vol Is Only 20. That Gap Matters.",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Jonathan Haas (Altius Capital), guest",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI lifts yields",
+   "view": "Inflation report pushed yields, dollar and oil up together, which is what has been undoing the market."
+  },
+  {
+   "theme": "Vol low vs risks",
+   "view": "Nasdaq IV ~20 and VIX ~15.8 in contango look too quiet for a fast market with earnings, Fed and election ahead; stay small and hedge with butterflies/calendars."
+  },
+  {
+   "theme": "Two-speed economy",
+   "view": "Tech keeps pricing power while consumer staples weaken; consumer weakness could steepen the curve with long bonds rallying."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "ZB",
+   "instrument_quoted": "ZB (30y T-bond futures)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     98,
+     99
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bonds sold off on CPI but stopped right at the moving average, suggesting the week's selling exhaustion is playing out; consumer weakness could bring long bonds back up. Likes selling OTM puts (98/99 strikes).",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "maybe this exhaustion that we saw over the over the last sort of week or so is maybe playing through now"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "ZS",
+   "instrument_quoted": "ZS soybean futures (continuous)",
+   "price_at_call": 1250,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "After two weeks of harvest-driven selling, moves are getting smaller with larger wicks; plays both sides of the recent range with calendars/diagonals plus downside butterfly.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "there's an interesting opportunity to play both sides on that"
+  }
+ ],
+ "notes": "Transcript content (upcoming election, Fed expected) reads like an older 2024 segment; date taken from listing. ZB/ZS are not in the canonical list; kept raw futures symbols (ZB bias is on bond price, i.e. bearish yields). Host cited VIX 15.81 and Nasdaq IVR 42/IV 20 without a directional call."
+}

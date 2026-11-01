@@ -1,0 +1,349 @@
+{
+ "video_id": "uz5qaiAQwks",
+ "channel": "tastylive",
+ "title": "Tim Knight Says the Nasdaq Just Broke Its Trend Line and the Dow Took Over",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight",
+ "macro_themes": [
+  {
+   "theme": "Election volatility",
+   "view": "Not straight down after election day, but markets will get much more chaotic and volatile around it."
+  },
+  {
+   "theme": "Complacency",
+   "view": "VIX shows complete complacency with no fear priced in, so puts are cheap."
+  },
+  {
+   "theme": "Anthropic IPO risk",
+   "view": "A real chance Anthropic delays its November IPO, which would rattle an AI trade that depends on it and OpenAI listing successfully."
+  },
+  {
+   "theme": "Long-term bearish",
+   "view": "Prefers quiet breakdowns beneath the surface; long-term 'death and destruction' remains his view."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "NQ broke and has stayed below the trend line from July 29 after failing to follow through on the Oct 6 lifetime high; role change from support to resistance.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "we had for the first time punctured this trend line... we have spent the day below the trend line."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "ES keeps hugging its horizontal level with no real break.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "the ES continues to be a uh uh madly in love with this horizontal. It it really does not stray far from home base"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "YM futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dow rallying since Oct 2 low, at multi-week highs and broken above a descending channel while tech weakens.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "we've cut above this descending channel... the Dow has been the uh the bull haven."
+  },
+  {
+   "group": "stocks",
+   "ticker": "STX",
+   "instrument_quoted": "STX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below a clean symmetric triangle after a huge year-long rise; stop just above the Wed-Thu price gap.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I remain short this with a stop just above that price gap."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Re-shorted quantum names after the NQ trend-line break; small speculative position.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "I have uh reshorted um uh ion uh as well as uh D-Wave"
+  },
+  {
+   "group": "stocks",
+   "ticker": "QBTS",
+   "instrument_quoted": "QBTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Re-shorted D-Wave with other quantum names after tech trend-line break.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "I have uh reshorted um uh ion uh as well as uh D-Wave that is QBTS."
+  },
+  {
+   "group": "stocks",
+   "ticker": "QUBT",
+   "instrument_quoted": "QUBT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clean symmetric triangle pattern; listed among his quantum shorts (implied).",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "my favorite uh QBT which is quantum computing and this one is the only one with a really sporty uh pattern"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Roadster flying demo is cool but won't change revenue; remains short.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "It's nothing that's going to change their revenue. Tesla's up a little right now. I remain short them."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": 150,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150,
+     140
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stock acts like a magnet around $150 after a spike faded; expects it to stay stuck there until something fundamental changes.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "I think we're going to be really stuck there until um something really fundamental changes"
+  }
+ ],
+ "notes": "Friday inferred from 'Wednesday tumble', 'yesterday morning' and 'have a great weekend' (listing approx 2026-10-17). 'Election day 10 days left' oddly doesn't match this date. QUBT short is implied, not explicit. SpaceX ticker not stated; recorded as SPACEX. WDC mentioned with a distribution top but he is not short; skipped."
+}

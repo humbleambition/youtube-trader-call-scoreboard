@@ -1,0 +1,132 @@
+{
+ "video_id": "MKgsjbXwIsw",
+ "channel": "Ricky Gutierrez",
+ "title": "How I Survive Market Crashes (And Find Opportunity)",
+ "video_date": "2026-10-17",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Narrow market breadth",
+   "view": "Indices sit near all-time highs on mega-cap concentration while thousands of stocks are down 20-40%+ from highs."
+  },
+  {
+   "theme": "Fear but nothing broken",
+   "view": "CoreWeave/Oracle financing, Anthropic valuation, hot CPI/PPI, yields and oil are concerns, but no trigger has broken the market yet."
+  },
+  {
+   "theme": "Oversold opportunity",
+   "view": "After last week's sell-off markets are oversold, upside potential is large and beginners should not be short; buy dips in small portions."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / Nasdaq (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Markets oversold after a fear-driven sell-off with nothing broken; markets tend to recover, though could take months.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "The upside potential is so great for the market right now."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "21% pullback, ~11.7 P/E, huge revenue and profit, US can't buy Chinese memory; fair value shows ~42% upside.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I like Micron... I do see this as an opportunity I want to take advantage of."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Fundamentally a terrible loss-making business, but already sold off ~37% and oversold, so recovery risk makes shorting unattractive.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "In my opinion, it's a terrible business... it's oversold enough that the risk of a potential recovery is too great"
+  }
+ ],
+ "notes": "Host says 'Saturday'; listing approx 2026-10-18, so dated Saturday 2026-10-17. Mostly risk-management talk. NBIS treated similarly to CRWV (not invested, wouldn't short); merged into commentary, not a separate call. 'Drem'/'SKHY' from Leopold list not recorded."
+}

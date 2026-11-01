@@ -1,0 +1,196 @@
+{
+ "video_id": "o8MylqZml2U",
+ "channel": "Verified Investing",
+ "title": "Bitcoin's Weekend Roadmap: Exact Support and Resistance Levels",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Oil spike hits risk assets",
+   "view": "Oil ripping higher intraday knocked stocks and crypto down; a topping tail on oil may let it roll over."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chopping inside the Nov-low/May-high parallel channel acting as support, knocking on a descending trend line from Oct 4, with longs flushed on the liquidation heat map; opened a long, then took profit before the weekend.",
+   "conviction": "medium",
+   "timestamp": "2:50",
+   "quote": "I am liking that we are knocking on this door... I did open a Bitcoin long"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected from the bottom of a bull flag and is trading in a range, trying to get back in.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "ETH now just trading within this range."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "10-minute RSI hit ~20, which previously led to V-shaped recoveries; went long 10,000 XRP and closed it for a small profit.",
+   "conviction": "low",
+   "timestamp": "12:30",
+   "quote": "if it did V-shaped recoveries, all right, maybe maybe I could get a little taste."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily chart beating against flag resistance; things turned bullish with pent-up energy.",
+   "conviction": "medium",
+   "timestamp": "8:55",
+   "quote": "I think Link has a lot of pent up energy... it might have a nice nice pop to the top side"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     0.21
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ADA drops to ~$0.21 (descending trend line) over the weekend and the setup looks right, would go long.",
+   "action": "watch",
+   "entry": 0.21,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line from Sept 23 where hourly candle bodies respect the level.",
+   "conviction": "low",
+   "timestamp": "7:20",
+   "quote": "If we drop this weekend and the setups look right, I don't mind longing this level on Cardano."
+  }
+ ],
+ "notes": "Recorded Friday Oct 16 intraday (host states the date). Closed trades (ZEC short, TIA short, TSLA long 362->382) not recorded as calls. 'Quantis' (add at $100) skipped: ticker unclear. XLM support ~0.175 and XMR trend-line level are watch-only mentions."
+}

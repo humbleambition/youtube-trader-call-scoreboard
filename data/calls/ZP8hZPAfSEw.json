@@ -1,0 +1,316 @@
+{
+ "video_id": "ZP8hZPAfSEw",
+ "channel": "BitcoinHyper",
+ "title": "Bitcoin LIVE: The Breakout FAILED! (now what?) - BTC, ETH, XRP Price Prediction",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper (host)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSDT perpetual",
+   "price_at_call": 81500,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84350,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 72000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81500,
+     81160,
+     81000,
+     79500,
+     76700
+    ],
+    "resistance": [
+     83137,
+     84350,
+     84600
+    ],
+    "invalidation": null
+   },
+   "condition": "Bounce from ~81k golden pocket (or after liquidity sweep below recent low toward 79.5-80k) to ~84.35-84.5k, then expected Elliott wave 3 drop below 75k toward ~72k (1.618 extension). No reaction at 79.5k/golden pocket breaks the plan.",
+   "action": "hold",
+   "entry": 81580,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at falling-wedge top/daily level 83,137; holding structural support, golden pocket, hidden bullish divergence on daily/2-day RSI; short liquidations near 84.6k act as magnet; bearish Elliott count afterwards.",
+   "conviction": "medium",
+   "timestamp": "17:30",
+   "quote": "The best goal I see now for bitcoin still will be higher than recent maxima... approximately at $84,350"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETHUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2220,
+     2200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it drops further, re-buy near the ~2,200-2,220 anchored VWAP zone.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Liquidity swept below recent low, sitting on daily Hypr Trend cloud support, hidden bullish divergence on daily RSI plus regular RSI/MACD divergence on 4h.",
+   "conviction": "high",
+   "timestamp": "41:50",
+   "quote": "I plan open a long Ethereum position directly here. This has a lot meaning."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRPUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.2323,
+     1.22,
+     1.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Wants a dip to the ~1.22-1.23 golden pocket/1:1 extension to complete an ABC correction before going long; not long at current price.",
+   "action": "watch",
+   "entry": 1.2323,
+   "stop": null,
+   "method": "technical",
+   "reason": "ABC correction expected to bottom near 1.20; golden pocket + 1:1 extension + channel support; looking for regular bullish divergence on 4h RSI.",
+   "conviction": "medium",
+   "timestamp": "48:40",
+   "quote": "this zone $1.22 on XRP is a great level support... this will be my next position on I will buy with XRP"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOLUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ideal setup: another push down to the weekly support level and daily Hypr Trend, sweep of both recent lows, then bounce.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit his prior downside forecast; weekly level and daily Hypr Trend support below, hidden bullish RSI divergence; not opening a long himself (prefers ETH and XRP).",
+   "conviction": "low",
+   "timestamp": "54:10",
+   "quote": "press down, we reach the weekly level, and then we get a reaction above"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "HYPEUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading on weekly support coinciding with anchored VWAP, corrective low-volume pullback, Hyperwave lower band hit, hidden bullish divergence on daily RSI.",
+   "conviction": "medium",
+   "timestamp": "58:50",
+   "quote": "Search opportunities for purchases, or even spot purchases Hype, means a lot to me meaning."
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEARUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4.46
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Not long at current price; looks for longs a bit lower near the 4.46 daily level / golden pocket below recent lows.",
+   "action": "watch",
+   "entry": 4.46,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at weekly level + golden pocket; fresh daily support at 4.46 is also liquidity below lows; hidden bullish divergence on daily RSI.",
+   "conviction": "low",
+   "timestamp": "1:02:50",
+   "quote": "am I looking for longs now—no, but a little below, approximately daily level or golden ratio Fibonacci"
+  },
+  {
+   "group": "crypto",
+   "ticker": "AAVE",
+   "instrument_quoted": "AAVEUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     142.55,
+     140
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ideally waits for a sweep down to ~140-142.55 (daily level, anchored VWAP, golden pocket) before buying.",
+   "action": "watch",
+   "entry": 142.55,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at golden pocket after liquidity grab; confluence support at ~142.55; hidden bullish divergence on RSI.",
+   "conviction": "medium",
+   "timestamp": "1:07:50",
+   "quote": "Purchase AAVE very, very soon, I I think there will be a lot sense here."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ONDO",
+   "instrument_quoted": "ONDOUSDT perpetual",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Ideally a bit lower to sweep liquidity below recent lows, then a bounce; not opening a long at current levels.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Golden pocket worked out and reacted up at a daily support level; wants more liquidity collected below lows.",
+   "conviction": "low",
+   "timestamp": "1:12:30",
+   "quote": "Of Ondo, I would say so. Search for purchases, on in my opinion, has more meaning."
+  }
+ ],
+ "notes": "Auto-translated transcript (garbled). BTC price_at_call approximated from 'daily level around 81,500 where we are now' after rejection near 83k. He also mentions holding an older BTC short from higher up and says 45k/40k are important BTC levels (response to chat), not recorded as a target. Date from 'October 18 daily candle... two days ago'."
+}

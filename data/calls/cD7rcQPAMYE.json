@@ -1,0 +1,128 @@
+{
+ "video_id": "cD7rcQPAMYE",
+ "channel": "ShadowTrader",
+ "title": "Bonds are Back!",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Peter Reznicek",
+ "macro_themes": [
+  {
+   "theme": "Yields falling / bonds rallying",
+   "view": "Yields collapsed with a flight to quality; falling rates should ultimately help equities, but not yet."
+  },
+  {
+   "theme": "Choppy low-confidence market",
+   "view": "Large consolidation since August with failed signals; avoid directional trades until after the midterms."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold broke down below consolidation as money rotated from zero-yield gold into bonds.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "I do think there's a little bit more pain to be had here in the gold trade"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Messy range since August, sitting on uptrend line without breaking; advises no directional trades until after midterms.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I still maintain that you do not want to get into anything directional."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10y and 30y yields collapsed; watching whether they keep coming down.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "look at the 10-year, just quite down. And then TYX is your 30-year. And you can see how they just collapsed."
+  }
+ ],
+ "notes": "Transcript says both 'yesterday on Friday' and 'Thursday evening of October 22nd'; used Oct 22. Yield call is mostly observation, low conviction."
+}

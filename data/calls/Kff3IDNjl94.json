@@ -1,0 +1,51 @@
+{
+ "video_id": "Kff3IDNjl94",
+ "channel": "tastylive",
+ "title": "Why I'm Keeping This UAL Trade",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (unnamed)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "UAL",
+   "instrument_quoted": "UAL options",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 105,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 5.44,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Earnings call diagonal (long Dec 100 call, short weekly 105 call, 5.44 debit); IV only ~45% with IV rank 23, playing for a post-earnings rally.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "Playing for an earnings uh rally going out to December... If we get a rally up to 105 on Friday, we're looking at about a $370 winner."
+  }
+ ],
+ "notes": "Host says UAL earnings Oct 20 after close \"which is tomorrow\" -> 2026-10-19. Entry 5.44 is the spread debit, not stock price; breakeven ~97. Other positions (SBUX, COST, USO, WMT, SPX/NDX butterflies, JPM, MCL, MNQ, NOW, AMZN, PYPL) were trade management only, not recorded as calls."
+}

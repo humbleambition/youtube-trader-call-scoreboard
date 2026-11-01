@@ -1,0 +1,62 @@
+{
+ "video_id": "4cHxN5i0-ZE",
+ "channel": "Meet Kevin",
+ "title": "The Collapse is Starting: Is this the Black Swan?",
+ "video_date": "2026-10-18",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "CoreWeave credit doom loop",
+   "view": "Rising CoreWeave CDS is a self-reinforcing doom loop and a sideshow, not a systemic black swan."
+  },
+  {
+   "theme": "Labor market as black swan",
+   "view": "The real risk is the labor market, which looks fine now but won't last as agentic AI improves."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "AI is a bubble that will eventually pop, but not starting with CoreWeave."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Despite a weak balance sheet and a shift away from training compute, he thinks bankruptcy fears (64% implied default) are overdone; Nvidia or others will bail it out via dilution or loans.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "I don't see this as systemic. I see this as a buy the dip opportunity. This is not the beginning of the end."
+  }
+ ],
+ "notes": "He states he has no CoreWeave position; 'buy the dip' is contrarian vs CDS pricing. No price levels given."
+}

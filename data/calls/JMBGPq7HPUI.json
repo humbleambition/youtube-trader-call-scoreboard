@@ -1,0 +1,56 @@
+{
+ "video_id": "JMBGPq7HPUI",
+ "channel": "tastylive",
+ "title": "Traders Put $3 Million on SpaceX Falling Into Earnings",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (Signal vs. Noise)",
+ "macro_themes": [
+  {
+   "theme": "SpaceX earnings moved",
+   "view": "Earnings moved up to Tue Oct 20 after close, compressing vol into Oct 21 expiry; Tesla reports the next day, merger speculation."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SPCX",
+   "price_at_call": 146,
+   "short_term": {
+    "bias": "bearish",
+    "target": 135,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     135
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Large put buying: $2.7M Oct 23 135 puts (IPO price), Nov 6 144 puts, 2DTE 146 puts; host expects a violent post-earnings move but calls direction a guess.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "three existing bearish put trades... each express a different view of the same directional bias, which is lower"
+  }
+ ],
+ "notes": "Bias reflects options flow, not the host's own view (he says 'a total guess'). Spot quoted ~146-150; implied move ~$10.35. Analyst targets 230-275 mentioned."
+}

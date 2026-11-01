@@ -1,0 +1,349 @@
+{
+ "video_id": "ycL7j92IqVc",
+ "channel": "Verified Investing",
+ "title": "Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "Core CPI hotter than expected; markets tanked except yields."
+  },
+  {
+   "theme": "Fed hike odds",
+   "view": "Polymarket odds of a 25bp hike at the Oct 28 FOMC jumped from 18% to 43%+; markets need to digest that."
+  },
+  {
+   "theme": "Inflation good for BTC long term",
+   "view": "More money printing vs BTC's 21M hard cap is bullish for Bitcoin long term."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Found support on ascending 4h trend line from Sep 15 after CPI flush of over-leveraged longs; 15m hidden bullish divergence but may retest; liquidation map balanced. Long term inflation favors BTC.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "Long term, yes, but the markets have to digest the rate odds."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": 2440,
+   "short_term": {
+    "bias": "bullish",
+    "target": 2468,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2400
+    ],
+    "resistance": [
+     2463,
+     2468
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 2440,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounce off ascending trend line from Sep 15 wick, 4h hidden bullish divergence, RSI oversold on 15m; shorts above at 2463-2468 to be liquidated where he takes profit; adds down to 2400 psychological level.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "I will close my ETH long once we clear... 2468, 2463. That's the levels I'm watching on Ethereum."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If XRP flips the Sep 15 trend-line area back into support, he turns more bullish.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke and is repeatedly interacting with the trend-line level; not looking to long or short, only scalps.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "I'm not really looking at a long. I'm not really looking at a short here."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Opens a long if SOL dips a little lower into the 4h level.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Full-blown bullish divergence on the 4h (price lower, RSI higher).",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "I am looking to open a long on Solana if we interact with this."
+  },
+  {
+   "group": "crypto",
+   "ticker": "NEAR",
+   "instrument_quoted": "NEAR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long if NEAR retests the ascending trend line from December.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long-term ascending 4h trend line from December has acted as support.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "If we test this again, I love a long on near."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SWE",
+   "instrument_quoted": "SWE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short at wicks/local high resistance; in profit but trying to flip negative.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "We're in a SWE short."
+  },
+  {
+   "group": "crypto",
+   "ticker": "INJ",
+   "instrument_quoted": "INJ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long only if INJ comes down to the trend line; stay away until then.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "RSI falling while price flat looks bearish, expects drop into the trend line, which he likes for a long.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "If we hit this trend line, I like a long. I like a long at that point. But until then, I wouldn't touch it"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SYRUP",
+   "instrument_quoted": "SYRUP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish charts, no clear level; 1h looks weak.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "No. No. I think we're going to go lower."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BCH",
+   "instrument_quoted": "BCH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 400,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     400
+    ],
+    "invalidation": null
+   },
+   "condition": "If things turn bullish and BCH reaches ~400, he wants to short there.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Never hit the 400 resistance; thinks it will get there eventually; dislikes the chart and low liquidity.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "I'm still still wanting to go short around the $400 level. I think it will go there eventually."
+  }
+ ],
+ "notes": "Date from listing (CPI release day). Also: UNI short from prior day mostly closed for profit; RAY only 'wait for 4h bull div' (skipped). BCH: target 400 recorded as medium-term since he expects price to get there before shorting."
+}

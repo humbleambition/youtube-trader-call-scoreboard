@@ -1,0 +1,306 @@
+{
+ "video_id": "MuvvHm2Hv8w",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Dominance Explodes: Key BTC Levels REVEALED",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Bitcoin dominance rising",
+   "view": "BTC dominance (~60.36%) is near a 139-140 day high with a potential breakout toward ~61%, meaning altcoins underperform until it rejects."
+  },
+  {
+   "theme": "Chinese DRAM competition",
+   "view": "CXMT memory products arriving by year-end hit chipmakers and AI-related coins."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still clinging to daily support zone (Nov wick low to May highs); 20-min/2h wedge running out around Oct 25; expects chop; shorts above still to be cleared.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "Wouldn't be surprised if we were just going to chop around for a little bit, folks."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Adjusted descending trend line through wicks matches the 4h and 1h rejection; watch for another push up and rejection there.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "see if ETH push pushes up and then rejects at that level again."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": 125,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     125,
+     126
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected just below weekly trend line dating to Dec 2023 at 125 psychological round number; watching 126; still holding part of the long from yesterday.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "I'm watching this area for Salana 126. But also remember 125 psychological level."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ADA",
+   "instrument_quoted": "ADA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ADA pushes up into the support-turned-resistance trend line, he will short it.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "20-min trend line flipped from support to resistance.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "So if we do another quick little pushup, I will be looking to short that level."
+  },
+  {
+   "group": "crypto",
+   "ticker": "UNI",
+   "instrument_quoted": "UNI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bearish divergence on 20-min and 10-min; descending 1h/4h trend line; in a 200 UNI short, will add at trend line.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "So, go short. Go short."
+  },
+  {
+   "group": "crypto",
+   "ticker": "FET",
+   "instrument_quoted": "FET",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 93-94% from highs, not long-term bullish; forming a wedge to trade either way.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "I'm not really long-term bullish on this one... don't hate it, don't date it, just trade it."
+  },
+  {
+   "group": "crypto",
+   "ticker": "WLD",
+   "instrument_quoted": "WLD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Ascending parallel channel on 4h usually breaks down; ongoing token unlocks keep supply inflationary.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "So, that for that reason, I'm out"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the daily closes below the ascending parallel channel, that confirms a breakdown; back inside the channel is bullish.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tested lower edge of ascending channel intraday; daily close decides.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "if we close below that is a confirmed breakdown below this parallel."
+  }
+ ],
+ "notes": "No BTC/ETH price levels stated. SOL quoted ~125 here while the 10-13 episode (XJGWsnQvblY) mentions adding at 106; one of those numbers may be transcription error. BTC dominance view kept in macro_themes (no canonical ticker)."
+}

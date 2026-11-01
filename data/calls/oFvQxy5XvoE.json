@@ -1,0 +1,209 @@
+{
+ "video_id": "oFvQxy5XvoE",
+ "channel": "Verified Investing",
+ "title": "Gold, Silver And Copper: The Buy Zones I’m Watching",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "metals",
+ "speaker": "Drew Dosik",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": 98.01,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     98.01,
+     104.14,
+     108.26
+    ],
+    "invalidation": null
+   },
+   "condition": "as long as price stays above the declining trend line (inverse H&S neckline)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse head-and-shoulders neckline being tested at the Sep 18 pivot 98.01; measured move to 116.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "as long as price remains above this declining trend line... probabilities favor a move up here to $116"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 3.6,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.89,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.21
+    ],
+    "resistance": [
+     3.6
+    ],
+    "invalidation": 3.21
+   },
+   "condition": "as long as price holds above 3.21",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Series of breakouts and retests from the lows; aiming back into parallel channel.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I'm anticipating Nat Gas at least coming back up and testing this range at $3.60 in the near term."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3950,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3650,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3650,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if the bear flag breaks below 4,100",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag on 4,100 support; next support ~3,950, then long-term trend line ~3,650-3,500 where he would buy physical.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "be careful as I do see there could be further downside on gold."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53.26,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 53.26,
+   "stop": null,
+   "method": "technical",
+   "reason": "Active head-and-shoulders with target 53.26; 53.26-50 zone (2011 high) is a buy zone for a medium/long-term bounce; long-term higher.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "probability still are high that price will come and tag this level before continuing up on the chart."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 6.0,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.6,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     6.0
+    ],
+    "resistance": [
+     6.6
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below Mar-Jun 2026 rising trend line (breakdown-retrace-fade); possible retest of $6 then bounce to 6.60; weekly bullish consolidation.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Maybe we would get fortunate for a retest down here to six, in which case I then anticipate a bounce right back up to this consolidation range at the 660"
+  }
+ ],
+ "notes": "Gold section says \"physical silver\" at 3,500 but context is gold (slip). Silver entry 53.26 is the start of his buy zone, not a filled trade."
+}

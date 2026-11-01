@@ -1,0 +1,173 @@
+{
+ "video_id": "2YXWaS3CjDw",
+ "channel": "Money Making Market",
+ "title": "VIX SAYS MORESELLING... BUT WHY DOESN'T SPY AND QQQ?",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Volatility confirming up",
+   "view": "VIX has confirmed higher on daily and weekly MACD, opening the door to more volatility and selling unless it fails quickly."
+  },
+  {
+   "theme": "Use expected moves to avoid emotional trades",
+   "view": "Shorting outside the 95% expected-move zone is a low-odds trade; wait for a bounce that rolls over."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX confirmed a daily higher low and weekly MACD curl up; 2-hour exploded up with room before center line, so at least one more volatility reaction likely.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "the very probable thing here for volatility is to be able to see at least one more reaction"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     766.2
+    ],
+    "resistance": [
+     777.38
+    ],
+    "invalidation": null
+   },
+   "condition": "If the SPY 2-hour MACD curls up near the center line, expect a test of the high or a new high; if the 30-minute rolls, test the low and make a new one.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "At weekly expected move; SPY can withstand a 2-hour pullback as long as it stays near the center line, no trap signal yet.",
+   "conviction": "low",
+   "timestamp": "4:20",
+   "quote": "if the two-hour chart is able to curl up over here, it should be an attempt to take back these type of areas"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     720
+    ],
+    "resistance": [
+     736
+    ],
+    "invalidation": null
+   },
+   "condition": "If a 2-hour bounce rolls over, swing short; bull case needs a 2-hour pullback that re-confirms positive. 2-hour curl up could reach 736 daily expected move.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ below the 95% expected-move band and in a more negative trend than SPY, but no daily lower high or divergence, so it can withstand a daily pullback.",
+   "conviction": "low",
+   "timestamp": "8:50",
+   "quote": "the highly likely story here is you could get some kind of lower high"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     277.93
+    ],
+    "invalidation": null
+   },
+   "condition": "If IWM 2-hour rolls down from the 277.93 daily expected move, bearish test of lows; a 2-hour higher low would signal a daily bounce.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long-suffering IWM near center line with possible daily divergence forming; could still get a daily bounce.",
+   "conviction": "low",
+   "timestamp": "12:40",
+   "quote": "The IWM has suffered for a long period of time. So, we have to be aware that this could still get some kind of daily bounce"
+  }
+ ],
+ "notes": "Host says the Patreon update was \"yesterday on Wednesday\", so recorded Thursday 2026-10-15 evening (listing said 10-16). Mostly conditional technical scenarios; \"77738/76620\" read as SPY 777.38/766.20. QQQ 736/720 as spoken."
+}

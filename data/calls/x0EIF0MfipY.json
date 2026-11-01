@@ -1,0 +1,54 @@
+{
+ "video_id": "x0EIF0MfipY",
+ "channel": "BitcoinHyper",
+ "title": "BITCOIN: It\u2019s Trying To Break Out! (watch the close) - BTC Price Prediction Today",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC (Bybit chart)",
+   "price_at_call": 83137,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 70000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 40000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     79500
+    ],
+    "resistance": [
+     83137,
+     84500
+    ],
+    "invalidation": null
+   },
+   "condition": "If BTC pushes above recent highs to ~84,500 take profit on long and short; if it drops instead, re-enter long ~79,500 on a swing failure pattern, TP ~84,300.",
+   "action": "take_profit",
+   "entry": 81600,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking out of a falling wedge after liquidity grab; short liquidations cluster ~84,300-84,600 at top of descending channel, golden pocket and 1.236 extension. There he takes profit and looks to short, per a bearish weekly Elliott count toward 70k then possibly 40k.",
+   "conviction": "medium",
+   "timestamp": "4:40",
+   "quote": "pay attention to 84,500 US dollars because clearly right here, we definitely do have a lot of confluence."
+  }
+ ],
+ "notes": "Short term bullish to 84.5k, then bearish Elliott wave count (70k, then 40k) \u2014 horizons inferred: 70k as medium-term, 40k long-term. price_at_call is the daily resistance just hit (83,137); BTC was ~80,800 the day before."
+}

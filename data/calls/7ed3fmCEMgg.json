@@ -1,0 +1,206 @@
+{
+ "video_id": "7ed3fmCEMgg",
+ "channel": "tastylive",
+ "title": "Steven Orr Bought Amazon Into the Panic, Here\u2019s Why",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Steven Orr (Kase R Markets), interviewed by Chris",
+ "macro_themes": [
+  {
+   "theme": "Capitulation done",
+   "view": "Last week's leveraged flush capitulated Friday; VIX easing makes it a good time to get back in, but a stock picker's market."
+  },
+  {
+   "theme": "Fed on hold",
+   "view": "Expects Warsh's Fed not to hike at this week's meeting; maybe one hike in December."
+  },
+  {
+   "theme": "Midterm gridlock bullish",
+   "view": "Expects Democrats to take the House (maybe Senate) on Nov 3; gridlock brings clarity, good for markets."
+  },
+  {
+   "theme": "Cybersecurity demand",
+   "view": "AI and quantum threats make cybersecurity more needed, not obsolete."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought back in Friday at capitulation as QQQ hit its 100-day/200-day MA with selling volume drying up and VIX falling.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "I'm telling you right now, this is a good chance to get back in"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Thought Amazon was completely beaten up; bought heavily Thursday.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "I thought Amazon was completely beaten up and and we got back into Amazon pretty heavily"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock / Dec 160 calls",
+   "price_at_call": 150,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 170,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Tightening launch cycles, satellites, spectrum, Texas data center, Musk's confidence before earnings; long-term $20T potential.",
+   "conviction": "high",
+   "timestamp": "0:06",
+   "quote": "I think this stock is not where we are now at 150. I think we're closer to 160, 170 in December"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NET",
+   "instrument_quoted": "NET",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Cybersecurity thesis plus beaten-down chart; linear regression suggests gains ~3 months out.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "you're going to be a happy camper come about 3 months from now"
+  },
+  {
+   "group": "stocks",
+   "ticker": "T",
+   "instrument_quoted": "AT&T",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Says AT&T can push up over the next few months.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "I really think that AT&T can really push up here over the next uh few months"
+  }
+ ],
+ "notes": "Dated Monday 2026-10-19 ('Sunday night, yesterday'). SpaceX ticker unknown post-IPO; recorded as SPACEX. Medium target 170 taken from '160, 170 in December'. AT&T mention may be a slip for another name (context was cybersecurity/Akamai). Not ready to buy semis (MU, SNDK). Host Chris added CRWD/AMZN; not recorded."
+}

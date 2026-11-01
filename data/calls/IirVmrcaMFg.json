@@ -1,0 +1,278 @@
+{
+ "video_id": "IirVmrcaMFg",
+ "channel": "Verified Investing",
+ "title": "Tech Stocks Dump, Bitcoin FOLLOWS: The Exact Downside Targets",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Tech sell-off drags crypto",
+   "view": "Tech earnings sell-off and an AI cybersecurity scare pulled down the Nasdaq and Bitcoin with it."
+  },
+  {
+   "theme": "ETF flows",
+   "view": "Biggest Bitcoin ETF inflow since September ($528M) was not enough to offset the selling."
+  },
+  {
+   "theme": "Token buybacks",
+   "view": "Favors tokens with fee-funded buybacks (ZRO, HYPE, PUMP) for buy pressure."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80600
+    ],
+    "resistance": [],
+    "invalidation": 80600
+   },
+   "condition": "If 80,600 holds, still in an uptrend",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lost the 1-hour ascending trend line and may press lower toward a ~$100M liquidation cluster, but daily higher lows since 58k keep the structure bullish.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "The exact level Bitcoin needs to hold still around this $80,600. If it can hold that, you know, we're we're still largely in an uptrend."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Liquidation clusters below were wiped out, so he went long and scaled in, then exited before going live; expects the 4-hour level to hold as support.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "I saw these get wiped out, so I started adding."
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would buy heavy at the bottom (or midpoint) of the descending parallel channel",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart looks like a bear flag, possibly a new local October low.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "It's looking a little bit bearish."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed to confirm a close above the channel; likely stuck in the range for the foreseeable future.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "probably no shot this is going to close above that parallel channel"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HBAR",
+   "instrument_quoted": "HBAR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     0.073
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": 0.073,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lost a level; would look to open a trade near 7.3 cents.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "I would be looking to open a trade right around 7 and 1/2 cents, 7.3 pennies"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SUI",
+   "instrument_quoted": "SUI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "4-hour/daily head and shoulders; bearish if the neckline breaks, though a relief bounce off the neckline is common.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "technically this is a bearish setup should this, you know, break down"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZRO",
+   "instrument_quoted": "ZRO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 3.23,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.25
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bought LayerZero near the bottom of a bear-flag range after a big pump; token buybacks add buy pressure; take profit below 3.25.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "I bought a little zero... I would be looking take some profit... Maybe like 323, 324, get out before 325."
+  }
+ ],
+ "notes": "No date stated; listing date used. Recorded with ~6 hours left on the daily candle (evening US time). HBAR trade direction at 0.073 not stated (biases none). Polygon (support ~0.085), HYPE and PUMP mentioned briefly; skipped."
+}

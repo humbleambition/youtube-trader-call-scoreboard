@@ -1,0 +1,132 @@
+{
+ "video_id": "nHnt2PLt9xw",
+ "channel": "Sean Foo",
+ "title": "US Panic: $1.2 Trillion Wiped Out in a Day as China Dumps $27.3B in US Debt",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Oil supply crisis",
+   "view": "Official normalised-flow figures are suspect; Brent ~113, insurance costs and a diesel refining shortage keep energy prices high and could push them higher."
+  },
+  {
+   "theme": "Tech sell-off",
+   "view": "AI companies face a consumption problem; the Anthropic IPO looks like a cashout; the sell-off may not be over."
+  },
+  {
+   "theme": "China dumping Treasuries for gold",
+   "view": "China's Treasury selling is policy, not a trade; its gold buying will keep rising, shifting power East."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Converging crises (oil inflation, AI earnings fears, China competition) mean the tech sell-off may continue unless the war ends.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "So this sell-off may not be over yet. The only real way to reverse it is to end the war"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent crude",
+   "price_at_call": 113,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Supply disruption, rising shipping insurance, refining shortage and winter mean prices stay high and may go much higher.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "So, don't expect a sudden drop in energy prices. In fact, prices might go much higher"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "China swapping Treasuries for gold, buying 20+ tons/month and likely more off the books; money flowing to gold.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "So, we should follow the flow of money. And right now, it's heading massively to gold."
+  }
+ ],
+ "notes": "Brent price quoted (ticker normalised to CL). No specific targets given."
+}

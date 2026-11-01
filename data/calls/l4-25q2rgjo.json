@@ -1,0 +1,173 @@
+{
+ "video_id": "l4-25q2rgjo",
+ "channel": "tastylive",
+ "title": "Brent Kochuba Says the Real Tech Top Wasn't the News Everyone Blamed",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Brent Kochuba (SpotGamma), with Kevin Davitt (Nasdaq)",
+ "macro_themes": [
+  {
+   "theme": "Rotation, not crash",
+   "view": "Money is rotating from tech into equal-weight/laggards (RSP, Nike); a broadening rally is a bullish construct, a mild correction not a bear market."
+  },
+  {
+   "theme": "Real tech top",
+   "view": "SMH and Korea topped Oct 6 on Chinese memory maker CXMT news, not on the Anthropic headlines blamed later."
+  },
+  {
+   "theme": "Right-tail risk",
+   "view": "Bigger risk into year-end is missing an upside move; fixed-strike vols and NDX skews near lows show no panic."
+  },
+  {
+   "theme": "Rates easing",
+   "view": "10-year off from 5.3% to 5.1% supports rate-sensitive beaten-down names."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7700
+    ],
+    "resistance": [],
+    "invalidation": 7700
+   },
+   "condition": "Bullish unless SPX loses 7,700 or 1-month correlation spikes, which would signal a broad-based sell-off.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Monthly OPEX clearing puts could mark a short-term low; fixed-strike vols falling; positive seasonality into year-end.",
+   "conviction": "medium",
+   "timestamp": "18:40",
+   "quote": "if we start to lose 7,700 in the S&P 500 then I'm going to start worrying about a more of a broad-based sell-off."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NDX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Single-stock OPEX in mega-cap tech should relieve put pressure for a short-term low; NDX December skews near 90-day lows, no panic bid; tech more volatile both ways.",
+   "conviction": "medium",
+   "timestamp": "1:20",
+   "quote": "I do think we could put in at least a a short-term low here with expiration as put options are cleared out"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "After a 15% drop from the Oct 6 top, SMH is cheaper to get into; wants upside right-tail options as a core holding.",
+   "conviction": "medium",
+   "timestamp": "18:25",
+   "quote": "SMH I think now is a lot cheaper and easier to get into some trades there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "NVDA calls are cheap; holding upside calls to avoid missing a right-tail move.",
+   "conviction": "low",
+   "timestamp": "18:20",
+   "quote": "I want to maintain exposure with the talk about Nvidia calls for example how cheap they are."
+  }
+ ],
+ "notes": "Friday monthly OPEX morning; dated 2026-10-16. Nike, NBIS, TSLA call buying mentioned as flows only - not recorded as calls. Kevin Davitt gave no directional calls."
+}

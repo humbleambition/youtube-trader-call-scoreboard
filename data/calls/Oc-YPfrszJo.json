@@ -1,0 +1,351 @@
+{
+ "video_id": "Oc-YPfrszJo",
+ "channel": "Verified Investing",
+ "title": "Oil Keeps Pushing, Yields Signal Recession, Tech Near Correction...Here Are The Trades",
+ "video_date": "2026-10-23",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Oil drives the market",
+   "view": "Without an oil pullback, no reason to buy into the weekend; oil higher for longer is wearing down the consumer."
+  },
+  {
+   "theme": "Recession-driven yield drop",
+   "view": "Yields falling on recession fears, not lower inflation, which is negative for stocks; recession likely by early 2027 if oil stays ~95."
+  },
+  {
+   "theme": "AI accumulation",
+   "view": "Institutions likely accumulating beaten-down AI names; one more flush would create buying opportunities."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures / SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Unless oil pulls back, likely another down day; a break of the daily trend line could extend to the trend line from the 2021 bull-market high.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Futures below yesterday's low as oil rises; must recover above the daily trend line.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "it does set up unless we get oil to pull back to a potential another down day on Wall Street."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq holding its pivot low while S&P broke, showing relative strength and likely institutional accumulation for an AI bounce.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "there may be a little bit of a technical institutional buy program going on here, accumulating some of these beaten-down names."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "spot crude (WTI)",
+   "price_at_call": 101.03,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     104
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil keeps pushing on escalation rhetoric; descending trend line from ~120 March top gives resistance ~104.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "if we do move up, there is going to be resistance around 104 on spot crude here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDC",
+   "instrument_quoted": "WDC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Strong buyer if it dumps into the gap fill / 0.886 Fibonacci level today or early next week.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Earnings dip recovered; pre-set swing level at pivot, gap fill and 0.886 fib.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "If we dump today into that level or early next week, I am a strong buyer of WDC at that level."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Likely buys a swing long at the approaching gap fill (~315 level mentioned ambiguously).",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "High-quality AI chip maker approaching a major gap fill.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "We get down there, I likely will be picking this up as a swing trade long."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3940,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3940
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Negative while below the ascending trend line until the ~3940 double bottom is tagged.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dipped below 4,000 then recovered; still below broken ascending trend line.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "as long as we stay below this ascending trend line, I've got to be at least negative until we tag these lows at double bottom around 3940."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (SLV for the trade)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Small swing long via SLV, take profit on a ~5% bounce; long-term buying only at 50 or below.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hit trend line support off pivot highs; still expects 50 or below before long-term loading.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "I still think unfortunately, we're probably going down to 50 or below on silver"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long and underwater; oversold and will add at the next pivot low.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "I am in this on the long side down on this position. My next add will be right at this pivot low."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it breaks and closes below the 81,000 line, next downside target 75,500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeatedly holding 81,000; sitting on the sidelines waiting for direction.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "If it breaks here and closes below this line, again, 75.5 is my next downside target."
+  }
+ ],
+ "notes": "AVGO level stated as 'around 3:15' in transcript (likely 315 mis-transcribed), not used as a number. NG ticker outside the canonical list."
+}

@@ -1,234 +1,213 @@
 [
  {
   "channel": "Ricky Gutierrez",
-  "calls": 51,
+  "calls": 116,
   "day": {
-   "n": 32,
-   "hits": 22,
-   "hit": 0.6875,
-   "long": 0.2812,
-   "edge": 0.4062,
-   "p": 0.0251
+   "n": 64,
+   "hits": 41,
+   "hit": 0.6406,
+   "long": 0.3281,
+   "edge": 0.3125,
+   "p": 0.0164
   },
   "week": {
-   "n": 39,
-   "hits": 21,
-   "hit": 0.5385,
-   "long": 0.4615,
-   "edge": 0.0769,
-   "p": 0.3746
+   "n": 92,
+   "hits": 40,
+   "hit": 0.4348,
+   "long": 0.3587,
+   "edge": 0.0761,
+   "p": 0.9125
   },
   "rank": 1
  },
  {
-  "channel": "tastylive",
-  "calls": 267,
+  "channel": "BitcoinHyper",
+  "calls": 58,
   "day": {
-   "n": 189,
-   "hits": 108,
-   "hit": 0.5714,
-   "long": 0.3333,
-   "edge": 0.2381,
-   "p": 0.0292
+   "n": 46,
+   "hits": 28,
+   "hit": 0.6087,
+   "long": 0.4565,
+   "edge": 0.1522,
+   "p": 0.092
   },
   "week": {
-   "n": 231,
-   "hits": 136,
-   "hit": 0.5887,
-   "long": 0.2727,
-   "edge": 0.316,
-   "p": 0.0042
+   "n": 49,
+   "hits": 23,
+   "hit": 0.4694,
+   "long": 0.2041,
+   "edge": 0.2653,
+   "p": 0.7159
   },
   "rank": 2
  },
  {
-  "channel": "Trade Brigade",
-  "calls": 92,
+  "channel": "TheTechnicalTraders",
+  "calls": 120,
   "day": {
-   "n": 81,
-   "hits": 46,
-   "hit": 0.5679,
-   "long": 0.4938,
-   "edge": 0.0741,
-   "p": 0.1332
+   "n": 94,
+   "hits": 56,
+   "hit": 0.5957,
+   "long": 0.4149,
+   "edge": 0.1809,
+   "p": 0.0395
   },
   "week": {
-   "n": 87,
-   "hits": 44,
-   "hit": 0.5057,
-   "long": 0.5862,
-   "edge": -0.0805,
-   "p": 0.5
+   "n": 118,
+   "hits": 64,
+   "hit": 0.5424,
+   "long": 0.3475,
+   "edge": 0.1949,
+   "p": 0.2037
   },
   "rank": 3
  },
  {
-  "channel": "TheTechnicalTraders",
-  "calls": 67,
+  "channel": "Money Making Market",
+  "calls": 63,
   "day": {
-   "n": 56,
-   "hits": 31,
-   "hit": 0.5536,
-   "long": 0.4286,
-   "edge": 0.125,
-   "p": 0.2522
+   "n": 31,
+   "hits": 17,
+   "hit": 0.5484,
+   "long": 0.6129,
+   "edge": -0.0645,
+   "p": 0.3601
   },
   "week": {
-   "n": 66,
-   "hits": 35,
-   "hit": 0.5303,
-   "long": 0.4242,
-   "edge": 0.1061,
-   "p": 0.3561
+   "n": 45,
+   "hits": 24,
+   "hit": 0.5333,
+   "long": 0.4444,
+   "edge": 0.0889,
+   "p": 0.383
   },
   "rank": 4
  },
  {
-  "channel": "Ross Givens",
-  "calls": 78,
+  "channel": "Trade Brigade",
+  "calls": 162,
   "day": {
-   "n": 25,
-   "hits": 13,
-   "hit": 0.52,
-   "long": 0.28,
-   "edge": 0.24,
-   "p": 0.5
+   "n": 139,
+   "hits": 75,
+   "hit": 0.5396,
+   "long": 0.4676,
+   "edge": 0.0719,
+   "p": 0.1982
   },
   "week": {
-   "n": 64,
-   "hits": 25,
-   "hit": 0.3906,
-   "long": 0.3125,
-   "edge": 0.0781,
-   "p": 0.97
+   "n": 151,
+   "hits": 67,
+   "hit": 0.4437,
+   "long": 0.5099,
+   "edge": -0.0662,
+   "p": 0.9286
   },
   "rank": 5
  },
  {
-  "channel": "Meet Kevin",
-  "calls": 113,
+  "channel": "tastylive",
+  "calls": 510,
   "day": {
-   "n": 34,
-   "hits": 17,
-   "hit": 0.5,
-   "long": 0.4706,
-   "edge": 0.0294,
-   "p": 0.5679
+   "n": 356,
+   "hits": 191,
+   "hit": 0.5365,
+   "long": 0.4213,
+   "edge": 0.1152,
+   "p": 0.0925
   },
   "week": {
-   "n": 101,
-   "hits": 51,
-   "hit": 0.505,
-   "long": 0.495,
-   "edge": 0.0099,
-   "p": 0.5
+   "n": 454,
+   "hits": 249,
+   "hit": 0.5485,
+   "long": 0.3084,
+   "edge": 0.2401,
+   "p": 0.0217
   },
   "rank": 6
  },
  {
-  "channel": "David Lin",
-  "calls": 111,
+  "channel": "Ross Givens",
+  "calls": 116,
   "day": {
-   "n": 24,
-   "hits": 12,
-   "hit": 0.5,
-   "long": 0.5417,
-   "edge": -0.0417,
-   "p": 0.5806
+   "n": 30,
+   "hits": 16,
+   "hit": 0.5333,
+   "long": 0.3667,
+   "edge": 0.1667,
+   "p": 0.4278
   },
   "week": {
-   "n": 74,
-   "hits": 40,
-   "hit": 0.5405,
-   "long": 0.5,
-   "edge": 0.0405,
-   "p": 0.2807
+   "n": 83,
+   "hits": 39,
+   "hit": 0.4699,
+   "long": 0.3133,
+   "edge": 0.1566,
+   "p": 0.7448
   },
   "rank": 7
  },
  {
-  "channel": "Money Making Market",
-  "calls": 51,
+  "channel": "Meet Kevin",
+  "calls": 254,
   "day": {
-   "n": 27,
-   "hits": 13,
-   "hit": 0.4815,
-   "long": 0.5926,
-   "edge": -0.1111,
-   "p": 0.6494
+   "n": 101,
+   "hits": 52,
+   "hit": 0.5149,
+   "long": 0.4554,
+   "edge": 0.0594,
+   "p": 0.4212
   },
   "week": {
-   "n": 35,
-   "hits": 17,
-   "hit": 0.4857,
-   "long": 0.4286,
-   "edge": 0.0571,
-   "p": 0.6321
+   "n": 213,
+   "hits": 114,
+   "hit": 0.5352,
+   "long": 0.4131,
+   "edge": 0.1221,
+   "p": 0.1687
   },
   "rank": 8
  },
  {
-  "channel": "Verified Investing",
-  "calls": 349,
+  "channel": "Crypto World",
+  "calls": 122,
   "day": {
-   "n": 242,
-   "hits": 110,
-   "hit": 0.4545,
-   "long": 0.4091,
-   "edge": 0.0455,
-   "p": 0.9304
+   "n": 106,
+   "hits": 51,
+   "hit": 0.4811,
+   "long": 0.4434,
+   "edge": 0.0377,
+   "p": 0.6863
   },
   "week": {
-   "n": 287,
-   "hits": 138,
-   "hit": 0.4808,
-   "long": 0.3484,
-   "edge": 0.1324,
-   "p": 0.7606
+   "n": 118,
+   "hits": 66,
+   "hit": 0.5593,
+   "long": 0.161,
+   "edge": 0.3983,
+   "p": 0.1156
   },
   "rank": 9
  },
  {
-  "channel": "Geeks of Finance",
-  "calls": 67,
+  "channel": "Verified Investing",
+  "calls": 714,
   "day": {
-   "n": 42,
-   "hits": 19,
-   "hit": 0.4524,
-   "long": 0.4524,
-   "edge": 0.0,
-   "p": 0.7796
+   "n": 489,
+   "hits": 223,
+   "hit": 0.456,
+   "long": 0.4315,
+   "edge": 0.0245,
+   "p": 0.9767
   },
   "week": {
-   "n": 54,
-   "hits": 22,
-   "hit": 0.4074,
-   "long": 0.5185,
-   "edge": -0.1111,
-   "p": 0.9332
+   "n": 577,
+   "hits": 282,
+   "hit": 0.4887,
+   "long": 0.3241,
+   "edge": 0.1646,
+   "p": 0.72
   },
   "rank": 10
- },
- {
-  "channel": "Crypto World",
-  "calls": 90,
-  "day": {
-   "n": 77,
-   "hits": 34,
-   "hit": 0.4416,
-   "long": 0.5065,
-   "edge": -0.0649,
-   "p": 0.8728
-  },
-  "week": {
-   "n": 81,
-   "hits": 39,
-   "hit": 0.4815,
-   "long": 0.2222,
-   "edge": 0.2593,
-   "p": 0.6715
-  },
-  "rank": 11
  },
  {
   "channel": "HJTrades",
@@ -249,174 +228,237 @@
    "edge": -0.0182,
    "p": 0.9855
   },
+  "rank": 11
+ },
+ {
+  "channel": "David Lin",
+  "calls": 186,
+  "day": {
+   "n": 35,
+   "hits": 15,
+   "hit": 0.4286,
+   "long": 0.5143,
+   "edge": -0.0857,
+   "p": 0.8447
+  },
+  "week": {
+   "n": 133,
+   "hits": 65,
+   "hit": 0.4887,
+   "long": 0.4586,
+   "edge": 0.0301,
+   "p": 0.6356
+  },
   "rank": 12
  },
  {
-  "channel": "The Traveling Trader",
-  "calls": 43,
+  "channel": "Slope of Hope",
+  "calls": 220,
   "day": {
-   "n": 15,
-   "hits": 6,
-   "hit": 0.4,
-   "long": 0.3333,
-   "edge": 0.0667,
-   "p": 0.8491
+   "n": 130,
+   "hits": 55,
+   "hit": 0.4231,
+   "long": 0.5462,
+   "edge": -0.1231,
+   "p": 0.9675
   },
   "week": {
-   "n": 34,
-   "hits": 10,
-   "hit": 0.2941,
-   "long": 0.2647,
-   "edge": 0.0294,
-   "p": 0.9955
+   "n": 207,
+   "hits": 69,
+   "hit": 0.3333,
+   "long": 0.6232,
+   "edge": -0.2899,
+   "p": 1.0
   },
   "rank": 13
  },
  {
-  "channel": "StockedUp",
-  "calls": 95,
+  "channel": "Gareth Soloway",
+  "calls": 69,
   "day": {
-   "n": 71,
-   "hits": 26,
-   "hit": 0.3662,
-   "long": 0.4648,
-   "edge": -0.0986,
-   "p": 0.9915
+   "n": 49,
+   "hits": 20,
+   "hit": 0.4082,
+   "long": 0.4286,
+   "edge": -0.0204,
+   "p": 0.9238
   },
   "week": {
-   "n": 82,
-   "hits": 39,
-   "hit": 0.4756,
-   "long": 0.4756,
-   "edge": 0.0,
-   "p": 0.7094
+   "n": 56,
+   "hits": 33,
+   "hit": 0.5893,
+   "long": 0.3036,
+   "edge": 0.2857,
+   "p": 0.1144
   },
   "rank": 14
  },
  {
-  "channel": "Slope of Hope",
-  "calls": 152,
+  "channel": "Joseph James Trading With JJ",
+  "calls": 23,
   "day": {
-   "n": 84,
-   "hits": 30,
-   "hit": 0.3571,
-   "long": 0.6071,
-   "edge": -0.25,
-   "p": 0.997
+   "n": 18,
+   "hits": 7,
+   "hit": 0.3889,
+   "long": 0.5556,
+   "edge": -0.1667,
+   "p": 0.8811
   },
   "week": {
-   "n": 143,
-   "hits": 47,
-   "hit": 0.3287,
-   "long": 0.6084,
-   "edge": -0.2797,
-   "p": 1.0
+   "n": 18,
+   "hits": 8,
+   "hit": 0.4444,
+   "long": 0.5556,
+   "edge": -0.1111,
+   "p": 0.7597
   },
   "rank": 15
  },
  {
-  "channel": "BitcoinHyper",
-  "calls": 32,
+  "channel": "Geeks of Finance",
+  "calls": 93,
   "day": {
-   "n": 23,
-   "hits": 8,
-   "hit": 0.3478,
-   "long": 0.4783,
-   "edge": -0.1304,
-   "p": 0.9534
+   "n": 67,
+   "hits": 26,
+   "hit": 0.3881,
+   "long": 0.4478,
+   "edge": -0.0597,
+   "p": 0.9751
   },
   "week": {
-   "n": 24,
-   "hits": 11,
-   "hit": 0.4583,
-   "long": 0.375,
-   "edge": 0.0833,
-   "p": 0.7294
+   "n": 83,
+   "hits": 31,
+   "hit": 0.3735,
+   "long": 0.506,
+   "edge": -0.1325,
+   "p": 0.9924
   },
   "rank": 16
  },
  {
-  "channel": "Arete Trading",
-  "calls": 205,
+  "channel": "StockedUp",
+  "calls": 145,
   "day": {
-   "n": 125,
+   "n": 110,
    "hits": 42,
-   "hit": 0.336,
-   "long": 0.376,
-   "edge": -0.04,
-   "p": 0.9999
+   "hit": 0.3818,
+   "long": 0.4182,
+   "edge": -0.0364,
+   "p": 0.9951
   },
   "week": {
-   "n": 181,
-   "hits": 83,
-   "hit": 0.4586,
-   "long": 0.3702,
-   "edge": 0.0884,
-   "p": 0.8829
+   "n": 135,
+   "hits": 72,
+   "hit": 0.5333,
+   "long": 0.5111,
+   "edge": 0.0222,
+   "p": 0.2456
   },
   "rank": 17
  },
  {
-  "channel": "Gareth Soloway",
-  "calls": 41,
+  "channel": "Arete Trading",
+  "calls": 301,
   "day": {
-   "n": 28,
-   "hits": 9,
-   "hit": 0.3214,
-   "long": 0.5357,
-   "edge": -0.2143,
-   "p": 0.9822
+   "n": 184,
+   "hits": 70,
+   "hit": 0.3804,
+   "long": 0.3913,
+   "edge": -0.0109,
+   "p": 0.9996
   },
   "week": {
-   "n": 25,
-   "hits": 13,
-   "hit": 0.52,
-   "long": 0.4,
-   "edge": 0.12,
-   "p": 0.5
+   "n": 265,
+   "hits": 131,
+   "hit": 0.4943,
+   "long": 0.3925,
+   "edge": 0.1019,
+   "p": 0.597
   },
   "rank": 18
  },
  {
-  "channel": "ShadowTrader",
-  "calls": 24,
+  "channel": "The Traveling Trader",
+  "calls": 55,
   "day": {
-   "n": 21,
+   "n": 16,
    "hits": 6,
-   "hit": 0.2857,
-   "long": 0.6667,
-   "edge": -0.381,
-   "p": 0.9867
+   "hit": 0.375,
+   "long": 0.375,
+   "edge": 0.0,
+   "p": 0.8949
   },
   "week": {
-   "n": 20,
-   "hits": 7,
-   "hit": 0.35,
-   "long": 0.5,
-   "edge": -0.15,
-   "p": 0.9423
+   "n": 45,
+   "hits": 16,
+   "hit": 0.3556,
+   "long": 0.2889,
+   "edge": 0.0667,
+   "p": 0.9822
   },
   "rank": 19
  },
  {
-  "channel": "Figuring Out Money",
-  "calls": 21,
+  "channel": "ShadowTrader",
+  "calls": 37,
   "day": {
-   "n": 16,
-   "hits": 1,
-   "hit": 0.0625,
-   "long": 0.1875,
-   "edge": -0.125,
-   "p": 1.0
+   "n": 34,
+   "hits": 12,
+   "hit": 0.3529,
+   "long": 0.4706,
+   "edge": -0.1176,
+   "p": 0.9712
   },
   "week": {
-   "n": 19,
-   "hits": 6,
-   "hit": 0.3158,
-   "long": 0.4211,
-   "edge": -0.1053,
-   "p": 0.9682
+   "n": 37,
+   "hits": 20,
+   "hit": 0.5405,
+   "long": 0.3514,
+   "edge": 0.1892,
+   "p": 0.3714
   },
   "rank": 20
+ },
+ {
+  "channel": "A1 Trading",
+  "calls": 31,
+  "day": {
+   "n": 20,
+   "hits": 6,
+   "hit": 0.3,
+   "long": 0.5,
+   "edge": -0.2,
+   "p": 0.9793
+  },
+  "week": {
+   "n": 28,
+   "hits": 13,
+   "hit": 0.4643,
+   "long": 0.3571,
+   "edge": 0.1071,
+   "p": 0.7142
+  },
+  "rank": 21
+ },
+ {
+  "channel": "Figuring Out Money",
+  "calls": 40,
+  "day": {
+   "n": 26,
+   "hits": 6,
+   "hit": 0.2308,
+   "long": 0.3846,
+   "edge": -0.1538,
+   "p": 0.9988
+  },
+  "week": {
+   "n": 33,
+   "hits": 13,
+   "hit": 0.3939,
+   "long": 0.4242,
+   "edge": -0.0303,
+   "p": 0.9186
+  },
+  "rank": 22
  }
 ]

@@ -1,0 +1,97 @@
+{
+ "video_id": "12bqNXx6PDs",
+ "channel": "tastylive",
+ "title": "The Bounce Is a Trap. Cem Karsan Says the Opex Floor Comes Off Friday.",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Cem Karsan (Kai Volatility), guest",
+ "macro_themes": [
+  {
+   "theme": "OpEx vol compression",
+   "view": "Structural vol selling and dealer delta buyback around expiration make it hard for markets to fall; the support rolls off after OpEx, opening a 'window of weakness'."
+  },
+  {
+   "theme": "Midterm election risk",
+   "view": "A contested midterm outcome is underpriced; event vol is priced at the election date rather than behind it, so Dec-Feb vol looks cheap."
+  },
+  {
+   "theme": "Bond market stress",
+   "view": "Macro realities (bond market worries) are being masked short term by expiration flows but will eventually come through."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Weakness expected once OpEx vol compression and delta buyback roll off after Friday's expiration.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Expiration-week vol compression forces dealers to buy back deltas, creating mean-reverting bounces; once that rolls off, macro risks can assert themselves, as after Feb 2020 OpEx.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "these windows of weakness and these issues tend to happen um coming out of expiration or towards the end of expiration"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX / SPX implied vol",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Vol compressed into OpEx; contested-midterm risk underpriced, so later-dated (Dec/Jan/Feb) vol is cheap relative to November.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "I think you can get much cheaper December, January, February vol than you can in November"
+  }
+ ],
+ "notes": "Short-term ES bias is a judgment: he describes OpEx-supported bounces now and weakness coming out of expiration (title: 'bounce is a trap'); the 1-5 day horizon spans the post-OpEx period. Recorded during expiration week before Friday OpEx; exact day not stated."
+}

@@ -1,0 +1,182 @@
+{
+ "video_id": "mOwd5zl5ORI",
+ "channel": "Geeks of Finance",
+ "title": "The Stock Market Is Starting To Tell A Different Story",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Geeks of Finance hosts (Anthony, Shawn)",
+ "macro_themes": [
+  {
+   "theme": "Gamma exposure at decision point",
+   "view": "SPX flipped barely back into positive GEX and the market is still at a decision point mid sell-off range ahead of monthly OPEX."
+  },
+  {
+   "theme": "SaaS comeback",
+   "view": "SaaS names are making a comeback and could see further gains (Adobe, ServiceNow, Salesforce)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7744.09,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7681,
+     7700,
+     7725
+    ],
+    "resistance": [
+     7800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bounce off the 50-day EMA (7681), where buyers have stepped in for 6 months, plus +$256M delta-weighted net SPX call flow.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "we're looking for something similar with some follow-through here in the coming sessions."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 730,
+   "short_term": {
+    "bias": "bullish",
+    "target": 740,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [
+     740,
+     760,
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "Still in negative GEX, so alternative path is a drop to 700.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "QQQ rebounding from the lower dealer cluster zone; expects retest of declining moving averages (HMA) and OPEX max pain not to the downside.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "the Nasdaq has a good chance to rebound with QQQ potentially reaching 740 on Friday."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ADBE",
+   "instrument_quoted": "ADBE",
+   "price_at_call": 251.65,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     250
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Breakout from a month-long consolidation through positive GEX and above the 50-day EMA; SaaS comeback theme. Closed a 250/240 put credit spread for a gain.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "SaaS names in general are making a comeback and we could see further gains ahead."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 360,
+    "horizon": "weeks to ~3 months"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     340
+    ],
+    "resistance": [
+     350,
+     360
+    ],
+    "invalidation": 340
+   },
+   "condition": "As long as Apple holds 340.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Steady uptrend holding 9 SMA/15 EMA/HMA (340.51) aligned with GEX at 340; large call activity at 360 lines up with upper Keltner channel.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "as long as Apple holds 340, I'm looking for Apple to potentially hit 350 to 360 in coming weeks."
+  }
+ ],
+ "notes": "Date inferred: 'tomorrow is the monthly OPEX for October' (Fri 2026-10-16) and QQQ target 'on Friday', so recorded Thu 2026-10-15 after close; listing said 10-16. QQQ 760/800 described as not invalidated rather than firm targets. Third speaker (Apple segment) unnamed."
+}

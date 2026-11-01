@@ -1,0 +1,58 @@
+{
+ "video_id": "VDbGO4QZDaw",
+ "channel": "tastylive",
+ "title": "Trump Warned of a Depression, Here\u2019s What the Options Actually Price",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "tastylive host (Options Math Check)",
+ "macro_themes": [
+  {
+   "theme": "Midterm seasonality",
+   "view": "Midterm year is the weakest; the following period from January is historically the best; gridlock good for stocks."
+  },
+  {
+   "theme": "No depression priced",
+   "view": "Options and VIX contango price no depression or even a 10% decline."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7803,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Post-midterm period historically strongest and S&P rallied through 21 of 23 midterms; options imply ~423-point move to January, no crash priced.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "It just so happens that we're currently in a bad period. The good one begins in January."
+  }
+ ],
+ "notes": "Medium-term bullish is inferred from cited seasonality stats, not an explicit host call; low conviction. VIX ~15 in contango."
+}

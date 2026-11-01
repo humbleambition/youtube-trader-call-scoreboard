@@ -1,0 +1,442 @@
+{
+ "video_id": "rhiD0l8zrYk",
+ "channel": "Meet Kevin",
+ "title": "Stocks Fall, Yields Fall, the $140b SUCKENING Returns",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "The 'suckening' capital raises",
+   "view": "~$140B of AI-related bond raises drain capital from stocks and hardware, while Apple and software benefit."
+  },
+  {
+   "theme": "Iran deal window",
+   "view": "Most likely Iran deal Oct 20-27 before the FOMC; public hawkishness masks near-final talks, so the coming week is choppy."
+  },
+  {
+   "theme": "Bond yields peaking",
+   "view": "10y at 5.21 below his 5.27 peak and rotating down with a bullish flattening, signalling a deal is close."
+  },
+  {
+   "theme": "CPI expectations",
+   "view": "Expectations for Wednesday's CPI are set so that almost any print looks bad; a risk until an Iran deal."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "Fed hikes to fight things it can't control; with weak CPI plus an Iran deal it could be one-and-done."
+  },
+  {
+   "theme": "Gulf oil pipelines",
+   "view": "New pipelines bypassing Hormuz reduce Iran's leverage and should bring oil prices down long term."
+  },
+  {
+   "theme": "Broadcom 'casino' comments",
+   "view": "Hock Tan was right: the market faces a money shortage, but AI products keep improving, so stays bullish AI."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     717
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Called bounces off 717 in two alpha reports; new Muse/'Watermelon' frontier model is driving it.",
+   "conviction": "high",
+   "timestamp": "0:02",
+   "quote": "Let's go meta. This is awesome."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     332
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Outperforms whenever 'suckening' capital-raise fears hit",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Bounced off 332 on last week's raise announcements, up ~14 points since; money rotates into Apple when others get drained.",
+   "conviction": "high",
+   "timestamp": "0:45",
+   "quote": "This is bullish Apple."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     230
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Recaptured 230 as called in the alpha report and is climbing above it.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "It recaptured 230 uh which was also one of the uh calls we had in the alpha report."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": 210,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "'Palantir over 200' target now met at 210 as software recovers.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "we've got a Palanteer over 200 target ... Okay, 210 on Palunteer. Perfect."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 562,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 562,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Public price target region 562-566, nearly reached.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "that is the uh 562 to 566 region and we are almost there."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ORCL",
+   "instrument_quoted": "ORCL",
+   "price_at_call": 139,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     133
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Made a bottom call around 133 in the daily digest; holding 139.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "I made a bottom call around 133 on this puppy."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": 355,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     355
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Assuming reasonable growth continues",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Trades at about a 6 PEG, dirt cheap; vendor-financing deals bring revenue today.",
+   "conviction": "medium",
+   "timestamp": "0:49",
+   "quote": "this is a dirt cheap stock. It should probably be a four or 5x from where it is now."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.21,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "10y below his 5.27 peak; slope flattened and rotating down, 2s10s spread narrowing to 41bp as a deal nears.",
+   "conviction": "high",
+   "timestamp": "0:55",
+   "quote": "The 10-year is at 521. This is actually below my peak of 527."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "TLT up and turning on the zoomed-out chart.",
+   "conviction": "low",
+   "timestamp": "0:33",
+   "quote": "It is coming back, baby. It is coming back. We are flipping."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "broad US market (no index price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Choppy until the Oct 20-27 Iran deal window; hot CPI is a risk; no deal = 'massive problems'",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects headaches through CPI and until a deal, but data (ADP) holds up and a deal before the FOMC would be bullish.",
+   "conviction": "low",
+   "timestamp": "0:59",
+   "quote": "the setup right now between now and the 20th isn't the most ideal"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (no price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Gulf pipelines bypassing Hormuz add 4-7M bbl/day export capacity by 2027-28, diversifying supply.",
+   "conviction": "low",
+   "timestamp": "1:05",
+   "quote": "probably in the long term brings oil prices down even more"
+  }
+ ],
+ "notes": "Host says 'today's the 13th' and CPI is tomorrow (Wednesday) -> 2026-10-13 (listing said 10-14). Meta price target was given only in the paid member stream (not stated). AAPL ~346 implied (332 + 14) but not quoted, left null. 'Still 45 bips on the cues. Nowhere near that 735 level' is ambiguous and not recorded as an NQ level. MSFT target recorded as 562, low end of 562-566."
+}

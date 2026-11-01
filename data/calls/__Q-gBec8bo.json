@@ -1,0 +1,11 @@
+{
+ "video_id": "__Q-gBec8bo", "channel": "tastylive", "title": "Why Low-Delta Trades Are More Dangerous Than They Look",
+ "video_date": "2026-10-16", "date_source": "transcript", "recorded_when": "intraday",
+ "video_type": "daily_market", "speaker": "Gad and Sahil Malhotra (tastylive research team)",
+ "macro_themes": [
+  {"theme": "Low-delta tail risk", "view": "Selling lower-delta SPY strangles raises win rate (67% to 84%) but the worst loss per dollar of credit grows from 2.3x to 7.5x; in 2026 5-delta strangles have lost money."},
+  {"theme": "SPX intraday rhythm", "view": "SPX is more active intraday than before 2020 but calmer than 2020-2023; daily highs now tend to come mid-day, so 0DTE trades are best closed around 11:00-12:00 CT."}
+ ],
+ "calls": [],
+ "notes": "Educational options-research segment with no directional calls. Date from 'on Friday' (Friday Oct 16, 2026; listing approx 2026-10-17). recorded_when 'intraday' assumed because it's a live tastylive show. video_type set to daily_market as the closest category."
+}

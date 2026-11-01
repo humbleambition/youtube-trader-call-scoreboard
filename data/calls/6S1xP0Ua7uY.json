@@ -1,0 +1,436 @@
+{
+ "video_id": "6S1xP0Ua7uY",
+ "channel": "Click Capital",
+ "title": "This Is The Start of Something BIG...",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Jared (Click Capital)",
+ "macro_themes": [
+  {
+   "theme": "AI boom not a bubble yet",
+   "view": "Compute demand still outstrips supply (GPU rentals, Taiwan/Korea exports rising), so a burst is unlikely in the next ~8 months."
+  },
+  {
+   "theme": "AI debt fears",
+   "view": "Neocloud debt yields are rising partly from heavy issuance and strong growth, not only credit risk; some neoclouds may be bottoming."
+  },
+  {
+   "theme": "Earnings-driven bull market",
+   "view": "Gains mostly from earnings growth, forward P/E ~19 and multiples compressed, so valuations aren't stretched."
+  },
+  {
+   "theme": "Post-midterm seasonality",
+   "view": "A dicey week or two into the midterms, then stocks usually rise; October dips in strong years are buyable into Christmas/January."
+  },
+  {
+   "theme": "Oil may be topping",
+   "view": "Oil may be forming a double top as Hormuz traffic recovers to 80-90% and US-Iran/Ukraine peace talk grows."
+  },
+  {
+   "theme": "Bond yields from growth",
+   "view": "High yields reflect strong growth as much as inflation; the US economy easily absorbs a ~5.1% 10-year."
+  },
+  {
+   "theme": "France turmoil",
+   "view": "French unrest and record borrowing costs make French stocks/bonds uninvestable for him."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Possible dicey week or two into midterms and earnings, but stocks typically rise after midterms and strong-year October pullbacks are buyable into year-end; bull market only ~4 years old and earnings-driven.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "Typically, looking back in history, stocks do really well following midterm elections. The path is normally higher."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": 374.4,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     375
+    ],
+    "resistance": [
+     380
+    ],
+    "invalidation": null
+   },
+   "condition": "Rally expected if a SpaceX-Tesla merger is announced",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Q3 FCF beat; in positive gamma zone so expect chop around 375-380 volume shelf; merger announcement would lift Tesla; needs Cybertruck traction for premium valuation.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "the stock should still continue jamming around this volume shelf around 375 to 380"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": 156,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     145
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Blowout quarter (revenue +161%, first profit), Grok growth, Elon's $1T revenue by 2028 projection; support at 145 held and gap may not fill, any fill is a dip buy; agrees with JPMorgan $500 target as a magnet.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "I suspect that support has now held and this gap may not fill. But if it does, it would be another dip buy opportunity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     525
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Another blowout quarter, up ~2% post-market after a ~50% bounce from the 525 lows; positive gamma means trading around the low 700s next session.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "it too is jamming around in positive gamma zone here, likely to trade around the low 700s tomorrow."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Consolidating after all-time highs; forward P/E under 25 with 70% guided earnings growth and GPU rental prices still rising.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "Nvidia is still only trading on a forward PE of less than 25, hardly richer expensive"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductor ETF (unspecified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Entire semiconductor industry potentially putting in a bottom at a key support zone; memory stocks too.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "the entire semiconductor industry looks to potentially be putting in a bottom here around key support zone looking at the semi ETF"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SKHYNIX",
+   "instrument_quoted": "SK Hynix (quoted in $)",
+   "price_at_call": 135,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 135,
+   "stop": null,
+   "method": "technical",
+   "reason": "Took a long after a big pullback from $200 to 135 as memory stocks look to be bottoming.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "memory stocks as well which I've just taken a long in SK Hynix after its big pullback from $200 a share down to 135"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MGM",
+   "instrument_quoted": "MGM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Smashed almost in half over two months, dramatically oversold with bullish signals; Gecko fair value nearly double the price; earnings in 7 days.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "I also just bought MGM, casino operator in Vegas, after the stock has been absolutely smashed"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RKLB",
+   "instrument_quoted": "RKLB",
+   "price_at_call": 50,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fell from $150 to $50, now showing potential bottoming signs and bullish reversals at support.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "Rocket Lab down from $150 to $50. That's a huge pullback but again seeing potential signs of bottoming here"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Possible double top with bearish signals and smart-money divergence, Hormuz traffic at 80-90% of normal and talk of US-Iran and Ukraine conflicts ending.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "oil, which may actually be in the process of putting in a double top here. Looking at the oil ETF, got some bearish signals coming in."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "Treasury futures (long); 10y yield 5.12%",
+   "price_at_call": 5.12,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bonds holding after bouncing off lows; still long Treasury futures expecting more upside in bonds, though persistent inflation keeps some upward pressure on yields.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "I'm still long bonds with my Treasury futures. I think we could have a bit more upside to go."
+  }
+ ],
+ "notes": "Date inferred: SpaceX reported 'last night' and Tesla/Meta 'as I speak' after the close; his prior video scheduled Tesla/Meta for after the close on Wednesday, i.e. Wed 2026-10-21 (listing says ~Oct 22). TSLA price is after-hours (374.40); SpaceX 156 is post-market. TNX 'bearish' = bearish yields (he's long bonds). SpaceX $500 target is JPMorgan's, which he endorses. SK Hynix and SpaceX tickers placeholders; semi ETF unspecified (SMH assumed). Airlines (as anti-oil), CoreWeave/Nebius/IREN bottoming mentioned in passing, skipped. Long political segment has no market calls."
+}

@@ -1,0 +1,41 @@
+{
+ "video_id": "5sbvHSYg1rA", "channel": "David Lin", "title": "Mortgage Rates Surge, Foreclosures Reach 2008 Levels, What's Next? | Ron Butler",
+ "video_date": "2026-10-16", "date_source": "listing", "recorded_when": "unknown",
+ "video_type": "macro_interview", "speaker": "Ron Butler",
+ "macro_themes": [
+  {"theme": "Global bond yields rising", "view": "Fixed-income executives he talks to have highest conviction that bond yields of all types, especially long-term, will be higher next year, with dips along the way."},
+  {"theme": "US mortgage rates", "view": "He would take the higher contract on 30-year mortgage rates going above 7.5%; higher for longer is the big issue."},
+  {"theme": "Central bank hikes", "view": "Central banks will keep raising; Bank of Canada hikes either October 28 or December despite weak jobs."},
+  {"theme": "Canadian housing downturn", "view": "Prices keep falling through half or all of 2027 as foreclosures and below-comp court-ordered sales reset values; no real recovery until 2028, tiny condos worst."},
+  {"theme": "US homebuilders", "view": "High rates and buyer reticence mean new-home construction and builders will get worse."}
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy", "ticker": "TNX", "instrument_quoted": "Government bond yields / US 30-year mortgage rate (~7.4-7.5%)",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Synchronized global setup of central banks hiking and bearish bond sentiment among fixed-income bosses; trend over 3-6 months is higher yields and mortgage rates despite short-term dips.",
+   "conviction": "high", "timestamp": "6:00",
+   "quote": "their belief is their highest conviction is the trend next year will be higher."
+  },
+  {
+   "group": "stocks", "ticker": "XHB", "instrument_quoted": "XHB (SPDR S&P Homebuilders ETF)",
+   "price_at_call": 95,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Builders can't incentivize past high mortgage rates and buyers are waiting, so completions and homebuilders keep weakening.",
+   "conviction": "medium", "timestamp": "13:00",
+   "quote": "They're absolutely correlated and they're going to get worse."
+  }
+ ],
+ "notes": "Date not stated in transcript (refers to US CPI 'this week' and Canada CPI next Monday); listing date used. Bond-yield call is generic 'all yields higher next year'; mapped to TNX since the host says 30y mortgages track the 10-year. XHB 'getting worse' refers to construction/builders broadly, price 95 quoted by host. Housing price views (Canada) are not tradable tickers and are in macro_themes only."
+}

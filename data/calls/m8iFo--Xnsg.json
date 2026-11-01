@@ -1,0 +1,307 @@
+{
+ "video_id": "m8iFo--Xnsg",
+ "channel": "Verified Investing",
+ "title": "Is The AI Sell-Off Just Getting Started? Levels To Watch This Week",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Jake Sweeney (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "AI/tech sell-off",
+   "view": "Friday's heavy selling in XLK/SMH may be the AI bubble bursting; Monday bounce looks weak."
+  },
+  {
+   "theme": "Defense rotation",
+   "view": "Money rotated into defense names (NOC, RTX) on Friday's VIX spike but follow-through is lacking."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 702.5,
+   "short_term": {
+    "bias": "bearish",
+    "target": 681,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     681,
+     665.75
+    ],
+    "resistance": [
+     720,
+     725
+    ],
+    "invalidation": null
+   },
+   "condition": "If price trends lower, expect bounce at 681; a sharp pierce of 665.75 gap fill/trend line favors a bounce long.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke and closed below uptrend line; not retracing, trending lower toward flipped 681 support and 665.75 gap fill.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "Should we trend lower? The first major level I expect price to find and bounce is the 681."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 375,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     353.8
+    ],
+    "resistance": [
+     375,
+     386.69,
+     391.06,
+     393
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 3.5% into earnings; stacked resistance at 375 (day scalp), 386.69 pivots, 391.06 gap and down-sloping trend line ~392-393 expected to reject.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "this trend line, expect major resistance to shut down price"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30.7,
+     30,
+     29.82,
+     26.59,
+     25.92
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it fails to hold $30, trend lower toward 26.59-25.92 swing-long zone.",
+   "action": "watch",
+   "entry": 26.0,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakdown from ascending trend line since Nov 2024; swing long at gap fill 26.59 / pivot 25.92.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "in that zone I think is a great swing long position"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOC",
+   "instrument_quoted": "NOC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     490.82,
+     456.3,
+     430,
+     420
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If weakness, bounce expected at 490.82; deeper swing long at 420-430.",
+   "action": "watch",
+   "entry": 425,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down-sloping pseudo-wedge pattern which should be bullish; wedge lower boundary around 420-430.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "should we tread much lower about $80 lower to about 430 420 in this area, uh, that'd be a great swing long level for NOC"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RTX",
+   "instrument_quoted": "RTX",
+   "price_at_call": 193.5,
+   "short_term": {
+    "bias": "mixed",
+    "target": 198.36,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     193.46,
+     198.36
+    ],
+    "invalidation": null
+   },
+   "condition": "If it closes above 193.46 and the trend line, next resistance 198.36.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing horizontal 193.46 and ascending trend line resistance; stronger than NOC.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "Should it continue on higher? I'm looking at this level here for the next major resistance at 19836"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ALAB",
+   "instrument_quoted": "ALAB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     272.27,
+     264,
+     262.9,
+     252.54
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": 263,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stacked support: 262.90 pivot top plus ascending trend line ~264, gap fill 252.54 for a long.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "Those are my kind of key levels for a long play on ALAB."
+  },
+  {
+   "group": "stocks",
+   "ticker": "APLD",
+   "instrument_quoted": "APLD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 17.6,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     19.01,
+     17.6
+    ],
+    "resistance": [
+     20,
+     22.44,
+     24.38
+    ],
+    "invalidation": null
+   },
+   "condition": "If it closes below 19.01, expect ~17.60; above, resistance 20 then 22.44 and 24.38-24.50.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounce stalled under $20 low pivot after Friday's sell-off.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "If we close below it, I expect us to go down to about 1771. Uh, about 1760, excuse me."
+  }
+ ],
+ "notes": "Mostly level maps with conditional direction. 'INQ' in transcript taken as IONQ (prices ~$30). META price ~702-703 at recording."
+}

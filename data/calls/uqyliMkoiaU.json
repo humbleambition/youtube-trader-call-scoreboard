@@ -1,0 +1,243 @@
+{
+ "video_id": "uqyliMkoiaU",
+ "channel": "Gareth Soloway",
+ "title": "Last Gasp For The NASDAQ And S&P? Charts Signal \"YES!\"...Warning Revealed",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Market resilience",
+   "view": "Impressive that S&P is near highs despite 5% 10-year yields, ~$100 oil and inflation; odds favor upside."
+  },
+  {
+   "theme": "Mega-cap earnings make-or-break",
+   "view": "Any CapEx/demand slowdown in next week's big-tech earnings could start the next leg down."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7450
+    ],
+    "resistance": [
+     8000
+    ],
+    "invalidation": 7450
+   },
+   "condition": "Bullish unless 7450 breaks; plans to short S&P and Nasdaq near/slightly above 8000",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bull flag and long-term trendline resistance at ~8000; only ~3-3.5% upside before a nasty decline.",
+   "conviction": "high",
+   "timestamp": "0:02",
+   "quote": "the odds are we head up to this level here before we run into major resistance"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     27000
+    ],
+    "invalidation": null
+   },
+   "condition": "Short on a pierce and rejection of ~27,000",
+   "action": "short",
+   "entry": 27000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed break of the ascending trendline from March 2026 lows; retest of it as resistance near 27,000.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "I'm looking at potentially a pierce of 27,000 and then rejection and the next leg down starting on tech."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Head-and-shoulders / bear flag on the 10-year yield points lower, short-term positive for stocks.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "this shows me that yields are going to fall"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold has confirmed a breakdown; looks weaker.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "right now, gold continues to look a little bit on the weaker side"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag after breaking and confirming below support; slowing economy bearish.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "you do have a bear flag forming after breaking and confirming below technical support"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000
+    ],
+    "resistance": [
+     87200
+    ],
+    "invalidation": null
+   },
+   "condition": "Break above 87,200 -> 95,000-97,000; break below 81,000 -> 75,500",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Resilient, held support repeatedly; spectator until a level breaks.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "If it breaks to the upside, 95 to 97,000. If it breaks to the downside from 81,000, it's going to 75,500."
+  }
+ ],
+ "notes": "Date from 'today we'll get Meta, Tesla' (Oct 21); listing Oct 22. Nasdaq levels are on the Composite, not NQ/NDX."
+}

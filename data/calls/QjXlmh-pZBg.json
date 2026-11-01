@@ -1,0 +1,305 @@
+{
+ "video_id": "QjXlmh-pZBg",
+ "channel": "Verified Investing",
+ "title": "Crash Day For AI Infrastructure: Where CoreWeave And Nebius Find Support",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Jake Sweeney",
+ "macro_themes": [
+  {
+   "theme": "AI infrastructure debt fears",
+   "view": "Bond market flagging CoreWeave-style debt-funded AI buildouts; AI infrastructure names crashing."
+  },
+  {
+   "theme": "Rotation to defensives",
+   "view": "Money rotating into Walmart, Lockheed Martin and Eli Lilly amid market fear."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60.55,
+     57.65,
+     55,
+     53
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Debt worries, heavy volume, RSI just below 30 (can stay oversold for weeks); sitting on April 2025 pivot support.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "when momentum breaks below the 30 into over sold territory, it can stay in this range for weeks. Not an instant snapback"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     179.4,
+     164,
+     160
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Aggressive long near 179-180; preferred long at 160-164 (0.618 retracement)",
+   "action": "watch",
+   "entry": 160,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down 11% to a gap fill; trendline support near 179-180 and 0.618 Fib near 160.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "I would start watching price if it got down to about here, about 164 to 160"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IREN",
+   "instrument_quoted": "IREN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30,
+     29.4,
+     29.25,
+     28.25
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If $30 breaks, watch 29.25-29.40 trendline, then 28.25; ~5% zone for a long",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Round-number and candle-high support at $30, trendline from June 2024 below.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "if we break this 30 dollar level, I could see IREN going just a little bit lower to 2925, 2940"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     470,
+     469,
+     425
+    ],
+    "resistance": [
+     514
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": 425,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing ascending trendline from May 2026; expects a bounce at the 469-470 shelf, 425 gap fill a great long.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "425 uh, would be a great long level on a day or swing trade"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WMT",
+   "instrument_quoted": "WMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 119,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     112,
+     111
+    ],
+    "resistance": [
+     116.9,
+     117.45,
+     119
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke above two trendlines, setting new support at 111-112; would short a sharp run into the 119 gap fill.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "I'm I'm pretty bullish on Walmart as we're continuing to kind of set new near-term support"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LMT",
+   "instrument_quoted": "LMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     538.81,
+     565,
+     570
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke out of a steep down-sloping trendline, retested and confirmed.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "finally broke above it, confirmed, retraced to it and confirmed, and now breaking out to the upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LLY",
+   "instrument_quoted": "LLY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1133.95
+    ],
+    "resistance": [
+     1244,
+     1249.45,
+     1292.65
+    ],
+    "invalidation": null
+   },
+   "condition": "Short at the 1,240-1,249 two-factor zone; above it, a run at the 1,292.65 double top",
+   "action": "watch",
+   "entry": 1244,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 4%; ascending trendline from April 2026 plus pivot top form a short zone.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "in that few dollars zone, could favor a short on Eli Lilly"
+  }
+ ],
+ "notes": "No date in transcript ('good afternoon', about 2 hours before close). WMT target 119 is the gap fill he'd short into. LLY support spoken as '111 33 95', read as 1133.95. No current prices stated for these stocks."
+}

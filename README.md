@@ -36,7 +36,7 @@ cd youtube-call-scoreboard
 pip install -e ".[dev]"
 
 # re-score the published calls exactly as in the snapshot below
-ytscore score --asof 2026-10-21
+ytscore score --asof 2026-10-31
 ytscore leaderboard
 ytscore chart
 pytest
@@ -51,34 +51,37 @@ ytscore score && ytscore leaderboard && ytscore chart
 Prices are cached in `.cache/prices/`. `--asof YYYY-MM-DD` uses only bars before that date, so a snapshot can be
 re-created later (Yahoo occasionally revises past bars, so tiny differences are possible).
 
-## Leaderboard snapshot (pilot: calls made 24 Sep – 20 Oct 2026)
+## Leaderboard: one fixed month (calls made 24 Sep – 23 Oct 2026)
 
-Channels with at least 15 scored next-session calls. "Always-long" is the share of the same calls where the market
-simply rose; "edge" is hit rate minus that baseline. With 20 channels compared, p-values above ~0.0025 are not
-distinguishable from luck — none clear that bar yet.
+Every video from every tracked channel in that window: 3,844 calls from 615 videos across 30 channels. Channels with at
+least 15 scored next-session calls are ranked. "Always-long" is the share of the same calls where the market simply
+rose; "edge" is hit rate minus that baseline. With 22 channels compared, p-values above ~0.0023 are not
+distinguishable from luck — none clear that bar.
 
 | # | Channel | Next-session hit rate | Scored calls | Always-long baseline | Edge vs long | p (vs coin flip) | 1-week hit rate (n) |
 |---|---|---|---|---|---|---|---|
-| 1 | Ricky Gutierrez | 69% | 32 | 28% | +41 pts | 0.025 | 54% (39) |
-| 2 | tastylive | 57% | 189 | 33% | +24 pts | 0.029 | 59% (231) |
-| 3 | Trade Brigade | 57% | 81 | 49% | +7 pts | 0.133 | 51% (87) |
-| 4 | TheTechnicalTraders | 55% | 56 | 43% | +12 pts | 0.252 | 53% (66) |
-| 5 | Ross Givens | 52% | 25 | 28% | +24 pts | 0.500 | 39% (64) |
-| 6 | Meet Kevin | 50% | 34 | 47% | +3 pts | 0.568 | 50% (101) |
-| 7 | David Lin | 50% | 24 | 54% | -4 pts | 0.581 | 54% (74) |
-| 8 | Money Making Market | 48% | 27 | 59% | -11 pts | 0.649 | 49% (35) |
-| 9 | Verified Investing | 45% | 242 | 41% | +5 pts | 0.930 | 48% (287) |
-| 10 | Geeks of Finance | 45% | 42 | 45% | +0 pts | 0.780 | 41% (54) |
-| 11 | Crypto World | 44% | 77 | 51% | -6 pts | 0.873 | 48% (81) |
-| 12 | HJTrades | 43% | 127 | 43% | +1 pts | 0.945 | 42% (165) |
-| 13 | The Traveling Trader | 40% | 15 | 33% | +7 pts | 0.849 | 29% (34) |
-| 14 | StockedUp | 37% | 71 | 46% | -10 pts | 0.992 | 48% (82) |
-| 15 | Slope of Hope | 36% | 84 | 61% | -25 pts | 0.997 | 33% (143) |
-| 16 | BitcoinHyper | 35% | 23 | 48% | -13 pts | 0.953 | 46% (24) |
-| 17 | Arete Trading | 34% | 125 | 38% | -4 pts | 1.000 | 46% (181) |
-| 18 | Gareth Soloway | 32% | 28 | 54% | -21 pts | 0.982 | 52% (25) |
-| 19 | ShadowTrader | 29% | 21 | 67% | -38 pts | 0.987 | 35% (20) |
-| 20 | Figuring Out Money | 6% | 16 | 19% | -12 pts | 1.000 | 32% (19) |
+| 1 | Ricky Gutierrez | 64% | 64 | 33% | +31 pts | 0.016 | 43% (92) |
+| 2 | BitcoinHyper | 61% | 46 | 46% | +15 pts | 0.092 | 47% (49) |
+| 3 | TheTechnicalTraders | 60% | 94 | 41% | +18 pts | 0.040 | 54% (118) |
+| 4 | Money Making Market | 55% | 31 | 61% | -6 pts | 0.360 | 53% (45) |
+| 5 | Trade Brigade | 54% | 139 | 47% | +7 pts | 0.198 | 44% (151) |
+| 6 | tastylive | 54% | 356 | 42% | +12 pts | 0.092 | 55% (454) |
+| 7 | Ross Givens | 53% | 30 | 37% | +17 pts | 0.428 | 47% (83) |
+| 8 | Meet Kevin | 51% | 101 | 46% | +6 pts | 0.421 | 54% (213) |
+| 9 | Crypto World | 48% | 106 | 44% | +4 pts | 0.686 | 56% (118) |
+| 10 | Verified Investing | 46% | 489 | 43% | +2 pts | 0.977 | 49% (577) |
+| 11 | HJTrades | 43% | 127 | 43% | +1 pts | 0.945 | 42% (165) |
+| 12 | David Lin | 43% | 35 | 51% | -9 pts | 0.845 | 49% (133) |
+| 13 | Slope of Hope | 42% | 130 | 55% | -12 pts | 0.968 | 33% (207) |
+| 14 | Gareth Soloway | 41% | 49 | 43% | -2 pts | 0.924 | 59% (56) |
+| 15 | Joseph James Trading With JJ | 39% | 18 | 56% | -17 pts | 0.881 | 44% (18) |
+| 16 | Geeks of Finance | 39% | 67 | 45% | -6 pts | 0.975 | 37% (83) |
+| 17 | StockedUp | 38% | 110 | 42% | -4 pts | 0.995 | 53% (135) |
+| 18 | Arete Trading | 38% | 184 | 39% | -1 pts | 1.000 | 49% (265) |
+| 19 | The Traveling Trader | 38% | 16 | 38% | +0 pts | 0.895 | 36% (45) |
+| 20 | ShadowTrader | 35% | 34 | 47% | -12 pts | 0.971 | 54% (37) |
+| 21 | A1 Trading | 30% | 20 | 50% | -20 pts | 0.979 | 46% (28) |
+| 22 | Figuring Out Money | 23% | 26 | 38% | -15 pts | 0.999 | 39% (33) |
 
 
 ![Leaderboard](out/leaderboard.png)
@@ -94,7 +97,9 @@ Per-call heatmaps put every channel's call on each market side by side, scored o
 
 ![Short-term calls, Oct 8 2026 session](out/calls_short_2026-10-08.png)
 ![Short-term calls, Oct 13 2026 session](out/calls_short_2026-10-13.png)
+![Short-term calls, Oct 22 2026 session](out/calls_short_2026-10-22.png)
 ![Medium-term calls, one week from the Oct 7 close](out/calls_week_2026-10-07.png)
+![Medium-term calls, one week from the Oct 15 close](out/calls_week_2026-10-15.png)
 
 Make your own: `ytscore chart --session 2026-10-08 --week 2026-10-07`
 

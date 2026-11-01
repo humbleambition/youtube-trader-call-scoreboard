@@ -82,11 +82,12 @@ duplicate uploads, non-primary channels) are listed with reasons in [`exclusions
 
 ## 6. Limitations
 
-- **Pilot window.** Calls made **24 Sep – 20 Oct 2026**, scored with bars available up to 20 Oct 2026
-  (`ytscore score --asof 2026-10-21`). Four weeks is a short, single market regime; rankings will move.
+- **One fixed month.** Calls made **24 Sep – 23 Oct 2026**, every video from every tracked channel, scored with
+  bars available up to 30 Oct 2026 (`ytscore score --asof 2026-10-31`). One month is a short, single market regime.
+- **Dates.** When a host names the day, that date wins over the upload date; several Oct 13–23 videos were dated from
+  clues in the video (e.g. "CPI this morning"), usually one day before the upload date.
 - **Coverage is uneven.** Some channels post several videos a day, others weekly; a few videos had no usable
-  captions or were over two hours and were skipped. Most calls come from 25 Sep – 12 Oct;
-  after that the sample is thin (a few videos a day from core channels) and there are none from 14–16 Oct.
+  captions or were over two hours and were skipped. Within 24 Sep – 23 Oct every other video was processed.
 - **LLM extraction can misread.** Auto-captions garble tickers and numbers, and a model can over- or under-read
   a host's bias, especially for hedged or conditional statements. Conditional calls ("if 6,700 breaks, then …")
   are scored on their stated bias, not on whether the condition triggered.

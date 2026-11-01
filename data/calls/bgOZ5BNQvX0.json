@@ -1,0 +1,144 @@
+{
+ "video_id": "bgOZ5BNQvX0",
+ "channel": "David Lin",
+ "title": "AI Stocks Crack, Yields Fall, Defensives Surge; What’s Next | Cameron Dawson",
+ "video_date": "2026-10-14",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "macro_interview",
+ "speaker": "Cameron Dawson (CIO, NewEdge Wealth), interviewed by David Lin",
+ "macro_themes": [
+  {
+   "theme": "AI/semis trade turning",
+   "view": "KOSPI and chip selloff after a blow-off top looks like a distributive top; 2027-28 semi margin estimates (42% to 49% EBIT) look vulnerable and price leads data."
+  },
+  {
+   "theme": "Defensive rotation",
+   "view": "Utilities and staples leading is a risk-off sign and usually a harbinger of weakness elsewhere, not something to cheer."
+  },
+  {
+   "theme": "Credit spreads widening",
+   "view": "CCC then high-yield spreads widening signal growth fears; a continued widening makes it hard for equities to rally."
+  },
+  {
+   "theme": "Fed must hike",
+   "view": "Hot CPI and a 2-year near 5% say the Fed will hike more; October is in play, final call after PPI."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "Charts point toward 6% on the 10-year over time, though an equity selloff could spark a relief rally in bonds."
+  },
+  {
+   "theme": "Narrow, fragile market",
+   "view": "~40% of S&P stocks are 20%+ off highs while the index is ~2% off; the market can roll over before earnings do."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Weak breadth, widening credit spreads, defensive leadership, weak financials and semis, and tighter financial conditions imply more volatility and lower near-term returns; market can roll over before earnings.",
+   "conviction": "medium",
+   "timestamp": "37:00",
+   "quote": "given the weakness within financials... semiconductors, we're more attuned to changing that mantra, meaning the market can start to roll over before earnings do"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.289,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A relief drop in yields could come if equities weaken.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Respects chart work (John Roque, 22V) pointing to 6% on the 10-year, but parabolic moves are unsustainable and an equity selloff could trigger a bond rally.",
+   "conviction": "low",
+   "timestamp": "29:00",
+   "quote": "John Rogge over at 22V, who's been saying 6% on the 10-year, that's what the chart is telling you"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOX",
+   "instrument_quoted": "semiconductor index / KOSPI / memory names (no levels)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "After a bubble-style doubling and July correction, a weak bounce then break of support suggests a distributive top; oversold bounces may not persist; supernormal memory margins can't last.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "That's not necessarily something that will persist and suggests that we're starting to form some kind of top formations in these names"
+  }
+ ],
+ "notes": "Host calls today Wednesday Oct 14 (CPI day); recorded after CPI, apparently late-day ('where it closes today'), so after_close is a guess. Title says 'Yields Fall' but in-video 10y was 5.289% and rising. SOX used as ticker for the semiconductor group; she says the slowdown is 'not necessarily our call'. Financials weakness and utilities/staples rally mentioned without explicit trades."
+}

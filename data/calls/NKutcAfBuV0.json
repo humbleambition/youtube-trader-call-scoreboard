@@ -1,0 +1,68 @@
+{
+ "video_id": "NKutcAfBuV0",
+ "channel": "tastylive",
+ "title": "Why This Bond Futures Trade Is Buying More Time",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "tastylive host (Five Minute Futures)",
+ "macro_themes": [
+  {
+   "theme": "Bonds bottoming?",
+   "view": "Bonds stopped falling despite hot CPI/PPI; yields above 5% attract buyers; Fed boxed in."
+  },
+  {
+   "theme": "Semis-yields link",
+   "view": "Semiconductor selling has coincided with lower yields; more Nasdaq selling supports bonds."
+  },
+  {
+   "theme": "Oil near $100",
+   "view": "Creeping oil is a headwind for bonds."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "ZB",
+   "instrument_quoted": "ZB H7 30-year bond futures",
+   "price_at_call": 106,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 109,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     105.5,
+     104.5
+    ],
+    "resistance": [
+     107,
+     108
+    ],
+    "invalidation": 104.5
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": 104.5,
+   "method": "mixed",
+   "reason": "Holding 106-107 call spreads and adding 108-109 long call spread (69 DTE); bonds stopped falling despite hot CPI/PPI; near 50-day MA resistance so allows for pullback.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "CPI was hot. PPI was even hotter. And yet bonds, they finally stopped going down... I'm looking for a continuation to the upside."
+  }
+ ],
+ "notes": "Ticker ZB = 30y T-bond futures price (inverse of TYX yield). 'This OPEX Friday' => Fri Oct 16 (listing Oct 19). price_at_call ~106 approximate (rally to near 106-107 long strike). Exit below 104.5."
+}

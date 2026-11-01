@@ -1,0 +1,176 @@
+{
+ "video_id": "TGuw8RA1KLY",
+ "channel": "Verified Investing",
+ "title": "Why I\u2019m Waiting For Lower Prices On Bitcoin, Ethereum And XRP",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Lawton (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Risk-off from earnings",
+   "view": "Weak big-tech/semis earnings could rotate money out of crypto."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 71000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     76000,
+     71000,
+     70000
+    ],
+    "resistance": [
+     82000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 70500,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible head-and-shoulders/bear flag; expects bounce then right shoulder at ~82K resistance, measured move to 71K; accumulation 70-71K.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "If we can continue to fall closer to the 70-71 K mark, I really like that for a potential buy."
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 2000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2000
+    ],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 2000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Head-and-shoulders pattern measured move back to the $2,000 key support; buy under 2K.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "Got to watch this head and shoulders pattern for a potential move lower... my buy level is basically anywhere under 2K"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 1.15,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.25,
+     1.15
+    ],
+    "resistance": [
+     1.7
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 1.15,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke key up-sloping trend line; support 1.25 then 1.15; buy under 1.15.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "my buy range is basically anywhere under 115"
+  },
+  {
+   "group": "crypto",
+   "ticker": "HYPE",
+   "instrument_quoted": "HYPE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 54,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     54
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 54,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking trend lines; potential larger head-and-shoulders with move to ~$54 low pivots, his buy level.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "on hype $54 is my potential buy level for a bounce"
+  }
+ ],
+ "notes": "ETH resistance said '28 K', read as $2,800. Long-term bullish inferred from buy-the-dip accumulation levels. Date unverified (listing)."
+}

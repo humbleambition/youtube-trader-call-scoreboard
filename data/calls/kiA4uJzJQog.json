@@ -1,0 +1,109 @@
+{
+ "video_id": "kiA4uJzJQog",
+ "channel": "VRIC Media",
+ "title": "Jim Rickards: America's $40 Trillion Debt Crisis Has Only One Way Out",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Jim Rickards",
+ "macro_themes": [
+  {
+   "theme": "Inflating the debt away",
+   "view": "US won't default or do austerity; inflation is the only way to bring the ~125% debt/GDP ratio down, so inflation will persist."
+  },
+  {
+   "theme": "Diesel/refined products drive inflation",
+   "view": "Refining bottlenecks and attacks on Russian refineries keep diesel high, the main inflation driver; Russia deals won't help before midterms."
+  },
+  {
+   "theme": "Fixed income loses",
+   "view": "Bondholders and fixed-income earners lose in inflation; hard assets and prudent leverage win."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "AI is a financial bubble (circular/vendor financing); bondholders and many equity investors will be wiped out though the tech stays."
+  },
+  {
+   "theme": "Favoured sectors",
+   "view": "Bullish energy, defense, agriculture, metals and mining, rare earths long run."
+  },
+  {
+   "theme": "Geopolitics",
+   "view": "US should pivot to Russia to isolate China and get an off-ramp from the Iran war."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot (USD/oz)",
+   "price_at_call": 4200,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Central bank buying puts a soft floor under gold while inflation lingers; holding ~4,200 despite rate and dollar-demand headwinds shows strength, positioned for next leg up.",
+   "conviction": "high",
+   "timestamp": "0:40",
+   "quote": "the gold is positioned for the next leg up. Um but, now is a good time to get in."
+  },
+  {
+   "group": "metals",
+   "ticker": "URA",
+   "instrument_quoted": "uranium spot (USD/lb)",
+   "price_at_call": 90,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "AI data centers, quantum and mining need huge energy; nuclear/SMRs are the answer, so uranium demand rises despite volatility.",
+   "conviction": "high",
+   "timestamp": "0:44",
+   "quote": "uranium I'm bullish. I know it's volatile"
+  }
+ ],
+ "notes": "Uranium recorded as ticker 'URA' (no canonical symbol), price is host's $90/lb spot. Bearish AI sector, bullish energy/defense/rare earths are sector views without tickers, kept in macro_themes. Date from listing (host says fiscal year ended Sept 30 'a couple weeks ago')."
+}

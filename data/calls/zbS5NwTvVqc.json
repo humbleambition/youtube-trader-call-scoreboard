@@ -1,0 +1,178 @@
+{
+ "video_id": "zbS5NwTvVqc",
+ "channel": "Verified Investing",
+ "title": "Silver Hits Its Target, And Oil Eyes $125",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Lawton (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Middle East escalation",
+   "view": "Houthi attacks on Saudi Arabia over the weekend support oil."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3400,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If gold breaks the H&S neckline, first support ~4000 for a bounce; measured move to ~3400 where he would buy.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Completed right shoulder of a head-and-shoulders inside a wedge; larger H&S also forming; multiple H&S favor lower.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "multiple head and shoulders patterns do favor a move lower here."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55.67,
+     54.76,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the 54.76 pivots break, look out below toward $50 (downside target / buy level).",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "H&S measured move to ~55.67 essentially complete; pivots below may hold, but a break opens $50.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "We might be headed towards the $50 range"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 125,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     100,
+     100.93,
+     106,
+     107,
+     117,
+     119,
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Parallel channel holding and inverse H&S with measured move to ~125 (new highs); key resistance $100.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "Would be a move up to 125 essentially, right? Making new highs."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     3.33,
+     3.34,
+     3.52
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inverse H&S broke, retested and pushed up, but stopped exactly at heavy pivot resistance.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "we know there's tons of resistance around here"
+  }
+ ],
+ "notes": "Gold current price not stated (~above 4000 implied). NG levels spoken as '333', '352', recorded as 3.33/3.52 assuming $/MMBtu. Silver short-term neutral: target hit, near supports."
+}

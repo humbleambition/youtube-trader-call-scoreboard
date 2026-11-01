@@ -1,0 +1,163 @@
+{
+ "video_id": "O6U3-6dwgPw",
+ "channel": "Ricky Gutierrez",
+ "title": "🚨 The Stock Market Is Falling - What You Need To Do!",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Headline-driven markets",
+   "view": "Markets jumped on a reported US-Iran peace deal that appears false; risk of bull traps before big earnings."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Markets technically oversold at strong 700 support; dip-buying makes sense, but warns of bull trap if SpaceX/Netflix disappoint.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "We have an oversold setup at a really strong support range at 700... I could see why there this could be an attractive dip by opportunity."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": 146,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     104
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Risk/reward not worth it: 28% downside to 104 lows vs 19% upside to highs; loses ~$8B/yr, fair value 11.7% lower.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "Risk to reward, in my opinion, just isn't worth it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Cheap-ish fundamentally and attractive long-term, but poor earnings-reaction track record and stagnant momentum; may get worse first.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I like the idea of investing into Netflix knowing that it can get worse before it gets better."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Small intraday overbought-reversal short, but says going long makes more sense; still oversold with ~22% recovery potential to highs.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "I do have an open short on Micron... I still think it makes more sense to go long than it does to go short."
+  }
+ ],
+ "notes": "Date from \"SpaceX and Netflix report today\" + \"happy Tuesday\" -> 2026-10-20. \"700\" support assumed SPY. SpaceX bias inferred from risk/reward comment (no explicit short). MU short is intraday only."
+}

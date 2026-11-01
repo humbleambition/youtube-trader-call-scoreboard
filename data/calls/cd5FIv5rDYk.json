@@ -1,0 +1,197 @@
+{
+ "video_id": "cd5FIv5rDYk",
+ "channel": "Verified Investing",
+ "title": "The Gold And Silver Trades I Just Took",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Middle East escalation",
+   "view": "Saudi Arabia-Yemen escalation pushed oil to a two-week high."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "IAU options (gold ETF), gold chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold near ascending trend line; expects a bounce despite a megaphone pattern that slightly favors downside. Long IAU November options, may add.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "I am thinking, you know, we might get a nice little bounce on the gold chart."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot / SLV",
+   "price_at_call": 59,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     57.67,
+     54
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Adds near trend line ~57.67; if structure is lost could fall to 54.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Small long in SLV; silver not yet at its ascending trend line so less bullish than gold; wedge pattern.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I'm not as bullish on silver as I am bullish on gold."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil pumped ~3% to a two-week high but is trapped in a wedge between July-2026 low support line and March-2026 wick-high resistance line.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "the price action for now is trapped within this little bit of a wedge pattern."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If nat gas closes above the descending trend line from March 9, watch the parallel-channel top as resistance to short.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing a descending trend line from March; previously went long; would short at channel resistance after a breakout.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "This is where I would want to short natural gas, everybody."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed to hold breakout level of ascending channel; expects a retest of it as support.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Now we're going to come down and retest this as a level of support on copper."
+  }
+ ],
+ "notes": "Gold/silver prices not stated except silver ~59 (units ambiguous: may be SLV not spot). NG short-term 'bullish' reflects prior long and trend-line test; his stated trade is a short at higher resistance. Platinum mentioned as watch only, skipped."
+}

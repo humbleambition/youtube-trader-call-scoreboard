@@ -1,0 +1,405 @@
+{
+ "video_id": "BlZCrjNG-1Q",
+ "channel": "Verified Investing",
+ "title": "Panic Returns To The AI Trade, Oil Surges Past $100, Here Are The BEST Trades",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "AI debt fear",
+   "view": "Fear over indebted, unprofitable AI infrastructure names (CoreWeave, a collapsing Korean IPO) is valid but creates buying opportunities at extreme fear."
+  },
+  {
+   "theme": "K-shaped economy",
+   "view": "80% of Americans feel in recession; AI capex and the stock market keep the top 20% spending, so an AI rollover would mean a full recession."
+  },
+  {
+   "theme": "Middle East escalation",
+   "view": "No deal before the midterms makes further US escalation likely, pushing oil higher."
+  },
+  {
+   "theme": "High earnings bar",
+   "view": "Companies that don't raise guidance are getting sold even on beats (GM)."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV (CoreWeave)",
+   "price_at_call": 59,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53,
+     51
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if CRWV drops straight down into 53-51 this week; not if it chops sideways or bounces first",
+   "action": "buy",
+   "entry": 52,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line (~53), gap fill at 51 and the 0.886 Fib retrace at 51 give three confluent factors for a bounce trade with 70-75%+ odds; buy extreme AI-debt fear.",
+   "conviction": "medium",
+   "timestamp": "3:30",
+   "quote": "my game plan on this is to start nibbling around 53 all the way down to 51, looking for a bounce."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures / SPX daily",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 7450,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7450
+    ],
+    "resistance": [
+     8000
+    ],
+    "invalidation": null
+   },
+   "condition": "If the near-term key line breaks, door opens to 7,450; upside capped around 8,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "AI-debt fear (CoreWeave) and oil back above $100 pressuring futures; 7,450 is proven long-term support and 8,000 is a multi-year trend-line resistance.",
+   "conviction": "medium",
+   "timestamp": "5:15",
+   "quote": "If we break this key line, we likely can open the door to falling all the way down to this 7450 level on the S&P 500."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the AI trade keeps crumbling and drags the economy into recession",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Stock market/AI capex is propping up the economy; an AI rollover would hit the wealthy 20%'s spending, cause recession and push rates down.",
+   "conviction": "low",
+   "timestamp": "7:30",
+   "quote": "when the economy struggles and we go into recessions, what do interest rates do? They tend to go down."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude oil futures",
+   "price_at_call": 101,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Continued Middle East escalation (US strikes on Iran, Strait blocked); without a deal before the midterms the US has little reason not to escalate, so oil has been creeping up into the midterms.",
+   "conviction": "medium",
+   "timestamp": "9:00",
+   "quote": "that's probably why oil has been creeping up into the midterms now, is because it's looking less and less likely that there will be a deal"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GE",
+   "instrument_quoted": "GE (GE Aerospace)",
+   "price_at_call": 299,
+   "short_term": {
+    "bias": "bearish",
+    "target": 285,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     285
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke its ascending channel, retraced to resistance and rejected, so earnings drop was expected; 285 (gap fill and pivot low) is where he'd consider a day trade.",
+   "conviction": "medium",
+   "timestamp": "12:15",
+   "quote": "This would have to probably fall all the way down into this 285 level area."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GM",
+   "instrument_quoted": "GM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     76.5,
+     75
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Daily close with confirmation below the trend line tomorrow = breakdown",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Good earnings and $20B buyback but no guidance raise with stock near multi-year highs; already below intraday trend line; 75 is a day-tradeable level.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "a daily close with confirmation tomorrow on this and you'd have a breakdown on GM."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RTX",
+   "instrument_quoted": "RTX",
+   "price_at_call": 196,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     182
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong defense earnings, stock flat to up; no trade because of low volatility; a daily close below ~182 trend line would signal a breakdown.",
+   "conviction": "low",
+   "timestamp": "10:00",
+   "quote": "Basically, a daily close with confirmation below right now about $182 per share."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "Gold futures ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 3950,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If today confirms the breakdown: 3,950 first target, then 3,500",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold kept closing on then below the line, an unhealthy pattern pointing to a confirmed breakdown.",
+   "conviction": "medium",
+   "timestamp": "15:15",
+   "quote": "you guys know my levels, 3950 first target. If it breaks that, we're likely headed to 3500."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "Silver futures ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50
+    ],
+    "resistance": [
+     60
+    ],
+    "invalidation": 60
+   },
+   "condition": "Below $60 likely heads to 50; reclaiming 60 could send it higher",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver has already broken down, though recent price action has been slightly positive.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "silver's still broken down, so it likely is headed to 50"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If BTC breaks 81,000, next level 75,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated hammering on the support line weakens it like a hammer on a floor.",
+   "conviction": "low",
+   "timestamp": "17:30",
+   "quote": "Breaks 81,000, likely 75 is your next level."
+  }
+ ],
+ "notes": "No explicit date spoken; dated 2026-10-20 from context (Netflix and SpaceX report 'after the bell' today, GE/RTX/GM/3M reported this morning), same day as the Oct 20 SpaceX/Netflix reports (listing approx 2026-10-21). CRWV entry 52 is the midpoint of the 53-51 buy zone; 59 is pre-market. GM '7650' read as $76.50. Nat gas discussed but no directional view, so skipped."
+}

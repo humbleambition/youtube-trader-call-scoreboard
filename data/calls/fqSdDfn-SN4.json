@@ -1,0 +1,201 @@
+{
+ "video_id": "fqSdDfn-SN4",
+ "channel": "Verified Investing",
+ "title": "SpaceX Crushes Earnings: Where I\u2019d Short It",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Lawton Ho",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     760
+    ],
+    "resistance": [
+     780
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading in a tight 760-780 range, possibly marching toward recent all-time highs; earnings-dependent.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "we look to be potentially trying to march up towards these previous all-time highs"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 662,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If QQQ forms a right shoulder and breaks the up-sloping neckline / July lows, short toward ~662",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Potential larger head-and-shoulders: push higher to form right shoulder, then breakdown.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "Likely puts that target just around that low pivot around 662 bucks."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     185
+    ],
+    "invalidation": null
+   },
+   "condition": "Short only if price reaches ~185 (trendline + gap fill)",
+   "action": "short",
+   "entry": 185,
+   "stop": null,
+   "method": "technical",
+   "reason": "Two-factor resistance at up-sloping trend line plus gap fill around 185; overall bullish on company.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "making this the ideal area for me for potential resistance or a short around 185"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": 64,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy if NFLX pulls back another ~10% to sub-60",
+   "action": "buy",
+   "entry": 60,
+   "stop": null,
+   "method": "technical",
+   "reason": "Slowing subscriber growth after earnings; reached 2024 levels and gap fill near 64, prefers buying below 60.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I'd be likely targeting this lower area down here, sub 60 for potential buy level."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     346
+    ],
+    "resistance": [
+     444
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Not expecting much from earnings; support at Friday's pivot low, max upside ~444.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "Probably my max, you know, max upside is around 444."
+  }
+ ],
+ "notes": "Date inferred: host says Meta and Tesla report 'after the bell today' (Oct 21); listing said Oct 22. TSLA 346 described as 'resistance' in transcript but context reads as a lower support level; recorded as support. Meta levels (support ~640) mentioned without bias; skipped."
+}

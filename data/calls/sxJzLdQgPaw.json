@@ -1,0 +1,64 @@
+{
+ "video_id": "sxJzLdQgPaw",
+ "channel": "BitcoinHyper",
+ "title": "The Bitcoin Bottom Is NOT In (Elliott Wave)",
+ "video_date": "2026-10-18",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [
+  {
+   "theme": "Bitcoin zigzag correction",
+   "view": "The bounce since Feb 2026 is a three-wave B wave (expanded flat); a C wave down should finish the bear market around Jan 18 2027."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 55000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 41500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     77000,
+     55000,
+     41500,
+     40000
+    ],
+    "resistance": [
+     87000,
+     95000,
+     97500,
+     100000
+    ],
+    "invalidation": null
+   },
+   "condition": "A break and acceptance below ~77k (value area high / weekly level) confirms the C wave; if it rallies to 95-97k without bearish divergences, a bullish count comes into play",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Wave B hit the 0.5 retrace / 1.236 extension near 87k with bearish divergences on the RSI, MACD and AO (1D/2D/3D); wave C = A projects 55k then 41.5k, with the bottom timed for ~Jan 18 2027.",
+   "conviction": "medium",
+   "timestamp": "13:00",
+   "quote": "This entire Bitcoin bounce looks like just three waves. And if I'm right on this one, lower is next."
+  }
+ ],
+ "notes": "Host name not given. Short term is mixed: it could still push to 95-97k (max ~100k) before the drop. Long-term bias is bearish to a ~40-41.5k bottom around Jan 2027, then a new bull market is expected."
+}

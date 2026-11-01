@@ -1,0 +1,212 @@
+{
+ "video_id": "4DrkLyosnvk",
+ "channel": "Meet Kevin",
+ "title": "The UNTHINKABLE is About to Happen to the Stock Market",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "AI credit stress in neoclouds",
+   "view": "Spiking CDS on CoreWeave/Oracle is a doom loop from high yields; neoclouds need an Iran deal to lower funding costs."
+  },
+  {
+   "theme": "US-Iran deal",
+   "view": "Expects a deal roughly Oct 20-27 / before the election, which would ease yields and lift everything."
+  },
+  {
+   "theme": "Peak 10y yields",
+   "view": "Thinks 10y yields already peaked near 5.27%."
+  },
+  {
+   "theme": "AI build-out still early",
+   "view": "Hyperscaler spend, ~50 GW in 2027 and ASML deposits show the boom is early; a chip shortage, not a bubble pop, is next."
+  },
+  {
+   "theme": "Memory prices",
+   "view": "Expects DRAM price declines next year, good for chip designers."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "general market",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Weekend Black Monday fear is premature; another euphoric rally ahead before an eventual AI bubble.",
+   "conviction": "medium",
+   "timestamp": "28:00",
+   "quote": "between now and then, there's another insane euphoric rally ahead of us"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": 5.13,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "Lower if a US-Iran deal happens; higher if conflict resumes",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Believes peak yields (~5.27) are in; an Iran deal would quickly ease yield fears.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "So far, we did hit peak yields, which we talked about peak being about 527-ish"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Forward P/E ~23 vs growth ~35 (PEG ~0.65); coming GPU shortage and lower RAM per GPU help Nvidia.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "That puts them at about a 0.65 PEG"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASML",
+   "instrument_quoted": "ASML",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Contract liabilities jumped from 3.5B to 9.3B euros, signalling a backlog above Street expectations for chip tools.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "There's no sign of a slowdown here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Neoclouds keep suffering without an Iran deal; can win if a deal lowers funding costs",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Most rate-sensitive, debt-funded build-out with a bad balance sheet; CDS spiking.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "The neo clouds basically are untouchable with uh without an Iran deal."
+  }
+ ],
+ "notes": "Date: listing says 2026-10-20, but the Black Monday weekend-fear reference suggests it may be Mon 2026-10-19. Hyperscalers (MSFT, META, AMZN) called \"a go either way\" (bullish) but not recorded as separate calls. ES call is general market sentiment, no levels given."
+}

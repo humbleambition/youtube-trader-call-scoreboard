@@ -1,0 +1,100 @@
+{
+ "video_id": "dT0zYYohOcw",
+ "channel": "Joseph James Trading With JJ",
+ "title": "WARNING!  Don\u2019t Let this EARNINGS Breakout Fool You!",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Joseph James",
+ "macro_themes": [
+  {
+   "theme": "Earnings breakouts",
+   "view": "Most earnings-driven breakouts give back the entire move the next day; short the bull traps, buy the dips."
+  },
+  {
+   "theme": "Overall regime",
+   "view": "Hourly in a bear market, so short the pops and buy the drops until bears run out of gas; long-term mostly bullish."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 futures (NQ tick chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 29545,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     29545
+    ],
+    "resistance": [
+     30074
+    ],
+    "invalidation": null
+   },
+   "condition": "short bull trap above highs, target unfinished business ~29,545, then buy the breakout pullback / retest",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hourly still bearish and price is at overhead resistance after earnings pop; expects earnings breakout to fail, short bull trap down to unfinished breakout-pullback zone (~29,545), then buy. Daily shows breakout-pullback support and measured-move hold, convincing for a bullish reversal.",
+   "conviction": "medium",
+   "timestamp": "5:30",
+   "quote": "I would love to short a bull trap up here."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures (ES tick chart)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7809,
+     7819
+    ],
+    "invalidation": null
+   },
+   "condition": "if price pushes higher overnight into ~7809-7819, short a bull trap there",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily still a bull market (all-time highs unfinished business, no separation below 21 EMA) but hourly bearish; plans to short bull traps up into 7809-7819 resistance and buy the dip at the unfinished-business range below.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "up in the resistance, let's let those buyers try to chase after it. I'm going to keep looking to ring that bell"
+  }
+ ],
+ "notes": "Recorded Tuesday evening after Netflix/SpaceX earnings, plan for Wednesday session; 'Tuesday' in transcript taken as recording day (2026-10-20); listing approx_date was 2026-10-21. S&P support gap 'below 46' too ambiguous to record."
+}

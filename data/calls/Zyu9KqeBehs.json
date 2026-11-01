@@ -1,0 +1,323 @@
+{
+ "video_id": "Zyu9KqeBehs",
+ "channel": "Verified Investing",
+ "title": "S&P Remains Bullish While Tech Weakens, Recession May Loom As Flying Cars Distract From Inflation",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Fed hike odds",
+   "view": "After Warsh's speech an October hike is nearly ruled out, but a December hike is still a decent chance."
+  },
+  {
+   "theme": "AI capex propping economy",
+   "view": "AI capex is the only reason the US isn't officially in recession; a 25% cut could send the economy into a tailspin."
+  },
+  {
+   "theme": "Yields falling on fear",
+   "view": "Yields dropped despite hot PPI/CPI because of economic-meltdown fears, credit stress and safe-haven buying."
+  },
+  {
+   "theme": "Korea weakness",
+   "view": "Weak Kospi rebound suggests more selling next week."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8038,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575,
+     7000
+    ],
+    "resistance": [
+     8003,
+     8038
+    ],
+    "invalidation": 7575
+   },
+   "condition": "Bullish while SPX holds above ~7575; below the neutral zone turns bearish with a breakdown toward 7,000. Expects a pullback off the orange trend line near 8,000-8,038.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish bias zone held on Thursday's gap down; repeated tests weaken the Aug 13 high so expects a breakout up to a long-term descending/ascending orange trend line near 8,000.",
+   "conviction": "high",
+   "timestamp": "4:15",
+   "quote": "I'm just bullish until at least we achieve that 8,000-ish level."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 100.85,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     100.85
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Expects a retrace to a broken trend line around 100.85, then a bounce of unknown size.",
+   "conviction": "medium",
+   "timestamp": "8:45",
+   "quote": "I would continue to expect weaker dollar action into around the 100.85 level on the DXY."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly and daily topping tails at the 2007-high trend line marked a top; yields fell this week.",
+   "conviction": "medium",
+   "timestamp": "10:15",
+   "quote": "Daily topping tails, folks, are bearish reversal signals. What happens this week? Boom, right to the downside, yields go."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (USO short)",
+   "price_at_call": 95.5,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Growing more bearish on oil near resistance; started a small USO short at Thursday's highs.",
+   "conviction": "low",
+   "timestamp": "12:40",
+   "quote": "I am actually getting a little bit more bearish on oil... I shorted the USO yesterday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     393
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading in a clear channel; ~393 upper line has rejected repeatedly, short there with a stop just above, buy at the lower line.",
+   "conviction": "low",
+   "timestamp": "14:30",
+   "quote": "if we rally up into this, you know, 393 level, you should have some resistance."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 3500,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A daily close below the line with a confirmation candle probably sends gold to 3,500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold keeps recapturing the key line without a confirmed breakdown; still 'holding on to the cliff's edge'.",
+   "conviction": "low",
+   "timestamp": "18:20",
+   "quote": "A close below with confirmation, it probably goes to 3,500, but until then... This is still okay."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed close below support; a rally into that level should be rejected and lead lower.",
+   "conviction": "medium",
+   "timestamp": "18:50",
+   "quote": "So now I'm more in the camp of $50 on silver than I would be on 3,500 on gold"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 75500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000
+    ],
+    "resistance": [],
+    "invalidation": 81000
+   },
+   "condition": "A daily close below 81,000 with confirmation targets 75,500.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "81,000 is the key level; dipped below Thursday but was saved.",
+   "conviction": "medium",
+   "timestamp": "19:35",
+   "quote": "Breaks of that on a daily closing basis with confirmation, you're headed to 75,500."
+  }
+ ],
+ "notes": "Says SPX bullish is short-term only ('not bullish 6 months from now'), so long_term left 'none'. MSFT (watching triple top) and natural gas (holding half long, would re-add lower) not recorded; IONQ/CAT were closed trades."
+}

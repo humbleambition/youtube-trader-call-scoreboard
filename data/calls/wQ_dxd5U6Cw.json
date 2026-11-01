@@ -1,0 +1,531 @@
+{
+ "video_id": "wQ_dxd5U6Cw",
+ "channel": "Verified Investing",
+ "title": "Tech Bounces From Selloff: SPCX Earnings Preview & Breakout Watch",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek",
+ "macro_themes": [
+  {
+   "theme": "10y yield and Middle East",
+   "view": "Unresolved Middle East conflict and hot CPI/PPI keep yields rising; expects one more Fed hike by year-end."
+  },
+  {
+   "theme": "Earnings guidance",
+   "view": "Earnings season is underway; any crack in guidance will be punished given higher yields."
+  },
+  {
+   "theme": "Post-midterm escalation",
+   "view": "Expects Middle East conflict to escalate after the midterms, lifting oil."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7640.4,
+     7600.4,
+     7484.2
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Daily closes below 7640.4 / 7600.4 send price back to the top of the channel near 7484.2",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeatedly testing prior ATH pivot and rising trend line support; the more it knocks, the likelier they give way.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "the more and more we keep knocking on both of these levels of support... they're likely to give way"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 27128,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     27128
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakdown of the March trend line; bounces likely rejected at the retest - breakdown, retrace, fade.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "any sort of bounces on the NASDAQ are not only going to get jammed up by this declining trend line"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 512.36,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     528.86,
+     512.36
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Would rather see it sell straight into 512 then go long for a bounce",
+   "action": "buy",
+   "entry": 512.36,
+   "stop": null,
+   "method": "technical",
+   "reason": "Semis closed at lows; 512.36 stacks the 50% fib, 200-day MA and trend line as support.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "we're likely still going to see some selling pressure in the coming days, pushing price lower"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": 5.142,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 5.77,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.021
+    ],
+    "resistance": [
+     5.289
+    ],
+    "invalidation": null
+   },
+   "condition": "Expects consolidation between 5.021 and 5.289 for weeks, then a breakout",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Unresolved Middle East conflicts and a likely rate hike; rising parallel channel targets 5.77%.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "before we eventually break out and go higher on the 10-year yield"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3900,
+     3800,
+     3639,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the bear flag keeps playing out",
+   "action": "buy",
+   "entry": 3639,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold is in a bearish consolidation; buy zone is 3639 to 3500 at the trend line and prior ATH pivot.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "That's the buy zone that I have on gold should this bare flag continue playing out, pushing price down."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": 59,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53,
+     50,
+     31
+    ],
+    "resistance": [
+     59
+    ],
+    "invalidation": null
+   },
+   "condition": "If it keeps consolidating sideways it heads to 59; buyer at 53-50 on further selling",
+   "action": "buy",
+   "entry": 53,
+   "stop": null,
+   "method": "technical",
+   "reason": "Head-and-shoulders target 53-50 is the buy area; a decades-long rising channel supports holding for life.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "My time horizon on silver is a very long time."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80524
+    ],
+    "resistance": [
+     85000
+    ],
+    "invalidation": null
+   },
+   "condition": "Bulls need a move to 85,000 for upside momentum",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near-term bear flag, but holding support at 80,524 so the chart is not damaged.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "right now. Near-term bare flag pattern."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil (WTI)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 116,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     103
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Inverse head-and-shoulders measures to 116; expects Middle East escalation after the midterms, with a stall near 103 first.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "the chart still telling me 116 is where US oil is going to be going"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.89,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.7,
+     3.21
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects a bounce if price falls to 3.21",
+   "action": "buy",
+   "entry": 3.21,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout from the declining trend line holds but has not been retraced; target 3.89.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "I do still see the targeted move up here at $3.89 being accomplished"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     260.62
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If tomorrow closes above today's candle the breakout has more staying power",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Sixth close back inside the top half of its long-term channel; keeps knocking on the door.",
+   "conviction": "medium",
+   "timestamp": "16:00",
+   "quote": "eventually a door is going to open for you and price will go up higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SE",
+   "instrument_quoted": "SE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 100,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     69.65
+    ],
+    "resistance": [
+     100
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold on the daily at a long-term trend line, due for a technical bounce; would add near 69.65.",
+   "conviction": "low",
+   "timestamp": "18:00",
+   "quote": "due for a technical bounce that could take us back up to test the $100 mark"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GE",
+   "instrument_quoted": "GE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     285.87,
+     281
+    ],
+    "resistance": [
+     322.52
+    ],
+    "invalidation": null
+   },
+   "condition": "Bulls need back above 322.52; on selling, buy 281-285 for a bounce to 296",
+   "action": "buy",
+   "entry": 285,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near-term breakdown below the rising trend line into earnings; bottom of the channel near 285.87.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "I would be a buyer of GE down here at the bottom of the parallel right around 281 to 285"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SpaceX (SPCX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 162.81,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     149.34
+    ],
+    "resistance": [
+     162.81
+    ],
+    "invalidation": null
+   },
+   "condition": "Daily closes above 149.34 send it back to the trend line near 162.81",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off the 50% fib with strong wicks; expects a near-term bounce, though earnings are a coin flip.",
+   "conviction": "low",
+   "timestamp": "22:00",
+   "quote": "I'm anticipating a near-term bounce on the chart there of SpaceX."
+  }
+ ],
+ "notes": "Date inferred Mon 2026-10-19 from \"coming off Friday... options expiration\" plus \"today\". Spoken numbers garbled: S&P \"76404 ... 760 and 40 cents\" read as 7640.4 / 7600.4, and GE \"$32,2252 / $28,587\" read as 322.52 / 285.87. Gold buy section says \"physical silver\" but plainly means gold. SpaceX ticker assumed SPCX from the title."
+}

@@ -1,0 +1,193 @@
+{
+ "video_id": "hnuqDjfSaOQ",
+ "channel": "CPM Group",
+ "title": "Gold and Silver ALERT: The Longer The Wait, The Greater The Risk",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian",
+ "macro_themes": [
+  {
+   "theme": "US midterm elections",
+   "view": "Expects October surprises and volatility; biggest gold impact after elections, contested results could push investors into gold/silver."
+  },
+  {
+   "theme": "Real rates and bonds",
+   "view": "Real rates rising and bond markets stressed but not collapsing; authorities still have rope to paper over crises."
+  },
+  {
+   "theme": "Inflation",
+   "view": "Cooling inflation expectations may be a false hope; sees strong inflationary pressures ahead."
+  },
+  {
+   "theme": "Budget-bill cuts",
+   "view": "Big Beautiful Bill cuts kick in late Q4/Q1 2027 and will hurt consumer spending, the economy and stocks."
+  },
+  {
+   "theme": "Gold cycle",
+   "view": "Gold may see a cyclical peak within 2 years, followed by a cyclical decline within a secular bull market, as in 2011-2019."
+  },
+  {
+   "theme": "Russia central bank gold",
+   "view": "Diesel deal/relaxed sanctions mean Russia needs to sell less gold and may buy at times."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold nearby active futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4050,
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "a sell-off below 4,050 would likely be bought quickly",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Prices pulled sideways by sentiment; longer the range, the greater the risk of a sharp drop below 4,050, which dip-buyers (strong ETF and dealer demand, waiting buyers) should quickly buy. Expects a further rise and a cyclical peak within ~2 years.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "We still expect that prices will rise beyond the next few weeks."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver nearby active futures",
+   "price_at_call": 60,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     60,
+     59.45,
+     55,
+     54
+    ],
+    "resistance": [
+     60.99
+    ],
+    "invalidation": null
+   },
+   "condition": "if $60 breaks, could fall to $54-55",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Testing $60 and holding for several days; a break below could easily take it to 54-55, but they expect prices to rise beyond the next few weeks.",
+   "conviction": "medium",
+   "timestamp": "18:30",
+   "quote": "a break below it could take it down to $54, $55 very easily"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "platinum nearby active futures",
+   "price_at_call": 1674,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1600
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Platinum prices coming down and close to testing $1,600.",
+   "conviction": "low",
+   "timestamp": "19:00",
+   "quote": "Platinum prices also have been coming down. They're close to testing that $1,600 mark."
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium nearby active futures",
+   "price_at_call": 1129,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below $1,200 in recent days and could head much lower near term.",
+   "conviction": "medium",
+   "timestamp": "19:30",
+   "quote": "They have broken below that $1,200 level over the last several days and could head much lower over over the near term."
+  }
+ ],
+ "notes": "Ultra-short-term trade recommendations for gold/silver/PGMs were 'stand aside' and new ones issued but not detailed in video. PL/PA here are platinum/palladium futures, not stocks. Gold 'below 20 uh 4,050' read as 4,050."
+}

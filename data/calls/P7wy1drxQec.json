@@ -1,0 +1,138 @@
+{
+ "video_id": "P7wy1drxQec",
+ "channel": "Ricky Gutierrez",
+ "title": "INFLATION WARNING: DO NOT GET TRAPPED RIGHT NOW!",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Hot PPI",
+   "view": "PPI came in at 6.3% vs 5.4% expected, one of the worst reports in a while, likely to pass through to consumers."
+  },
+  {
+   "theme": "Fed",
+   "view": "FedWatch still shows ~69% odds of a pause; watching whether that shifts."
+  },
+  {
+   "theme": "Geopolitics",
+   "view": "Middle East escalation and inflation could still drive markets lower before they improve."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "general market",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Markets oversold and rallying off the open, but hot PPI and Middle East risks mean the bounce is likely to be given back; long-term direction favors bulls.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I still think it's early. I still think that markets can actually technically get worse before they get better."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     858,
+     875,
+     900
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Oversold with low forward P/E; buy the dip in small size for the long term, but expect the 7% bounce to pull back.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "Micron at the lows of like 900 or you know, 875... I want to buy maybe one share."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If BTC breaks below 80,000 again (maybe over the weekend), expects a big gap down, MSTR included.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "BTC briefly broke below 80k; a sustained break would drag MSTR much lower.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "if BTC breaks below that 80,000 mark again, maybe over the weekend, that's a big gap down. MSTR has a long way to go."
+  }
+ ],
+ "notes": "Date not stated; 'today's PPI' suggests the PPI release day. MSTR downside folded into the BTC call (conditional). CRWV/NBIS called oversold but he doesn't believe in them, so skipped. Micron 1,000/1,100 take-profit figures were hypothetical examples, not targets."
+}

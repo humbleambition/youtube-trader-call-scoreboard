@@ -1,0 +1,229 @@
+{
+ "video_id": "eZGzMo7LMEw",
+ "channel": "Crypto World",
+ "title": "BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {
+   "theme": "Crypto cool-off phase",
+   "view": "Crypto is in a multi-week cool-off under the highs that could last another one or two weeks, while the multi-month trend stays bullish."
+  },
+  {
+   "theme": "Stocks relief bounce",
+   "view": "A slight US stock bounce into the weekend can give crypto short-term relief, not a big rally."
+  },
+  {
+   "theme": "BTC dominance",
+   "view": "Dominance rejecting at 60.5-61% resistance keeps altcoins okay; a confirmed breakout would be bad for alts."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000,
+     82000
+    ],
+    "resistance": [
+     84000,
+     84200,
+     86000,
+     88000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed 6h bullish divergence plus liquidation-heat-map liquidity at 84.5-84.6k; daily bearish divergence keeps it range-bound; weekly bullish divergence and supertrend green longer term.",
+   "conviction": "medium",
+   "timestamp": "7:45",
+   "quote": "potentially close towards this liquidity at, once again, roughly 84 and 1/2 thousand potentially in a couple of days from now"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2300,
+     2400
+    ],
+    "resistance": [
+     2800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced from 2.3-2.4k support; daily bearish divergence still active so expects support to hold with a slight bounce or chop.",
+   "conviction": "medium",
+   "timestamp": "12:55",
+   "quote": "we'll likely just hold this support for the remainder of this week... around 2.3k to 2.4k as strong support."
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1.28,
+     1.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding ~$1.28-1.30 support from previous lows; daily bearish divergence active, so only a small bounce or sideways.",
+   "conviction": "low",
+   "timestamp": "13:50",
+   "quote": "don't expect significant bullish momentum, just maybe the price slightly holding this support"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     95,
+     105
+    ],
+    "resistance": [
+     107,
+     110,
+     119,
+     124
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding $95-105 support with 3-day and daily bearish divergences; may test 107-110 then struggle.",
+   "conviction": "low",
+   "timestamp": "15:40",
+   "quote": "It's possible we see a slight test into that area and then see a bit of struggle."
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     11.8,
+     12.3
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding 11.80-12.30 support; 3-day bearish divergence means no strong bullish momentum yet.",
+   "conviction": "low",
+   "timestamp": "16:20",
+   "quote": "We'll likely continue to hold this as support. Maybe see a slight little bounce"
+  }
+ ],
+ "notes": "Recorded Friday premarket; dated 2026-10-16. Medium-term 'cool-off: sideways or pullback' coded as mixed. Alt short-term 'hold support, slight bounce or chop' coded neutral."
+}

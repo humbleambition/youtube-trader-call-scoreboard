@@ -1,0 +1,511 @@
+{
+ "video_id": "FEasj0J7fRM",
+ "channel": "Verified Investing",
+ "title": "AI Trade Collapse Continues, PPI Inflation Data Even Worse Than CPI, Here Are The Levels And Trades!",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Hot inflation",
+   "view": "PPI even hotter than CPI, core PPI 5% y/y; inflation is not just oil."
+  },
+  {
+   "theme": "AI trade collapse",
+   "view": "CoreWeave CDS pricing default risk; AI trade topped this summer; KOSPI limit down; Nasdaq to underperform diversified S&P."
+  },
+  {
+   "theme": "Yields falling for wrong reason",
+   "view": "10y yield dropping on recession/default fear and safe-haven bond buying, not because inflation is easing."
+  },
+  {
+   "theme": "Oil and recession",
+   "view": "If shipping/Iran is solved, oil could drop well below $70, $50 handle by early 2027."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "S&P diversified with money rotating to non-tech names, still <2% from ATH; 8,000 outlook unchanged though futures under pressure.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "does it change my S&P 8,000 outlook? As of now, no"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Over 50% of the index is AI exposure; AI credit stress and KOSPI crash.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "it certainly makes me continue to be more bearish on the Nasdaq and the Nasdaq 100"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 5.0,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 4.7,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.0
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily and weekly topping tails; expect a small bounce at 5% then breakdown to prior breakout chop zone.",
+   "conviction": "medium",
+   "timestamp": "9:30",
+   "quote": "I think by year end, we're back to 4.7% on the 10-year"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot ($/oz)",
+   "price_at_call": 55.5,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     55.5,
+     50,
+     48
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Accumulates longer term at 50 or below",
+   "action": "buy",
+   "entry": 50,
+   "stop": null,
+   "method": "technical",
+   "reason": "Confirmed breakdown below wedge; bounce into it likely rejected; bought a quick technical bounce at ~55.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "I still think 50 to 48 is likely a target"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper futures (cents/lb)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 630,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 630,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If copper confirms a close below wedge support",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Breaking major wedge support; AI slowdown and weak economy make near-ATH copper unjustified.",
+   "conviction": "high",
+   "timestamp": "12:40",
+   "quote": "Copper is a high probability short up here"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "WTI crude ($/bbl)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 88.75,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 55,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.75
+    ],
+    "resistance": [
+     100,
+     101
+    ],
+    "invalidation": null
+   },
+   "condition": "Would short at 100-101 gap fill and add higher; not short yet",
+   "action": "short",
+   "entry": 100.5,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gap fill resistance near 100; recession plus resolved shipping route sends oil down to early-2025/2026 levels.",
+   "conviction": "medium",
+   "timestamp": "14:20",
+   "quote": "right here I would start a short position around $101, $100"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If gold confirms the breakdown below the line it likely goes to 3,500; holding the line pushes it back up",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Safe-haven bid recapturing the line after unconfirmed breakdowns.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "If we confirm on gold, it's probably going to 3,500"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Back above trend line (unconfirmed breakout), seasonality; long with half taken off.",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "I'm still favorable to a breakout. I am still long nat gas"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTCUSD",
+   "price_at_call": 80390,
+   "short_term": {
+    "bias": "bearish",
+    "target": 75500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     75500,
+     67000
+    ],
+    "resistance": [
+     81000
+    ],
+    "invalidation": null
+   },
+   "condition": "If BTC does not recapture 81,000, opens move to 75,500; would nibble at 75,500, big buy at 67,000",
+   "action": "watch",
+   "entry": 67000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed bull flag, then bear flag breaking down below 81k.",
+   "conviction": "medium",
+   "timestamp": "17:10",
+   "quote": "If this does not recapture, it opens the trapdoor for a move down here to 75 five"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 872,
+   "short_term": {
+    "bias": "bearish",
+    "target": 735,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 460,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     830,
+     740,
+     730
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "AI trade topped on summer earnings; bear flag breakdown; bounce at 730-740 then lower, target 460 by early/mid 2027.",
+   "conviction": "high",
+   "timestamp": "8:30",
+   "quote": "I said we're headed back to 460. That will be my guess where we go on Micron"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     59.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Potential bounce level at 59.50 on slight descending trend line.",
+   "conviction": "low",
+   "timestamp": "18:40",
+   "quote": "Potential bounce level at 59 50 today"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 148,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Collapsing AI-related stock heading to major gap fill.",
+   "conviction": "medium",
+   "timestamp": "19:00",
+   "quote": "we could see this level as early as today or tomorrow around 148"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WMT",
+   "instrument_quoted": "WMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": 120,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Extended safe-haven name; consumers will cut back even at Walmart if economy weakens.",
+   "conviction": "low",
+   "timestamp": "19:20",
+   "quote": "Walmart extended short-term, look for a potential short around 120 on the day"
+  }
+ ],
+ "notes": "Date: 'CPI yesterday, PPI today' with BTC ~80.4k = Thursday 2026-10-15 premarket. Silver '$5 or below' read as $50 (transcription). Copper 630 assumed cents/lb ($6.30). Gold 3,500 quoted as said. KOSPI view (bounce then lower) skipped: no canonical ticker. 'NBIX' in transcript is NBIS."
+}

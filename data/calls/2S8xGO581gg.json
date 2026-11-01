@@ -1,0 +1,233 @@
+{
+ "video_id": "2S8xGO581gg",
+ "channel": "TheTechnicalTraders",
+ "title": "Investors Panic Out of Tech & Metals",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "TheTechnicalTraders host",
+ "macro_themes": [
+  {
+   "theme": "Rotation out of tech",
+   "view": "Money leaving tech/semis/commodities into staples, utilities, dividend stocks; AI bubble ending."
+  },
+  {
+   "theme": "Yields topping",
+   "view": "Yields topping and falling, sending bonds higher and the dollar lower."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 4039.5,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag breaking down; gold and silver aiming to retrace to pre-FOMO levels.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "this is that bear flag formation we talked about 4039.50 as that next downside target"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 39,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed below critical level; chart points back to ~39-40 where the FOMO breakout began.",
+   "conviction": "high",
+   "timestamp": "0:02",
+   "quote": "the downside targets are around 39 40 which would bring it back to just before silver broke out"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold miners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Miners in bear market at short-term support; bounce possible but within downtrend.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "gold, silver miners are in bear markets and bounces are just that they're a bounce within a downtrend"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tech crashing on rotation; sentiment pattern points to sharply lower prices.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "the market sentiment very similar to what we had over here and how it's pointing to sharply lower pricing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Heading toward critical level on heavy selling volume; host on sidelines.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "now we're on the sidelines and we're just letting this thing free fall"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "equal-weight S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broad/equal-weight market trending higher as money rotates into defensive and dividend sectors.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "we were expecting the stock market to move higher, and it has."
+  }
+ ],
+ "notes": "ES call is on the equal-weight S&P (RSP-like), not cap-weighted; treat with care."
+}

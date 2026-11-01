@@ -1,0 +1,136 @@
+{
+ "video_id": "m3YTcckn_zI",
+ "channel": "VRIC Media",
+ "title": "Exclusive: Doomberg Shares His Investment Strategy",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Doomberg",
+ "macro_themes": [
+  {
+   "theme": "Rules-based saving",
+   "view": "Earn in fiat, save in real assets (gold, land), invest privately, and follow fixed rules without emotion; avoids public stocks."
+  },
+  {
+   "theme": "Gold as savings, not investment",
+   "view": "Buys physical and paper gold monthly regardless of price to preserve purchasing power; would sell into a Treasury gold revaluation."
+  },
+  {
+   "theme": "Diesel shortage turns to glut",
+   "view": "Lost Russian exports from a ~7 mb/d seaborne diesel market caused the spike; refinery flexibility and demand cuts will create a glut within ~2 years."
+  },
+  {
+   "theme": "Geopolitical risk / fourth turning",
+   "view": "Europe-Russia escalation puts the world closer to nuclear exchange than the Cuban missile crisis; hopes we are near the end of the fourth turning."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "HO",
+   "instrument_quoted": "diesel / diesel crack spreads (~$110)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Absent a nuclear war; may still have a blow-off top first",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Diesel spike came from losing ~11% of the ~7 mb/d seaborne diesel market; refinery flexibility adding output plus demand destruction will create a glut, so crack spreads at 110 can't last.",
+   "conviction": "high",
+   "timestamp": "26:00",
+   "quote": "diesel is fixing to be a pretty good short at some point soon... absent a nuclear war, you won't be able to give away diesel in 2 years"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Absent a nuclear war",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "All shortages lead to gluts; current supply crisis will pass and leave a crude glut.",
+   "conviction": "low",
+   "timestamp": "26:00",
+   "quote": "There's going to be a glut of diesel. It's going to be a glut of crude oil."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (physical + paper gold in retirement account)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Monthly rules-based accumulation as a store of value expected to hold purchasing power over ~20 years; sold some ~5,200 and bought back after drop to ~3,900; would take profits only if gold revalued (e.g. $20,000).",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "if I wake up in two decades and check the price of gold, it'll be roughly dollar parity to what I can buy today"
+  }
+ ],
+ "notes": "Guest says 'math lesson to end the week' and NFL 'this weekend', so likely recorded on a Friday (~Oct 9 or 16); listing date kept. Diesel has no canonical ticker in the spec; HO (NY Harbor ULSD futures) used. Gold call is a savings DCA, not a price forecast; mentions past trades (sold ~5,200, top ~5,400, low ~3,900). 10y yield mentioned at 5.3 only as 'noise'."
+}

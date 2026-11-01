@@ -1,0 +1,100 @@
+{
+ "video_id": "UDAUrxo7T1E",
+ "channel": "Verified Investing",
+ "title": "Why 0DTE Options Burn So Fast (We Watched It Live)",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (with Tabby)",
+ "macro_themes": [
+  {
+   "theme": "Options expiry selection",
+   "view": "Theta decay accelerates near expiration; swing theses need 30-60 day expiries, roughly double the expected time."
+  },
+  {
+   "theme": "Geopolitics and defense",
+   "view": "Escalating war and oil near $99-100 are a catalyst for defense names like Lockheed."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "LMT",
+   "instrument_quoted": "LMT",
+   "price_at_call": 603,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     575
+    ],
+    "resistance": [
+     600
+    ],
+    "invalidation": null
+   },
+   "condition": "Would revisit a put if 575/600 trend line fails to hold after the daily close",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Earnings gap ran into a long-term trend line and largest open interest at 600; he had a put thesis but passed because price was ripping and oil/war catalysts are bullish.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "I'm not too keen on getting a put here... today I'm going to pass based on this chain environment."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     735,
+     740
+    ],
+    "invalidation": 740
+   },
+   "condition": "Put thesis intact while daily close stays under 735-740; dead if it closes above",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Post-earnings move (5%) came in under the implied 7%, sellers won; holding a put thesis below 735-740.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "for the Meta put the thesis is intact depending on a daily close if we stay under that 735 and 740. If it close above, it's dead."
+  }
+ ],
+ "notes": "Date from 'tomorrow, Friday' plus 'Meta and Tesla reported yesterday' -> Thursday 2026-10-22 (listing says 10-23). Mainly an options-education show; LMT is a pass, not a trade."
+}

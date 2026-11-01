@@ -1,0 +1,58 @@
+{
+ "video_id": "zVdKlyEhglQ",
+ "channel": "tastylive",
+ "title": "Why the Tesla-SpaceX Merger Math Just Doesn't Work",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (Options Math Check)",
+ "macro_themes": [
+  {
+   "theme": "Tesla-SpaceX merger",
+   "view": "Merger math doesn't work; options show no takeout pricing."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": 362,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     335
+    ],
+    "resistance": [
+     389
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Options price a 7.45% weekly move (335-389) into Oct 21 earnings; host holds a bullish November position since stock is down ~19-22% YTD.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "myself, I do have a bullish position. I do have it a little further out in November"
+  }
+ ],
+ "notes": "Recorded the day after the Roadster reveal, before Wed Oct 21 earnings; Mon Oct 19 per listing. Expected-move range is not a directional target."
+}

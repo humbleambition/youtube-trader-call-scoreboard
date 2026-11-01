@@ -1,0 +1,237 @@
+{
+ "video_id": "s8ljuAHdArc",
+ "channel": "TheTechnicalTraders",
+ "title": "All 5 Trends Continue to Mature",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [
+  {
+   "theme": "Rotation",
+   "view": "Money is sloshing between dividend stocks and Nasdaq growth; broad market forming a rounding bottom."
+  },
+  {
+   "theme": "Yields rolling over",
+   "view": "Yields hit a 100% Fibonacci measured move and are dropping, which should lift bonds, weaken the dollar and push money into stocks."
+  },
+  {
+   "theme": "Semis lagging",
+   "view": "Semiconductors are holding the market back temporarily; once they find a bid the market should kick into high gear."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 / QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pullback is just a pause; bull flag/base points to a further ~14-15% move up; still long.",
+   "conviction": "high",
+   "timestamp": "5:00",
+   "quote": "We're long the S&P 500. We're long the NASDAQ 100 and we're letting these trends continue to unfold."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Controlled pause and pullback with upward-sloping moving averages; measured move of ~8-9% higher.",
+   "conviction": "high",
+   "timestamp": "5:50",
+   "quote": "the overall tide is to the upside. All the moving averages are sloped up. Price is still bullish."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RSP",
+   "instrument_quoted": "RSP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Equal-weight S&P hit capitulation oversold and is putting in a bottom that could extend.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "now it is starting to put in this looks like a bottom and it could really start to extend."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Small caps still in a downtrend and haven't found a bottom.",
+   "conviction": "low",
+   "timestamp": "2:50",
+   "quote": "The Russell 2000 still struggling, still in a downtrend"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "Treasury yields / TLT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yields completed a 100% Fibonacci measured move and are expected to stall and roll over, sending TLT higher.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "expecting them to stall out and start to roll over and they are down sharply today"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields fall, the dollar pulls back.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling yields should pull the dollar back, helping stocks.",
+   "conviction": "low",
+   "timestamp": "3:20",
+   "quote": "If yields fall, we're going to see the dollar pull back, which is pulling back today."
+  }
+ ],
+ "notes": "Index targets given only as percentages (NQ +14-15%, ES +8-9%) without price levels, so targets left null. Date stated in transcript: Tuesday, October 13th."
+}

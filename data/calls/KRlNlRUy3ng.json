@@ -1,0 +1,361 @@
+{
+ "video_id": "KRlNlRUy3ng",
+ "channel": "Gareth Soloway",
+ "title": "Hot CPI Slams Stocks: Gold & Silver Breakdown Mode",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "CPI and core came in hotter than forecast; inflation is becoming embedded beyond food and energy."
+  },
+  {
+   "theme": "Stagflation risk",
+   "view": "High oil (~$96), 10y yields ~5.3% and rising inflation with a slowing economy point to stagflation."
+  },
+  {
+   "theme": "AI trade collapsing",
+   "view": "Nasdaq and AI/semis are breaking down; hedge funds are rotating into beaten-down defensive dividend names."
+  },
+  {
+   "theme": "Strong dollar",
+   "view": "Surging dollar and stubborn yields are pressuring gold and silver."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7575
+    ],
+    "resistance": [],
+    "invalidation": 7575
+   },
+   "condition": "Neutral-to-bullish as long as S&P holds above 7575; expects one more push to 8000, then turns bearish.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still above the neutral zone and only 1-1.5% from all-time highs despite the CPI selloff.",
+   "conviction": "medium",
+   "timestamp": "2:30",
+   "quote": "I actually still think the S&P will have one more push up to 8,000, then I'll start going more bearish on the S&P."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nasdaq down 4.3% from its high in about seven sessions as the AI trade falters.",
+   "conviction": "medium",
+   "timestamp": "10:20",
+   "quote": "The Nasdaq very likely topped, especially if the AI trade has topped."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4082,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the ~3950 lows break, gold goes to ~3500, where he buys physical gold.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag chopping against major support as yields and the dollar rise.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "if that breaks, we're going down to this level here on the gold trade, and that's around 3,500 give or take."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     54,
+     50,
+     48,
+     46
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Closed below trendline confirming breakdown; slowing economy cuts industrial demand; buys physical below 50.",
+   "conviction": "high",
+   "timestamp": "8:50",
+   "quote": "I think we're still going to 50 or sub-50 on silver."
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80,
+     78,
+     76
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 80,
+   "stop": null,
+   "method": "technical",
+   "reason": "Multiple pivot points and long-term trendlines line up in the 76-80 zone for swing buys.",
+   "conviction": "medium",
+   "timestamp": "6:50",
+   "quote": "right below 80, then right below 78, and then right around 76 or just below. Those are three potential swing trading buy levels."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Micron broke massive support amid the AI selloff.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "Micron has broken massive support. It continues to look like it wants to go lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CLX",
+   "instrument_quoted": "CLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Beaten-down defensive dividend name benefiting from rotation out of AI.",
+   "conviction": "low",
+   "timestamp": "4:20",
+   "quote": "Look at Clorox. Over the same 7-day stretch, it's beginning to push up."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil",
+   "price_at_call": 96,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil holding near highs of the day every session, adding inflation pressure.",
+   "conviction": "low",
+   "timestamp": "9:40",
+   "quote": "Oil continues to move up."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar surging on hot CPI, pressuring gold.",
+   "conviction": "low",
+   "timestamp": "5:20",
+   "quote": "The dollar surging today, and this is putting major pressure on gold."
+  }
+ ],
+ "notes": "Recorded on CPI day after the release with cash market open. GDX entry uses top of the 76-80 buy zone. Gold '39.50' read as 3950."
+}

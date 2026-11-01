@@ -1,0 +1,105 @@
+{
+ "video_id": "JPMDMyhKVR0",
+ "channel": "CPM Group",
+ "title": "Gold Insider Explains What China’s Gold Reserves Really Mean | Jeffrey Christian",
+ "video_date": "2026-10-13",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian (CPM Group), interviewed by Ben Edelstein",
+ "macro_themes": [
+  {
+   "theme": "China gold reserves",
+   "view": "PBOC monthly monetary gold figures are accurate; other state entities hold extra gold outside monetary reserves, and gold in China stays in China."
+  },
+  {
+   "theme": "No silver deficit",
+   "view": "Reported deficits come from adding investment demand to fabrication demand; fundamentally the market is in surplus."
+  },
+  {
+   "theme": "Gold as religion",
+   "view": "Much gold/silver information is bad and belief-driven; invest on knowledge, not beliefs."
+  },
+  {
+   "theme": "Rates and gold",
+   "view": "He doesn't think the Fed funds rate has ever been correlated with gold prices."
+  },
+  {
+   "theme": "Futures/paper metal",
+   "view": "Removing futures would not boost physical investment demand; leveraged speculators would just leave."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (spot, general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Has become more convinced gold belongs as a core portfolio holding; expects gold to outperform silver over the next decade; investment demand is the main price driver.",
+   "conviction": "low",
+   "timestamp": "46:00",
+   "quote": "I think I've become much more convinced that gold makes sense as a core part of one's portfolio or wealth."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (spot, general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Relative view only: expects gold to outperform silver over the next decade.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Rejects the silver-deficit thesis: proper supply/demand shows surpluses absorbed by investor inventories, so deficit claims are not a reason to expect higher prices.",
+   "conviction": "low",
+   "timestamp": "21:00",
+   "quote": "There's not a real silver deficit."
+  }
+ ],
+ "notes": "Mostly an educational/myth-busting interview with no price levels or near-term calls. Date from listing (no date in transcript). Silver absolute bias not stated; only relative underperformance vs gold. Gold bullish long-term is implied from 'core part of portfolio' and gold>silver, low conviction."
+}

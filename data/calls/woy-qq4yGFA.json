@@ -1,0 +1,265 @@
+{
+ "video_id": "woy-qq4yGFA",
+ "channel": "Meet Kevin",
+ "title": "The Pre-Election Market Crash Pain RETURNS: Iran, Fed, Uncertainty, AI.",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "US-Iran deal window",
+   "view": "Puts ~95% odds on a deal now, falling to ~70% after Oct 29 and ~30% after the Nov 3 election, after which he turns bearish ('bear mode for the winter')."
+  },
+  {
+   "theme": "Bond yields peaking",
+   "view": "Says 5.27% was near the top for the 10-year and yields are about to break below 5%, which helps TLT."
+  },
+  {
+   "theme": "Oil / Brent",
+   "view": "Brent at a five-month high ~$111 feeds inflation fears and market selling; no explicit oil forecast."
+  },
+  {
+   "theme": "AI capex / funding fears",
+   "view": "Market is worried about AI bubble and equity/debt raises (Meta CDS rising); he expects profitability only ~2028."
+  },
+  {
+   "theme": "Gold without easy money",
+   "view": "Gold struggles to rise without the money printer; needs Kevin Warsh to exit the Fed for gold to move."
+  },
+  {
+   "theme": "SpaceX-Tesla merger",
+   "view": "Expects SpaceX to issue shares and buy Tesla at ~30% premium in 2027-mid 2028, before possible 2029 Democratic antitrust."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 708,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     707,
+     700
+    ],
+    "resistance": [
+     715
+    ],
+    "invalidation": null
+   },
+   "condition": "Buy the dip at 707-700; if no Iran deal by the election, expects bearish 'bear mode for the winter'.",
+   "action": "buy",
+   "entry": 707,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Clean rejection at 715 on QQQ as predicted; 707-700 is the buy-the-dip zone ahead of an expected Iran deal, but odds fade after the election.",
+   "conviction": "medium",
+   "timestamp": "0:57",
+   "quote": "I like the idea of buying the dip at my 707 line or even between like or the 700 line if you really want to be aggressive."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.01,
+   "short_term": {
+    "bias": "bearish",
+    "target": 5.0,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Called 5.27% as near the top in September; yields falling (down 13.5bp today) despite Iran tension.",
+   "conviction": "medium",
+   "timestamp": "0:37",
+   "quote": "We made a call that 5.27 was pretty dang near the top... the 10-year Treasury is about to break below 5%."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "TLT",
+   "price_at_call": 81.25,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     78.77
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "TLT bottomed on a strong weekly line ~78.77 and rises as yields come down.",
+   "conviction": "medium",
+   "timestamp": "0:36",
+   "quote": "TLT we've been talking about as bottoming out on a very strong weekly line of 7877."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (spot)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Gold needs Warsh to exit the Fed to start rising.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Without the money printer gold can't rally even in a risk-off war backdrop; gets sold to fund other buys like TLT.",
+   "conviction": "low",
+   "timestamp": "0:36",
+   "quote": "when you take the money printer away, it's really hard for gold to go up."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": 150,
+   "short_term": {
+    "bias": "bearish",
+    "target": 150,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [
+     165.23
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Called a rejection at 165-166 on profit-taking back to 150 (hit); long-term bearish because SpaceX would issue dilutive shares to buy Tesla at a premium on a premium.",
+   "conviction": "medium",
+   "timestamp": "0:41",
+   "quote": "We said that's going to be a takerit and it'll go right back down to 150. And folks, here it is right at the 150 level."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 414,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     347,
+     295
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy on dips to ~347 (or ~295 if no Iran deal); above 414 once an Iran deal comes. Risk: no deal/recession sinks it.",
+   "action": "buy",
+   "entry": 347,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Expects SpaceX to acquire Tesla at ~30% premium in 2027-mid 2028; Tesla is overpriced but merger gives a floor, so buy volatility.",
+   "conviction": "high",
+   "timestamp": "1:40",
+   "quote": "I think a 347 uh bounce point is a very good place to enter Tesla... when an Iran deal comes, we're going to end up being over 414 on Tesla."
+  }
+ ],
+ "notes": "Date from CNBC clip 'Good Thursday morning' (Thursday 2026-10-22) and Trump's remarks 'on Wednesday'; listing said 2026-10-23. SpaceX ticker unclear (shares trade, quoted ~150-165); recorded as 'SPACEX'. LEN discussed (up ~7%, near book, 85.74 rejection line) but no bias given; skipped. Brent $111 noted without forecast. Gold bearish view is implied, low conviction."
+}

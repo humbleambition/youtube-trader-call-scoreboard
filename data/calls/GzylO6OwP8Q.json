@@ -1,0 +1,103 @@
+{
+ "video_id": "GzylO6OwP8Q", "channel": "Arete Trading", "title": "Stock Market Crash Coming? Inflation Is the Trigger!",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {"theme": "Oil-driven (acyclical) inflation", "view": "Inflation breadth is narrowing and cyclical components are falling, but Middle East conflict keeps oil, the main inflation driver, higher for longer."},
+  {"theme": "CPI ahead", "view": "Consensus expects CPI in line with core measures trending down; he would not hold big positions into the print."},
+  {"theme": "Breadth improving", "view": "S&P breadth bounced off the 18% extreme zone and historically recovers toward 50% before retesting, so the index can grind higher."},
+  {"theme": "AI / Anthropic IPO dry run", "view": "A private Anthropic investor meeting ahead of a possible November IPO could cause volatility as details leak."},
+  {"theme": "Cost of capital", "view": "Cost of capital is becoming a bigger constraint on AI build-out than wafer and memory shortages."},
+  {"theme": "Weak bank earnings", "view": "JPM and Citi earnings were not good and investors sold financials even on Goldman's beat."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "ES", "instrument_quoted": "S&P 500 breadth (% above 50-day)",
+   "price_at_call": null,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "S&P breadth bounced from the extreme 18% zone; historically it recovers to ~50% above the 50-day before retesting, and the S&P should outperform the Nasdaq relatively.",
+   "conviction": "low",
+   "timestamp": "2:00",
+   "quote": "You're only at 38. So, I do think you can grind higher."
+  },
+  {
+   "group": "indices_futures", "ticker": "NQ", "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {"bias": "neutral", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "mixed", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "Swing longs in tech only once more than 50% of NDX is above its 50-day moving average.", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "QQQ is holding the gap after a retest but NDX breadth is trapped below 50% above the 50-day; direction into CPI/ASML is 'anyone's guess'.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Now, coming into tomorrow, it's anyone's guess what happens."
+  },
+  {
+   "group": "stocks", "ticker": "SOX", "instrument_quoted": "SOX semiconductor index",
+   "price_at_call": null,
+   "short_term": {"bias": "mixed", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [500, 525], "resistance": [], "invalidation": null},
+   "condition": "Trade semis off options put walls: put walls act as either support or resistance.", "action": "watch", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "Semis held the 55-day and closed back over it (likely short covering), but the chart failed a breakout with RSI rolling over; new put wall at 500. He shorted SOXL but trimmed into events.",
+   "conviction": "low",
+   "timestamp": "17:50",
+   "quote": "You tried to break out, you absolutely failed, your RSI is rolling over."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "CL", "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "Barring a major peace deal.", "action": "", "entry": null, "stop": null,
+   "method": "mixed",
+   "reason": "RSI bounced off 50 and crude is breaking a small downtrend; Middle East conflict is expanding and he cites a forecast of oil $20-25 higher.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "barring some massive like peace deal, it seems to me like we're going to take that out, like we're going to grind higher."
+  },
+  {
+   "group": "stocks", "ticker": "XOM", "instrument_quoted": "XOM (with CVX and integrated energy names)",
+   "price_at_call": 174,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "buy", "entry": null, "stop": null,
+   "method": "mixed",
+   "reason": "Energy sector breaking out of an upper channel with RSI breaking through; Exxon and Chevron at all-time highs and integrated names benefit from oil higher for longer, likely showing in earnings.",
+   "conviction": "medium",
+   "timestamp": "15:40",
+   "quote": "You could be setting up for another leg in energy here."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "TNX", "instrument_quoted": "TNX",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [535], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "10-year yield looks to have peaked at the 535 level, which is lifting utilities (XLU).",
+   "conviction": "low",
+   "timestamp": "4:40",
+   "quote": "you're watching TNX. It looks like it peaked at that 535."
+  }
+ ],
+ "notes": "No date stated; recorded after the close the day before CPI, ASML earnings and an Anthropic investor meeting, on the day of JPM/Citi/Goldman earnings, so likely 2026-10-13 (listing approx 2026-10-14). TNX '535' is as spoken (units unclear). MU, SNDK, STX, NBIS mentioned only as intraday put-wall trades already closed; skipped. XLU called 'fantastic' and financials weak but not given as forward calls."
+}

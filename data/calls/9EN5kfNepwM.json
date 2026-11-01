@@ -1,0 +1,471 @@
+{
+ "video_id": "9EN5kfNepwM",
+ "channel": "StockedUp",
+ "title": "This Special Merger Is Insane…",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "StockedUp hosts (Mike and co-host)",
+ "macro_themes": [
+  {
+   "theme": "Seasonality bullish",
+   "view": "Historically bullish stretch from the last four trading days of October into early November; rare inside-day pattern after a 1% drop preceded strong two-month gains in all 10 prior cases."
+  },
+  {
+   "theme": "Middle East supply disruption",
+   "view": "Iran situation not close to ending, so energy and refiners keep benefiting."
+  },
+  {
+   "theme": "Volatility ahead",
+   "view": "Options market expects bigger swings into FOMC (Oct 28), big-tech earnings and the midterms."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 773.2,
+   "short_term": {
+    "bias": "bullish",
+    "target": 781.62,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     770,
+     768,
+     766.5,
+     765
+    ],
+    "resistance": [
+     774.5,
+     775,
+     781.62
+    ],
+    "invalidation": 770
+   },
+   "condition": "needs a clear break above 775 to retest the 781.62 ATH; a break below 770 could start a larger pullback",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "SPY broke its downtrend and is building bullish structure; rare pattern stats and Halloween seasonality are bullish.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "We need to see a clear breakout past 775 for this overall bullish momentum to really continue"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily stair-step pattern at the end of its second step with breakout potential.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "it's at the very end of this second stair step here where we might be getting the breakout potential"
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "COIN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Upside setup tied to Bitcoin coming off its lows.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "I'm looking at Coinbase and strategy to the upside again"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Up 7.5% leading crypto stocks as Bitcoin lifts off its lows.",
+   "conviction": "low",
+   "timestamp": "8:40",
+   "quote": "I'm looking at Coinbase and strategy to the upside again"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLV",
+   "instrument_quoted": "XLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Healthcare getting inflows on AI-trade worries, defensive and with good momentum.",
+   "conviction": "low",
+   "timestamp": "9:50",
+   "quote": "It does have good shorter term momentum, but it's also on the radar for a broader longer term sense"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CEG",
+   "instrument_quoted": "CEG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 310,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     300,
+     310
+    ],
+    "invalidation": null
+   },
+   "condition": "if it keeps holding the bullish structure after breaking the downtrend",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Filled the September gap and is testing/breaking its downtrend, forming a base.",
+   "conviction": "medium",
+   "timestamp": "11:30",
+   "quote": "coming up to test this recent double top closer to 310 if not even $300 over the next couple to few weeks"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Historic Middle East supply disruption not improving.",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "energy companies are going to continue to benefit from this until that changes"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRAK",
+   "instrument_quoted": "CRAK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Refiners benefiting from the disruption; recent pullback is a buy-the-dip spot.",
+   "conviction": "low",
+   "timestamp": "12:50",
+   "quote": "it has provided some good buy-the-dip opportunities"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVTS",
+   "instrument_quoted": "NVTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     9.3
+    ],
+    "invalidation": null
+   },
+   "condition": "if it breaks above $9.30",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play.",
+   "conviction": "low",
+   "timestamp": "13:20",
+   "quote": "If Navitas semiconductor breaks out above $9.30, look for another upside move tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     244
+    ],
+    "invalidation": null
+   },
+   "condition": "if it breaks above $244",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play after a 5% gain.",
+   "conviction": "low",
+   "timestamp": "13:30",
+   "quote": "If CrowdStrike is able to break above $244 resistance, continue watching it up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "UBER",
+   "instrument_quoted": "UBER",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     67.35
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if it breaks below $67.35",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rough downtrend over the past week.",
+   "conviction": "low",
+   "timestamp": "13:40",
+   "quote": "If it breaks down under $67.35, look for another downside move tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GTLB",
+   "instrument_quoted": "GTLB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 70,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     52.5,
+     50
+    ],
+    "resistance": [
+     72,
+     74
+    ],
+    "invalidation": 50
+   },
+   "condition": "concern if trend line fails and it falls below $50",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$1.42M of June 2027 70-strike calls; stock breaking above 52.50-54 resistance on its trend line.",
+   "conviction": "medium",
+   "timestamp": "15:30",
+   "quote": "I wouldn't be surprised if GitLab can get above 70"
+  }
+ ],
+ "notes": "SPY price_at_call derived from \"1.08% off\" the 781.62 ATH. JP Morgan SpaceX target of $500 is an analyst figure, not the hosts' call; not recorded. UNH mentioned in passing."
+}

@@ -1,0 +1,87 @@
+{
+ "video_id": "PoYcO73O1fk", "channel": "Crypto World", "title": "BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Josh (Crypto World)",
+ "macro_themes": [
+  {"theme": "Hot CPI reprices Fed hikes", "view": "CPI at 3.7% vs 3.6% expected is slightly bearish; markets now price about four 25bp hikes by mid next year, including possibly two more this year, pressuring stocks and crypto short term."},
+  {"theme": "Rebound once absorbed", "view": "Unless inflation keeps worsening, the market should absorb the repricing and could rebound within weeks or months."},
+  {"theme": "Bitcoin dominance at range high", "view": "BTC dominance is nearing 60.5-61% range resistance; a rejection in a few weeks could let some altcoins outperform, but a confirmed break above ~61.5% would likely crush altcoins."},
+  {"theme": "Stock market pullback", "view": "The US stock pullback from last week's all-time high is weighing on crypto in the short term."}
+ ],
+ "calls": [
+  {
+   "group": "crypto", "ticker": "BTC", "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": 80200, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "neutral", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [82000, 80000, 76000, 75000], "resistance": [84500], "invalidation": null},
+   "condition": "If BTC confirms a break below 80,000 and fails to reclaim it, next target is the mid-70Ks (75-76K).", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "Daily bearish divergence plus CPI-driven repricing of Fed hikes means weakness into the 80-82K support with liquidity near 80.2-80.3K; weekly supertrend green and weekly bullish divergence remain long-term bullish.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "this suggests a likely scenario for the price of Bitcoin testing well into this support in the coming hours or days"
+  },
+  {
+   "group": "crypto", "ticker": "ETH", "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [2400, 2300], "resistance": [2800], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "Rejected from 2.8K resistance with an active daily bearish divergence; testing 2.3-2.4K support, expect weakness or chop for days to two weeks.",
+   "conviction": "medium",
+   "timestamp": "15:20",
+   "quote": "overall expect weakness, lacking bullish momentum... likely a continued pullback."
+  },
+  {
+   "group": "crypto", "ticker": "XRP", "instrument_quoted": "XRP/USD",
+   "price_at_call": 1.33,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [1.33, 1.28, 1.27, 1.17, 1.16], "resistance": [], "invalidation": null},
+   "condition": "If XRP breaks below about $1.26-1.27, target $1.16-1.17.", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "Daily bearish divergence still playing out; more likely a pullback than a pump back to highs for days to weeks.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "we're much more likely to see a bit more of a pullback than we are to see a major pump back up towards the highs"
+  },
+  {
+   "group": "crypto", "ticker": "SOL", "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": 97, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [99, 95], "resistance": [107, 110, 119, 124], "invalidation": null},
+   "condition": "Possible head and shoulders: pullback to 95-99, bounce to 107-110, rejection, then a break below ~95-96 would complete it with a much lower target.", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "Rejected from 119-124 resistance, broke 107-110 daily support (now resistance) with a daily bearish divergence; next support 95-99.",
+   "conviction": "medium",
+   "timestamp": "18:40",
+   "quote": "it's very likely we'll continue to show weakness, lacking bullish momentum, likely a bit more of a pullback still to come here."
+  },
+  {
+   "group": "crypto", "ticker": "LINK", "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [12.30, 11.80, 10.80], "resistance": [], "invalidation": null},
+   "condition": "If LINK closes below about $11.80 and fails to reclaim it, target about $10.80.", "action": "", "entry": null, "stop": null,
+   "method": "technical",
+   "reason": "Larger 3-day bearish divergence active and following the broader crypto pullback.",
+   "conviction": "low",
+   "timestamp": "20:50",
+   "quote": "while we're continuing to show weakness pulling back right now, which will likely continue in the coming days or weeks"
+  }
+ ],
+ "notes": "No explicit date; recorded right after the CPI release (3.7% y/y vs 3.6%), which other videos place on Wed 2026-10-14, so the video is likely 2026-10-14 (listing approx 2026-10-15). Transcript says XRP 'close to $130' / '$133' / '127 to 128' meaning $1.30/$1.33/$1.27-1.28; LINK '1180 to 1230' and '$1080' mean $11.80-12.30 and $10.80. BTC short-term target 80,200 is the liquidity level he expects to be tested. BTC dominance view recorded in macro_themes only."
+}

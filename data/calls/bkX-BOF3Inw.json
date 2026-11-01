@@ -1,0 +1,58 @@
+{
+ "video_id": "bkX-BOF3Inw",
+ "channel": "Verified Investing",
+ "title": "What Is Rho? The Forgotten Options Greek Explained",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Jake Sweeney (with Tabby Pierce)",
+ "macro_themes": [
+  {
+   "theme": "Fed hike risk",
+   "view": "Says rising fear has the market pricing higher chances of a Fed hike, a minor factor for option pricing via rho."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     758.08
+    ],
+    "resistance": [
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly SPY keeps making higher lows inside a channel from the March 2020 low; dip this week expected, 758.08 pivot is support, room to run to 800. Trade: Dec 2027 800 call (~0.55 delta, ~$5,800).",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "I'm thinking of a target on a long long-term play of the S&P 500 to get to uh the spiders to get to 800"
+  }
+ ],
+ "notes": "Date inferred: hosts say tomorrow's episode is 'your Friday', so recorded Thursday 2026-10-15. Educational options segment; one trade idea."
+}

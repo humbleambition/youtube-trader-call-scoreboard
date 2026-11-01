@@ -1,0 +1,409 @@
+{
+ "video_id": "SbgsBsvFsnI",
+ "channel": "Click Capital",
+ "title": "😳 Nobody Expected THIS To Happen...",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Jared (Click Capital)",
+ "macro_themes": [
+  {
+   "theme": "Rotation out of AI/tech",
+   "view": "Not a market-wide sell-off but a big rotation into defensives; AI demand and big-cap earnings remain strong, debt-laden neoclouds deserve more volatility."
+  },
+  {
+   "theme": "Strong Q3 earnings",
+   "view": "~29% blended earnings growth and compressed P/Es (forward 19) mean earnings growth still overwhelms higher yields for now."
+  },
+  {
+   "theme": "2027 market top",
+   "view": "Agrees with Paul Tudor Jones that 2027 (or 2028) could be a challenging year/top as equity supply rises and buybacks fall."
+  },
+  {
+   "theme": "Bond sentiment extreme",
+   "view": "Bond-doom sentiment was a contrarian signal; Treasuries rallied despite hot CPI and may be front-running easing."
+  },
+  {
+   "theme": "Oil / Iran / midterms",
+   "view": "Oil above $100 on Hormuz attacks adds inflation and uncertainty into the midterms; expect bouts of volatility for a couple of weeks."
+  },
+  {
+   "theme": "Europe uninvestable",
+   "view": "Welfare spending and debt make the UK/Europe uninvestable for him; strengthens the case for staying invested in America."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Indices in negative gamma ahead of midterms/earnings so more volatility near term; then bullish seasonality second half of Nov into Dec; 2027-28 likely market top.",
+   "conviction": "medium",
+   "timestamp": "28:00",
+   "quote": "I think once we get through the next few weeks, we could very well see a good second half of November and into December"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     270
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Technically oversold, sitting on the $270 put wall and a big support zone with bullish seasonality, but in negative gamma so volatility possible next week.",
+   "conviction": "low",
+   "timestamp": "28:00",
+   "quote": "IWN Russell 2000 small caps, quite technically oversold here, sitting right at the put wall, $270 a share"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": 350,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     350,
+     344
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bounced off last earnings VWAP ~350 with big support at 344, strong relative strength; Roadster reaffirms brand ahead of earnings next week.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "I believe this could indeed prove to be another dip buy, as it already just bounced off the last earnings VWAP here around $350"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     212.71,
+     210
+    ],
+    "resistance": [
+     220
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Pristine earnings and 70% growth guide; 12% pullback with dark pool buying, ~20% below fair value, near $210 volume shelf; call wall 220, gamma flip 212.71.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "approaching this large volume shelf around $210 a share here, which the stock has turned out several times before. I think that could also be a dip buy"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "ZB futures (30y T-bond, long position); 10y yield quoted ~5.0%",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.4
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 103,
+   "stop": 103,
+   "method": "sentiment",
+   "reason": "Long 5 ZB contracts (avg just under 103) on contrarian extreme bond-doom sentiment plus bullish reversal signals; took partial profit, stop at breakeven, scaling out over weeks.",
+   "conviction": "high",
+   "timestamp": "18:00",
+   "quote": "I'm looking to scale out over the coming weeks, month or two ... potentially pull in what I think could be $30,000 or more in profits"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "XLE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     70
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Energy outperforming on oil, but at the $70 call wall in positive gamma so likely to stall and chop.",
+   "conviction": "low",
+   "timestamp": "29:00",
+   "quote": "price is likely to stall out around the $70 level, and maybe chop around for a bit"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (put wall strike $50, likely SLV/silver price)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bounced to the tick off the $50 put wall with bullish seasonality over the next month.",
+   "conviction": "low",
+   "timestamp": "29:00",
+   "quote": "silver just bouncing off that put wall on Wednesday there, pretty much to the tick at the $50 strike"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Could find support here with bullish seasonality coming up.",
+   "conviction": "low",
+   "timestamp": "29:00",
+   "quote": "Gold and silver, on the other hand, could be about to find some support here with some bullish seasonality coming up."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin chart with $45 put wall (likely a spot BTC ETF)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     45
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holding up well vs high beta/AI, outperforming S&P for months, bullish seasonality, positive gamma with put-wall support at $45.",
+   "conviction": "low",
+   "timestamp": "30:00",
+   "quote": "As does Bitcoin, which has been holding up remarkably well considering the sharp pullbacks we've seen in high beta and AI."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": 150,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Big move possible out of the support zone after earnings Tuesday",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading around earnings VWAP just below 150 at a support zone into earnings; could prove another dip-buying opportunity.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "Both currently pulled back into some support zones here, which could prove to be another dip buying opportunity."
+  }
+ ],
+ "notes": "Host says Friday session and 'This Monday will be the 19th of October', so recorded after Fri 2026-10-16 close (posted ~Oct 17 per listing). TNX call is expressed via a long ZB futures position: 'bearish' = bearish yields/bullish bonds; entry and stop (moved to breakeven) are ZB prices (~103). Silver and BTC put-wall strikes ($50, $45) are ETF/option strikes; the exact instrument isn't named. SpaceX ticker not stated (placeholder SPACEX). Mentions in passing (MU, AMD, SNDK, DELL bullish flow; CoreWeave/IREN/Nebius debt risk) were skipped."
+}

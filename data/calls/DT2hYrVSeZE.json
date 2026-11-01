@@ -1,0 +1,58 @@
+{
+ "video_id": "DT2hYrVSeZE",
+ "channel": "Meet Kevin",
+ "title": "Tesla Earnings WTF",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "SpaceX acquiring Tesla",
+   "view": "A likely SpaceX buyout at a premium ($420-550 floated) acts like a put option under TSLA."
+  },
+  {
+   "theme": "Green energy comeback",
+   "view": "Data-center demand for Megapacks and storage suggests green energy comes back big regardless of 2028 politics."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA shares",
+   "price_at_call": 386,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 740,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Earnings beat with better auto margins, FSD take-rate/ARR and record backlog; the 5M-vehicle 2030 target drives a $740-854 2030 value in his model, and a SpaceX buyout at $420-550 gives a floor. Offsets: ~4.7 PEG says fair value nearer $170, op margin 2.6%, heavy capital raising ahead.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "this earnings call and earnings report was broadly bullish for many reasons. If there is any temporary sell-off in Tesla, maybe it's because Elon secretly wants to pick up them Tesla shares"
+  }
+ ],
+ "notes": "Recorded after Tesla's Q3 earnings (stock -2.4% after hours). Short-term 'mixed': after-hours dip he calls temporary. Long-term target 740 is his 2030 model at 20% margin (854 at 25%); he also says on PEG alone it's ~2.2x too expensive (~$170) but doesn't expect that soon because of the SpaceX premium. Medium-term bullish inferred from the acquisition 'put option' ($420-550). Price 386 from his PE calc; he also uses $375 as a purchase price."
+}

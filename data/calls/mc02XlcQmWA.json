@@ -1,0 +1,66 @@
+{
+ "video_id": "mc02XlcQmWA",
+ "channel": "Meet Kevin",
+ "title": "Even I’m Getting Nervous",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "AI capex is real",
+   "view": "Rising rental rates on A100/H100/GB200 chips in 2026 refute the depreciation-cliff and capex-recycling bear case."
+  },
+  {
+   "theme": "Labor market is the real risk",
+   "view": "Rising Black unemployment and AI-driven job losses are the canary; when labor rolls over, capex funding and stocks fall."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "Soft labor data and stable inflation expectations mean likely only one hike this year; no December hike expected."
+  },
+  {
+   "theme": "Oracle/Nebius not default risks",
+   "view": "Oracle's net income is rising and Nebius is profitable ex-depreciation; CoreWeave is weak."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market broadly (no level)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects a euphoric rally after an Iran deal; beyond ~1 year, a rolling-over labor market would end the bull case.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "AI capex is accelerating, not recycling: GPU rental rates for old and new chips rising in 2026 and ASML backlog exploding; Fed likely to hike less.",
+   "conviction": "medium",
+   "timestamp": "25:00",
+   "quote": "I actually think we're going to see a giant euphoric rally in the stock market post an Iran deal... for the next probably at least year, I'm actually really bullish"
+  }
+ ],
+ "notes": "Date inferred from host saying the Oct 30 coupon expires 'in about 9 days' (= Oct 21); listing approx 2026-10-22. Long-term bullish applies to roughly the next year; he expects trouble after that once labor rolls over. No price levels given."
+}

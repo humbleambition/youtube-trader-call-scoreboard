@@ -1,0 +1,252 @@
+{
+ "video_id": "HRSF-bY4TyM",
+ "channel": "David Lin",
+ "title": "Massive Selloff Today: Start Of Something Bigger? | Ole Hansen",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ole Hansen (Saxo Bank), host David Lin",
+ "macro_themes": [
+  {
+   "theme": "AI 'show me the money'",
+   "view": "Rising funding costs and borrowed hyperscaler capex mean the market now demands AI returns; buy-every-dip mechanics have changed."
+  },
+  {
+   "theme": "Refinery bottleneck",
+   "view": "Crude flows have recovered but refined products and LNG lag far behind, keeping diesel and crack spreads very elevated."
+  },
+  {
+   "theme": "Rate hikes priced",
+   "view": "Energy-driven inflation keeps 3-4 hikes priced by next summer, a headwind for gold short term."
+  },
+  {
+   "theme": "France fiscal risk",
+   "view": "France's 10y above 5% and ~170bp over Bunds; things may have to get worse before reforms happen."
+  },
+  {
+   "theme": "European gas",
+   "view": "Low storage and competition with Asia for LNG mean higher prices if the winter is cold."
+  },
+  {
+   "theme": "Grains",
+   "view": "A 14% speculative unwind plus harvest supply; El Nino keeps the space volatile."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "Brent",
+   "price_at_call": 112,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "The true delivered cost is ~$30 above screen price from ship-to-ship transfers; the risk of renewed disruption before the midterms can't be ruled out.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "Brent crude at 112 is is not really the right price. We should probably add potentially another $30 on top."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "HO",
+   "instrument_quoted": "ULSD New York Harbor / diesel",
+   "price_at_call": 200,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "any further disruption to flows could force prices even higher",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Inventories near record seasonal lows, refinery maintenance ahead and winter heating demand: no relief seen into early 2027.",
+   "conviction": "medium",
+   "timestamp": "25:00",
+   "quote": "the next few months will be quite critical and and any further disruption to to flows could... force prices even higher."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TTF",
+   "instrument_quoted": "EU natural gas (euros/MWh)",
+   "price_at_call": 90,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if the winter is cold",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Storage at multi-year lows and Qatar LNG at ~20% of pre-war volumes.",
+   "conviction": "low",
+   "timestamp": "23:00",
+   "quote": "generally a very cold winter and we will be paying higher prices this winter."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot/COMEX",
+   "price_at_call": 4000,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     4230,
+     4250
+    ],
+    "invalidation": null
+   },
+   "condition": "hedge funds turn long only once gold regains 4230-4250 (September low)",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Hedge funds/CTAs are selling while ETFs and China/India demand accumulate; rate-hike pricing and a firm dollar hurt short term.",
+   "conviction": "medium",
+   "timestamp": "30:00",
+   "quote": "I maintain my long-term bullish view for gold 10 20% higher in a year from now, but in the short-term clearly challenged"
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "The uptrend is intact on scarcity and Chinese refiner cuts, but AI-related weakness and US stockpiles flowing back could slow it near term.",
+   "conviction": "medium",
+   "timestamp": "39:00",
+   "quote": "I stay in the bullish camp on copper, but also just like gold acknowledge the fact that there are some headwinds in the short term"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Shallow bounces and rising funding costs signal risk-off; buy-the-dip sentiment has been knocked, though no key level is broken.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "that we come from this worst period where basically any dip should be bought... That seems to that sentiment seems to have taken a a knock back"
+  }
+ ],
+ "notes": "Date spoken by host (October 22nd). Timestamps are mm:00 from the transcript's minute markers; interview is 40 min. Gold 10-20% upside is given as a percentage (~4400-4800 from ~4000), so target left null. ULSD price '$200 plus' is in cents/gal terms as quoted. The NQ short-term bearish view is weakly implied."
+}

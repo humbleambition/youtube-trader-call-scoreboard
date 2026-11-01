@@ -1,0 +1,54 @@
+{
+ "video_id": "W-e14UmgTAw",
+ "channel": "BitcoinHyper",
+ "title": "BITCOIN: It’s Breaking Out! (finally) - BTC Price Prediction Today",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC (USD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 73000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     73000
+    ],
+    "resistance": [
+     84500,
+     87300
+    ],
+    "invalidation": null
+   },
+   "condition": "take profit at the 84,500 golden pocket; short only after a liquidity grab and a 30m-2h close back below the recent high (stop above that high); no reaction there means look higher",
+   "action": "take_profit",
+   "entry": 81600,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke the falling wedge after a bounce off the value-area low; expects an ABC push to the 84.5k golden pocket/liquidation cluster, then a drop to retest the 50-week SMA near 73k before the bull market continues.",
+   "conviction": "medium",
+   "timestamp": "4:30",
+   "quote": "we get right here another major push down to approximately 73,000 US dollar area. We also retest the 50 simple moving average"
+  }
+ ],
+ "notes": "Long-term bullish inferred from his point that a break above the 50-week MA historically led to bull-market continuation. Says he holds longs in ETH and HYPE too but gives no levels; not recorded. Recording time not stated."
+}

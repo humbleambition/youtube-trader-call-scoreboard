@@ -1,0 +1,174 @@
+{
+ "video_id": "XbJHh_dvAqo",
+ "channel": "A1 Trading",
+ "title": "Is a Market Reset Coming?",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Chris and Nick (A1 Trading)",
+ "macro_themes": [
+  {
+   "theme": "Inflation environment",
+   "view": "Hot CPI and PPI prints mean inflation will stick around longer, making the Fed's job harder."
+  },
+  {
+   "theme": "AI trade reset",
+   "view": "AI capex without visible ROI for end users could trigger a healthy but painful reset in expectations that drags the market down."
+  },
+  {
+   "theme": "Midterm elections",
+   "view": "Support for markets may fade after the midterms, opening the door to a post-election move lower; contested results possible."
+  },
+  {
+   "theme": "Bond yields",
+   "view": "Yields cooled after growth fears, but the bond bid is seen as a short-term play and yields likely stay sticky."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     200,
+     170
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Semis concentrated AI run could round-trip like ARKK 2022; possible XABCD harmonic retrace back toward Liberation Day levels.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "I'm very cautious like investing long SMH without having a game plan to maybe ride this thing all the way down to like 200."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 16,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 30,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling wedge with higher lows on VIX; election-related catalyst within 30-45 days could spark a volatility spike.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "it doesn't take much for the Vix to go from a 16 to a 30."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if post-midterm support fades / AI expectations reset",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Kitchen sink thrown at markets before midterms may subside afterward; AI ROI disappointment could reset expectations.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "could you actually get kind of a post midterm election type of move lower? That's that's something I'm thinking about."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10y yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bond rally after hot CPI is a short-term fake out; inflation environment keeps yields sticky.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "I don't know if the yields are going to stay lower. I think they're still going to be sticky."
+  }
+ ],
+ "notes": "Two-host weekend chat; no date stated, listing date used. SMH 200/170 is a zone they'd position for, not a firm target. TNX bias inferred from 'yields sticky'."
+}

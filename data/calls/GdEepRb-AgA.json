@@ -1,0 +1,54 @@
+{
+ "video_id": "GdEepRb-AgA",
+ "channel": "Verified Investing",
+ "title": "Right On Direction, Still Lost Money: IV Crush Explained",
+ "video_date": "2026-10-14",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney (with Tabby Pierce)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "C",
+   "instrument_quoted": "C stock (Dec 18 2026 125 call)",
+   "price_at_call": 122,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     115.61,
+     112.95
+    ],
+    "resistance": [
+     125
+    ],
+    "invalidation": 115
+   },
+   "condition": "Thesis invalid if C breaks below the ~115 multi-factor support.",
+   "action": "buy",
+   "entry": 4.95,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Contrarian: post-earnings 5.5% selloff into pivot shelf 115.61 and 0.618 Fib 112.95 support; daily RSI 34 could dip further first; IV percentile 16% (cheap after IV crush), put/call 0.59 bullish lean.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "I would buy a call contract for city for a move back up to the upside. That is my thesis."
+  }
+ ],
+ "notes": "Date from 'this Wednesday trading day' + Dec 18 expiry 65 days out (=Oct 14). price_at_call ~122 inferred from '115 strike ... seven bucks above'. Entry 4.95 is option premium. Short-term mixed: he allows for a further dip to 115 before the bounce."
+}

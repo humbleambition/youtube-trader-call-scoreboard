@@ -1,0 +1,148 @@
+{
+ "video_id": "vTKV8QvIqRg",
+ "channel": "Summit Metals",
+ "title": "Silver Is Down 19%. This Isn't What You Think.",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Eric (Summit Metals)",
+ "macro_themes": [
+  {
+   "theme": "Rates and dollar pressure",
+   "view": "Silver's 19% drop is mostly high yields (10y ~5.14%, 30y ~5.7%) and a strong dollar; funds prefer 5% bonds to non-yielding metal."
+  },
+  {
+   "theme": "Fed hike odds",
+   "view": "Fed meets Oct 27-28; ~17% October and ~80% December hike odds, and every move in those odds moves metals."
+  },
+  {
+   "theme": "Mechanical selling",
+   "view": "Algorithmic/CTA selling and daily leveraged-ETF rebalancing are amplifying the decline while commercials cover shorts."
+  },
+  {
+   "theme": "Physical deficit",
+   "view": "Sixth straight year of silver deficit (~46M oz), though thrifting may flip it to surplus by 2027; Deutsche still sees ~$70 by mid-2027."
+  },
+  {
+   "theme": "Dollar",
+   "view": "Believes the dollar will eventually succumb to pressure."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver spot",
+   "price_at_call": 57.84,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55.4,
+     55
+    ],
+    "resistance": [
+     60,
+     61
+    ],
+    "invalidation": 55
+   },
+   "condition": "If silver gets back above 60-61 (20-day MA) and the 20-day crosses back over the 50-day, the selling is done and trend money returns; a weekly close below 55 makes him more cautious.",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Below all moving averages with a bearish 20/50 cross short-term, but physical deficits, commercial short covering and central-bank buying support the long term.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "If silver gets back above, say 60-61... That's the first sign the selling's done."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4137,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     4180
+    ],
+    "invalidation": null
+   },
+   "condition": "Wants gold back above 4180 (20-day MA).",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gold held up better than silver (down ~12%); central banks buying dips; needs to reclaim the 20-day.",
+   "conviction": "low",
+   "timestamp": "12:50",
+   "quote": "For gold, I just want to see it back above that 4180. That's its 20-day."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": 102,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar strong now but expected eventually to weaken under pressure.",
+   "conviction": "low",
+   "timestamp": "4:00",
+   "quote": "I still believe that the dollar will eventually succumb to the pressure."
+  }
+ ],
+ "notes": "Gold quoted as '41.37' in transcript, read as 4137. Date from listing; host says Fed meets 'next week, October 27th and 28th'. Advice is to stack small on a schedule, not make all-or-nothing moves."
+}

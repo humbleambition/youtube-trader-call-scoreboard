@@ -1,0 +1,96 @@
+{
+ "video_id": "xRYpZoPRPh8",
+ "channel": "Meet Kevin",
+ "title": "DO THIS *BEFORE* The Tesla SpaceX Merger!!",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Tesla-SpaceX merger",
+   "view": "Expects SpaceX to issue shares and acquire Tesla at ~30%+ premium, most likely between Jan 2027 and Jul 2028, before a 2029 Democratic antitrust window."
+  },
+  {
+   "theme": "Iran deal risk",
+   "view": "Without an Iran deal, Tesla and SpaceX could fall substantially and the economy could slide into recession."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 414,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     347,
+     295
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy dips at 347 bounce (295 if revisited on no Iran deal); expects >414 when an Iran deal comes",
+   "action": "buy",
+   "entry": 347,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Tesla holders likely get a ~30% premium buyout from SpaceX in 2027-28, which acts like a put under the stock; 347 is a recurring bounce level.",
+   "conviction": "medium",
+   "timestamp": "14:00",
+   "quote": "it makes more sense to buy Tesla on what feels like an almost certain acquisition because you were getting paid out bigly"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "SpaceX would issue dilutive shares and pay a premium on an already premium Tesla valuation.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "I hate to say it, but it's kind of bearish SpaceX shares because you're basically paying a premium on a premium"
+  }
+ ],
+ "notes": "No date in transcript. SpaceX ticker not stated; recorded as 'SPACEX' (relative-value view vs Tesla). 414 target is conditional on an Iran deal; mentions Kalshi merger odds as sponsor."
+}

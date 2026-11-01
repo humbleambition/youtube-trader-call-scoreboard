@@ -1,0 +1,279 @@
+{
+ "video_id": "_iqInbGzm2w",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Stocks to Watch and Key Levels",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Range-bound rotation",
+   "view": "Market is in a trading range and will keep rotating rather than trend."
+  },
+  {
+   "theme": "Anti-AI software rebound",
+   "view": "Software names expected to be hurt by AI (CRM, Workday) are setting up well after Gartner's AI revenue comments."
+  },
+  {
+   "theme": "Cash-flow companies",
+   "view": "Market may be rotating back toward slow, steady cash-flow companies."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures / SPX (option walls)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Bounced hard off a massive put wall; 4h RSI back to neutral; sees a trading range between put and call walls and continued rotation.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "I really think it's it could hold here and I think we're in a trading range."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures / QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     725,
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If QQQ holds the 725 put wall (broader put wall ~700), a bounce is favoured; NQ may still come back down to retest the low with a 4h divergence before lifting.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Possible exhaustive selling and aggressive long option activity in tech; 4h setup suggests down-up-down retest then divergence and lift.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I'd be leaning more towards the Nasdaq has a chance of bouncing."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 210,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Undercut and gap fill with wick suggests rally and backfill; strong relative strength vs QQQ and two recent analyst upgrades; call wall ~210.",
+   "conviction": "medium",
+   "timestamp": "15:15",
+   "quote": "I think you have a shot at getting to the call wall, which is like 210. I think you have a short-term trade here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Hovercar/product demo is fanfare with no product; expects a gap fill. Host is short from the morning.",
+   "conviction": "medium",
+   "timestamp": "22:55",
+   "quote": "I just think you're going to gap fill... So, I think it's an outright short."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     350
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "New phone not shipping until January, outside the quarter; 350 call wall caps upside; may buy puts if it trades up.",
+   "conviction": "low",
+   "timestamp": "23:40",
+   "quote": "I'm hoping this thing trades up because I might just go out and buy some puts on it out to next week."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ARKG",
+   "instrument_quoted": "ARKG",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     48
+    ],
+    "resistance": [],
+    "invalidation": 48
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Genomics names (TEM, TWST) bounced off the 55-day; easy trade with put wall at 48 as the line; LLY component looks fantastic.",
+   "conviction": "medium",
+   "timestamp": "27:30",
+   "quote": "Your put wall's still 48... I'm sitting right there. Like if it doesn't work, it doesn't work."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GTLB",
+   "instrument_quoted": "GTLB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": 50,
+   "method": "technical",
+   "reason": "Post-earnings rejection then consolidation setting up a breakout, same pattern as DDOG/V; use 50 as stop if owning.",
+   "conviction": "low",
+   "timestamp": "13:05",
+   "quote": "now you're setting up to break out... you're using 50 as a stop."
+  }
+ ],
+ "notes": "Listing date 2026-10-17 is a Saturday; host says 'happy Friday', so dated 2026-10-16. A ticker with call wall 310 (likely VEEV) discussed as 'missed it, won't chase' - skipped. SEZL ('widow-maker', call wall 130) and a Mexican grocery name rejected - skipped. QQQ put wall quoted at 725/700."
+}

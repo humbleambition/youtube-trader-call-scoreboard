@@ -1,0 +1,345 @@
+{
+ "video_id": "4tDayeEFZDA",
+ "channel": "TheTechnicalTraders",
+ "title": "The 5 Trends Have Happened - Now What?",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "TheTechnicalTraders host (Chris Vermeulen)",
+ "macro_themes": [
+  {
+   "theme": "Rotation out of tech",
+   "view": "Money is leaving tech for the rest of the market rather than leaving stocks, so equal-weight S&P is rising while Nasdaq lags."
+  },
+  {
+   "theme": "Inflation shock",
+   "view": "Hot inflation data sent a shockwave and a gap down, producing a short-term washout low."
+  },
+  {
+   "theme": "Yields and dollar pulling back",
+   "view": "10-year yield and dollar are pulling back as expected after hitting measured-move targets, which should help metals bounce modestly."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Relief bounce could roll over as in the prior gap-down episode, with 5-day below a down-sloping 20-day.",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Protective stop hit and a trend-exit signal ended the Nasdaq uptrend; short-term downtrend by moving averages.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "we have the trend coming to an end. We don't want to be holding the Nasdaq at this point."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / RSP (equal weight)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P trend signal still long; oversold/panic selling washout and broad rally in equal-weight RSP, though FOMO may cause a short pause.",
+   "conviction": "medium",
+   "timestamp": "2:20",
+   "quote": "the S&P 500 is still up, still long. It's holding up much better."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year note yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Pullback should hold the 38-50% Fibonacci retracement to set up a higher high; deeper than 50% damages the chart.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yield hit its 100% measured move and is pulling back in a controlled, bullish 38% retracement.",
+   "conviction": "medium",
+   "timestamp": "3:00",
+   "quote": "38 to 50% is considered a bullish pullback."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar index",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar pulling back along with yields, as expected.",
+   "conviction": "low",
+   "timestamp": "6:00",
+   "quote": "we are starting to see that dollar pull back as expected."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the dollar bounces and rallies, metals likely break down in a much bigger way.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "All trends down; expects sideways or slight drift up as a pause, with platinum/palladium weakness signalling low demand in the sector.",
+   "conviction": "medium",
+   "timestamp": "6:20",
+   "quote": "Because all of the trends are down for gold and silver, we're not really expecting them to rally."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 39,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Series of lower highs after a huge drop; big chart points to $39.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "our downside target for silver is still $39 per ounce... it still could take months"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold miners",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big pop is a counter-trend rally; all moving averages sloping down.",
+   "conviction": "medium",
+   "timestamp": "7:30",
+   "quote": "These are bounces within a downtrend, and that is what's important."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 115,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     115,
+     120
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Working higher toward targets; time cycles suggest a high around early November.",
+   "conviction": "medium",
+   "timestamp": "8:50",
+   "quote": "115, 120 are the upside targets... we would be getting that high around early November"
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "palladium",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Palladium has broken down, leading the precious-metals complex lower.",
+   "conviction": "low",
+   "timestamp": "9:50",
+   "quote": "palladium break down and sell off... kind of leading the way saying there's not a whole lot of excitement."
+  }
+ ],
+ "notes": "'10-year note pulling back' read as the yield (he pairs it with 'bonds bouncing'). Oil second target 120 kept in resistance; 115 used as target. NQ short-term recorded mixed (bounce vs rollover undecided)."
+}

@@ -1,0 +1,311 @@
+{
+ "video_id": "o0iJeefO7pM",
+ "channel": "Ricky Gutierrez",
+ "title": "TOP 5 STOCKS TO WATCH THIS WEEK | EARNINGS WEEK",
+ "video_date": "2026-10-18",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Markets oversold after drawdown",
+   "view": "Markets are technically oversold and a bounce would make sense, but the dip can keep dipping, so buy quality with small positions and no leverage."
+  },
+  {
+   "theme": "Big tech earnings week",
+   "view": "Netflix, SpaceX, Tesla, Meta, IBM earnings will set the tone for big tech."
+  },
+  {
+   "theme": "Oil and airlines",
+   "view": "High oil prices from Middle East tensions are the catalyst depressing airlines; easing oil would help them recover."
+  },
+  {
+   "theme": "Crypto skepticism",
+   "view": "Bitcoin has no inherent value and Bitcoin treasury companies like MSTR/MARA are worthless."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (index/futures, unspecified)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Markets technically oversold after a sharp drop from highs; futures slightly green overnight.",
+   "conviction": "low",
+   "timestamp": "1:05",
+   "quote": "it would make too much sense for markets to bounce here. I would love for them to bounce here. I think that they are technically oversold."
+  },
+  {
+   "group": "stocks",
+   "ticker": "OPEN",
+   "instrument_quoted": "OPEN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Meme-stock dynamics; failed in a strong housing market so unlikely to succeed in a weak one; valued 2-3x what fundamentals justify. Would not short it.",
+   "conviction": "medium",
+   "timestamp": "4:05",
+   "quote": "I think that it will only get worse for Open Door because even at $2, it's incredibly expensive."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BE",
+   "instrument_quoted": "BE",
+   "price_at_call": 221,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Small starter position only; add if it recovers after Thursday earnings, welcome lower prices to buy more.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Technically oversold with strong growth/guidance as an AI-infrastructure name, but fundamentally expensive (~266 P/E, fair value ~40% downside) and earnings reactions are choppy.",
+   "conviction": "low",
+   "timestamp": "15:40",
+   "quote": "So, I do like Bloom Energy... Would I care to trade it? Um, not with a large position."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Revisit after earnings; size in only once direction becomes favorable.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Technically oversold at one of its cheapest P/E ratios, but recent earnings reactions have been red and direction/sentiment are against it.",
+   "conviction": "low",
+   "timestamp": "20:00",
+   "quote": "Historically speaking, it hasn't been doing good lately. Direction, sentiment are against us. Then no, right?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAL",
+   "instrument_quoted": "AAL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 16,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Recovery depends on oil prices easing; could drop ~13-14% more first.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Oversold, trades a horizontal range; high oil (20-30% of airline costs) is a temporary negative catalyst; sees 40-50% recovery potential.",
+   "conviction": "medium",
+   "timestamp": "24:30",
+   "quote": "So, I like the setup technically speaking. I like that there's a negative catalyst affecting it right now where it's not expected to be here forever."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Overvalued and overbought, historically pulls back, but hard to short because it keeps recovering; wait for a better entry.",
+   "conviction": "low",
+   "timestamp": "26:55",
+   "quote": "do I think that it's overvalued and overbought? Yes. Would I care to short it? No."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IBM",
+   "instrument_quoted": "IBM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Reasonable ~20 P/E but inconsistent earnings, lower highs/lower lows from ~310 to ~200, expects flat trading for months.",
+   "conviction": "low",
+   "timestamp": "33:50",
+   "quote": "I need to be okay with tolerating nothing like being flat for the next few months."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOFI",
+   "instrument_quoted": "SOFI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Always overvalued on hype (~30 P/E); direction and momentum are against it after a big drop from $32.",
+   "conviction": "low",
+   "timestamp": "35:05",
+   "quote": "Direction momentum are obviously not in your favor."
+  }
+ ],
+ "notes": "'NASDAQ market went from highs of 762' is unclear (possibly QQQ); no current index level given. AAL target 16 comes from 'maybe it just hits 16 this time' - a hedged recovery level. Bloom 'from 220 back up to 300' was a hypothetical, not recorded as a target."
+}

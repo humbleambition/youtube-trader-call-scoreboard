@@ -1,0 +1,206 @@
+{
+ "video_id": "bygO5goxA-c",
+ "channel": "Geeks of Finance",
+ "title": "Where The Options Market Is Pointing Next",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Anthony and co-host (Geeks of Finance)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7757.71,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7700
+    ],
+    "resistance": [
+     7750,
+     7800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Higher lows since OPEX; largest gamma at 7750 and 7800 strikes and heavy flow at 7700 suggest more upside into week end.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "the two largest strikes are suggesting that more upside is likely to come into the end of the week"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     18,
+     20
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "VIX in negative GEX, fading after spike above 22, below HMA; expects lower highs and market rebound.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I'm expecting a lower high in the VIX and potentially the market to rebound after a smaller pullback"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 698.43,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700,
+     681.35
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Pullback to 50-day EMA, positive gamma 700-800, bullish flow at 800 strike; holding Nov 20 700/690 put credit spread.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "this earnings release today is potentially the first step in getting back towards that 800 level"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 270,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     280
+    ],
+    "invalidation": null
+   },
+   "condition": "If IWM gets above 280 and holds, picture may shift bullish",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "GEX peaks have marked short-term tops; little upside beyond 280 call wall, price stretched from HMA.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "If I had to take a bet, I would say we probably see some sort of a pullback again, you know, maybe toward this 270 area."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX shares",
+   "price_at_call": 159.27,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 200,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [
+     175
+    ],
+    "invalidation": null
+   },
+   "condition": "Move to 200 more likely if it clears 175",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Earnings beat, consolidation at 50-day EMA like prior run, positive gamma up to 200 strike.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "If SpaceX can get above this 175 level, the potential to rally up to 200 I think increases."
+  }
+ ],
+ "notes": "Date inferred: Meta 'reporting earnings here in after hours' and SpaceX 'reported yesterday' = Oct 21; listing said Oct 22. '78 100 strike' read as 7800."
+}

@@ -1,0 +1,168 @@
+{
+ "video_id": "T0-0RSDiRKk",
+ "channel": "BitcoinHyper",
+ "title": "BITCOIN: Warning For All Holders! (it started) - BTC Price Prediction Today",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [
+  {
+   "theme": "Trapped longs",
+   "view": "Open interest jumped as longs chased the falling-wedge breakout into the golden pocket; expects them to be liquidated on the way down."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": 81900,
+   "short_term": {
+    "bias": "bearish",
+    "target": 76000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 40000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81900,
+     81300,
+     79700,
+     79500,
+     77250,
+     75500
+    ],
+    "resistance": [
+     84500
+    ],
+    "invalidation": null
+   },
+   "condition": "Losing 81,300 value area low raises odds of 76,000; only if the 75.5-77k support zone breaks does a much bigger bearish count target ~40,000",
+   "action": "short",
+   "entry": 84050,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejection at the 84,500 golden Fibonacci ratio, value area high and liquidity above highs; Elliott ABC correction finished, now expecting wave C down to the 1:1/1.236 extensions.",
+   "conviction": "high",
+   "timestamp": "13:00",
+   "quote": "Ideally, we literally break all of them and simply we go right here and hit our major price target at approximately 76,000 US dollars"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding a short alongside Bitcoin for another rotation down.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "also I am right now in a short position on Ethereum, on XRP, and also Solana"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding a short alongside Bitcoin for another rotation down.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "also I am right now in a short position on Ethereum, on XRP, and also Solana"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding a short alongside Bitcoin for another rotation down.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "also I am right now in a short position on Ethereum, on XRP, and also Solana"
+  }
+ ],
+ "notes": "No date stated; listing date used. BTC 40,000 medium-term target is conditional on breaking the 75.5-77k zone. ETH/XRP/SOL shorts mentioned without levels. Host name not stated."
+}

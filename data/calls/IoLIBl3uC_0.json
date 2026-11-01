@@ -1,0 +1,99 @@
+{
+ "video_id": "IoLIBl3uC_0",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Panic: My Strategy for this Market Sell-Off",
+ "video_date": "2026-10-14",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "CPI 3.7% vs 3.6% expected and core 2.6% raise odds of a Fed hold or hike at the meeting in ~2 weeks."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "10-year back near 5.3% is pressuring valuations and mortgages and adding market uncertainty."
+  },
+  {
+   "theme": "AI debt worries",
+   "view": "Debt concerns around CoreWeave and AI-infrastructure names are driving the sell-off."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Market oversold on the day but very weak with lower highs and lower lows after hot CPI; suggests scaling in by thirds with more at ~700.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "Markets do look oversold on the day, but they look incredibly weak. Strong lower highs and lower lows."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CoreWeave stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Started buying the dip after a ~15% drop on AI-debt worries; small size, scaling in.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "I just began to buy the dip a little bit on CoreWeave. It's currently down 15%"
+  }
+ ],
+ "notes": "Date from 'happy Wednesday' on CPI day (Oct 14). Most stock commentary (SoFi, BAC, SMCI overreaction; CRWV/Dell riskiest) comes from an AI tool Ricky queries, not recorded as his calls. QQQ 700 is a dip-buy level, not a stated target."
+}

@@ -1,0 +1,296 @@
+{
+ "video_id": "81K5quqUTeM",
+ "channel": "Geeks of Finance",
+ "title": "Where The Options Market Is Pointing Next",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Anthony and Shawn (Geeks of Finance)",
+ "macro_themes": [
+  {
+   "theme": "OpEx week",
+   "view": "Monthly OpEx week has a historically positive bias; S&P pinned at the 7800 gamma strike."
+  },
+  {
+   "theme": "Volatility warning",
+   "view": "VIX in positive GEX and closing above its HMA hints at a VIX low and choppier indices into VIX expiration."
+  },
+  {
+   "theme": "AI infrastructure rebound",
+   "view": "Reversal day in AI infrastructure names off key moving averages is a positive for the trade."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7805.64,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7800
+    ],
+    "resistance": [
+     7850
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Largest gamma at 7800, bullish flow at 7850 (new highs), positive OpEx-week seasonality, drifting toward 8000 into year-end.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "We've been drifting up towards that 8000 level for the last several months, still an important factor heading into year-end."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": 15.28,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     16,
+     20
+    ],
+    "invalidation": null
+   },
+   "condition": "Once VIX gets above 16, it opens the door to 20.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "VIX flipped to positive GEX and closed above its daily HMA, which previously marked VIX lows.",
+   "conviction": "low",
+   "timestamp": "1:50",
+   "quote": "Once we get above 16, that really opens the door, you know, potentially to seeing the VIX go to 20."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": 605.52,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     580,
+     554.96
+    ],
+    "resistance": [
+     608.18
+    ],
+    "invalidation": null
+   },
+   "condition": "Especially if it opens near and reclaims the 20-day SMA ~608.18.",
+   "action": "buy",
+   "entry": 608.18,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bullish reversal candle above the 50-day EMA with positive gamma and positive options flow.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "reclaiming 20-day SMA, I think we could see a big rebound to the upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Below the 50-day EMA with GEX just negative; historically a bounce zone.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Looks worse than AMD after breaking the 50-day EMA, but this setup has been a bounce zone before.",
+   "conviction": "low",
+   "timestamp": "4:20",
+   "quote": "Those have been bounce zones historically in the previous months."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 228.52,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     222.66
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced off its 50-day EMA in a broad AI-infrastructure reversal.",
+   "conviction": "low",
+   "timestamp": "4:50",
+   "quote": "I think this is a positive, not a negative for the AI infrastructure trade."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 380,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     350,
+     340
+    ],
+    "resistance": [],
+    "invalidation": 340
+   },
+   "condition": "As long as Google holds 350 the most bullish picture stays alive; 340 still constructive.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "GEX in strongly positive territory with concentration toward 400; holding above all moving averages; bought the Nov 20 370/380 call debit spread.",
+   "conviction": "medium",
+   "timestamp": "5:40",
+   "quote": "we like Google here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 762.47,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     750,
+     700
+    ],
+    "resistance": [
+     800
+    ],
+    "invalidation": 700
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Bounced off the 20-day SMA with positive GEX up to 800; holding sold Nov 20 700/690 put credit spreads betting it stays above 700.",
+   "conviction": "medium",
+   "timestamp": "6:50",
+   "quote": "our bet is essentially that Meta is going to stay above the 700 level in the coming weeks"
+  }
+ ],
+ "notes": "OpEx-week Monday/Tuesday close; no explicit date. GOOGL target is the upper strike of their 370/380 call spread. META entry was ~719.32 on Oct 8 (held position)."
+}

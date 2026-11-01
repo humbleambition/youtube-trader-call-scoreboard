@@ -1,0 +1,218 @@
+{
+ "video_id": "dtElYGOtumQ",
+ "channel": "David Lin",
+ "title": "Debt Crisis Explodes: France Is Burning—What’s Next? | Matthew Piepenburg",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Matthew Piepenburg (guest, Von Greyerz)",
+ "macro_themes": [
+  {
+   "theme": "Sovereign debt crisis",
+   "view": "The US and France (120%+ debt/GDP, rising yields) are already in a debt crisis; debt crises lead to currency debasement, inflation and social unrest."
+  },
+  {
+   "theme": "Bond yields rising",
+   "view": "Yields have not peaked unless central banks cap them via yield curve control/money printing, which would debase the currency."
+  },
+  {
+   "theme": "Negative real rates / understated inflation",
+   "view": "True inflation is near 10%, so even 7% bond yields are negative in real terms; governments must inflate away debt."
+  },
+  {
+   "theme": "AI bubble and AI credit risk",
+   "view": "AI capex is the worst misallocation of capital in history; CoreWeave-type debt stress will become the rule and could drag the S&P, Dow and Nasdaq down within 2-3 years."
+  },
+  {
+   "theme": "Rotation from tech stocks into bonds",
+   "view": "Below-par high-coupon corporate bonds (e.g. Apple) are drawing money out of stocks; signals the end of a credit cycle."
+  },
+  {
+   "theme": "Policy response",
+   "view": "Expect more yield curve control/Operation Twist, QE, possibly a gold-backed bond, gold revaluation, stablecoin push, even restructuring; none will fix the debt."
+  },
+  {
+   "theme": "De-dollarization",
+   "view": "Dollar will be repriced and debased in a more multipolar world; central banks keep stacking gold."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Debt too high to grow out of, so governments will debase currencies and run negative real rates; gold outperforms stocks and bonds measured in real terms.",
+   "conviction": "high",
+   "timestamp": "43:00",
+   "quote": "that yield, which makes gold so unattractive, is actually no yield at all. And gold is outperforming the very currency"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year Treasury yield",
+   "price_at_call": 5.14,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Unless the Fed/Treasury caps yields with yield curve control or money printing.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Weak demand for Treasuries (China, Japan selling) and unsustainable issuance mean yields have not peaked.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "Have bond yields peaked is my question. >> No, not at all. Unless there's unless you use yield curve control"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If AI productivity assumptions prove wrong (his base case), over roughly a 2-3 year window.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "S&P is concentrated in overvalued, debt-funded AI hyperscalers; AI overinvestment is the worst capital misallocation ever.",
+   "conviction": "medium",
+   "timestamp": "25:00",
+   "quote": "they take the entire S&P, Dow, and NASDAQ with them"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CoreWeave stock and bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Over $50B of debt, CDS at distress levels, insiders selling; a canary for AI credit risk.",
+   "conviction": "high",
+   "timestamp": "24:10",
+   "quote": "you couldn't get me to sell those bonds fast enough if I held them right now and to get out of those stocks fast enough"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Debt must be inflated away; expects a repriced, debased dollar and less dollar hegemony.",
+   "conviction": "medium",
+   "timestamp": "53:30",
+   "quote": "It just means a repricing of the dollar, less dollar hedgeimonyy"
+  }
+ ],
+ "notes": "Guest is a gold dealer (self-declared sell-side bias). US 10y 5.14 was quoted by the host. ES call is long-horizon and conditional on AI thesis failing. He calls below-par Apple bonds a 'nice safe bet' (bonds, not stock; not recorded). Video date from listing; protests were 'over the weekend'."
+}

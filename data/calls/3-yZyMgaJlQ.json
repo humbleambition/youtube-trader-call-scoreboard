@@ -1,0 +1,209 @@
+{
+ "video_id": "3-yZyMgaJlQ",
+ "channel": "Figuring Out Money",
+ "title": "Not Out Of The Woods Yet",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Figuring Out Money host",
+ "macro_themes": [
+  {
+   "theme": "Consumer staples outperformance warning",
+   "view": "Staples' 12-month outperformance vs the S&P is the highest since 2022-23; crossing 5% has coincided with rough markets, a warning but not actionable."
+  },
+  {
+   "theme": "Bull-weak conditions",
+   "view": "Back above the gamma flip line (lower volatility) with bullish seasonality, but declining 10/20-day moving averages on the Nasdaq Composite mean patience."
+  },
+  {
+   "theme": "2018 midterm yield analog",
+   "view": "10-year yield tracking 2018 closely; if oil leads, yields could push higher into the midterms, though he doubts a repeat of 2018's unravel."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     768
+    ],
+    "resistance": [],
+    "invalidation": 768
+   },
+   "condition": "only while the higher lows hold, especially the 768 low; breaching it hands short-term control to bears",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "5-day moving average flattening and turning up after the bounce; weekly expected move still untagged.",
+   "conviction": "low",
+   "timestamp": "2:30",
+   "quote": "ultimately, you want to hold this 768 low over here"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     727.5,
+     730
+    ],
+    "invalidation": null
+   },
+   "condition": "needs to keep holding its series of higher lows; otherwise the 5-day MA keeps declining",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Early stages of a potential trend change but running into resistance and weak semis after hours.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "we're kind of running into a little bit of resistance up here at about 727.50 to around 730"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductors ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     560
+    ],
+    "invalidation": null
+   },
+   "condition": "a move back above 560 could turn the 5-day MA up and set up a bounce",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still a declining 5-day MA after five sideways days.",
+   "conviction": "low",
+   "timestamp": "7:50",
+   "quote": "you want to get back above this 560 over here, and then that might start to turn this up"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tagged its upper weekly expected move after a burst; rally may need to cool down and let the 5-day MA catch up.",
+   "conviction": "low",
+   "timestamp": "9:30",
+   "quote": "that led to a nice little rally that may need to cool down soon"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if oil keeps leading higher, yields can come back up, matching the 2018 analog",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "0.87 correlation with 2018 path suggests a near-term breather, then a push higher into the midterms.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "if oil is leading, well, that means rates can potentially come back up"
+  }
+ ],
+ "notes": "Show runs Mon/Wed/Fri and host says not much tomorrow but data on Friday, so taken as Wednesday 2026-10-21 (listing said 10-22; weekday inferred, not stated outright). TSLA (watch ~365 if it drops) and META mentioned only briefly, not recorded."
+}

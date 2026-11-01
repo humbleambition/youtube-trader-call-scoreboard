@@ -1,0 +1,323 @@
+{
+ "video_id": "6hNHc7FoHRA",
+ "channel": "VRIC Media",
+ "title": "Christopher Whalen: I'm Selling Bank Stocks & Buying Metals and Energy",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Christopher Whalen",
+ "macro_themes": [
+  {
+   "theme": "Bond yields rising",
+   "view": "Long rates have risen on their own on inflation fears, policy noise and heavy AI-related debt issuance; ~7.5% mortgages are the new normal."
+  },
+  {
+   "theme": "Fed returns to QE",
+   "view": "Fiscal pressure will force the Fed to buy bonds again aggressively, which is bullish for gold."
+  },
+  {
+   "theme": "Sticky inflation from war/energy",
+   "view": "Energy, diesel and fertilizer shocks keep inflation well above 2% for the next couple of years absent a deflationary shock."
+  },
+  {
+   "theme": "Consumer stress / credit",
+   "view": "Bottom of the K-shaped economy is weak; consumer lender delinquencies and credit costs will rise, consumer finance volumes fall in Q4."
+  },
+  {
+   "theme": "Housing softening",
+   "view": "Shift to a buyer's market with a 5-10% decline in median home prices over 12-18 months, not a crash."
+  },
+  {
+   "theme": "AI correction",
+   "view": "Circular financing and overbuilt capex mean an AI correction is coming; some AI companies may not survive."
+  },
+  {
+   "theme": "Midterms",
+   "view": "House likely goes Democratic with investigations; affordability will drive politics."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fiscal situation will force the Fed back to QE; gold is an asymmetric medium-to-long-term trade and he has been adding on dips.",
+   "conviction": "high",
+   "timestamp": "6:20",
+   "quote": "the fiscal situation in the United States, which is going to force the Fed to print money ... is going to be good for gold"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Silver, like gold, is in short supply globally and a trade to put on and keep on; he has been adding as prices fell.",
+   "conviction": "medium",
+   "timestamp": "5:05",
+   "quote": "As the prices have come down with higher interest rates, I've been adding to both my gold and silver."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NLY",
+   "instrument_quoted": "NLY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Best-managed mortgage REIT, ~14% yield on government-insured MBS; now trading near book after selling off, he will likely buy more.",
+   "conviction": "high",
+   "timestamp": "21:30",
+   "quote": "My basis in Annaly is a little bit below book total um and I'll probably go buy more"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CVX",
+   "instrument_quoted": "CVX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Persian Gulf damage and refining shortages will drive energy majors higher; Chevron is the best-managed global oil company; hold, don't trade, and likely add over time.",
+   "conviction": "medium",
+   "timestamp": "27:55",
+   "quote": "the damage that's been done in the Persian Gulf, is going to drive them higher ... these are medium-term plays"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XOM",
+   "instrument_quoted": "XOM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Owns Exxon as part of his energy position; expects energy majors to move higher on Gulf supply damage.",
+   "conviction": "medium",
+   "timestamp": "27:55",
+   "quote": "You don't want to trade these. You want to hold them."
+  },
+  {
+   "group": "stocks",
+   "ticker": "WMB",
+   "instrument_quoted": "WMB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Long-held pipeline position; energy infrastructure benefits from the supply disruption.",
+   "conviction": "low",
+   "timestamp": "28:05",
+   "quote": "I own Williams, which is a big pipeline company. I've owned that stock for years."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SCHW",
+   "instrument_quoted": "SCHW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Sold Schwab at a profit in his quarterly rebalance as part of exiting all bank names ahead of higher rates and rising consumer delinquencies.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "We got out of all of our bank names. We sold our position in Schwab which we had made some good money on."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Poorly managed versus JPMorgan, unrestructured securities book, AML fine; he has exited bank stocks generally.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "BA needs to change ... they perform probably half as well as JP Morgan"
+  }
+ ],
+ "notes": "No prices or targets quoted for any asset. Short positions are in unnamed 'couple of banks/consumer lenders', so not recorded as a ticker. BAC bearish is implied from management criticism plus his exit from all banks, not an explicit short. Energy majors (XOM/CVX/WMB) merged from one passage; JPM praised but no trade stated. Date from listing only."
+}

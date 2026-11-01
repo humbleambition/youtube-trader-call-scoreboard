@@ -1,0 +1,62 @@
+{
+ "video_id": "UQAf9wlc7KI",
+ "channel": "Sean Foo",
+ "title": "Bessent Orders Global Bank to Cancel China As US Just Banned DeepSeek",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "US-China economic war",
+   "view": "China's cheaper capital (1.8% vs 5.2%) and stronger currency give it an edge; US targets China's developing-nation status."
+  },
+  {
+   "theme": "AI bubble",
+   "view": "Chinese open-source models are far cheaper; US bans like DeepSeek ring-fence US AI while signs of an AI bubble popping grow."
+  },
+  {
+   "theme": "Energy-shock inflation",
+   "view": "Iran war keeps rates and inflation high and squeezes consumers."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "The dollar is slowly dropping while the yuan gains; US borrowing costs high.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "the dollar is slowly dropping against other currencies"
+  }
+ ],
+ "notes": "Mostly geopolitics; dollar view is a passing structural claim (low conviction)."
+}

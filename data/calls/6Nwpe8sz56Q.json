@@ -1,0 +1,59 @@
+{
+ "video_id": "6Nwpe8sz56Q",
+ "channel": "tastylive",
+ "title": "Someone Bet 13 Million That Tesla Rips 25% by April",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (Signal vs. Noise)",
+ "macro_themes": [
+  {
+   "theme": "Rates vs unprofitable growth",
+   "view": "In a rising-rates environment markets tend to punish companies with rich valuations, thin margins and negative free cash flow, like Tesla."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     339
+    ],
+    "resistance": [
+     390,
+     395
+    ],
+    "invalidation": null
+   },
+   "condition": "If TSLA pushes through the ~390 swing highs / 395, it starts breaking the downtrend and the April 430-call buyer's path (breakeven 457.45) gets easier; if Roadster and Oct 21 earnings both miss, the position may be unwound.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$13.4M bought in April 2027 430 calls (122x prior open interest) as a relative-value catch-up bet on the only negative Mag 7 name; earnings implied move ~6.2% (339-384).",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "I want to see if we can poke through the recent swing highs here near 390... we're starting to break that downtrend."
+  }
+ ],
+ "notes": "Host relays a bullish options-flow bet but his own view is conditional; the 457.45 breakeven is the flow buyer's, not a host target. Date from 'Roadster event tonight on October 15th'."
+}

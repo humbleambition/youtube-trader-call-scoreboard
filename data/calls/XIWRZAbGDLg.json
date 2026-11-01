@@ -1,0 +1,239 @@
+{
+ "video_id": "XIWRZAbGDLg",
+ "channel": "TheTechnicalTraders",
+ "title": "Todays Move Will Spark Emotions",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [
+  {
+   "theme": "Equity downtrend",
+   "view": "S&P 500 and Nasdaq now technically in downtrends; strategy is 100% cash."
+  },
+  {
+   "theme": "Precious metals bear market",
+   "view": "Gold and silver in bear markets short term despite strong long-term fundamentals."
+  },
+  {
+   "theme": "Don't trade fundamentals",
+   "view": "Uranium stocks falling despite rising uranium; price trumps stories."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trend-exit signal on Nasdaq and S&P; closed SSO position, gap-up bounce seen as relief in a downtrend.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "we are closing out the VANS SSO position. So, we'll be 100% in cash. We do have a trend exit signal"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 4000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3600,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag pointing to another leg down to 4,000, downside targets 3,600 and 3,100; very bullish long-term.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "this is a bear flag still pointing to potentially another leg down to 4,000... downward bias of 3,600 and 3,100"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 39,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver breaking down in bear market; $39 downside target; bullish long-term.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "We have a $39 downside target for silver if all of this unfolds"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Uptrend with Fibonacci measured-move targets; now into heavy resistance, expect choppy drift higher; not trading it.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "Overall again, the trend is still up and we're expecting it to kind of hold up and and drift higher"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 90000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     90000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Moving averages flipped bullish with a series of bull flags; heavy resistance around $90,000.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "Overall, it is pointing to higher pricing... struggling as it gets up into this $90,000 range"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar pulling back as expected.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "The dollar is pulling back a little bit here as we kind of been expecting it to pull back."
+  }
+ ],
+ "notes": "BTC 90000 entered as target though described as resistance zone it pushes into. Uranium stocks bearish (head and shoulders) not recorded, no ticker."
+}

@@ -1,0 +1,262 @@
+{
+ "video_id": "EX6upqFp4Ro",
+ "channel": "TheTechnicalTraders",
+ "title": "Gold & Silver Buying Rockets Higher, but Bombs Away",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "metals",
+ "speaker": "Chris Vermeulen (TheTechnicalTraders)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Oversold bounce failing; trends, sentiment and money flows say step aside; risk of waterfall sell-off.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "The odds are pointing to lower pricing based on the short-term analysis and money flows."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3100,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000,
+     3900
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag targeting the 3900-4000 support; further potential to $3100 as a buying opportunity; strong long-term fundamentals.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "for gold there's potential for $3100 ounce which will be a good opportunity"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 39,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If silver breaks its critical support, run down to $39",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver down 3% to critical support; break opens measured move to $39; wants to rebuy lower for long term.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "if it breaks we could really start to see a big run down to that $39 target for silver"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "GDX",
+   "price_at_call": 84,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Miners gapping sharply lower amid broad precious-metals liquidation.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "they are going to set the gap down sharply around $84 for GDX"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil keeps getting sold at the upper resistance zone; trim/lock gains there.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "Each time we see oil get up here, it gets hammered and sold off"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TLT",
+   "instrument_quoted": "bond market (likely TLT)",
+   "price_at_call": 107,
+   "short_term": {
+    "bias": "bullish",
+    "target": 109,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum bull flag gives measured move from 107 to ~109 (+2.6%), into 150-day resistance; countertrend bounce in a bear market.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "the measured move is 107 all the way up then to uh about uh 109"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lost tight bull flag, 5-day chopping through 20-day; susceptible when Nasdaq sells.",
+   "conviction": "low",
+   "timestamp": "0:07",
+   "quote": "it is kind of trendless and showing that it is susceptible to selling when the Nasdaq gets hit"
+  }
+ ],
+ "notes": "Bond instrument not named; 107-109 levels likely TLT. BTC bias is weak/mixed (still 'holding up in a bullish pattern')."
+}

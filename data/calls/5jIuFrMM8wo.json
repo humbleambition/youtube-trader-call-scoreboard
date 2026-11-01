@@ -1,0 +1,224 @@
+{
+ "video_id": "5jIuFrMM8wo",
+ "channel": "Geeks of Finance",
+ "title": "Market Structure Is Shifting - Next Week Could Decide Everything",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Sean & Anthony (Geeks of Finance)",
+ "macro_themes": [
+  {
+   "theme": "AI spending fears",
+   "view": "AI infrastructure names leading the sell-off, but semis near a contrarian bottom; SaaS names strong."
+  },
+  {
+   "theme": "Negative gamma rolling off",
+   "view": "Near-term negative GEX expires by Oct 30; positive GEX up to 8000-8200 in December suggests year-end upside."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX",
+   "price_at_call": 7663.39,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7650,
+     7600
+    ],
+    "resistance": [
+     7700
+    ],
+    "invalidation": null
+   },
+   "condition": "If 7650 holds and SPX gets back above 7700, bulls back in control (gamma squeeze); a break below 7650 targets 7600 quickly.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Negative GEX between 7600-7700 near term; positive GEX into the 8000s in Nov/Dec suggests a year-end target once negative GEX rolls off.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "Let that negative GEX roll off. The target could be up here heading into the end of December"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     710,
+     700,
+     690,
+     680
+    ],
+    "resistance": [
+     715
+    ],
+    "invalidation": null
+   },
+   "condition": "Rebound above 715, or a flush to 690-680, could be a contrarian buy signal.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Price following steep downward HMA, path of least resistance down, but near lower Keltner and large negative GEX strikes suggesting a turning point.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "downward is the path of least resistance. But we're get close to this lower Keltner channel"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 857.01,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 900,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     850
+    ],
+    "resistance": [
+     900,
+     950,
+     969
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "RSI low 30s near 50-day EMA has marked prior bottoms, slight RSI divergence, GEX concentrated at 900: mean-reversion rally to 900/950.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "we actually like getting some small exposure to Micron here in the case that it does see a mean reversion rally back up to the 900"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     500
+    ],
+    "resistance": [
+     530
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Tagged lower Keltner channel for first time since April 2025 (start of major bull move); year-end window dressing.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I think the point is, we're probably pretty close to a bottom."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ADBE",
+   "instrument_quoted": "ADBE",
+   "price_at_call": 270.61,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 300,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     260
+    ],
+    "resistance": [
+     300
+    ],
+    "invalidation": null
+   },
+   "condition": "Wait for a few days of consolidation or a pullback to ~260 before selling put credit spreads.",
+   "action": "watch",
+   "entry": 260,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Positive GEX up to 300, bullish option flows at 300 strike, moving averages curling up; 300 targeted into year end.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "We've been eyeing that 300 strike as a potential target into year end."
+  }
+ ],
+ "notes": "Date not spoken; inferred Oct 22 close from 'tomorrow's expiration' and the Oct 23 expiry being near-term (listing says Oct 23)."
+}

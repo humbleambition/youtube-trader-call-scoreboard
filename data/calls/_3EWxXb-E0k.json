@@ -1,0 +1,171 @@
+{
+ "video_id": "_3EWxXb-E0k",
+ "channel": "TheTechnicalTraders",
+ "title": "Stocks struggling after a day of panic selling",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "TheTechnicalTraders host",
+ "macro_themes": [
+  {
+   "theme": "Hot inflation data",
+   "view": "Big inflation numbers shocked markets and drove an all-day panic sell-off that carries into today's gap down."
+  },
+  {
+   "theme": "Fear-driven oversold market",
+   "view": "Panic selling, VIX spike and rising put/call suggest an emotional, oversold move likely to rebound."
+  },
+  {
+   "theme": "Oil and inflation",
+   "view": "Crude holding up keeps inflation a key problem."
+  },
+  {
+   "theme": "Banks",
+   "view": "Regional banks ~12-13% off highs in a multi-month decline despite strong trading earnings."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the gap down after panic selling gets bought back up (short-term exhaustion).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Panic selling indicator above 3 all day, VIX and put/call spiking: fear-driven oversold condition likely to rebound.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "There's enough fear... that I think that is going to spark could be a short-term exhaustion move. Market gaps down and it gets bought back up"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq / QLD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq down 1.3% with big tech and semis unwinding; closed QLD long per exit plan and waiting for Nasdaq to reposition.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "we did close out our QLD position, and we are now waiting to see how the Nasdaq is going to position itself"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US yields / bonds",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Have been expecting yields to fade and bonds to rise; yields dropping sharply this morning.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "We've been expecting yields to fade down, the dollar to fade down, for bonds to move higher."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects the dollar to fade along with yields; yesterday's spike called temporary.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "We've been expecting yields to fade down, the dollar to fade down"
+  }
+ ],
+ "notes": "Gold/silver/miners bounce described as current moves and 'short-term noise', no forward bias, so not recorded. ES rebound call is hedged ('we never know')."
+}

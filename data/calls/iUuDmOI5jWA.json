@@ -1,0 +1,54 @@
+{
+ "video_id": "iUuDmOI5jWA",
+ "channel": "tastylive",
+ "title": "How to Build the Super Bear, Step by Step",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "tastylive host (unnamed)",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX options",
+   "price_at_call": 7720,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 7625,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     7625
+    ],
+    "resistance": [
+     7800,
+     7700
+    ],
+    "invalidation": null
+   },
+   "condition": "Illustrative super-bear example: sell 7800/7810 call spread to fund 7625/7610 put spread for Oct 30",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "October has been limping into month-end; end-of-month flows may be weak; 7625 is next level on a leg down.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I feel like the market could head up end up heading there by the end of the month"
+  }
+ ],
+ "notes": "Educational strategy video; bearish view on SPX is framed hypothetically (\"say I'm thinking...\"), so conviction low. Target 7625 is SPX by ~Oct 30."
+}

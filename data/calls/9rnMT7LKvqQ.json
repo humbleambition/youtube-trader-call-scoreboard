@@ -1,0 +1,29 @@
+{
+ "video_id": "9rnMT7LKvqQ", "channel": "tastylive", "title": "The Hidden Hedging Flow That Pushes the Market Around",
+ "video_date": "2026-10-19", "date_source": "listing", "recorded_when": "unknown",
+ "video_type": "macro_interview", "speaker": "Brent Kochuba (SpotGamma)",
+ "macro_themes": [
+  {"theme": "Realized volatility set to rise", "view": "After a sleepy few weeks and a big OPEX clearing positions, catalysts like Meta and the midterms should get markets moving a lot more."},
+  {"theme": "0DTE dominance", "view": "Most index options flow is zero-day, so gamma signals are often only 1-2 day signals; longer-dated flow and term structure matter more for swing trades."},
+  {"theme": "Clouded macro backdrop", "view": "Iran risk, oil and rising rates make the environment unclear, so traders should wait for their best setups."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "NQ", "instrument_quoted": "tech call options (Nasdaq)",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "",
+   "action": "buy",
+   "entry": null, "stop": null,
+   "method": "options_flow",
+   "reason": "Realized vol was very low into OPEX; with positions cleared and catalysts (Meta, midterms) ahead, he expects tech to move and sees potential explosive upside, favoring November tech calls.",
+   "conviction": "medium",
+   "timestamp": "26:27",
+   "quote": "this is a really nice time to look at maybe buying some call options in tech for November ... we could really start to see some explosive upside"
+  }
+ ],
+ "notes": "Date unclear: host says Nasdaq was up 3% 'yesterday on the 21st' and Meta up 10% yesterday, which conflicts with the listing date (2026-10-19); kept listing date. META is used repeatedly as an example of bullish longer-dated call flow but not given as an explicit call, so it was not recorded. Bullish call is on 'tech', mapped to NQ."
+}

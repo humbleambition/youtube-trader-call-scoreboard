@@ -1,0 +1,58 @@
+{
+ "video_id": "jqqGIHNev2s",
+ "channel": "Ross Givens",
+ "title": "How $1,000 Became $1.16 MILLION\u2026 Buying Just 1 Stock a Year",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Momentum strategy",
+   "view": "Buying the prior year's top S&P 500 performer(s) with a weekly-close 30% stop beats the index; he prefers the top-3 version."
+  },
+  {
+   "theme": "Late-stage AI bubble",
+   "view": "Outsized recent winner returns echo the late-1990s and suggest a late bull market, 'eighth and ninth inning of this AI bubble'."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Huge top-performer returns in 2024-2026 resemble 1997-99 ahead of the dot-com peak; says we are in the 8th-9th inning of the AI bubble.",
+   "conviction": "low",
+   "timestamp": "11:05",
+   "quote": "this tends to be what we see toward the end of a bull market peak."
+  }
+ ],
+ "notes": "Mostly a backtest/education video; no stock picks for the coming year. The only market view is a vague late-cycle warning, recorded as low-conviction long-term bearish ES."
+}

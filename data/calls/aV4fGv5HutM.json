@@ -1,0 +1,167 @@
+{
+ "video_id": "aV4fGv5HutM",
+ "channel": "Ricky Gutierrez",
+ "title": "Everything You Need To Know About This Market Drop",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "AI build-out fears",
+   "view": "Concerns over AI financing (CoreWeave, Anthropic valuation) are driving a long-overdue pullback concentrated in AI stocks."
+  },
+  {
+   "theme": "Earnings week ahead",
+   "view": "Next week's big earnings matter more than CPI and will drive the market reaction."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": 700
+   },
+   "condition": "Go long if markets recover; if support breaks, tolerate drawdown with cash on sidelines.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq near correction territory; reward to the 700 QQQ support is better than risk, and markets are more bullish than bearish.",
+   "conviction": "medium",
+   "timestamp": "1:40",
+   "quote": "it does begin to make more sense now ... to go long and begin to buy the dip"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Removal from the MSCI index forces ~$3B of index-fund selling over the next few weeks; he shorted it intraday but closed before the weekend.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "So, if you think that today is bad, it is. But just know that it can get so much worse."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     187
+    ],
+    "invalidation": null
+   },
+   "condition": "Trader-only dip buy; can get worse before better.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "At a previous support range; shorting here makes no sense and it tends to recover, so traders could buy the dip and sell the rip.",
+   "conviction": "low",
+   "timestamp": "2:40",
+   "quote": "does it make sense to continue to short it down here? Heck no. It's at a previous support range"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Trader-only dip buy; position as if wrong.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Aggressively sold off and oversold, a possible buy-the-dip, sell-the-rip trade.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "has become oversold, and now I could see why people could entertain it as a trade to be able to buy the dip and sell the rips."
+  }
+ ],
+ "notes": "Date inferred as Friday 2026-10-16 from 'this weekend'/'Monday' and the Nasdaq -3% day; no explicit date said. 187 for CRWV is its all-time high, put in resistance. QQQ 700 used as invalidation since he positions for a support break."
+}

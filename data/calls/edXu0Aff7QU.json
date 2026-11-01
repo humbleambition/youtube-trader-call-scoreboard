@@ -1,0 +1,457 @@
+{
+ "video_id": "edXu0Aff7QU",
+ "channel": "David Lin",
+ "title": "Great Rotation Happening Now: This Sector ‘Is Over’ | Thomas Hayes",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Thomas Hayes (Great Hill Capital)",
+ "macro_themes": [
+  {
+   "theme": "Semis/memory boom over",
+   "view": "Memory and chips are commodities and foreign capacity will crush prices, so the AI capex trade will hurt its spenders."
+  },
+  {
+   "theme": "Great rotation",
+   "view": "Money is moving to defensives, small caps, value, international and bonds, like 2000-2006."
+  },
+  {
+   "theme": "Bonds competitive with stocks",
+   "view": "A 5.2% guaranteed 10y vs a ~5% equity earnings yield is pulling pensions into bonds."
+  },
+  {
+   "theme": "Yields and the Iran war",
+   "view": "Yields are up on growth and oil-driven inflation; an end to the war would quickly drop the 10y to ~4.75%."
+  },
+  {
+   "theme": "Consumer discretionary oversold",
+   "view": "Sentiment is terrible but spending is strong, so discretionary has priced in the worst case."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Memory is a commodity: high prices cure high prices, and Chinese, Korean and Japanese makers will flood the market; the semi/memory cycle collapses every ~4 years.",
+   "conviction": "high",
+   "timestamp": "3:00",
+   "quote": "High prices cure high prices... they wouldn't flood the market with memory and flood the market with commodity semiconductor chips."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductor stocks (basket)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Out of tech; the semiconductor/AI-capex trade is crowded and rolling over after a dead-cat bounce, and capex spenders historically lose.",
+   "conviction": "high",
+   "timestamp": "8:00",
+   "quote": "We're out of tech... that trade in the short term is over... the commodity trade within the AI trade is done."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRK",
+   "instrument_quoted": "CRK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Lowest-cost US natural gas producer near Gulf LNG terminals and East Texas data centers; reserves worth far more than the market cap.",
+   "conviction": "high",
+   "timestamp": "9:00",
+   "quote": "We think it can be a$4 to $60 stock over the next 3 to 5 years. Opinion not advice"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BABA",
+   "instrument_quoted": "BABA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Cheapest AI play: stakes in Asian AI startups like Moonshot not priced in, China property bottoming plus stimulus, triple-digit AI revenue growth.",
+   "conviction": "high",
+   "timestamp": "10:00",
+   "quote": "we have a company called Alibaba, which is the cheapest AI play in the world."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CCI",
+   "instrument_quoted": "CCI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Starlink Mobile can't work inside buildings without towers; stock re-rated and 'just beginning', 5.3% dividend while you wait.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "that stock galloped you know 20% in 2 or 3 days and it's just beginning 5.3% dividend yield while you wait."
+  },
+  {
+   "group": "stocks",
+   "ticker": "QXO",
+   "instrument_quoted": "QXO",
+   "price_at_call": 10,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Brad Jacobs building-supplies roll-up; accretive deals whether housing stays weak or recovers; buying every share they can.",
+   "conviction": "high",
+   "timestamp": "23:30",
+   "quote": "every share that comes available that we can get our hands on, we're getting our hands on."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GXO",
+   "instrument_quoted": "GXO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Largest pure-play warehousing company using robots/AI to lift margins; an AI beneficiary rather than capex spender.",
+   "conviction": "medium",
+   "timestamp": "17:30",
+   "quote": "those are going to continue to fly and be beneficiaries of of AI in the middle innings of the AI trade."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DEO",
+   "instrument_quoted": "DEO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Out-of-favor defensive staple showing up in their framework, like Buffett buying staples in 2000.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "all the stuff that's showing up for us to buy like Dagio like Baxter healthcare staples"
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAX",
+   "instrument_quoted": "BAX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Out-of-favor defensive healthcare name showing up in their framework for the next 6-12 months.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "all the stuff that's showing up for us to buy like Dagio like Baxter healthcare staples"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Especially if the rise in yields slows or reverses.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Small caps had their second-worst quarter vs the S&P this century while ISM is expanding and $8T sits in money markets; nimble AI adopters with operating leverage.",
+   "conviction": "high",
+   "timestamp": "32:00",
+   "quote": "small caps are like a beach ball held underwater... that are going to absolutely explode higher we believe over the next 9 to 16 months"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Expects a bull market under the surface in the 'unmagnificent 493' but only modest index gains as the 5-10 AI megacaps consolidate or fall.",
+   "conviction": "medium",
+   "timestamp": "19:00",
+   "quote": "the indices are only going up modestly because those five or 10 stocks are consolidating and taking a breather"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": 5.2,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 4.75,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.75
+    ],
+    "invalidation": null
+   },
+   "condition": "If the Iran war ended, the 10y would drop to ~4.75%; if 8% nominal growth isn't sustainable, 4.25-4.50%.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yields driven by both growth/capital demand and oil-driven inflation expectations; rotation into bonds already under way and yields stopping going up.",
+   "conviction": "medium",
+   "timestamp": "26:30",
+   "quote": "if the war ended tomorrow, I think the 10-year yield would be immediately down to 475."
+  }
+ ],
+ "notes": "Recorded Tuesday Oct 13 (host states date). CRK target garbled in transcript ('a$4 to $60', price '134' likely $13.4/$3.8B cap) so target/price left null. QXO identified as the Brad Jacobs building-supplies roll-up trading ~$10 (not named by ticker). Semis basket mapped to SMH. Freddie Mac, Lennar, Taylor Morrison, Intel mentioned in passing, skipped. Discretionary sector bullish view not given a ticker."
+}

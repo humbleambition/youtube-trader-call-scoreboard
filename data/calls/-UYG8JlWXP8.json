@@ -1,0 +1,97 @@
+{
+ "video_id": "-UYG8JlWXP8",
+ "channel": "David Lin",
+ "title": "Stocks Fall On Strong Earnings...What's Breaking?",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "David Lin (guest George Noble)",
+ "macro_themes": [
+  {
+   "theme": "AI capex vs returns",
+   "view": "Market is starting to separate growth from profitable growth as AI capex crushes free cash flow at Meta, Oracle, CoreWeave."
+  },
+  {
+   "theme": "Cost of capital",
+   "view": "Rising rates and wider credit spreads create a feedback loop that makes AI infrastructure financing harder."
+  },
+  {
+   "theme": "Dot-com/telecom analogy",
+   "view": "AI may succeed technologically while the companies funding the build-out fail to earn returns for shareholders."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "George Noble: debt ballooning, ROIC below cost of capital, bonds yielding 15-16%; retail buying the dip is not how bottoms form. His biggest short, doubled recently.",
+   "conviction": "high",
+   "timestamp": "10:00",
+   "quote": "We actually doubled the short a couple of weeks ago. It's it's our biggest position. I think there's a very good chance CoreWeave goes bankrupt."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Noble: robotics venture worth $30-40B against a ~$1.5T market cap; operating margin 2.6%; 'the product is the stock'.",
+   "conviction": "low",
+   "timestamp": "5:00",
+   "quote": "in the case of Tesla, the product is the stock... it's all just designed to try and jack up the stock price"
+  }
+ ],
+ "notes": "Mostly an explainer on Meta/Tesla/CoreWeave/Oracle financials; Meta and Oracle discussed without a directional call. Tesla bearish is implied from Noble's valuation skepticism, not an explicit trade."
+}

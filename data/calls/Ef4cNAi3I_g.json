@@ -1,0 +1,492 @@
+{
+ "video_id": "Ef4cNAi3I_g",
+ "channel": "tastylive",
+ "title": "Bubba Horowitz Says the Nasdaq Has Already Broken Down",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Todd \"Bubba\" Horwitz",
+ "macro_themes": [
+  {
+   "theme": "Equity valuations",
+   "view": "Valuations (CAPE) are above the internet bubble; expects 40-60% long-term decline."
+  },
+  {
+   "theme": "Rates rising",
+   "view": "10-year yields heading to 6% before year-end; 50/50 chance of two rate hikes."
+  },
+  {
+   "theme": "Metals vs rates",
+   "view": "Gold and silver struggle in high-rate environment but are reasonable long-term buys here."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     30000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Nasdaq has broken down to key levels; overvalued; expects 5-6% more downside short-term and 40-60% long-term.",
+   "conviction": "high",
+   "timestamp": "0:00",
+   "quote": "I think the Nasdaq is actually broken down... I don't think they will hold."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7800
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "S&P only index holding up (consolidating) but expects it to break down; he is short S&P futures and would sell 7,800.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I would certainly be a seller in the S&P at 7,800."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Russell has also broken down despite a rally today.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "Russell's also broken down."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield / 10-year note futures",
+   "price_at_call": 5.1,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 6.0,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     106
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Bond market wants higher rates; futures bounce was a dead-cat bounce; short 10-year note futures, seller at 106 (futures price).",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "I think the tens are going to 6%... I think there's a good chance to get there before the end of the year."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year bond futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     107
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Short bond futures; seller of the 30s at 107 in futures (bearish bond price = bullish yield).",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "I'm a seller of the tens at 106 in the futures... of the 30s at 107."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": 4000,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Pricing in higher rates; held 4,000; trader would still short a rally, sees ~$130 more downside before a bottom, but buying physical long-term.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I'd say 130 bucks on gold before we come to the bottom... I'm willing to average in because I think they're going to go higher."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Silver down 50% from high; maybe ~$10 more downside, but accumulating physical as an investor.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "probably about 10 bucks more on silver if we're not at a bottom. But I have no problem as an investor buying some silver"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Favourite bullish chart; looks solid and strong despite pullback.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I think that Crowd is looking pretty bullish."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Overbought and turning over the top.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "Apple to me looks a little bit overbought and I'd like to be a seller"
+  },
+  {
+   "group": "stocks",
+   "ticker": "COIN",
+   "instrument_quoted": "COIN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Named among really bearish charts.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "some charts that are are really uh bearish as as you look at the like uh Coin"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MNST",
+   "instrument_quoted": "MNST",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart looks awful despite +$7 today.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "Monster look although it was up today seven bucks, it looks pretty awful."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMCI",
+   "instrument_quoted": "SMCI",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart looks awful.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "SMCI looks pretty awful as well."
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "INOQ (as transcribed)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Smaller tech names like this break first before the big ones.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "the point with the stock like INOQ and some of these is these are the ones that typically break first"
+  }
+ ],
+ "notes": "Date: host says Meta/Tesla report tomorrow; no explicit date, used listing. Gold ~$130 and silver ~$10 further downside stated as distances, not levels, so targets null. \"INOQ\" assumed to be IONQ. TNX price_at_call 5.1 is yield; 106/107 resistance are note/bond futures prices."
+}

@@ -1,0 +1,174 @@
+{
+ "video_id": "Fe03Qt6DOXk",
+ "channel": "Figuring Out Money",
+ "title": "This Is Where Bounces Get Born.",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Figuring Out Money host",
+ "macro_themes": [
+  {
+   "theme": "Bear-strong regime",
+   "view": "Below the gamma flip (~7724 SPX) and the Nasdaq 10-day MA, so expect fakeouts and shakeouts: trade smaller and be patient."
+  },
+  {
+   "theme": "High-beta momentum drawdown",
+   "view": "High-beta momentum names are down ~40% while the S&P holds near highs; retail without risk management is hurting."
+  },
+  {
+   "theme": "Breadth near bottoming extremes",
+   "view": "Weak breadth and extreme quality-pair / record-high readings have historically come near bounces."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY (gamma flip quoted on SPX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 771,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     762
+    ],
+    "resistance": [
+     771,
+     7724
+    ],
+    "invalidation": null
+   },
+   "condition": "Wants the declining 5-day MA to flatten and turn up with higher lows before turning bullish; daily expected move up to ~771, gap-fill support at 762",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Index products are below declining 5-day MAs and weak internals call for caution, but oversold breadth and quality-pair extremes favor bounces.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "it looks like we can be setting up for some bounces... As far as the index products go, they're below declining 5-day moving averages"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 745,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     745
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 5-day MA flattens and a 30-min inverse head-and-shoulders forms, it could try for 745",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Clear downtrend since Oct 9, but a positive 30-min RSI divergence and a possible inverse H&S.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "we come to try to take out that 745"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the 5-day MA flattens and price gets above it, that opens a move higher",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeatedly rejected at a declining 5-day MA; needs patience.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "perhaps that opens the door for a move higher in IWM. But once again, it's not there yet."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "semiconductors (sector)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Sideways action that flattens and reclaims the 5-day MA would be an early bounce signal",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hard, fast selling since Oct 7 and a close at session lows, but oversold shakeouts could lead to bounces.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "those could be early indications that we can see a bounce here in semiconductors"
+  }
+ ],
+ "notes": "Host name not given. ES medium-term bullish is inferred from his breadth and bottoming indicators (low conviction). The 7724 gamma flip is an SPX level, while 771/762 are SPY."
+}

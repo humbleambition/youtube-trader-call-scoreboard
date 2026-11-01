@@ -1,0 +1,88 @@
+{
+ "video_id": "xClvdThdLBw",
+ "channel": "Ross Givens",
+ "title": "These 2 Stocks Are Setting Up for a HUGE Rally\u2026 I'm Buying",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "WDAY",
+   "instrument_quoted": "WDAY",
+   "price_at_call": 202.5,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 299,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     181.47
+    ],
+    "resistance": [],
+    "invalidation": 181
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 202.5,
+   "stop": 181,
+   "method": "technical",
+   "reason": "High tight flag after ~100% run; buy breakout, measured move ~+105 targets ~300.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "your target here would be around $300 per share, which is about a 50% move from the current price"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CDW",
+   "instrument_quoted": "CDW",
+   "price_at_call": 155,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     142
+    ],
+    "resistance": [],
+    "invalidation": 142
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 155,
+   "stop": 142,
+   "method": "technical",
+   "reason": "Stage-1 base breakout into stage 2 after a 2-year decline; heavy accumulation volume.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "So, we buy here for 155."
+  }
+ ],
+ "notes": "Host says 'noon on Tuesday, October 20'; listing said Oct 21."
+}

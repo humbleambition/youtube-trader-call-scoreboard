@@ -1,0 +1,132 @@
+{
+ "video_id": "nBRSeSTlcqQ",
+ "channel": "tastylive",
+ "title": "71 Million Contracts A Day: Is This The New Retail Standard?",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Henry Schwarz (Cboe) with tastylive host",
+ "macro_themes": [
+  {
+   "theme": "Options volume boom",
+   "view": "Options running ~71M contracts/day, retail >60% of activity; Q3 growth leveled off in a range-bound market."
+  },
+  {
+   "theme": "Stock pickers' market",
+   "view": "Low correlation/high dispersion dampens index moves while single stocks swing; consumer names beaten down by high rates."
+  },
+  {
+   "theme": "Pre-market single-stock options",
+   "view": "Cboe launches 7:30-9:25 ET pre-market options on 27 top names from Monday; mind liquidity and spreads."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "WMT",
+   "instrument_quoted": "WMT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Host rotating out of tech into beaten-down consumer staples as only ~25% of S&P names were above the 50-day MA; tech to weaken.",
+   "conviction": "low",
+   "timestamp": "4:40",
+   "quote": "I'm gonna get starting to get long some of these, whether it's the Walmarts, the Cokes, the Pepsis"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KO",
+   "instrument_quoted": "KO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Same consumer-staples rotation thesis from the host.",
+   "conviction": "low",
+   "timestamp": "4:40",
+   "quote": "I'm gonna get starting to get long some of these, whether it's the Walmarts, the Cokes, the Pepsis"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PEP",
+   "instrument_quoted": "PEP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Same consumer-staples rotation thesis from the host.",
+   "conviction": "low",
+   "timestamp": "4:40",
+   "quote": "I'm gonna get starting to get long some of these, whether it's the Walmarts, the Cokes, the Pepsis"
+  }
+ ],
+ "notes": "Mostly an industry interview; guest Henry Schwarz gave no market calls. Calls are the host's own positioning (host name not clearly said, sign-off 'Thanks, Jal'). Host also closing a WYNN short (no forward view; skipped). Date: 'another inflation report' today and pre-market session 'starting next Monday' = Thursday 2026-10-15 (PPI day)."
+}

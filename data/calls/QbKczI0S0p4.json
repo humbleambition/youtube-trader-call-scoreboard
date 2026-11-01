@@ -1,0 +1,109 @@
+{
+ "video_id": "QbKczI0S0p4",
+ "channel": "tastylive",
+ "title": "Cem Karsan AI’s Debt Bill Could Hit the Stock Market",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "macro_interview",
+ "speaker": "Cem Karsan",
+ "macro_themes": [
+  {
+   "theme": "Post-OPEX window of non-strength",
+   "view": "With vol and charm support fading after expiration, markets struggle to rise and stair-step declines make sense."
+  },
+  {
+   "theme": "Debt refinancing wave",
+   "view": "Refinancing of 2020-21 debt peaks in 2027-28, adding heavy bond supply that pushes yields up."
+  },
+  {
+   "theme": "AI capex crowding out",
+   "view": "Hyperscaler capex, bigger than the railroad boom relative to GDP, is turning free cash flow negative and adding debt, with CDS repricing ahead of equities."
+  },
+  {
+   "theme": "Higher discount rate threatens valuations",
+   "view": "Risk-free rates around 5.25% make equity multiples unsustainable; bonds are now a real alternative (reverse TINA)."
+  },
+  {
+   "theme": "State-run capitalism / government buying stocks",
+   "view": "The endgame is printing money, holding down the long end and buying stocks (e.g. via Trump accounts and share donations), which could extend the AI boom for years."
+  },
+  {
+   "theme": "Global credit stress",
+   "view": "Widening French spreads and hyperscaler CDS signal a broad debt crisis building at the edges, not only in Europe."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (no levels quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Decline expected to be stair-step (market down, vol down) unless a historic shock triggers dealer short puts and a crash; long-term upside depends on government stepping in to buy stocks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Post-OPEX, vol/charm support is gone, the index is below its 20-day and failed to reclaim the -1 level; skew is high so hedged customers point to a grinding decline, while debt and rate pressure threaten valuations.",
+   "conviction": "medium",
+   "timestamp": "1:40",
+   "quote": "I don't think we're going to fall out of bed, but stair-steps down here would make a lot of sense."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury yields (risk-free ~5.25%)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Until a big intervention (money printing, holding down the long end).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "A refinancing wave peaking in 2027-28 plus AI-capex debt issuance floods the bond market with supply; the recent dip in yields is a flight to safety.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "interest rates, which are, you know, working their way higher broadly, even though we've had this pullback, are now threatening valuations"
+  }
+ ],
+ "notes": "Host calls the guest 'Jim' and the closing credit says Jim Caron, but the title names Cem Karsan and the content (vol/charm flows, window of non-strength) is Karsan's; speaker kept as Cem Karsan. Date from 'this Monday' with listing 2026-10-20. TNX bias means yields rising (bearish bonds); long-term ES mixed because he expects government support to drive new highs eventually."
+}

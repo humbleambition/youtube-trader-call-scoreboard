@@ -1,0 +1,239 @@
+{
+ "video_id": "aIAeDVWlkOc",
+ "channel": "tastylive",
+ "title": "The One Support Line Every Bear Is Stuck Behind",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (with tastylive hosts)",
+ "macro_themes": [
+  {
+   "theme": "Earnings as catalyst",
+   "view": "Market in stasis after CPI; heavy Nasdaq-concentrated earnings over the next week and a half should set direction."
+  },
+  {
+   "theme": "Midterm election fog",
+   "view": "Not getting aggressively positioned until the election (two weeks away) clears; a big Dem night could hurt Tesla/SpaceX."
+  },
+  {
+   "theme": "Oil reversal",
+   "view": "Intraday crude collapse fuelled the turnaround in indices and airlines."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Horizontal support from the July/August breakout keeps holding against selling; until it breaks, bears are stuck, though co-host says it could go either way.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "that support is holding like crazy and until it breaks it's going to be a little frustrating for the one or two bears"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": 7779,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Grinding around for four days below resistance (broken trendline plus former lifetime high); market in stasis awaiting earnings for direction.",
+   "conviction": "low",
+   "timestamp": "0:20",
+   "quote": "this zone here which is a combination of this broken trend line as well as this horizontal... That's kind of the the area of resistance."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Working lower for months, approaching resistance, richly valued and rarely rallies on earnings; expects a drop after earnings tomorrow (no position).",
+   "conviction": "medium",
+   "timestamp": "8:40",
+   "quote": "I'm inclined to believe Tesla will fall tomorrow um and that's having no position in it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SPCX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Stock keeps gravitating to ~150 ahead of earnings this evening; long-term bull, short-term no view.",
+   "conviction": "low",
+   "timestamp": "5:20",
+   "quote": "I'm a long-term bull on this, but short-term hands thrown firmly up in the air."
+  },
+  {
+   "group": "stocks",
+   "ticker": "UFO",
+   "instrument_quoted": "UFO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Space ETF (Rocket Lab, Planet Labs etc.) chart looks very bearish.",
+   "conviction": "medium",
+   "timestamp": "9:20",
+   "quote": "UFO which is the ETF that uh wraps up all this rocket and space stuff is looking crazy bearish."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Uptrend holds unless the higher-low trendline breaks.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down ~2.5% intraday after multi-week high, but series of higher lows keeps the uptrend intact until broken.",
+   "conviction": "low",
+   "timestamp": "3:50",
+   "quote": "that uptrend is still in place, and that would be the thing they would need to break"
+  }
+ ],
+ "notes": "Date inferred from 'two weeks from today is election day' (Nov 3, 2026) = Tue Oct 20; listing said Oct 21. ES 7779 and NQ 29837 quoted by anchor at end (NQ not recorded as a call\u2014no view). SpaceX ticker assumed SPCX."
+}

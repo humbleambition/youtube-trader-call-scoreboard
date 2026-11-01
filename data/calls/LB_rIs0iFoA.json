@@ -1,0 +1,614 @@
+{
+ "video_id": "LB_rIs0iFoA",
+ "channel": "Verified Investing",
+ "title": "AI Trade Collapses, Yields Fall As Safe Haven Stocks Surge, Here Are The Trades!",
+ "video_date": "2026-10-13",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "AI trade unwinding",
+   "view": "Memory-chip competition (CXMT) will crush AI hardware margins; the market is starting to sniff that out."
+  },
+  {
+   "theme": "Bond yields falling",
+   "view": "10-year topping tails signal yields heading lower, helping REITs and beaten-down defensives."
+  },
+  {
+   "theme": "Rotation into defensives",
+   "view": "Hedge funds exiting AI are rotating into beaten-down names like Clorox, Nike, J&J and REITs."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / S&P futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Losing the nearby support level would shift him to neutral, then bearish on a breakdown",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P holding up despite AI selloff; still expects breakout toward 8,000 where a top is more likely.",
+   "conviction": "high",
+   "timestamp": "0:03",
+   "quote": "I still think we're going to break out on the S&P 500 moving up to this 8,000-ish level"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq E-mini futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "AI concentration; Nasdaq futures down 0.8%, set to open 250 points lower.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "the Nasdaq could continue to stay weak in the near term"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE",
+   "price_at_call": 36,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Ran from $31 to near $36 after earnings gap, too far too fast; took profits, would buy a pullback.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I took profits on this trade... on a pullback, I will absolutely be looking to buy it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CLX",
+   "instrument_quoted": "CLX",
+   "price_at_call": 85.5,
+   "short_term": {
+    "bias": "bullish",
+    "target": 87.75,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     87.75
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bottoming tail at long-term trendline plus horizontal support, bullish reversal.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "Should get up at least to 8775 before running into some resistance"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.206,
+   "short_term": {
+    "bias": "bearish",
+    "target": 5.0,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     5.0
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily and weekly topping tails are a bearish reversal signal for yields.",
+   "conviction": "high",
+   "timestamp": "0:07",
+   "quote": "Today we should continue to fall to about 5% where we'll meet first support"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.75
+    ],
+    "resistance": [],
+    "invalidation": 88.75
+   },
+   "condition": "Holding above 88.75: neutral to higher/chop; break below 88.75 targets ~77",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Many pivots at 88.75 make it the key level.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "if it breaks this level, that's where you break to basically 70, I would say 77 now"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If silver closes back below the level and confirms the breakdown, $50 later this year",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "AI capex slowdown could hit industrial silver demand; relative weakness.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "If we confirm the breakdown, $50 is on my bingo card for later this year"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated trendline hits with buyers stepping in, institutional accumulation; breakout expected within a week or so.",
+   "conviction": "high",
+   "timestamp": "0:09",
+   "quote": "I'm in the camp that we are going to see a breakout within a week or so on natural gas"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": 81000,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Break of 81,000 targets 75,500; upside break targets 95,000-97,000",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range between support and resistance; wait for break direction.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "A break of 81 takes us to 75 5... to probably 95 to 97,000"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JPM",
+   "instrument_quoted": "JPM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Hit support before earnings, due for a bounce, but economic trouble will hurt banks; not back to all-time highs.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "I don't think we're headed back to all-time highs on these stocks"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GS",
+   "instrument_quoted": "GS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1000
+    ],
+    "invalidation": null
+   },
+   "condition": "If it retraces to ~1,000 (broken parallel channel), short on a swing basis",
+   "action": "short",
+   "entry": 1000,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke the bigger parallel channel; retest at 1,000 should reject.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "We get back to 1,000, the even number, this looks primed for a sell-off"
+  },
+  {
+   "group": "stocks",
+   "ticker": "JNJ",
+   "instrument_quoted": "JNJ",
+   "price_at_call": 258,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     251,
+     247
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Day-trade long near 251; swing long near 247",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pivot low at 251; high/low pivots give swing support ~247.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "that's telling you there's support around 247 for a potential swing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "UNH",
+   "instrument_quoted": "UNH",
+   "price_at_call": 394,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     405,
+     406,
+     415
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Downtrend on daily; prior high pivots at 405-406, then 415.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "405 is going to be first resistance... I'd be eyeing this five 415 level"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SNDK",
+   "instrument_quoted": "SNDK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1333,
+     1300,
+     1275
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy opportunity if it reaches ~1,300 trendline (gap fill 1,275; aggressive 1,333)",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long-term trendline support near 1,300.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "if it gets down to a 1,300, that would be an epic level"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     926,
+     905
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Aggressive day trade at 926 gap fill; better level 905",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke its trendline yesterday and gapped down.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "Micron broke down yesterday... a very good technical level coming up right here at 905"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MRVL",
+   "instrument_quoted": "MRVL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     241,
+     240
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dropping with AI trade; big support around 240-241.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "The big level here is going to be around 241 to 240"
+  }
+ ],
+ "notes": "Date from 'bond market closed yesterday' (Columbus Day Mon Oct 12) = Tue Oct 13; listing said Oct 14. He also describes Tuesday's nat gas move, which may be today's action. BTC upside trigger level not stated. Nat gas target '350' read as $3.50."
+}

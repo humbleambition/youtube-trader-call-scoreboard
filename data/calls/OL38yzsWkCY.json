@@ -1,0 +1,416 @@
+{
+ "video_id": "OL38yzsWkCY",
+ "channel": "tastylive",
+ "title": "The Magazine Story That Told Him to Short This Market",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Tim Knight (plus tastylive host segment)",
+ "macro_themes": [
+  {
+   "theme": "AI/hyperscaler bubble doubts",
+   "view": "Doubts creeping in about AI and hyperscaling are degrading memory, semis, their financiers and big tech like Oracle."
+  },
+  {
+   "theme": "Pre-election propping",
+   "view": "Tug-of-war until the midterms as officials prop markets up; after election day that support vanishes or reverses."
+  },
+  {
+   "theme": "Seasonality irrelevant",
+   "view": "Ignores bullish midterm seasonality; post-2008 markets are a 'permanently rising' new world where historical cycles don't matter."
+  },
+  {
+   "theme": "Precious vs equities",
+   "view": "Gold and silver are married to equities for now but will eventually divorce from them, maybe after the election."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Flirting with former lifetime-high line for five days without follow-through, looking 'raspy'; host also holds an SPX 'super bear' position.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "we're in the zip code of lifetime highs, but you know, it ain't following through"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "NQ broke back through its key support line today.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "Today things are changing. We've busted through that line again"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KORU",
+   "instrument_quoted": "KORU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "WSJ story on young margined Korean traders was his 'shoeshine boy' signal; KORU has the cleanest pattern and leads the semis lower.",
+   "conviction": "high",
+   "timestamp": "0:01",
+   "quote": "I think I'll short the triple-bullish leverage fund for South Korea. But, that's been my biggest winner"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "AI bubble doubts; semiconductor index starting to break down.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "the likes of the semiconductor index uh here we have SMH is also uh starting to break down"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (and silver)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Precious metals tied to equities now but will decouple; very optimistic long term.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I'm very optimistic long term still about what precious is doing"
+  },
+  {
+   "group": "stocks",
+   "ticker": "QUBT",
+   "instrument_quoted": "QUBT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke its symmetric triangle; steady downtrend.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "We've broken our symmetric triangle on this. We've got a failure"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IONQ",
+   "instrument_quoted": "IONQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Attractive short pattern in quantum space; down 9% today.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "here's IonQ, and I'm short all of these"
+  },
+  {
+   "group": "stocks",
+   "ticker": "QBTS",
+   "instrument_quoted": "QBTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "D-Wave pattern heading down; part of his quantum shorts.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "QBTS um D-Wave... that's heading down, too"
+  },
+  {
+   "group": "stocks",
+   "ticker": "FSLR",
+   "instrument_quoted": "FSLR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Host's call: long FSLR call spreads (Nov and Jan 'super bulls'); solar tends to pop around elections.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "First Solar has been a name that I have a a um super bull in"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRM",
+   "instrument_quoted": "CRM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Host's call: Nov and Jan 'super bull' option positions, bouncing today.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "CRM is uh kind of similar. Nov and Jan super bulls"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Host's call: downside butterfly on nat gas as hurricane risk dissipates.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "Nat Gas, glad I put that trade on. That's the uh downside butterfly"
+  }
+ ],
+ "notes": "Date inferred from Tim's references to 'Sunday evening' and Friday's Korean holiday (Oct 9), i.e. Monday Oct 12; listing implied Oct 13. FSLR, CRM, NG are the unnamed tastylive host's positions, not Tim's. Tim says he holds 32 short positions and is 'still totally short'."
+}

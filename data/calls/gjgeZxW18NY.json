@@ -1,0 +1,95 @@
+{
+ "video_id": "gjgeZxW18NY",
+ "channel": "Ricky Gutierrez",
+ "title": "Is The Stock Market Crashing? (What To Do Right Now)",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Iran/oil shock",
+   "view": "Hormuz tensions and planned post-election strikes keep oil near 112 Brent, feeding stagflation fear."
+  },
+  {
+   "theme": "Buy the dip carefully",
+   "view": "Markets oversold; upside on recovery outweighs downside, but avoid leverage and size small since things can get worse."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 708,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Watch 700: a flush below invalidates support, a sharp reclaim confirms an oversold bounce.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Approaching major 4-hour support at 700 and technically oversold; recovery potential greater than downside, but geopolitics could push lower.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "when if and when markets do begin to recover, there's greater upside potential than potential downside risk."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold after earnings drop but sits mid-range with a 1:1 risk/reward (17% to highs vs 17% to lows); bought the dip intraday then took profits.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "It's a one-to-one ratio. Is that actually a favorable risk-to-reward to be in?"
+  }
+ ],
+ "notes": "Date not spoken; Oct 22 inferred from Meta's post-earnings drop day (host shorted Meta 'yesterday' after it reported). Listing says Oct 23."
+}

@@ -1,0 +1,22 @@
+{
+ "video_id": "hl3ZRLtfCGg",
+ "channel": "tastylive",
+ "title": "The Fund That Blew Up 67% in a Month Is Back, With a Twist",
+ "video_date": "2026-10-14",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive Signal vs. Noise host",
+ "macro_themes": [
+  {
+   "theme": "Energy inflation spreading",
+   "view": "Warm September CPI supports the idea that the energy shock is spreading into the broader economy after ~6 months."
+  },
+  {
+   "theme": "AI memory supply risk",
+   "view": "CXMT pulling forward DRAM production threatens the memory-scarcity thesis behind AI infrastructure names."
+  }
+ ],
+ "calls": [],
+ "notes": "Story about Leopold Aschenbrenner's fund re-entering AI infra (AMD, BE, CRWV, SK Hynix, SNDK, MU) via calls; host gives no directional bias, only that a July-style forced liquidation is unlikely. Host mentions own Bloom Energy exposure."
+}

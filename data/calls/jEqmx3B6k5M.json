@@ -1,0 +1,69 @@
+{
+ "video_id": "jEqmx3B6k5M",
+ "channel": "BitcoinHyper",
+ "title": "BITCOIN: Don’t Miss This Move! (it’s close) - BTC Price Prediction Today",
+ "video_date": "2026-10-18",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "BitcoinHyper host",
+ "macro_themes": [
+  {
+   "theme": "Corrective decline, bearish bigger picture",
+   "view": "The falling wedge may be a leading diagonal (wave 1 down); after a wave-2 bounce a larger wave-3 collapse is expected."
+  },
+  {
+   "theme": "Short liquidations above",
+   "view": "The largest liquidation clusters sit above recent highs, attracting a push up before a reversal."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": 81000,
+   "short_term": {
+    "bias": "bullish",
+    "target": 84000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     80000,
+     79500,
+     77000
+    ],
+    "resistance": [
+     83000,
+     83500,
+     83900,
+     84000,
+     85000
+    ],
+    "invalidation": null
+   },
+   "condition": "Long toward ~84k golden pocket above recent highs; if a 1h/2h candle then closes back below the recent high (liquidity grab), flip short with stop above the new high.",
+   "action": "buy",
+   "entry": 81600,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounced at golden pocket and daily value area low at 81k after liquidity sweeps, falling volume in the decline; weekly hyperwave overbought with bearish dots and Elliott count suggest a later major drop.",
+   "conviction": "medium",
+   "timestamp": "1:40",
+   "quote": "I'm looking right here for another rotation back toward the upside toward our bigger golden Fibonacci ratio"
+  }
+ ],
+ "notes": "No date spoken; listing date. Wave-2 targets given as 83,500 (0.5 fib), 83,900 (1:1 extension/POC) and golden pocket slightly above 84,000; 84,000 used as target. Medium-term bearish wave-3 target not given (promised in later videos)."
+}

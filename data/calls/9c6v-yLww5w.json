@@ -1,0 +1,102 @@
+{
+ "video_id": "9c6v-yLww5w",
+ "channel": "Meet Kevin",
+ "title": "Holy Sh*t Elon Musk's Roadster Reveal [Tesla SpaceX Stock]",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Tesla-SpaceX merger",
+   "view": "The Roadster event is marketing for a combined Tesla/SpaceX; a merger is likely only if one stock sharply outperforms or underperforms, though Kalshi odds jumped."
+  },
+  {
+   "theme": "AI capital raising strain",
+   "view": "SpaceX needs ~$400B for AI and recent large raises by Broadcom/Oracle already tanked the market."
+  },
+  {
+   "theme": "Older AI chips appreciating",
+   "view": "Open-weight models make H100s more valuable, extending hardware life, which benefits SpaceX but could hurt frontier labs' valuations."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     132,
+     135
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": 135,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Re-underwrote SpaceX in September because appreciating H100s/open-weight models benefit it; bought more near a 132-135 support line.",
+   "conviction": "high",
+   "timestamp": "12:00",
+   "quote": "I turned bullish on SpaceX at around 132 bucks... bought more uh at about 135-ish cuz we've got a support line at about 132, 135"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 (likely QQQ)",
+   "price_at_call": 715,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     715
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 715,
+   "stop": null,
+   "method": "technical",
+   "reason": "Called a likely bounce at the 715 line and bought the dip with six figures when it bounced there this morning.",
+   "conviction": "medium",
+   "timestamp": "12:30",
+   "quote": "Nasdaq's likely going to bounce or there's a good chance it bounces at 715. If it does, buy the dip"
+  }
+ ],
+ "notes": "SpaceX ticker unknown in this (2026) context; 'SPACEX' used as placeholder. Tesla discussed at length (Roadster, merger scenarios, Cybercab validation as catalyst) but no stated directional bias, so not recorded. Event was 'tonight' so recorded after the close of the event day; listing date used. 715 Nasdaq level is in QQQ units (matches QQQ ~720 elsewhere)."
+}

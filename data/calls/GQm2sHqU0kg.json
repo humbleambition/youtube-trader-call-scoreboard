@@ -1,0 +1,338 @@
+{
+ "video_id": "GQm2sHqU0kg",
+ "channel": "Ticker Symbol: YOU",
+ "title": "Dips Never Last. I'm Buying These Stocks NOW.",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Alex (Ticker Symbol: YOU)",
+ "macro_themes": [
+  {
+   "theme": "AI capex / chip demand",
+   "view": "ASML and TSMC say advanced-chip demand will outpace supply for 2+ years, so the AI sell-off is a buying opportunity."
+  },
+  {
+   "theme": "Memory cycle risk",
+   "view": "Memory stocks look cheap but could be at a cyclical top; CXMT competition fears drove the sell-off."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Down 14% in sell-off at ~18x forward earnings while guiding +58% revenue; AI chip demand outstrips supply for 2+ years.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "TSM stock is down 14% since the sell-off started... which I see as a great opportunity."
+  },
+  {
+   "group": "stocks",
+   "ticker": "COHR",
+   "instrument_quoted": "COHR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Optical networking for AI data centers, down 31% at ~25x forward P/E with 52% implied growth; thinner margins.",
+   "conviction": "medium",
+   "timestamp": "4:43",
+   "quote": "Coherent stock, ticker symbol COHR, is down by 31% since the start of the sell-off"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Record revenue, ~5x forward earnings after 16% drop; caveat that memory is cyclical.",
+   "conviction": "medium",
+   "timestamp": "8:50",
+   "quote": "So, it now trades at just five times forward earnings. I think that's a great discount"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMAT",
+   "instrument_quoted": "AMAT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Record revenue, 51% implied growth; down 23% at ~22x forward earnings, benefits from TSMC capex.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "AMAT stock is down by 23% since the sell-off started, 43% from its high"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Custom AI chip revenue +221%; down 13%, 18x forward earnings, called undervalued.",
+   "conviction": "medium",
+   "timestamp": "11:05",
+   "quote": "Another chip company that I think is undervalued right now is Broadcom"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CLS",
+   "instrument_quoted": "CLS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "AI rack builder growing 62% at ~18x, but customer concentration risk; last in his buy order and may keep getting punished.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "I think they'll keep getting punished for it if the sell-off continues."
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRT",
+   "instrument_quoted": "VRT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Power/cooling for AI data centers, raised guidance; down 45% from high at ~24x forward.",
+   "conviction": "medium",
+   "timestamp": "14:50",
+   "quote": "stock is down 19% in the sell-off, 45% from its May high"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Cloud +82%, ~24x forward earnings; on his buy list though only down ~2%.",
+   "conviction": "low",
+   "timestamp": "13:20",
+   "quote": "investors clearly aren't worried about their future"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Preferred fund for the chip industry; 40% of his proposed 4-fund AI portfolio (SMH/CHAT/EUV/DRAM 40-30-20-10).",
+   "conviction": "medium",
+   "timestamp": "16:30",
+   "quote": "SMH gets about 40% because it covers the entire chip industry."
+  }
+ ],
+ "notes": "Long-term buy-the-dip list; no price levels given. SK Hynix (SKHY ADR) also called cheap (~4.5x) but kept out as separate call; ETFs CHAT, EUV, DRAM also recommended. Honorable mentions (DELL, MRVL etc.) skipped."
+}

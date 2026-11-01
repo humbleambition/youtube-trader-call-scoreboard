@@ -1,0 +1,159 @@
+{
+ "video_id": "Ur6bRuWANaA",
+ "channel": "ShadowTrader",
+ "title": "Is the NASDAQ cooked?",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Peter Reznicek",
+ "macro_themes": [
+  {
+   "theme": "Tech leadership breaking",
+   "view": "XLK has lost its uptrend from late July, semis are near a trend break and DRAM stocks have rolled over, weighing on the Nasdaq."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If QQQ breaks its uptrend line, likely drops to at least the middle of the balance area, if not lower.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ has dropped below key levels to its trendline; XLK uptrend already broken and semis/DRAM rolling over.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "If you break trend, you're probably going to go here, somewhere at least to the middle of the balance area if not lower."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY holding up better than the Qs; more neutral than bullish.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Spy, I would say looks a little bit more bullish. Maybe not more bullish, more neutral."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong downside momentum into the trendline; break looks imminent.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "you haven't broken trend yet in the semis, but it's imminent"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DRAM",
+   "instrument_quoted": "DRAM stocks (memory group)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big rollover with all trends broken; expects a move down to prior lows.",
+   "conviction": "medium",
+   "timestamp": "2:00",
+   "quote": "I believe it could easily go lower because you're going to probably come down to this these prior lows"
+  }
+ ],
+ "notes": "Date not stated ('Good morning'); listing date kept. DRAM recorded as a group label (no specific ticker quoted). No numeric levels given."
+}

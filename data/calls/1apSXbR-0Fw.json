@@ -1,0 +1,251 @@
+{
+ "video_id": "1apSXbR-0Fw",
+ "channel": "VRIC Media",
+ "title": "Ted Oakley: Stocks Could Crash 50% — Here's What I'm Buying Instead",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Ted Oakley (Oxbow Advisors)",
+ "macro_themes": [
+  {
+   "theme": "AI concentration bubble",
+   "view": "20-30 AI-linked companies drive about half the S&P's return, like 1999; once AI expectations get realistic in a year or two, many will fall."
+  },
+  {
+   "theme": "Expensive equity valuations",
+   "view": "S&P at ~25x earnings vs a normal 14-15x, high CAPE and sub-1% yield imply a possible 40-50% bear market."
+  },
+  {
+   "theme": "Avoid long bonds",
+   "view": "The era of declining yields ended in 2020; keep bonds under 3-5 years since inflation should average 3.5-5% over the next decade."
+  },
+  {
+   "theme": "Hard asset decade",
+   "view": "The next 10 years should be a hard asset market; own energy, gold, miners and other commodities."
+  },
+  {
+   "theme": "Central bank gold buying and US deficits",
+   "view": "Central banks shifting excess reserves from Treasuries into gold and unchecked US deficits support gold."
+  },
+  {
+   "theme": "Hold cash and short paper",
+   "view": "With expensive markets, hold cash and 2-5 year Treasuries; expects 2027 to be tougher with some rate reductions."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (valuation, no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "S&P at 25x vs normal 14-15x and concentrated in AI names; a multiple reset plus falling earnings would mean a 40-50% decline, likely within a year or two as AI hype fades.",
+   "conviction": "medium",
+   "timestamp": "4:59",
+   "quote": "If the earnings changed and the multiple changed, which happens in bear markets, then you're talking probably 40 or 50%"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold spot",
+   "price_at_call": 4180,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3900
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If gold falls back to ~3,900 they would buy more; does not expect a break to 3,300-3,400.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Central banks are moving excess reserves from Treasuries to gold, and US deficits are out of control; he bought bullion back in July near 3,900.",
+   "conviction": "high",
+   "timestamp": "13:43",
+   "quote": "if it gets into those lower prices, we would own more gold and we would own more miners"
+  },
+  {
+   "group": "metals",
+   "ticker": "GDX",
+   "instrument_quoted": "gold miners (Agnico Eagle, Alamos, royalty cos.)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Miners are very cheap on earnings and cash flow; at 2011 cash-flow multiples they would triple, with a ways to go over the next two to three years.",
+   "conviction": "high",
+   "timestamp": "17:12",
+   "quote": "If they were to sell at the same cash flow multiple they did back in 2011, these stocks would triple from here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLE",
+   "instrument_quoted": "energy sector stocks (no prices quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Energy is the best-performing sector of 2026 yet under-owned; many names trade at 6-8x earnings with 6-9% dividends, and the Iran war backdrop suggests it lasts longer. Gas stocks look even cheaper.",
+   "conviction": "high",
+   "timestamp": "6:00",
+   "quote": "nobody owns it that's what's interesting about it ... makes us think it probably has more to go"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US Treasury yields (10y quoted at 5.22%)",
+   "price_at_call": 5.22,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "2020 marked the low in yields; inflation should average 3.5-5% over the next decade, so long bonds should be avoided, although some rate reduction is expected in 2027.",
+   "conviction": "medium",
+   "timestamp": "22:44",
+   "quote": "I think you're out of the the declining years like I think 2020 marked that low"
+  },
+  {
+   "group": "stocks",
+   "ticker": "EQX",
+   "instrument_quoted": "Equinox Gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Small producer in a major turnaround after a merger cut debt; offers a lot of upside, with more risk than larger miners.",
+   "conviction": "medium",
+   "timestamp": "18:43",
+   "quote": "it's an interesting small play that I think really offers a lot of upside"
+  }
+ ],
+ "notes": "Gold price_at_call taken from his '4200, 4180 something'. Energy bullish view is sector-wide, recorded as XLE; holdings named only in passing (SU, PBR, MTDR, APA, SLB, NESR, KRP, EPD, ET, MPLX, PAGP, AEM, AGI, FNV, RGLD, WPM) were not recorded as separate calls. TNX bias means yields rising long-term (bearish long bonds); he also expects some rate cuts in 2027, mainly at the short end."
+}

@@ -1,0 +1,439 @@
+{
+ "video_id": "zeOPS-EBkKE",
+ "channel": "StockedUp",
+ "title": "This Trap Is Insane\u2026",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom & Mike (StockedUp)",
+ "macro_themes": [
+  {
+   "theme": "Hot PPI",
+   "view": "PPI 6.3% y/y, far above estimate; rate-hike odds rising to 27%."
+  },
+  {
+   "theme": "AI/semis selloff",
+   "view": "SOX down 7 straight days; money rotating out of AI names into value and healthcare."
+  },
+  {
+   "theme": "Rotation",
+   "view": "Beaten-down software, value retail and healthcare catching bids as AI trade cools."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 772.5,
+   "short_term": {
+    "bias": "mixed",
+    "target": 770,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     770,
+     764,
+     765
+    ],
+    "resistance": [
+     772,
+     772.5,
+     772.85,
+     775,
+     776
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY pushes above ~772.85 could test 775-776; if it holds the June uptrend could test all-time highs; losing gamma flip (~773) brings fast downside",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Resistance at 772-772.50 after bounce; uptrend since June held; GEX gamma flip ~773.",
+   "conviction": "medium",
+   "timestamp": "5:00",
+   "quote": "what I'm expecting for tomorrow is possibly a slight push higher off of today, and then a rejection back down towards 770"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ADBE",
+   "instrument_quoted": "ADBE",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 260,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     225
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Held 225 support, forming inverse head and shoulders; software rotation.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "targeting somewhere around 260 to 280 could be very realistic over the next couple of weeks"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LULU",
+   "instrument_quoted": "LULU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Down ~80% from highs, bouncing off downtrend; good risk-reward if rotation into beaten-down names continues.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "Lululemon might have the ability to make a decent move higher over the coming weeks and months"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LOW",
+   "instrument_quoted": "LOW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     198
+    ],
+    "invalidation": null
+   },
+   "condition": "If LOW breaks 198",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong into close; value rotation.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "keep watching Lowe's. If it breaks 198, I think there could be some great opportunities there"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HD",
+   "instrument_quoted": "HD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     309
+    ],
+    "invalidation": null
+   },
+   "condition": "If HD breaks 309 (double top)",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strength into close, double top near 309; value rotation.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "on Home Depot, there's a double top very close to 309. So, if it breaks 309, keep watching it to the upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "AI-related selloff; possible short-term breather bounce but still on downside radar.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "AMD is still on my downside radar. I wouldn't be surprised if it continued to move slightly higher in a shorter-term sense"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLV",
+   "instrument_quoted": "XLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     176.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Money rotating out of AI into healthcare; momentum, gapped above 176.50 high; defensive if economy slows.",
+   "conviction": "medium",
+   "timestamp": "14:30",
+   "quote": "XLV is on the upside radar. It had more good momentum today"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASTS",
+   "instrument_quoted": "ASTS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     45
+    ],
+    "invalidation": null
+   },
+   "condition": "If ASTS breaks above 45",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum continuation trade.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "If the recovery continues tomorrow and ASTS breaks out above $45, keep looking for another upside push"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SHOP",
+   "instrument_quoted": "SHOP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     179
+    ],
+    "invalidation": null
+   },
+   "condition": "If SHOP breaks above 179",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong recovery; momentum continuation.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "If it breaks out above 179, keep watching it to the upside tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VLO",
+   "instrument_quoted": "VLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     435
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If VLO breaks below 435",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Red day; breakdown under low of day.",
+   "conviction": "low",
+   "timestamp": "16:30",
+   "quote": "if VLO breaks down under 435 tomorrow, keep watching it down"
+  },
+  {
+   "group": "stocks",
+   "ticker": "WDAY",
+   "instrument_quoted": "WDAY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     180,
+     182
+    ],
+    "resistance": [],
+    "invalidation": 180
+   },
+   "condition": "As long as 180-182 support holds",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "$3.5M bet on Mar-2027 210 calls; wedge/flag breakout forming; multi-year support range 180-182.",
+   "conviction": "medium",
+   "timestamp": "17:30",
+   "quote": "As long as that keeps holding, I think WDAY has a fair chance to continue higher here"
+  }
+ ],
+ "notes": "Date: host says tomorrow is Friday (Travelers etc. report), so Thursday 2026-10-15 after close. GEX 'call wall at 760' stated below price, odd; ignored. ADBE target given as 260-280 range; lower bound used."
+}

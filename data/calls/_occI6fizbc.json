@@ -1,0 +1,57 @@
+{
+ "video_id": "_occI6fizbc",
+ "channel": "tastylive",
+ "title": "32 Million in Meta Puts Hit in a 22-Second Window",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive Signal vs. Noise host",
+ "macro_themes": [
+  {
+   "theme": "Capex vs monetization",
+   "view": "Market is in a 'what have you done for me recently' mode, judging big tech on whether margins rise or collapse amid heavy capex."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": 749,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 700,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     729.05,
+     723.38
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "$32M of urgent put buying: ~$14.3M in Oct 16 740/730 puts fading the 4% rally, ~$18M in Nov 20 710-740 puts through Nov 4 earnings needing a drift back toward 700; last quarter's capex surge and FCF collapse gives a fundamental case for protection.",
+   "conviction": "low",
+   "timestamp": "0:45",
+   "quote": "those are the immediate downside bets that whatever upside that we've seen here today it's going to fade and fade quickly."
+  }
+ ],
+ "notes": "Bias reflects the unusual put flow, not an explicit host view; host cautions it may be hedging rather than an outright short. Street consensus target $805.80 is bullish. Date from 'October 16th... four days to expiration' and 'start of the week' (Monday)."
+}

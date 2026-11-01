@@ -1,0 +1,170 @@
+{
+ "video_id": "gYdYw6EgO08",
+ "channel": "CPM Group",
+ "title": "Silver Below $60: Can It Fall Further?",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian",
+ "macro_themes": [
+  {
+   "theme": "Dollar not collapsing",
+   "view": "Trade-weighted dollar moving sideways; central banks hold record dollar volumes; foreigners not dumping Treasuries."
+  },
+  {
+   "theme": "Safe-haven demand",
+   "view": "Economic, political and post-election US problems should drive investors to buy more gold and silver over coming months into 2028."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "COMEX Dec gold futures",
+   "price_at_call": 4160,
+   "short_term": {
+    "bias": "bearish",
+    "target": 4000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4050,
+     4000
+    ],
+    "resistance": [
+     4200
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Stuck in 4,050-4,200 range; the longer it stays low the greater chance of a spike to 4,000 or below; but expects investor buying to lift prices over months.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "we do expect investors to step up their gold purchases and cause prices to rise. Um over the next several months and probably into 2028."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "COMEX Dec silver futures",
+   "price_at_call": 58.25,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     60
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Weaker than gold, below $60, but doubts much further downside given October surprises and hostile post-election period.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "We're not quite sure that we're going to see much further downside"
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "COMEX Jan platinum futures",
+   "price_at_call": 1661,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Declining, but some reasons to think it could rise.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "There are some reasons to think that the price could rise going forward, but just like gold and silver, platinum and palladium are showing weakness."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "trade-weighted dollar index",
+   "price_at_call": 121,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar has moved sideways since H1 2025 and is not collapsing; safe-haven demand supports it.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "the dollar is not collapsing... it has been basically moving sideways"
+  }
+ ],
+ "notes": "Gold 4,000 short-term is a risk scenario (\"could spike down\"), recorded as bearish target with that caveat. DXY 121 is the Fed trade-weighted index, not ICE DXY."
+}

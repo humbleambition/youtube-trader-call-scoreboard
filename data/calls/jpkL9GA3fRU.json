@@ -1,0 +1,170 @@
+{
+ "video_id": "jpkL9GA3fRU",
+ "channel": "Verified Investing",
+ "title": "Chainlink Rejected At Its Breakdown Level: Where To Buy The Dip",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "crypto_daily",
+ "speaker": "Drew Dosik",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80524,
+     75000
+    ],
+    "resistance": [
+     89832
+    ],
+    "invalidation": 80524
+   },
+   "condition": "Bullish only if price reclaims the weekly H&S neckline ~89,832; a break below 80,524 brings 75,000 into play.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly head-and-shoulders broken and daily bear flag, but bulls defending the 80,524 horizontal support.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "That's the near term line in the sand to the downside, $80,524"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 3041,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2296,
+     2000
+    ],
+    "resistance": [
+     3000,
+     3041
+    ],
+    "invalidation": 2296
+   },
+   "condition": "If BTC breaks above its neckline, ETH targets ~3,041; losing 2,296 trend-line support opens 2,000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weaker than BTC, below its pivot low, but bounced near a three-touch multi-month trend line.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "should we get a surge on Bitcoin pushing over that neckline, that's where I see Ethereum coming into a screeching halt"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 124,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 178,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "As long as price holds above the broken declining trend line; 178 if BTC clears its neckline.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout-retrace-bounce off a key declining trend line, but bounce is weak and consolidating, so he would trim.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "as long as price holds above here, we've got a chance to push up and retest this $124 mark"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 10.65,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 14.78,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     10.65
+    ],
+    "resistance": [
+     14.58,
+     18.28
+    ],
+    "invalidation": null
+   },
+   "condition": "Buy if price pulls back to the inclining trend line near 10.65, for a bounce to retest ~14.78.",
+   "action": "buy",
+   "entry": 10.65,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected on a retest of its broken multi-pivot support at 14.58 despite CCIP 2.0 news; long-term resistance 18.28.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "this trend line would be a great buying opportunity for a near-term bounce. We're looking at $10.65"
+  }
+ ],
+ "notes": "No current prices stated. LINK short-term 'bearish to 10.65' inferred from 'starting to curl over to the downside' plus buy-the-dip level. LINK resistance cited as both 14.58 and 14.78 (trend line inclines)."
+}

@@ -1,0 +1,321 @@
+{
+ "video_id": "qK0CY5l8cT4",
+ "channel": "A1 Trading",
+ "title": "The Dollar is Soaring (Rate Hikes Incoming)",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Nick and Alan (A1 Trading), with Chris",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "Headline 3.7% vs 3.6% and core 2.6% vs 2.5% exp.; sticky inflation puts Fed on rate-hike watch."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "October hike odds jumped toward 50/50; the Fed should act on data despite the election and is behind the curve."
+  },
+  {
+   "theme": "Market concentration",
+   "view": "S&P relies on ~30 stocks; 2027 earnings growth expected to roughly halve, damping momentum."
+  },
+  {
+   "theme": "Paradigm D",
+   "view": "Close to a money-printing regime where gold ultimately wins even if everything falls first."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (spot/futures)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     4200,
+     4240
+    ],
+    "invalidation": null
+   },
+   "condition": "if CPI cooler than expected, buy break and retest of 4,200-4,240",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Edge Finder score borderline +3; a cool CPI would get them bullish on a break and retest of 4,200/4,240. CPI came in hot (no follow-up gold call). Longer term, a shift to money printing ('paradigm D') makes gold one of the better winners.",
+   "conviction": "low",
+   "timestamp": "3:00",
+   "quote": "a cool print probably gets me off the fence and bullish on precious metals"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if CPI hot and BTC breaks back below ~80,000, sell the reversal",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Higher inflation and rates pressure crypto; on a hot print would short a break back below ~80,000 / reversal of the uptrend. Print came in hot.",
+   "conviction": "low",
+   "timestamp": "2:30",
+   "quote": "Bitcoin I'd be looking for a break back beneath like 80,000 ... Then I'd be looking to maybe sell into a potential reversal"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     2400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if 2,400 breaks to the downside on a hot print, look for short continuation",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Same hot-CPI crypto short thesis; clean level at 2,400.",
+   "conviction": "low",
+   "timestamp": "2:45",
+   "quote": "2400 on Ethereum, if this were to break to the downside, I may look for some short continuation plays"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 27400,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30200,
+     27400
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if 30,200 breaks, expect backfill toward ~27,400",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Hot CPI puts Fed on hike watch; previous all-time high support fading. Breaking ~30,200 would backfill the inefficient 3-day run-up and could bring a 12-13% drop to the ~27,400 decision point.",
+   "conviction": "low",
+   "timestamp": "14:00",
+   "quote": "if we take out, looks like uh 30,200, if we take that out, I feel like we we back we backfill that entire run-up"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hot CPI and rate-hike cycle that began in September typically means 3-5 months of rocky stocks; hopes for a pullback before year end, earnings growth slowing in 2027.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "we could have a rocky rocky road here until the end of the year"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Alan is short the Russell; small caps hate higher inflation and rates because of borrowing costs.",
+   "conviction": "medium",
+   "timestamp": "12:00",
+   "quote": "he's got shorts on the Russell which you couldn't be in a better spot right now given yield spiking"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hot CPI puts the Fed on rate-hike watch; dollar jumping.",
+   "conviction": "medium",
+   "timestamp": "6:00",
+   "quote": "this is going to put the Fed on rate hike watch. Which boom, there's the there's the dollar going"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year / 2-year yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Sticky headline and core inflation mean hawkish for longer; Fed seen 3-4 hikes behind with the 2-year rightly heading to ~4.9.",
+   "conviction": "medium",
+   "timestamp": "10:00",
+   "quote": "yields ripping higher again, what this is telling you is this is maybe a longer campaign than what people had been thinking"
+  }
+ ],
+ "notes": "Live CPI-release stream; no explicit date said, listing approx_date used (CPI day). Gold and crypto setups were conditional on the print; print was hot. Silver mentioned alongside gold only in passing."
+}

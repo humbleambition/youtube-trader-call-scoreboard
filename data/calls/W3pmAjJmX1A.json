@@ -1,0 +1,68 @@
+{
+ "video_id": "W3pmAjJmX1A",
+ "channel": "Meet Kevin",
+ "title": "Republicans are Panicking",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Midterms and AI techlash",
+   "view": "Anti-AI/data-center sentiment is hurting Republicans; without an Iran deal Democrats almost certainly sweep."
+  },
+  {
+   "theme": "Iran deal Oct 20-27",
+   "view": "Confident Trump signs an Iran deal between Oct 20 and 27, which would favour a split Congress."
+  },
+  {
+   "theme": "10y yield topped",
+   "view": "Called the top in the 10-year at ~5.27% and is confident it holds even after hot CPI/PPI."
+  },
+  {
+   "theme": "Solar/renewables",
+   "view": "If no Iran deal and Democrats sweep, it's time to buy solar plays; data centers get delayed, not stopped."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year Treasury yield (%)",
+   "price_at_call": 5.08,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.27
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Stands by his call that ~5.27% was the top in the 10-year, plus or minus five basis points, despite hot CPI and PPI.",
+   "conviction": "high",
+   "timestamp": "14:40",
+   "quote": "I'm confident that this is the top on the 10-year. And it was."
+  }
+ ],
+ "notes": "Mostly political. Conditional solar bullishness (if no Iran deal by Oct 27) has no specific ticker - kept as a macro theme only."
+}

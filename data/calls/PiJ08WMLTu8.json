@@ -1,0 +1,58 @@
+{
+ "video_id": "PiJ08WMLTu8",
+ "channel": "tastylive",
+ "title": "Why a 28% Rally Target Is Actually Ordinary",
+ "video_date": "2026-10-18",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ed Yardeni (views relayed by tastylive host, Options Math Check)",
+ "macro_themes": [
+  {
+   "theme": "Bond vigilantes / 10y above 5%",
+   "view": "The 10-year briefly topping 5% prompted Yardeni to trim his year-end S&P target and raise bear-case odds to 30%."
+  },
+  {
+   "theme": "Long-run S&P returns",
+   "view": "10,000 by end-2029 is only ~8% a year, close to the index's ordinary historical return and within options-implied ranges."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 index",
+   "price_at_call": 7800,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": 7900,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 10000,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Yardeni cut his year-end target from 8,400 to 7,900 after the 10y hit 5% and raised bear odds to 30%, but kept 10,000 by end-2029; host says options pricing makes this ordinary.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "He cut his year-end S&P 500 target from 8400 to 7900... but 10,000 by the end of 2029 didn't change"
+  }
+ ],
+ "notes": "Medium-term target 7,900 is a year-end 2026 target (~1% above 7,800), so bias recorded neutral. Long-term target is end-2029. These are Yardeni's views relayed by the host, not an in-video interview."
+}

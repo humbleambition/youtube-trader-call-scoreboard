@@ -1,0 +1,408 @@
+{
+ "video_id": "P8b2tsNSxRQ",
+ "channel": "Ticker Symbol: YOU",
+ "title": "Top Stocks I'm Buying To Get Rich Without Getting Lucky",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Alex (Ticker Symbol: YOU)",
+ "macro_themes": [
+  {
+   "theme": "AI build-out",
+   "view": "Chips, memory, power/cooling and AI software remain the growth engine; AI market to grow ~11x by 2035."
+  },
+  {
+   "theme": "Index risk from mega-IPOs",
+   "view": "Fast-track Nasdaq-100 inclusion of unprofitable SpaceX and likely Anthropic adds risk to QQQ as a cash parking spot."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "VGT",
+   "instrument_quoted": "VGT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Foundation ETF: concentrated in AI hardware/semis/software, skips non-AI names and unprofitable mega-IPOs like SpaceX/Anthropic, lower fees; up 35% YTD vs 23% QQQ, 14% SPY.",
+   "conviction": "high",
+   "timestamp": "2:30",
+   "quote": "That's why VGT is the foundation of my list of stocks to get rich without getting lucky."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Top pick: heart of AI with CUDA moat; ~19x forward P/E, lowest in Mag 7, while revenue growth accelerated to 106%.",
+   "conviction": "high",
+   "timestamp": "6:00",
+   "quote": "the top stock on my list is Nvidia since they're at the heart of the entire AI revolution"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Full-stack AI leader with TPUs (~quarter of world AI compute), Cloud backlog >$500B growing 82%; fine with $200B capex.",
+   "conviction": "high",
+   "timestamp": "8:30",
+   "quote": "Google is so far ahead with their full-stack strategy that they can arm their own rivals and still come out on top."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Custom AI chips for Google, Meta, OpenAI, Anthropic; AI chip revenue +221% y/y, guiding ~$115B next FY. Moved down one spot as Google also uses Marvell.",
+   "conviction": "high",
+   "timestamp": "9:30",
+   "quote": "whether the market shifts towards Nvidia's GPUs, Google's TPUs, or custom chips made by Broadcom, I win because I hold all three"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSM",
+   "instrument_quoted": "TSM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Builds ~90% of the most advanced chips, pricing power (raising prices up to 10%), revenue +51%; moved up a spot.",
+   "conviction": "high",
+   "timestamp": "10:30",
+   "quote": "Chip designers can compete. The company that builds everyone's chips doesn't have to."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Only US HBM maker; sold out through 2027 at higher prices, revenue ~5x y/y, 87% gross margins, ~6x forward earnings; memory no longer cyclical.",
+   "conviction": "high",
+   "timestamp": "11:30",
+   "quote": "memory is no longer a cyclical commodity"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRT",
+   "instrument_quoted": "VRT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Power (800V DC) and liquid cooling for AI racks with Nvidia; raised sales forecast to ~$14B with growth accelerating to ~35%.",
+   "conviction": "high",
+   "timestamp": "13:30",
+   "quote": "Every gigawatt-scale AI factory being built today needs what they're selling"
+  },
+  {
+   "group": "stocks",
+   "ticker": "IREN",
+   "instrument_quoted": "IREN",
+   "price_at_call": 35,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Most secured power for its size (>5 GW); Nvidia contract plus warrant at $70 vs $35 stock, Microsoft $9.7B deal. Volatile due to capital needs; moved to bottom of list on execution risk.",
+   "conviction": "medium",
+   "timestamp": "15:00",
+   "quote": "I ran stock currently trades at $35 per share, which implies around a 100% upside just to hit Nvidia's strike price."
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "~22x forward P/E despite heavy capex; ad impressions +14%, price per ad +12%, revenue +28%; Muse agent hit #1.",
+   "conviction": "high",
+   "timestamp": "16:30",
+   "quote": "That's why I'll keep dollar cost averaging into this global growth machine."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Revenue +93%, guidance implies 82% growth, US commercial +134%, 55% net margins; AI market ~30% CAGR to 2035.",
+   "conviction": "high",
+   "timestamp": "17:30",
+   "quote": "I expect that growth to continue"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CRWD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Falcon platform and threat graph positioned for AI-driven cyber threats; record net new ARR +51%.",
+   "conviction": "high",
+   "timestamp": "19:00",
+   "quote": "I've been buying CrowdStrike stock for the last few years now."
+  }
+ ],
+ "notes": "Top-10 list (plus VGT) locked for 2026; long-term buy-and-hold views, no price targets. Transcript's 'I ran'/'IRobot' = IREN. IREN $70 is Nvidia's warrant strike, not stated as a target."
+}

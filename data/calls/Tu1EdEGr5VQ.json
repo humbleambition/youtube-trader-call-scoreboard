@@ -1,0 +1,189 @@
+{
+ "video_id": "Tu1EdEGr5VQ",
+ "channel": "CPM Group",
+ "title": "Silver’s $60 Floor Is Gone: What Happens Next?",
+ "video_date": "2026-10-16",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "metals",
+ "speaker": "Jeffrey Christian",
+ "macro_themes": [
+  {
+   "theme": "US midterm election risk",
+   "view": "Run-up to and especially aftermath of the midterms will be treacherous, possibly a hostile Nov-Jan supportive of gold."
+  },
+  {
+   "theme": "Inflation re-accelerating",
+   "view": "CPI and PPI show worsening inflation (headline 3.7%, core 2.6%), concerning for the Fed and Treasury."
+  },
+  {
+   "theme": "Rising interest rates",
+   "view": "Higher rates are a headwind for gold but a bigger headwind for a top-heavy stock market, which becomes a tailwind for metals."
+  },
+  {
+   "theme": "Top-heavy stock market",
+   "view": "Record stock indices rest on a handful of spurious AI, crypto and data-center names and look increasingly volatile."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "spot gold",
+   "price_at_call": 4197,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4050,
+     4000,
+     3800
+    ],
+    "resistance": [
+     4200,
+     4213
+    ],
+    "invalidation": null
+   },
+   "condition": "Wouldn't be surprised by a spike below 4,000 (to ~3,800) followed by strong buying and a sharp break above 4,200.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Range-bound 4,050-4,200; longer it fails to break up, the higher the odds of a dip, but investors waiting below 4,000 plus political and inflation risk should drive prices higher over coming months, like last Nov-Jan.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "while we might see further declines in the near term, over the next several months, we do expect precious metals prices to rise."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "spot silver",
+   "price_at_call": 55.77,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     54
+    ],
+    "resistance": [
+     58,
+     60
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Silver broke below its $60 floor and is weaker than gold due to industrial demand headwinds and substitution, but could rise sharply along with precious metals over the coming months.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "silver is somewhat weaker than gold. That said, we do think that the price could rise sharply."
+  },
+  {
+   "group": "metals",
+   "ticker": "PL",
+   "instrument_quoted": "spot platinum",
+   "price_at_call": 1654,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1600,
+     1622
+    ],
+    "resistance": [
+     1660
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Testing whether it can hold a base above 1,600; not sure it can, but more interested longer term.",
+   "conviction": "low",
+   "timestamp": "9:50",
+   "quote": "We're not quite sure that it can. Longer term, we're more interested in it, but ... we may see some price weakness before that."
+  },
+  {
+   "group": "metals",
+   "ticker": "PA",
+   "instrument_quoted": "spot palladium",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Weak auto demand, BEV substitution and possibly softening semiconductor demand, with a 2001-style recycling glut analogy.",
+   "conviction": "low",
+   "timestamp": "10:20",
+   "quote": "palladium prices have been much weaker... demand for palladium for use in semi-conductors ... may get a lot softer over the ... next few years."
+  }
+ ],
+ "notes": "Platinum/palladium use non-standard tickers PL/PA. Gold short-term is a two-sided scenario (dip then rally), recorded as mixed."
+}

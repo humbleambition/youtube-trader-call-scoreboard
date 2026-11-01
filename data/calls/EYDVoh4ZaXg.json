@@ -1,0 +1,89 @@
+{
+ "video_id": "EYDVoh4ZaXg",
+ "channel": "Ross Givens",
+ "title": "SpaceX Just Made an $8 BILLION Move\u2026 Here's the Opportunity",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Satellite direct-to-phone disruption",
+   "view": "SpaceX's $8B purchase of 800 MHz low-band spectrum plus 15,000 new satellites is a real threat that could push legacy carriers into a price war and thinner profits."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "TMUS",
+   "instrument_quoted": "TMUS",
+   "price_at_call": 150,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If T-Mobile holds market share it could double over a couple of years; if SpaceX wins share it is 'heading straight to bankruptcy court'. Watch Oct 28 earnings, Nov 5 FCC partner report, Dec 4 satellite filings.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Carriers fell 9-13% on Oct 9 after the spectrum sale; he says the dip is the start of a real threat, not an overreaction, despite TMUS looking cheap at ~13.6x forward earnings.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "a lot of people are writing these dips off as a one-day over panic, but I think they're wrong. I think this is the start of a real threat"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": 160,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Only company with rockets, satellites and low-band spectrum; could approach a monopoly in satellite internet plus phone. But says it is overpriced and fair value is about half; hopes to buy cheaper. Analysts' avg 12-mo target ~$222 (not his own).",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I was hoping and I'm still hoping for a chance to buy it much cheaper than that, but we may not get it"
+  }
+ ],
+ "notes": "SpaceX ticker not canonical; used 'SPACEX'. TMUS bias is implied from the threat thesis rather than an explicit sell call; he frames buying TMUS as a bet either way. VZ and T mentioned with same thesis, not separately recorded."
+}

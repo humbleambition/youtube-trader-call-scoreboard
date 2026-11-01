@@ -1,0 +1,111 @@
+{
+ "video_id": "WLq7cdrpZTM",
+ "channel": "Meet Kevin",
+ "title": "Post SPCX Earnings | Iran, Tesla, Rates, AI Chips",
+ "video_date": "2026-10-21",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Meet Kevin (Kevin Paffrath)",
+ "macro_themes": [
+  {
+   "theme": "Iran deal",
+   "view": "An Iran deal is not priced in; a deal would trigger a V-shaped recovery and a giant euphoric rally."
+  },
+  {
+   "theme": "AI boom / GPU rental rates",
+   "view": "Rising 2026 rental rates on A100, H100 and GB200 chips show AI productivity accelerating, refuting the depreciation-cliff bear case."
+  },
+  {
+   "theme": "Labor market weakening",
+   "view": "Agentic AI will hit jobs; rising Black unemployment and layoffs are an early canary, with the labor market likely rolling over in roughly a year."
+  },
+  {
+   "theme": "Fed hikes",
+   "view": "Expects only one more Fed hike this cycle; soft labor data makes a December hike unlikely."
+  },
+  {
+   "theme": "Market outlook",
+   "view": "Very bullish on stocks for the next year, then risk of a downturn once the labor market rolls over."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 724.5,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     725
+    ],
+    "invalidation": null
+   },
+   "condition": "Bullish rally contingent on an Iran deal; after ~1 year, bearish risk if labor market rolls over",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "SPY stuck below 725 after two rejections; expects a euphoric rally after an Iran deal and strong gains over the next year driven by AI.",
+   "conviction": "medium",
+   "timestamp": "1:40",
+   "quote": "I actually think we're going to see a giant euphoric rally in the stock market post an Iran deal."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150.98
+    ],
+    "resistance": [
+     165.23
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Post-earnings SpaceX tagged the upper line at 165.23 and rejected, falling back to the morning level.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "gnarly rejection on uh SpaceX of uh of the 16523 line within a dollar"
+  }
+ ],
+ "notes": "Video date inferred: PHP bug 'disclosed Wednesday'/'this morning' and 'coupon expiring October 30th, about 9 days' -> Wed 2026-10-21 (listing said 10-22). The 724-725 level is assumed to be SPY. Brent ~109 and 'bonds 5.10' were mentioned with no directional view. The Fed one-hike bet is recorded as a macro theme only. Long-term ES bias is 'mixed' because he is bullish for ~1 year, then cautious."
+}

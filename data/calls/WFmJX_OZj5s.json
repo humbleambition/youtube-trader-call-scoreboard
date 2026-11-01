@@ -1,0 +1,66 @@
+{
+ "video_id": "WFmJX_OZj5s",
+ "channel": "Sean Foo",
+ "title": "France Bond Collapse Implodes EURO; China Russia Gas Deal Stuns; Japan Begs For Rare Earths",
+ "video_date": "2026-10-22",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "France debt crisis",
+   "view": "Riots and 5% French yields leave France no way out; ECB bailout (TPI/OMT) increasingly likely."
+  },
+  {
+   "theme": "Euro weakness",
+   "view": "ECB money printing to rescue France will weaken the euro and worsen Europe's energy inflation."
+  },
+  {
+   "theme": "Russia-China integration",
+   "view": "Power of Siberia gas deal accelerates de-dollarization and RMB-settled trade."
+  },
+  {
+   "theme": "Rare earth leverage",
+   "view": "China's control of yttrium leaves Japan's chip and jet-engine industries exposed."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "EUR/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Traders front-run expected ECB bond buying for France; euro already down ~4% vs dollar.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "investors, they fear a bailout. They fear the euro is about to fall even harder."
+  }
+ ],
+ "notes": "Macro commentary; only the euro has a directional market view."
+}

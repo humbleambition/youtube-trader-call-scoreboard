@@ -1,0 +1,96 @@
+{
+ "video_id": "fFViVGv5VQ4",
+ "channel": "Verified Investing",
+ "title": "Exercise Vs Assignment: The Options Rule Most Traders Never Learn",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "Jake Sweeney",
+ "macro_themes": [
+  {
+   "theme": "Oil and airlines",
+   "view": "Falling oil eases airlines' biggest cost, supporting airline stocks."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "DAL",
+   "instrument_quoted": "DAL",
+   "price_at_call": 76.69,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 81.3,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     76,
+     73
+    ],
+    "resistance": [
+     81.3,
+     85,
+     87.39
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Holding multi-touch trendline from Apr 2025 low after earnings; low IV rank (19) post-earnings; buying Jan 15 2027 80 call; 81.30 moderate, 87.39 major resistance.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "I don't think we have much downside right now. We could drop a few more dollars but then bounce off that support."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": 95,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Delta call thesis assumes oil keeps falling",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil sold off to 95 after a week of green bars.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "I'm looking at a call setup if I have a thesis that oil keeps falling."
+  }
+ ],
+ "notes": "DAL medium target 81.3 is the Fib resistance he does not expect to be exceeded near term; treat loosely. Mostly an options education video."
+}

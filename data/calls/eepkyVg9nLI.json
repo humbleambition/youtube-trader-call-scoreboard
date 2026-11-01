@@ -1,0 +1,179 @@
+{
+ "video_id": "eepkyVg9nLI",
+ "channel": "Money Making Market",
+ "title": "THE MARKET IS STALLING BECAUSE A BIG MOVE IS COMING! SPY QQQ.",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "VIX expiration timing",
+   "view": "VIX expiration on Wednesday the 21st (OPEX on the 16th) is a window to watch for a volatility turn."
+  },
+  {
+   "theme": "Volatility risk",
+   "view": "If the VIX daily chart curls up from its higher low, big volatility could come in; a sharp VIX breakdown without divergence would let bulls squeeze higher."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the VIX 2-hour confirms down and breaks without divergence, bullish for stocks; if the daily curls up, expect a volatility spike.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX tightening on the daily with a possible higher low; 2-hour rolling but watching for divergence into vixiration.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "if the daily chart curls to the upside, it's going to be risky"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 794.55,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     772.87
+    ],
+    "resistance": [
+     783.15,
+     788.22,
+     794.55,
+     800
+    ],
+    "invalidation": null
+   },
+   "condition": "If the SPY 2-hour curls up into positive territory and squeezes through 783.15, target the 788.22 weekly expected move and 794.55 by month-end, possibly ~800.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour still has room to curl up; volatility breakdown would confirm upside toward weekly/monthly expected moves.",
+   "conviction": "low",
+   "timestamp": "0:40",
+   "quote": "To get to our easy targets up here of 78822, that weekly expected move or even hey 79455 by the end of the month"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735.29,
+     731.5
+    ],
+    "resistance": [
+     751.85
+    ],
+    "invalidation": null
+   },
+   "condition": "Likely tags the weekly expected move lower; a confirmed higher low or divergence there could start a move back up. Bear case needs a break of 731.50.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "QQQ failed its higher low and went negative on the 2-hour, so more selling to the weekly expected move is likely; only a MACD divergence so far.",
+   "conviction": "low",
+   "timestamp": "6:30",
+   "quote": "we see more selling which means we are very likely to go tag that weekly expected move"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     273.4
+    ],
+    "resistance": [
+     280.26
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs a 2-hour confirmation (green bar) tomorrow; then test the high and target next week's weekly expected move.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "2-hour MACD curling up as a higher low, closer to center line than SPY/QQQ.",
+   "conviction": "low",
+   "timestamp": "12:50",
+   "quote": "I'm leaning towards this 2-hour confirming to the upside completely tricking everyone"
+  }
+ ],
+ "notes": "Date ambiguous: host says OPEX is the 16th and vixiration the 21st \"next Wednesday\" and references \"the weekend\" analysis; listing date 2026-10-14 kept. Levels as spoken: 78822/79455/78315/77287 read as SPY 788.22/794.55/783.15/772.87; QQQ 751.85/735.29/731.50; IWM 280.26/273.40. SPY target is conditional and low conviction."
+}

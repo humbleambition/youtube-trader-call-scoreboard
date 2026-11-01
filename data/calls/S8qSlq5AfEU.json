@@ -1,0 +1,218 @@
+{
+ "video_id": "S8qSlq5AfEU",
+ "channel": "VRIC Media",
+ "title": "David Stockman: Buy Gold Before The Financial System Unravels",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "David Stockman",
+ "macro_themes": [
+  {
+   "theme": "US debt trajectory",
+   "view": "Public debt at $40T is on a path to $150-200T by mid-century under realistic rates; unsustainable, something breaks first."
+  },
+  {
+   "theme": "Hawkish Warsh Fed",
+   "view": "Kevin Warsh is a 'junior Volcker' who won't restart QE or bail out markets, so yields must be set by real supply and demand."
+  },
+  {
+   "theme": "Rates rising",
+   "view": "Interest rates have been rising for 12-18 months and will go considerably higher, grinding the economy down and possibly causing recession."
+  },
+  {
+   "theme": "Stock and AI bubble",
+   "view": "Market at 22-25x earnings; nine leading AI stocks at ~130x free cash flow; tens of trillions of market cap could be wiped out without a Fed bailout."
+  },
+  {
+   "theme": "Inflation sticky",
+   "view": "Hot wholesale prices (PPI ~15% annualised in September) leave the Fed no room to ease."
+  },
+  {
+   "theme": "Dollar cleanest dirty shirt",
+   "view": "Dollar won't crash on an FX basis because EU, China and Japan are worse off."
+  },
+  {
+   "theme": "Gold revaluation / gold bonds",
+   "view": "Revaluing Fort Knox gold means nothing; small gold-backed bond issuance would be symbolic only."
+  }
+ ],
+ "calls": [
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no price quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Unsustainable debt, rising rates and an end to Fed bailouts; gold is 'only going to go up', he won't say when or how fast.",
+   "conviction": "high",
+   "timestamp": "6:00",
+   "quote": "I'm a gold bug, okay? So I think people should load up on that. There it's it's only going to go up."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "US stock market (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "sell",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Market absurdly overvalued at 22-25x earnings with rampant speculation; a hawkish Fed that won't bail out plus rising rates will end the party.",
+   "conviction": "high",
+   "timestamp": "7:00",
+   "quote": "the financial markets now are very dangerous places. The stock market is absurdly overvalued."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "nine largest AI stocks (Google, Oracle, Microsoft, Amazon etc.)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Leading AI stocks went from $4T to $24T market cap while free cash flow grew ~2%/yr, now ~130x FCF; halving the multiple erases ~$12T.",
+   "conviction": "medium",
+   "timestamp": "17:00",
+   "quote": "There's nothing in the known universe or the unknown universe that's worth 130 times free cash flow."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "30-year Treasury yield",
+   "price_at_call": 5.3,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "With no Fed bond buying, $2-3T/yr of deficits plus rollovers must be financed by real savings, so yields go considerably higher; prefers T-bills over 30-year bonds.",
+   "conviction": "high",
+   "timestamp": "16:00",
+   "quote": "I think they're going considerably higher and what that will do is grind the economy down to to a crawl at best"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar exchange rate (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Dollar is the cleanest dirty shirt; EU, China and Japan are in worse shape, so no FX crash despite US debt.",
+   "conviction": "medium",
+   "timestamp": "33:00",
+   "quote": "on a pure exchange rate basis, I don't think the dollar is going down."
+  }
+ ],
+ "notes": "TYX price_at_call 5.3 from '30-year bonds... yielding 5.3 or 5.5, whatever the number is' (approximate). Bias on yields is for yields up (bearish bonds). DXY coded neutral: he says it won't go down but gives no upside view. 'Yesterday' hot PPI implies a date near a September PPI release, but no explicit date, so listing date used. Contains conference promo."
+}

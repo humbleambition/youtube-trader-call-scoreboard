@@ -1,0 +1,110 @@
+{
+ "video_id": "-HXNDeabnaM",
+ "channel": "Meet Kevin",
+ "title": "faaaaa",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {"theme": "'Great suckening' of capital by AI fundraising", "view": "Massive AI capital raises (OpenAI, Anthropic, SpaceX, Meta, Oracle) suck money out of stocks and weigh on the market until companies pass peak negative cash flow."},
+  {"theme": "Bond yields peaked", "view": "He thinks yields peaked around 5.27% and are now falling as a flight to safety, making bonds and rate-sensitive plays attractive."},
+  {"theme": "Fear is a buying opportunity", "view": "Iran tensions, the election and next week's Fed meeting create fear; these are times to buy, and he expects a rally after the midterms."},
+  {"theme": "Rates to zero and oil to $40 in 2030s", "view": "AI-driven deflation plus stimulus will bring rates back to zero by ~2032-33, oil back to $40 and booming real estate."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "NQ", "instrument_quoted": "QQQ",
+   "price_at_call": 700,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [700, 707], "resistance": [715], "invalidation": null},
+   "condition": "Buy only once price is in the 700-707 box, not between 707 and 715.", "action": "buy", "entry": 707, "stop": null,
+   "method": "mixed",
+   "reason": "700-707 box is where September peak fear was; AI earnings beats with collapsing forward P/E create opportunity; expects post-midterm rally.",
+   "conviction": "medium", "timestamp": "3:30",
+   "quote": "You buy when we break through and you're between 700 and 707. That's the buy zone right here"
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "TNX", "instrument_quoted": "Treasury yields (10y implied)",
+   "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": 0, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [5.27], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Yields peaked near 5.27 and are falling on flight to safety; long term AI deflation plus money printing take rates to zero by 2032-33.",
+   "conviction": "medium", "timestamp": "1:00",
+   "quote": "I think we just hit peak yields"
+  },
+  {
+   "group": "stocks", "ticker": "NVDA", "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "buy", "entry": null, "stop": null,
+   "method": "fundamental",
+   "reason": "Captures ~$690B of AI capex; trades at roughly 0.58 PEG.",
+   "conviction": "high", "timestamp": "16:00",
+   "quote": "This is very bullish Nvidia, by the way. Bullish Nvidia. Nvidia is dirt cheap right now."
+  },
+  {
+   "group": "stocks", "ticker": "META", "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "mixed", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "buy", "entry": null, "stop": null,
+   "method": "fundamental",
+   "reason": "Negative cash flow and data-center leases are a headwind until model revenue arrives ~early 2028, but he buys the dip.",
+   "conviction": "medium", "timestamp": "14:00",
+   "quote": "I'm bullish Meta. I'm also, you know, I buy the dip on Meta, man."
+  },
+  {
+   "group": "stocks", "ticker": "AAPL", "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "hold", "entry": 315, "stop": null,
+   "method": "fundamental",
+   "reason": "Bought ~315 expecting iPhone Duo upgrade cycle to sell out; Apple doesn't need to raise capital.",
+   "conviction": "medium", "timestamp": "22:00",
+   "quote": "I believe the Duo was going to sell out. I believe this next upgrade cycle is here."
+  },
+  {
+   "group": "stocks", "ticker": "LDI", "instrument_quoted": "LDI",
+   "price_at_call": 0.57,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": 2.5, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "If yields keep falling.", "action": "hold", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Highly rate-sensitive mortgage play with bankruptcy risk; believes it survives at least a year and yields have peaked.",
+   "conviction": "low", "timestamp": "19:00",
+   "quote": "I think they'll probably go back to a two to three dollar stock pretty damn quickly if yields keep falling"
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "CL", "instrument_quoted": "oil $/barrel",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": 40, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Expects Middle East and Russia tensions to fade and AI-driven deflation in the 2030s.",
+   "conviction": "low", "timestamp": "11:00",
+   "quote": "We'll be back to $40 per barrel on oil."
+  }
+ ],
+ "notes": "Date from listing; mentions Fed meeting 'next Wednesday' and Bloom Energy Q3 earnings that day. LDI target 2-3 recorded as midpoint 2.5; he says '$57 stock' but means 57 cents. QQQ price_at_call approximate: he says it reached the 700-707 zone. Oil $40 is a 2030s horizon. Bloom Energy, Lennar, Western Digital discussed as examples without clear bias, so skipped."
+}

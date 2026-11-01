@@ -1,0 +1,236 @@
+{
+ "video_id": "KCdHh6mN-Uo",
+ "channel": "tastylive",
+ "title": "Tim Knight's Textbook Short Just Fell Another 15% Overnight",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Tim Knight (Slope of Hope), guest",
+ "macro_themes": [
+  {
+   "theme": "Short-term bottom, bigger fall later",
+   "view": "After a strong run lower he cut shorts from 37 to 22 and expects a countertrend 'slope of hope' rally before a much bigger decline."
+  },
+  {
+   "theme": "AI/semis bad news",
+   "view": "Bad news on hyperscalers, semis, memory and AI financing has largely been absorbed by the sell-off for now."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "ES escaped below its 'orange line' tractor-beam level; expects a snapback rally (possibly on an administration gimmick) to shortable prices; still holds 22 smaller shorts.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "the ES I think could easily snap back to our friendly little orange line there"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "NQ futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bounce view fails if NQ breaks below the session's intraday low; trend line from lifetime high was his target and was hit.",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "NQ broke the trend line from the July low and reached his descending trend-line target; expects a rally that gives bears another chance before a much bigger fall.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "I think we're going to rally back. Fellow bears ... you're going to get another chance ... a much bigger fall is on the way"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KORU",
+   "instrument_quoted": "KORU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Textbook completed head-and-shoulders reversal; fell ~15% overnight. He covered his short yesterday and would like a rally to re-short.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "this is the the arc archetype of a head and shoulders reversal"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "take_profit",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Tagged and slightly exceeded its descending trend line, oversold; took profits and hopes for a countertrend bounce back toward the prior rectangle.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "what I'm hoping for is some kind of rally. Kind of your ... countertrend slope of hope type bounce"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLU",
+   "instrument_quoted": "XLU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "His biggest position and preferred rate-sensitive short; opened strong and trading weaker.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "XLU, on the other hand, I'm enthusiastic about ... yes, it's a short it's a big short"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": 140,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     150,
+     140
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Fell to ~140, below his ~150 support, printed a hammer and is springing back toward the support zone; supports his bounce view.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "Got a little hammer there. We're at the highs of the day ... it's starting to spring back toward that that zone of support"
+  }
+ ],
+ "notes": "XLU direction from 'it's a big short' amid garbled wording; treated as short. ES/NQ/SMH: short-term bounce is a hope/expectation while still net short. SpaceX ticker not canonical ('SPACEX'). Host's own long TLT/consumer views not recorded."
+}

@@ -1,0 +1,18 @@
+{
+ "video_id": "l3YGwjjpy7w",
+ "channel": "tastylive",
+ "title": "A 20 Million Call Bet on a Stock Down Two-Thirds",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "deep_dive_stock",
+ "speaker": "tastylive host (Signal vs. Noise)",
+ "macro_themes": [
+  {
+   "theme": "AI infrastructure financing",
+   "view": "The market is questioning whether the AI build-out can outrun the financing it requires; credit and equity markets disagree sharply on CoreWeave."
+  }
+ ],
+ "calls": [],
+ "notes": "Host reports unusual options flow in CRWV (23,910 Apr-2027 90 calls, ~$19.6M premium, bought with stock at 69 Wed close; stock ~64 'this morning') and lays out bull (Wall St avg target $140.58, Nvidia support, Nov 11 earnings) and bear (15% bond yields, 63% implied default) cases, but takes no side and ends with a question. No call recorded. Date set to Thu 2026-10-15 from 'Wednesday close ... this morning'."
+}

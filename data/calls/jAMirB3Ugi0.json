@@ -1,0 +1,93 @@
+{
+ "video_id": "jAMirB3Ugi0",
+ "channel": "Ricky Gutierrez",
+ "title": "The 20% Micron Crash: What You Need To Know Now",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Healthy pullback in a bull market",
+   "view": "Nasdaq was overbought at all-time highs; the selloff is a slight, healthy pullback in a 2026 bull market and a dip-buying opportunity."
+  },
+  {
+   "theme": "Leverage risk",
+   "view": "Excess leverage (e.g. KOSPI down 35% from highs) amplifies selloffs; beginners should size small and avoid leverage."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": 888,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 1100,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Down ~20% in a week from 1,113 to ~887 after-hours; strong fundamentals (12.2 P/E, ~43% fair-value upside, huge revenue/net income); sees the dip as a buying opportunity but small size, no leverage, could fall further first.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "There's no question that I see this as an opportunity to buy the dip."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq (no level quoted)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Pullback from overbought all-time highs is healthy within a bull market; long side favored.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "You can make more money going long than going short, especially in a bull market. And that is the current sentiment."
+  }
+ ],
+ "notes": "Mostly a position-sizing lesson. MU target 1100 inferred from 'if it returns back to 1,100' / 'recover ... to previous highs 20%'; treat as soft. Mentions PPI 'tomorrow' and earnings week ahead; date kept from listing."
+}

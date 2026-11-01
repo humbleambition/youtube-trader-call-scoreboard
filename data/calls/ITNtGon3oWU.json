@@ -1,0 +1,138 @@
+{
+ "video_id": "ITNtGon3oWU",
+ "channel": "Meet Kevin",
+ "title": "This CPI Report is Bad for MANY Reasons...",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "Core CPI ~0.35% m/m, a right-tail miss; half of categories above 3% y/y, which Warsh says means more hikes."
+  },
+  {
+   "theme": "More Fed hikes priced",
+   "view": "Market now prices ~3.86 more hikes to Sept 2027 and ~50% odds of an October hike."
+  },
+  {
+   "theme": "Consumer squeeze and layoffs",
+   "view": "Real worker pricing power falling 0.7% y/y; layoffs will eventually push unemployment sharply higher."
+  },
+  {
+   "theme": "Iran deal as the bailout",
+   "view": "Only an Iran deal (ideally Oct 20-27) can calm the 10-year; otherwise Fed hikes in October and December."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.312,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Yields stay elevated unless an Iran deal arrives",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Hot CPI and supercore at 0.42% keep the 10-year rubber-banding above 5.27; only an Iran deal brings relief.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "we have still rubber banded above that 5.27. Now, I hope this fades today because 5.312 is high"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": 735,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Peak fear (QQQ ~700) is behind; still optimistic, but this is not a dip worth buying.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I remain optimistic... this isn't the level where I want to buy the dip because it's not much of a dip"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Cash-rich companies outperform as rates rise; highly indebted names like CoreWeave do worse.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "as usual, the cash-rich companies are doing the best. That's Apple"
+  }
+ ],
+ "notes": "No explicit date or session time; recorded shortly after CPI release. AAPL is an implied relative-strength view, not an explicit trade."
+}

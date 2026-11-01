@@ -1,0 +1,163 @@
+{
+ "video_id": "xSPrjLdpxec",
+ "channel": "Verified Investing",
+ "title": "Euro Collapse, Yuan Breakout: What It Means For Bitcoin And Gold",
+ "video_date": "2026-10-21",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "daily_market",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "European unrest",
+   "view": "Civil unrest spreading across Europe is weighing on the euro."
+  },
+  {
+   "theme": "Dollar and assets",
+   "view": "A weaker dollar tends to lift Bitcoin, gold and oil."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "euro in dollars",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounce off 50% Fib retracement may just be technical; could reject at ascending trend line; further falls of ~3.7% then ~8.5% possible.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "If it does fall there, you're looking at an additional 3.7% decline and there you're looking at about 8 and 1/2% decline"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if the dollar falls back to the broken descending trend line",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Euro pain is dollar gain; expects a bounce on a retest of the descending trend line.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "I would expect a bounce if we come down and... retest at the scene of the crime."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "USDJPY",
+   "instrument_quoted": "Japanese yen",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yen in a bear flag with measured target near July lows (bearish yen).",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "Japanese yen looking a little bit bearish, specifically bear flag."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CNY",
+   "instrument_quoted": "Chinese yuan vs USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yuan breaking out against the dollar; may retest, then ~2-3% more gain toward a multi-year descending trend line.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "for the Chinese yuan to gain potentially about 2 3% against the US dollar"
+  }
+ ],
+ "notes": "FX tickers outside the canonical list (EURUSD, USDJPY, CNY); biases are for the named currency (yen bearish, yuan bullish), not the pair quote direction. No price levels given; moves stated in percent."
+}

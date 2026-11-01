@@ -1,0 +1,29 @@
+{
+ "video_id": "Go8evxoFWIs", "channel": "David Lin", "title": "China's Nov. 27 Deadline: America's Next Supply Shock? | Rodney Stevens",
+ "video_date": "2026-10-20", "date_source": "listing", "recorded_when": "unknown",
+ "video_type": "macro_interview", "speaker": "Rodney Stevens (CEO, NSJ Antimony)",
+ "macro_themes": [
+  {"theme": "China antimony export ban deadline", "view": "When China's military-use export lifeline expires Nov 27 it will likely create a new supply shortfall and another rally in antimony prices."},
+  {"theme": "Antimony super cycle", "view": "Antimony is in a long-term bull market/super cycle of 5+ years, with mini destocking/restocking cycles; the current price drop reflects buyers drawing down stockpiles that are now dwindling."},
+  {"theme": "US critical-mineral dependence", "view": "The US imports ~91% of its antimony and the government is aggressively funding new supply; China retains huge leverage."}
+ ],
+ "calls": [
+  {
+   "group": "stocks", "ticker": "UAMY", "instrument_quoted": "US Antimony Corp (NYSE) used as a proxy for the antimony price",
+   "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "If China lets the Nov 27 military-use export exemption lapse and/or stockpiles run down, antimony rallies again",
+   "action": "",
+   "entry": null, "stop": null,
+   "method": "macro",
+   "reason": "Antimony (proxied by UAMY, which peaked ~April 2026 and collapsed) fell as users fed off stockpiles; dwindling inventories and the China export deadline are catalysts for a new rally within a 5+ year super cycle.",
+   "conviction": "medium",
+   "timestamp": "0:07",
+   "quote": "the stockpiles that they built up are are likely dwindling. Um, there that in and of itself would be a catalyst for a new rally"
+  }
+ ],
+ "notes": "Sponsored video (disseminated on behalf of NSJ Antimony). Views are on the antimony metal; UAMY is used only as a price proxy, so the call is really on antimony. Guest's own stock NSJ (rose ~10c to 63c in 2026, drill results due in 3-4 weeks) not recorded as a call because he gives no price view beyond promotion."
+}

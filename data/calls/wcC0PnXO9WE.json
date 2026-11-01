@@ -1,0 +1,174 @@
+{
+ "video_id": "wcC0PnXO9WE",
+ "channel": "Money Making Market",
+ "title": "WATCH OUT FOR THIS BEFORE YOU SAY STOCK MARKET CRASH!",
+ "video_date": "2026-10-23",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [
+  {
+   "theme": "Bears in control but fragile",
+   "view": "Bears technically control the tape, but one confirmation of 2-hour bullish divergences on SPY/QQQ and a VIX lower high would flip it."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     756.63
+    ],
+    "resistance": [
+     771.29,
+     796.1
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 2-hour SPY divergence confirms up (and VIX makes a lower high), daily turns positive and points to the 796.10 annual expected move / 800; if divergences fail, bear continuation.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily MACD still in positive territory near center line; 2-hour MACD and RSI divergences formed but not confirmed.",
+   "conviction": "medium",
+   "timestamp": "4:04",
+   "quote": "By the end of 2026 I do see this market going to 800 until the market shows me something that proves that completely wrong"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     691.64
+    ],
+    "resistance": [
+     717.3
+    ],
+    "invalidation": null
+   },
+   "condition": "If the QQQ 2-hour divergence/double bottom confirms up, test the high and make a new one; otherwise could flush to weekly expected move.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Significant 2-hour RSI and MACD divergence while price makes new lows; daily near center line with no reversal signal.",
+   "conviction": "low",
+   "timestamp": "9:09",
+   "quote": "If the daily is able to curl up here, it's going positive, which means test the high, go make a new one"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     273.42
+    ],
+    "resistance": [
+     279.92,
+     285,
+     296.32
+    ],
+    "invalidation": null
+   },
+   "condition": "If 30-minute confirms up, test the high; retaking 296.32 with a daily higher low is bullish, a roll from ~285 would be bearish.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "30-minute positive trend with no reversal signal after small MACD/RSI divergence; no daily divergence.",
+   "conviction": "low",
+   "timestamp": "13:13",
+   "quote": "as of right now, the 30-minute is in a positive trend with no reversal signal"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 2-hour VIX crosses down forming a lower high, a squeeze higher in stocks is likely.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "VIX up 14.1% in a day implies ~85% odds of a reversal update within two sessions; still pointed up with no downside confirmation.",
+   "conviction": "low",
+   "timestamp": "15:15",
+   "quote": "As of right now, volatility is heading to the upside and you have no confirmation that any downside is coming"
+  }
+ ],
+ "notes": "Host not named. No date said; 'into Friday'/'tomorrow' suggests recorded Thursday evening (likely 2026-10-22); listing date used. Short-term biases are conditional on divergence confirmations, hence 'mixed'."
+}

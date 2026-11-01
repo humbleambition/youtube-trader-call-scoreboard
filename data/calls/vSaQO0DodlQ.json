@@ -1,0 +1,473 @@
+{
+ "video_id": "vSaQO0DodlQ",
+ "channel": "Verified Investing",
+ "title": "AI Rebound After Fear Of Crash Fades, Oil Drops As Gold And Silver Stall...Here Are The Trades!",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Crash fears overdone",
+   "view": "Retail fear and crash calls on social media make a technical bounce more likely; crash probabilities near zero."
+  },
+  {
+   "theme": "AI trade topped",
+   "view": "The AI/tech trade likely topped with Micron in summer; rallies since are lower-high bounces."
+  },
+  {
+   "theme": "Bond yields drive everything",
+   "view": "Rising yields and debt stress (CoreWeave CDS, US debt) are the key risk; eventual epic collapse long term."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bounce off double-bottom/trend-line support; bull flag; remains bullish until neutral zone breaks; rotation can carry S&P to 8,000.",
+   "conviction": "high",
+   "timestamp": "0:04",
+   "quote": "until we break into the neutral zone on the S&P, I have to remain bullish"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq-100 futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Big bounces expected but AI trade has topped with lower highs since summer.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "I actually think the tech trade, the AI trade has topped"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 101,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     101
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Expects retrace after late-week pullback to ~101 then watch for bounce or break.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I'm expecting a retrace on the dollar back to about the 101 or just below level"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 88.75,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 75,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     88.75,
+     75
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Net bearish, short oil in live portfolio; target 88.75 then a bigger dump to ~75.",
+   "conviction": "high",
+   "timestamp": "0:07",
+   "quote": "I'm still betting that we come down to seven to 88.75 and at some point break that"
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 102,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     102
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broke below long-term trend line; can bounce back to ~102 'scene of the crime' but that is rejection resistance.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "Intel could easily trade back let's say to $102 per share, but once there it's going to meet significant resistance"
+  },
+  {
+   "group": "stocks",
+   "ticker": "META",
+   "instrument_quoted": "META",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     682,
+     666
+    ],
+    "resistance": [],
+    "invalidation": 666
+   },
+   "condition": "Buy only if it pulls into ~682 before earnings and holds 682-666; break below 666 problematic",
+   "action": "watch",
+   "entry": 682,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible bull flag above former pivot-high support 683-666 into earnings.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "as long as it can hold this uh 682 to 666 level, this is bullish"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     315
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy as swing trade if it hits ~315 this week; step away if it bear-flags",
+   "action": "watch",
+   "entry": 315,
+   "stop": null,
+   "method": "technical",
+   "reason": "Descending trend line, gap fill and 50% Fib align near 315-316.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "this level's still valid down here at around 315 if it hits later this week"
+  },
+  {
+   "group": "stocks",
+   "ticker": "TSLA",
+   "instrument_quoted": "TSLA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     400
+    ],
+    "invalidation": null
+   },
+   "condition": "Short a rally into the channel top just below 400; buy at the lower channel trend line if it falls",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Trading a parallel channel into earnings.",
+   "conviction": "low",
+   "timestamp": "0:10",
+   "quote": "If we rally into this, that would be a shortable level just below 400"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": 3950,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     4100,
+     3950,
+     3500
+    ],
+    "resistance": [],
+    "invalidation": 4100
+   },
+   "condition": "Daily close below 4,100 targets 3,950, then 3,500 where he'd buy heavily",
+   "action": "watch",
+   "entry": 3500,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding trend line but lingering on it risks a bear flag breakdown.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "a daily close below that would make me very concerned that we're headed to 3950. And if that breaks, 3500"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 50,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If 55 breaks, 50 is next",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Wedge breakdown; bounce weak.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "do we take out 55? If we do, $50 is on the horizon"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Bullish breakout on confirmed close above the trend line; invalid if lower wedge line breaks",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bullish wedge wearing down resistance.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "I remain bullish on natural gas here going into the future"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75500
+    ],
+    "resistance": [
+     87200
+    ],
+    "invalidation": null
+   },
+   "condition": "Close below 81,000 -> 75,500 (short); break above 87,200 -> 95,000-97,000 (long)",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Range between 81k support and 87.2k resistance; waiting for confirmation.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "Based on what we're seeing right now, you're just kind of in neutral zone"
+  }
+ ],
+ "notes": "Host says 'Happy Monday' -> dated 2026-10-19 (listing approx 2026-10-20). NG not in canonical list; used NG. Oil quote garbled ('seven to 88.75'), target taken as 88.75."
+}

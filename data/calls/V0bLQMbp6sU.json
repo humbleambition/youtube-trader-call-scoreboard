@@ -1,0 +1,457 @@
+{
+ "video_id": "V0bLQMbp6sU",
+ "channel": "The Traveling Trader",
+ "title": "What the HELL Just Happened to the Stock Market?",
+ "video_date": "2026-10-18",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "The Traveling Trader host",
+ "macro_themes": [
+  {
+   "theme": "Seasonal midterm pullback",
+   "view": "Pre-midterm September/October volatility is normal; 12 months after midterms the S&P averages +16.6%, so buy the fear."
+  },
+  {
+   "theme": "Hot inflation",
+   "view": "CPI 3.7% and PPI +1.3% m/m revived hike fears; December hike odds at 77%, October likely a pause."
+  },
+  {
+   "theme": "AI credit stress",
+   "view": "Leveraged data-center financing (CoreWeave, Anthropic's 10%+ debt) is a real house-of-cards risk unlike cash-rich mega caps."
+  },
+  {
+   "theme": "Tech valuations reset",
+   "view": "Tech forward P/E is well below its 5- and 10-year averages; hedge funds sold ~2 years of AI buying in a week, a clearing event."
+  },
+  {
+   "theme": "Yields peaking",
+   "view": "The 10-year hit 2007 highs and nearly fell below 5%, echoing the October 2018 top; a break above 5.3% would be a risk-off alarm."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ / Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Expects the red OPEX-day low to be taken out within a week before a durable bottom; not a swing-trade environment yet.",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Tech valuations reset after a ~6% weekly drop; VIX spike offers asymmetric dip-buying; dollar-cost averaging into tech.",
+   "conviction": "medium",
+   "timestamp": "14:20",
+   "quote": "I do think dollar cost averaging in tech here is not a bad idea. We may see more unwinding"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "Midterm-year seasonality, strong earnings (84% beats), yields peaking; average +16.6% in the 12 months after midterms.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "I will definitely be looking to accumulate the fear during this stage within the next couple of weeks"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "YM",
+   "instrument_quoted": "Dow",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Rate-hit names at major demand levels; Dow well positioned as an index.",
+   "conviction": "low",
+   "timestamp": "16:00",
+   "quote": "as an index, I think the Dow is well positioned here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Forward P/E below 20, lowest since 2016, while down 12% from all-time highs.",
+   "conviction": "high",
+   "timestamp": "12:00",
+   "quote": "This is one in my opinion that is now a no-brainer"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SOXL",
+   "instrument_quoted": "SOXL",
+   "price_at_call": 100,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Full unwind from 300 to below 100; memory shortage thesis and Chinese memory news seen as FUD.",
+   "conviction": "medium",
+   "timestamp": "15:10",
+   "quote": "SOXL here below 100 with this full unwind from 300, I definitely don't mind picking chips up here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "GOOGL",
+   "instrument_quoted": "GOOGL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still coiling, has not moved in months.",
+   "conviction": "low",
+   "timestamp": "15:20",
+   "quote": "Google is still coiling"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMZN",
+   "instrument_quoted": "AMZN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Like Google, flat for months and coiling.",
+   "conviction": "low",
+   "timestamp": "15:25",
+   "quote": "Same as Amazon, I think this is a decent buy here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "DELL",
+   "instrument_quoted": "DELL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "In a bear market, down 24% from highs.",
+   "conviction": "low",
+   "timestamp": "15:30",
+   "quote": "I'm starting to look at Dell once again as it's down in a bear market 24% from highs"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HD",
+   "instrument_quoted": "HD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hammered by the 10-year yield, now at major demand levels as yields look to peak.",
+   "conviction": "low",
+   "timestamp": "16:10",
+   "quote": "I think that these are at major demand levels"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MCD",
+   "instrument_quoted": "MCD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rate-sensitive name at major demand levels, like staples that bounced from demand.",
+   "conviction": "low",
+   "timestamp": "16:10",
+   "quote": "such as Home Depot, such as McDonald's... I think that these are at major demand levels"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": 5.0,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.3
+    ],
+    "invalidation": 5.3
+   },
+   "condition": "A break above the 5.3% high would be an alarm to go risk-off.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "cycles",
+   "reason": "10-year hit 2007 highs and nearly fell below 5%, mirroring the October 2018 midterm-year top before yields tanked.",
+   "conviction": "medium",
+   "timestamp": "13:30",
+   "quote": "yields look like they have peaked"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "1,000% debt-to-equity, $45B net debt, negative free cash flow and $35B more financing needed; a credit event risk if yields rise.",
+   "conviction": "low",
+   "timestamp": "7:00",
+   "quote": "at some point that is going That's a house of cards that is going to fall"
+  }
+ ],
+ "notes": "Host states \"it's October 18th\" at recording (Sunday). Consumer staples and healthcare said to have run too much (neutral, needs a drop) - not recorded as calls. CRWV long-term bearish is about leverage risk; he still likes it for short/mid-term trades."
+}

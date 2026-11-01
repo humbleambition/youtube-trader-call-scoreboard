@@ -1,0 +1,105 @@
+{
+ "video_id": "jWJ0VZSkivk",
+ "channel": "Sean Foo",
+ "title": "America PANICS as Japan DUMPS $35.6B US Bonds - EU is Next to SELL",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Foreign Treasury selling",
+   "view": "Japan dumped $35.6B of Treasuries to defend the yen; Japanese banks/investors repatriating; Europe (holding ~$2T) could follow if US sides with Russia."
+  },
+  {
+   "theme": "US yields too high",
+   "view": "10y at 5.1% and 30y at 5.4% are cracking the US economy and hurting tech; more spending pressure means higher yields."
+  },
+  {
+   "theme": "Weaker dollar",
+   "view": "Expects a weaker dollar and yen strengthening vs USD down the road."
+  },
+  {
+   "theme": "US-Russia energy pivot",
+   "view": "US buying Russian energy would raise prices for Europe, fund Russia, and erode allies' trust; won't split Russia from China."
+  },
+  {
+   "theme": "Fragile K-shaped consumer",
+   "view": "Consumer sentiment at historic lows; spending depends on high asset prices and an unsustainable AI capex boom."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US 10-year yield",
+   "price_at_call": 5.1,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Foreign selling of Treasuries (Japan, possibly EU), deficits and inflationary policy push yields higher.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I expect more pressure for US spending, a weaker dollar, and higher bond yields"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Foreign holders repatriating, yen expected to strengthen, spending pressure.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I expect more pressure for US spending, a weaker dollar, and higher bond yields"
+  }
+ ],
+ "notes": "No date said in transcript; listing date used. Yield bias recorded as 'bullish' = yields rising. 30y (5.4%) mentioned, same view as 10y; not recorded separately."
+}

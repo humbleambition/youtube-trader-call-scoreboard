@@ -1,0 +1,280 @@
+{
+ "video_id": "qM8EFDy1hNk",
+ "channel": "Verified Investing",
+ "title": "Bitcoin Defends the 50-Day MA: Ultimate Trap or Reversal?",
+ "video_date": "2026-10-19",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "crypto_daily",
+ "speaker": "Nick Valdez",
+ "macro_themes": [
+  {
+   "theme": "Bitcoin bear market over?",
+   "view": "The 50-day crossing above the 200-day has marked the end of every past bear market, which suggests $58k was the bottom."
+  },
+  {
+   "theme": "Institutional ETH adoption",
+   "view": "JPM Coin moving to Ethereum mainnet is good news for ETH."
+  }
+ ],
+ "calls": [
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81500,
+     80600,
+     58000
+    ],
+    "resistance": [],
+    "invalidation": 58000
+   },
+   "condition": "A break higher still faces the descending trend line and the 50-day EMA",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejected at the 50-day EMA with a liquidation magnet near 81.5k (possible near-term lower lows); a 50/200 golden cross historically ends the bear market, so 58k is the bottom.",
+   "conviction": "medium",
+   "timestamp": "4:00",
+   "quote": "this is suggesting 58K is the bottom for Bitcoin"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ETH",
+   "instrument_quoted": "ETH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still respecting the floor of a 4h bull flag; chopping inside its range.",
+   "conviction": "low",
+   "timestamp": "8:00",
+   "quote": "ETH's still chopping within its range"
+  },
+  {
+   "group": "crypto",
+   "ticker": "XRP",
+   "instrument_quoted": "XRP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding the June 15 wick-high level; a flat 12h RSI near oversold has preceded pumps (one was 14%) the last three times.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "XRP is repeating a pattern that's led to a little bit of pumps"
+  },
+  {
+   "group": "crypto",
+   "ticker": "ZEC",
+   "instrument_quoted": "ZEC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     1150,
+     1100,
+     1000
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Long now, adding near 1150 and 1100; a head-and-shoulders points below 1000 (technical target 400, which he doubts)",
+   "action": "add",
+   "entry": 1100,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long at about break-even and expecting a pop, but a possible head-and-shoulders could take it below $1,000.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "with this head and shoulder pattern, I I easily see Zcash going below $1,000"
+  },
+  {
+   "group": "crypto",
+   "ticker": "LINK",
+   "instrument_quoted": "LINK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     10.8
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rising parallel channels usually resolve lower; watching the 10.80 level.",
+   "conviction": "low",
+   "timestamp": "12:00",
+   "quote": "the probabilities dictate that the downside is going to be more likely than the upside"
+  },
+  {
+   "group": "crypto",
+   "ticker": "SOL",
+   "instrument_quoted": "SOL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Could come down to support and bounce",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "The 4h support line held on Sunday's retest; likes a bounce from support.",
+   "conviction": "low",
+   "timestamp": "13:00",
+   "quote": "I could definitely see Solana coming down and bouncing off of that range"
+  },
+  {
+   "group": "crypto",
+   "ticker": "MOR",
+   "instrument_quoted": "Morpheus (MOR)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     2.62
+    ],
+    "invalidation": null
+   },
+   "condition": "If it keeps pumping, short near the 0.382 Fib / descending trend line",
+   "action": "short",
+   "entry": 2.62,
+   "stop": null,
+   "method": "technical",
+   "reason": "The descending trend line from Sep 25 lines up with the 0.382 retrace as resistance.",
+   "conviction": "low",
+   "timestamp": "15:00",
+   "quote": "I'm looking to short Morpheus right around the 262 target"
+  }
+ ],
+ "notes": "Date taken as Mon 2026-10-19 (\"Sunday afternoon\" = yesterday). ZEC is mixed: he is long but describes a bearish head-and-shoulders. MOR short level \"262\" read as $2.62 (units unclear). NEAR (short on a breakdown/retest) and ADA (past 0.211 trade) skipped as minor."
+}

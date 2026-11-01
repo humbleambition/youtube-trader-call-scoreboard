@@ -1,0 +1,324 @@
+{
+ "video_id": "GRq_0xj1YdI",
+ "channel": "StockedUp",
+ "title": "Wall Street Is Starting To Panic\u2026",
+ "video_date": "2026-10-22",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Tom and Mike (StockedUp hosts)",
+ "macro_themes": [
+  {
+   "theme": "AI spending fears",
+   "view": "Meta's capex commitments, negative FCF and record CDS spreads are driving a rotation out of AI/semis into staples and healthcare."
+  },
+  {
+   "theme": "Iran / Middle East escalation",
+   "view": "Planned US-Israel strikes, Houthi attacks on Saudi assets and Hormuz incidents pushed Brent above $114 while the SPR is at its lowest since 1982."
+  },
+  {
+   "theme": "Event volatility",
+   "view": "Options market prices bigger daily swings into the Fed meeting, big-tech earnings and Nov 3 midterms, though Halloween seasonality is historically bullish."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 756,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     756,
+     750
+    ],
+    "resistance": [
+     768,
+     774,
+     775
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY breaks last week's low, larger selloff toward 756 and possibly 750; a break above 768 would restore upside confidence. A breakdown would favor SPXS/UVXY.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Short-term uptrend broke, double top at 774-775 resistance, forming lower highs.",
+   "conviction": "medium",
+   "timestamp": "6:06",
+   "quote": "if we start to break that low of last week, we could start to confirm a much larger sell off potentially down towards 756"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LULU",
+   "instrument_quoted": "LULU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 115,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     115
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Beaten-down value/consumer names bouncing in a rotation out of tech; LULU entering gap toward fill.",
+   "conviction": "low",
+   "timestamp": "10:10",
+   "quote": "look at Lululemon starting to maybe get into this gap to go for a gap fill possibly up to 115"
+  },
+  {
+   "group": "stocks",
+   "ticker": "HD",
+   "instrument_quoted": "HD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Exploded over 4% as capital rotates into beaten-down value stocks bouncing off longer-term trend lines.",
+   "conviction": "low",
+   "timestamp": "10:10",
+   "quote": "I thought Home Depot was exceptionally strong today compared to the rest"
+  },
+  {
+   "group": "stocks",
+   "ticker": "LRCX",
+   "instrument_quoted": "LRCX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 195,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     195
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Fell 11% on disappointing guidance and slowing China revenue amid panic rotation out of semis.",
+   "conviction": "medium",
+   "timestamp": "11:11",
+   "quote": "there's a big support down there around 195 from earlier this year and I honestly wouldn't be surprised if it got to that zone"
+  },
+  {
+   "group": "stocks",
+   "ticker": "XLV",
+   "instrument_quoted": "XLV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Healthcare in strong uptrend, resilient to slowdown and receiving rotation capital.",
+   "conviction": "medium",
+   "timestamp": "14:14",
+   "quote": "XLV is on the upside radar"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPOT",
+   "instrument_quoted": "SPOT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     590
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks above 590.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Good earnings reaction breaking key short-term resistance.",
+   "conviction": "low",
+   "timestamp": "16:16",
+   "quote": "If it breaks $590, keep watching it to the upside tomorrow"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NOW",
+   "instrument_quoted": "NOW",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     158
+    ],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks above 158.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Momentum play with weak correlation to SPY.",
+   "conviction": "low",
+   "timestamp": "16:30",
+   "quote": "If it breaks out above 158, look for another good upside move"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     54.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Only if it breaks below 54.50.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Continued heavy selling, down over 10% on the day.",
+   "conviction": "low",
+   "timestamp": "16:45",
+   "quote": "If it breaks down under $54.50, look for another drop tomorrow"
+  }
+ ],
+ "notes": "Date from transcript context (Trump 'said Wednesday night', AmEx reports 'tomorrow') = Thursday 2026-10-22; listing said 10-23. TOST $35 Dec-18 call 'big money trade' omitted (unusual-options mention with no host bias). Moderna: explicitly neutral, omitted."
+}

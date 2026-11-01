@@ -1,0 +1,132 @@
+{
+ "video_id": "DztA0eLiwiw",
+ "channel": "Ross Givens",
+ "title": "The BIGGEST Wealth Transfer of the Next Decade Starts HERE",
+ "video_date": "2026-10-16",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "AI power build-out",
+   "view": "AI runs on electricity and the US stopped building power for 20 years, so money over the next 10 years flows to power generation, grid gear and fuel."
+  },
+  {
+   "theme": "Big tech valuation risk",
+   "view": "Last decade's winners may be priced like Cisco in 2000; great businesses at the wrong price."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "GEV",
+   "instrument_quoted": "GEV",
+   "price_at_call": 1000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Gas-turbine bottleneck with $176B backlog and turbine agreements into 2031; not cheap but demand for power persists. Long-term thesis: the next decade rewards hard-to-replace AI power infrastructure (generation, grid equipment, nuclear fuel) rather than cheap-to-scale software.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "GE Vernova, Eaton, and Cameco are the three names I'd want on my side for the next 10 years"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ETN",
+   "instrument_quoted": "ETN",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Sells switchgear/transformers; 307 GW US data-center backlog (15 years of work) plus reshoring factories give two demand engines and a cushion if AI spending pauses.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "Eaton gets paid when AI builds, and it gets paid when manufacturing comes home"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CCJ",
+   "instrument_quoted": "CCJ",
+   "price_at_call": 85,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     85
+    ],
+    "resistance": [
+     135
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Long-term uranium contract price at a record $96.50/lb while stock sits in mid-80s, a year-long buy zone, over a third below its 135 52-week high.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "I would much rather buy when a product is at a record and the stock is on sale"
+  }
+ ],
+ "notes": "CCJ price 'mid-80s' recorded as 85. Medium-term CCJ bias inferred from 'buy zone' framing; he says he can't promise the gap closes next month."
+}

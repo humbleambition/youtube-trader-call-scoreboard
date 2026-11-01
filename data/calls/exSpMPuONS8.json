@@ -1,0 +1,473 @@
+{
+ "video_id": "exSpMPuONS8",
+ "channel": "Verified Investing",
+ "title": "Hot CPI Data Crushes Markets, Inflation Jumps As Stocks, Gold, Silver And Bitcoin Flush, Oil Rallies",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Gareth Soloway",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "Headline 3.7% y/y vs 3.6% forecast and both core readings 0.1 hotter; inflation is embedded beyond oil and gas."
+  },
+  {
+   "theme": "Fed may hike",
+   "view": "Hot CPI plus high oil may force the Fed to raise in October or December; markets dislike higher rates with higher oil."
+  },
+  {
+   "theme": "Semis distribution",
+   "view": "Chip stocks sell even on great earnings (ASML, Micron) as institutions unload oversized positions, signalling a late stage of the AI/semis cycle."
+  },
+  {
+   "theme": "Drone demand",
+   "view": "Conflicts (Houthis, Iran, Ukraine) mean massive future demand for drones; discounted drone makers are attractive."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / ES futures",
+   "price_at_call": 7822,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 8000,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     7818,
+     7880
+    ],
+    "invalidation": null
+   },
+   "condition": "Needs a daily close above ~7818 on the S&P 500 for the next leg to 8,000.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Repeated rejection at the August 2026 high resistance; today a pullback, but still in the bullish zone and just below all-time highs.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "are we still in the bullish zone? The answer is yes, we're still in the bullish zone, so I remain bullish on the markets."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield (%)",
+   "price_at_call": 5.33,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.6
+    ],
+    "invalidation": 5.6
+   },
+   "condition": "Bearish weekly topping-tail reversal stands as long as the weekly closes below ~5.6%.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Yield surged on CPI but has daily and weekly topping tails at resistance.",
+   "conviction": "low",
+   "timestamp": "0:03",
+   "quote": "As long as we stay underneath that for this weekly candle... then technically the bearish reversal signal stands."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "DXY",
+   "price_at_call": 103,
+   "short_term": {
+    "bias": "bullish",
+    "target": 103.35,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     103.35
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Dollar ripping on hot CPI toward next resistance at 103.35.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "103.35 is your next resistance on the DXY."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold (no instrument stated)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 3950,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": 3500,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the bear-flag breakdown confirms (needs another day).",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking down out of a bear flag after hanging on support.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "We're heading down to 3950 and potentially 3500 on gold."
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver ($/oz)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 46.5,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     55
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Silver down ~4% and could confirm a breakdown; next support ~55 with standing downside target 45-48.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "next support is going to be around $55 per ounce with a downside target that I continue to have around the 450 to 48"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 3.55,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.17
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the breakout trend line around 3.17 holds.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Possible breakout closed above trend line; retesting it; likely move to 3.50-3.60 near term with more upside potential.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "the likely scenario is up in this range around 350 to 360 on that gas near term"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC (quoted in thousands)",
+   "price_at_call": 81000,
+   "short_term": {
+    "bias": "bearish",
+    "target": 75500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     81000,
+     75500
+    ],
+    "resistance": [
+     87200
+    ],
+    "invalidation": null
+   },
+   "condition": "Close below 81k with confirmation targets 75.5k; breakout above 87.2k flips it.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Down move into major support then sideways consolidation without a bounce, a bearish pattern like gold.",
+   "conviction": "medium",
+   "timestamp": "0:15",
+   "quote": "If 81 gets a close below with confirmation, this goes down to 755."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ASML",
+   "instrument_quoted": "ASML",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Buy if it dumps to range support; short if it reaches range resistance.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Great earnings but sold into; range-bound, no edge.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "Aside from that, it's trading in a range... I really don't have a great advantage."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BAC",
+   "instrument_quoted": "BAC",
+   "price_at_call": 50,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     49.5,
+     45
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Day-trade long near 49.50; for a swing, wait for a drop to about 45.",
+   "action": "buy",
+   "entry": 49.5,
+   "stop": null,
+   "method": "technical",
+   "reason": "Earnings miss and $1.2B fine knocked it below $50 into technical support; fine not a big deal for the business.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "There's in a phenomenal level coming up for a day trade at around 4950."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PSX",
+   "instrument_quoted": "PSX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     298,
+     300
+    ],
+    "invalidation": null
+   },
+   "condition": "Watch for rejection at the 298-300 top of the ascending channel; big downside needs oil, diesel and crack spreads to fall.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Refiners extremely extended on RSI at ascending-channel resistance; eventually ~30% downside.",
+   "conviction": "medium",
+   "timestamp": "0:11",
+   "quote": "At some point, these stocks are going to come down hard"
+  },
+  {
+   "group": "stocks",
+   "ticker": "VLO",
+   "instrument_quoted": "VLO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same as PSX: piercing the upper end of a parallel channel, extended.",
+   "conviction": "low",
+   "timestamp": "0:12",
+   "quote": "Valero's very much the same."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVAV",
+   "instrument_quoted": "AVAV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sitting on ascending trend line from 2022 (touched in 2025 dip); drone demand from global conflicts; he holds some drone names.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "These are not day trades. These are more swing trade thought processes, maybe even like long-term."
+  }
+ ],
+ "notes": "Date from listing (CPI day, premarket). BTC levels spoken as '81', '755', '872' (thousands) and converted to USD. Silver target 45-48 recorded as midpoint 46.5. A second unnamed drone maker (~$40, falling from 67) skipped. NG not in canonical list; used 'NG'."
+}

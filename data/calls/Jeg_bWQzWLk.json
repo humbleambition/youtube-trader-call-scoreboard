@@ -1,0 +1,95 @@
+{
+ "video_id": "Jeg_bWQzWLk",
+ "channel": "Meet Kevin",
+ "title": "holy sh*t spaceX",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "deep_dive_stock",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "SpaceX-Tesla merger",
+   "view": "Highly likely to happen and be approved by Tesla shareholders, probably at a Tesla premium."
+  },
+  {
+   "theme": "AI compute spending",
+   "view": "SpaceX superintelligence compute revenue ~3x plus large deferred revenue; spending boom good for Nvidia and tech."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "SPACEX",
+   "instrument_quoted": "SpaceX stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     132
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Strong quarter: compute revenue ~3x, deferred revenue up to $4.9B, guide above estimates; trades ~1 PEG; has not sold a share and bought more.",
+   "conviction": "high",
+   "timestamp": "0:08",
+   "quote": "I've been a little bullish on SpaceX. Haven't sold a single share of it. And you know, we bought some more of it."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "SpaceX compute build-out (\"the suck\") benefits Nvidia, its exclusive space partner.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "the suck is going to continue, and boy is it good for Nvidia."
+  }
+ ],
+ "notes": "Date from \"October 9th, so just about 11 days ago\" -> 2026-10-20. SpaceX ticker not stated; used SPACEX placeholder. 132 is the floor he cited in an Oct 9 email. Tesla called ~5 PEG, \"probably twice what it's worth\" but no trade bias stated; not recorded."
+}

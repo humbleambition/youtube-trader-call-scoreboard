@@ -1,0 +1,283 @@
+{
+ "video_id": "QoreA-G_fa4",
+ "channel": "Arete Trading",
+ "title": "PREMARKET LIVE: The Trading Floor | Live Trading CPI Data Release",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Arete Trading host",
+ "macro_themes": [
+  {
+   "theme": "Hot CPI",
+   "view": "CPI, core and MoM all came in hot across the board; 'bad numbers'."
+  },
+  {
+   "theme": "Rate hikes",
+   "view": "Fed leaning toward more rate hikes; 'no way they don't raise rates in October'."
+  },
+  {
+   "theme": "Neocloud stress",
+   "view": "Firmus failing to go public / Nvidia lending changed the fundamentals; neocloud/bitcoin-miner AI names in trouble."
+  },
+  {
+   "theme": "Market breadth",
+   "view": "Breadth deteriorating faster than any historical precedent he knows; he shorted the market and semis."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "ES futures",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If ES undercuts the October low and then bounces, that flush is the buy setup he wants.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Hot CPI; expects open around 14 RSI with everyone short, likely bounce off the open; ideal is a flush under October low then bounce. He is short the market and semis.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "you want to undercut and flush, and then look for a bounce... if you get undercut the October low and then bounce"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     950,
+     929,
+     928,
+     900
+    ],
+    "resistance": [
+     1000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Dealers lowered call wall to 1000 and put wall to 900; 950 magnet weaker; hot inflation and overseas risks make bounces unreliable.",
+   "conviction": "low",
+   "timestamp": "0:15",
+   "quote": "Gun to my head, you probably crack and you're you're probably going lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Neocloud names at risk after Firmus could not go public and Nvidia began lending to keep chip purchases going; fundamental shift.",
+   "conviction": "high",
+   "timestamp": "0:21",
+   "quote": "Yeah, so I'm short NBIS. Um I I just think that it's a dumpster fire."
+  },
+  {
+   "group": "stocks",
+   "ticker": "GFS",
+   "instrument_quoted": "GFS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": 51,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Huge $21B deal that the market sold anyway; staying with the position though down.",
+   "conviction": "medium",
+   "timestamp": "0:08",
+   "quote": "I'm really surprised by this GFS. This is an enormous deal... So, I'm going to stay with it"
+  },
+  {
+   "group": "stocks",
+   "ticker": "V",
+   "instrument_quoted": "V",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Visa news huge and breaking out; transaction side (Visa, Mastercard) looks fantastic vs credit lenders; would trade with super tight stops.",
+   "conviction": "low",
+   "timestamp": "0:11",
+   "quote": "they're breaking out. So, what I what I might do with them is I might do them with super tight stops."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil (no quote)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Says it is becoming very clear oil is going higher.",
+   "conviction": "medium",
+   "timestamp": "0:20",
+   "quote": "because to me oil's going higher. That's becoming very very clear."
+  },
+  {
+   "group": "stocks",
+   "ticker": "DUK",
+   "instrument_quoted": "DUK",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Likes Duke and utilities; would buy more on drops.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "I like Duke. I like all those names. I mean, if they drop them down, I'm just going to buy more of them."
+  }
+ ],
+ "notes": "Date from listing ('streamed 3 days ago'); CPI release day. Unnamed stock with 1400/1450/1500 levels and 'socks 34/27/500' levels too unclear to record. Gold/silver 'in trouble' and MA/AXP/COF/CRWV/ORCL mentioned only briefly; skipped. MU levels look like they may be a different share basis; recorded as quoted."
+}

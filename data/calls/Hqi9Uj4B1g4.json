@@ -1,0 +1,124 @@
+{
+ "video_id": "Hqi9Uj4B1g4",
+ "channel": "Ricky Gutierrez",
+ "title": "Is This The Start Of A Massive Market Shift?",
+ "video_date": "2026-10-20",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "AI fear fading",
+   "view": "SpaceX's beat (rev $14.6B vs $12.9B, $4.4B profit) is lifting chips, memory and neocloud names after hours; warns not to over-celebrate before Meta/Tesla/IBM."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Neoclouds (CoreWeave, NBIS, IREN) technically oversold and fear fading after SpaceX results; up again after hours.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "The neo cloud comebacks are here, and that's with Coreweave up 7%"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NFLX",
+   "instrument_quoted": "NFLX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Beat revenue/EPS but slight Q4 guide miss; at multi-year lows, <21 P/E fair-value play he would consider long-term, not expecting quick recovery.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "it is such a fair value play that, right? If we're seeking deals and a deal is presenting itself, why not have some exposure?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Closed intraday short for profit; price retesting same resistance and still looks attractive to short, but will not hold overnight.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "Even though it does look attractive at these levels, I need to respect it. We'll just save it for tomorrow."
+  }
+ ],
+ "notes": "SpaceX up 6-7% after hours with Elon's $500B-1T ARR claim called a possible over-promise; no bias given, not recorded. NBIS and IREN mentioned alongside CRWV with same view."
+}

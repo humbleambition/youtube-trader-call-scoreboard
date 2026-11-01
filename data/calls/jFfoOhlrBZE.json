@@ -1,0 +1,994 @@
+{
+ "video_id": "jFfoOhlrBZE",
+ "channel": "Trade Brigade",
+ "title": "black monday?",
+ "video_date": "2026-10-18",
+ "date_source": "transcript",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Matt (Trade Brigade)",
+ "macro_themes": [
+  {
+   "theme": "AI trade unwinding",
+   "view": "Leadership (semis, memory, software) cracked; no new leaders and earnings are on the flattening side of the S-curve."
+  },
+  {
+   "theme": "Flight to safety in bonds",
+   "view": "Bonds bid and yields falling with small caps weak is risk-off, not a healthy rate decline."
+  },
+  {
+   "theme": "Shelter inflation / Fed hikes",
+   "view": "Hot CPI shelter means the Fed likely has to hike regardless of Hormuz; market prices pause next meeting with more hikes later."
+  },
+  {
+   "theme": "Volatility expansion",
+   "view": "VIX backwardation and elevated skew signal panic; a flip back to contango would be a buy signal."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     764.5,
+     760.25,
+     746.5,
+     750
+    ],
+    "resistance": [
+     771,
+     780
+    ],
+    "invalidation": null
+   },
+   "condition": "If SPY reclaims 771 (OpenAI low), expect move to CPI-open breakdown origin and consolidation; if opening drive lower below 764.50/760.25, door opens to violent downside toward the major low.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed breakout, daily trend flipped down, Friday gap-up engulfed and FOMC AVWAP lost; weekly expected move 746.50-780 shows rising volatility. Not a new-money short at lows; bounce possible.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "it certainly feels as though this chart structure has broken and we no longer have a convincing amount of new money buyers"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     722,
+     686.99
+    ],
+    "resistance": [
+     734.25,
+     732.61
+    ],
+    "invalidation": 734.25
+   },
+   "condition": "Base case: multi-day bounce to a lower high below 734.25, then rotation lower; below 722 'night night and probably lower'; reclaim of 734.25 flips upside.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed breakout through prior ATH, closed below high-volume node and key AVWAPs; capitulation-like volume makes lows a poor short, so expects a bounce then lower high.",
+   "conviction": "medium",
+   "timestamp": "0:23",
+   "quote": "our base case is that the market has failed to break out... looking for a multi-day bounce to officially set a lower high"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     270.4,
+     263.79
+    ],
+    "resistance": [
+     276.15,
+     283
+    ],
+    "invalidation": null
+   },
+   "condition": "Reclaim of 276.15 neckline would be bullish; below 270.40 'gates of hell open up'; a 1-3 day bounce into the flattened 200 SMA is a short location.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weekly double top played out, below 50-week MA and all AVWAPs; small caps fell even as rates fell, a flight-to-safety signal.",
+   "conviction": "medium",
+   "timestamp": "0:30",
+   "quote": "bears are clearly in control. We shouldn't be fighting that by any stretch of the imagination"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "10-year yields collapsed late week on bond buying as flight to safety rather than easing inflation; risk-off signal. No directional forecast given.",
+   "conviction": "low",
+   "timestamp": "0:31",
+   "quote": "This is an indication that people participants Market participants are going out and they're buying bonds."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC ratio chart",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "BTC ratio flipped red; reasonable that this is the short-term top of the BTC rally, sideways or slightly lower.",
+   "conviction": "low",
+   "timestamp": "0:46",
+   "quote": "wouldn't be unreasonable that this is the short-term top for now on the BTC rally and perhaps we either just go sideways or slightly lower"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     222
+    ],
+    "invalidation": 222
+   },
+   "condition": "If NVDA remounts 222 and the 50 SMA it gets interesting (bullish); otherwise 222 and down as a lower high.",
+   "action": "short",
+   "entry": 222,
+   "stop": null,
+   "method": "technical",
+   "reason": "Inside resting bar after a hammer; 222 is the last higher low with 8 EMA/50 SMA convergence.",
+   "conviction": "low",
+   "timestamp": "0:58",
+   "quote": "Nvidia just looks lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AAPL",
+   "instrument_quoted": "AAPL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If the market catches a 2-3 day rebound, Apple likely lower; if staples/flight to quality continues, sideways to higher.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Four-day balance acting as flight to quality.",
+   "conviction": "low",
+   "timestamp": "0:59",
+   "quote": "If Friday's just a gotcha bar, then I do think Apple's lower as the market catches a bid."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSFT",
+   "instrument_quoted": "MSFT",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     535
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Failed to hold a higher low over 535; watching for a lower high and sideways into earnings.",
+   "conviction": "low",
+   "timestamp": "0:59",
+   "quote": "I'd be on the lookout for a lower high."
+  },
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "1-3 day bounce into the bottom of overhead supply then lower.",
+   "conviction": "low",
+   "timestamp": "1:00",
+   "quote": "I mean, this just looks lower to me."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     906
+    ],
+    "invalidation": 906
+   },
+   "condition": "If memory names retake Friday's highs, could test daily 8 EMA / gap near 906 as a lower-high zone.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Topping indication after earnings; on flattening side of earnings S-curve; doubts another parabolic run.",
+   "conviction": "medium",
+   "timestamp": "1:00",
+   "quote": "Is Micron going to go on another parabolic run in the upward direction? I would tend to think not"
+  },
+  {
+   "group": "stocks",
+   "ticker": "AMD",
+   "instrument_quoted": "AMD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     583.25
+    ],
+    "invalidation": 583.25
+   },
+   "condition": "Look below and fail, red-to-green bounce; then look for lower high under 583.25.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near 50 SMA, too stretched to short; bounce play then bears keep control below 583.25.",
+   "conviction": "low",
+   "timestamp": "1:02",
+   "quote": "As long as we could do something underneath that, the bears have control of this one"
+  },
+  {
+   "group": "stocks",
+   "ticker": "INTC",
+   "instrument_quoted": "INTC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Longs off the daily 200 SMA / support if the market comes into it.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Same as AMD: no new-money shorts into the daily 200; countertrend snapback long.",
+   "conviction": "low",
+   "timestamp": "1:03",
+   "quote": "no new money shorts, longs off the daily 200"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PLTR",
+   "instrument_quoted": "PLTR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     194.65
+    ],
+    "invalidation": 194.65
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Broken chart; lower highs under 194.65 breakout point.",
+   "conviction": "medium",
+   "timestamp": "1:03",
+   "quote": "You're looking at a lower high and potentially a more downside in the near-term future for Palantir."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SK Hynix",
+   "instrument_quoted": "SK Hynix",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 151,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     135.8
+    ],
+    "resistance": [],
+    "invalidation": 135.8
+   },
+   "condition": "As long as above 135.80 overnight low, red-to-green snapback toward ~151.",
+   "action": "watch",
+   "entry": null,
+   "stop": 135.8,
+   "method": "technical",
+   "reason": "Extended to downside; watching red-to-green.",
+   "conviction": "low",
+   "timestamp": "1:03",
+   "quote": "As long as we're above that, I'd be looking for a snapback towards roughly this 151."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SPCX",
+   "instrument_quoted": "SPCX (SpaceX)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     154.7
+    ],
+    "invalidation": null
+   },
+   "condition": "Earnings Tuesday; watching move up through inside bars into 154.70.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Relative strength Friday, inside hammer not taking out Thursday's low.",
+   "conviction": "low",
+   "timestamp": "1:04",
+   "quote": "SpaceX I thought had decent relative strength on Friday"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SHOP",
+   "instrument_quoted": "SHOP",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     180
+    ],
+    "invalidation": null
+   },
+   "condition": "Inside consolidation then up and out over ~180 if market goes countertrend.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Relative strength name, flat top forming, still high in trend count.",
+   "conviction": "low",
+   "timestamp": "1:04",
+   "quote": "Shopify not too shabby."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TEAM",
+   "instrument_quoted": "TEAM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     200
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Look below and fail tag of 20 SMA and up.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Great relative strength vs IGV, pulling back over flat-top base above 200.",
+   "conviction": "low",
+   "timestamp": "1:04",
+   "quote": "A look below and fail tag of the 20 SMA and up wouldn't be half bad for Team."
+  },
+  {
+   "group": "stocks",
+   "ticker": "LITE",
+   "instrument_quoted": "Light (likely LITE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     800
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Washout into 200 SMA / 800 then rubber-band snapback.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rubber-band trade off the 200 SMA, not expecting a return to highs.",
+   "conviction": "low",
+   "timestamp": "1:05",
+   "quote": "That could get interesting as a long opportunity and this is just a rubber band trade."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ENPH",
+   "instrument_quoted": "ENPH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 195,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     163.5
+    ],
+    "resistance": [
+     195
+    ],
+    "invalidation": null
+   },
+   "condition": "Excess low under 163.50, remount 200 SMA, snapback to ~195; then look for lower high.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Countertrend snapback; not a new-money short.",
+   "conviction": "low",
+   "timestamp": "1:05",
+   "quote": "can we get a snapback into roughly like 195s"
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWV",
+   "instrument_quoted": "CRWV",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     67.5
+    ],
+    "invalidation": null
+   },
+   "condition": "Excess low, remount 67.50 and snap back; if sideways a week into bear flag, abandon.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold countertrend bounce idea.",
+   "conviction": "low",
+   "timestamp": "1:06",
+   "quote": "Show me an excess low, comes back up, remounts 67.50, snap it back up to here."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRCL",
+   "instrument_quoted": "Circle",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     87
+    ],
+    "invalidation": null
+   },
+   "condition": "Consolidation and remount of 87 through moving averages.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Relative strength, held half of Thursday's range.",
+   "conviction": "low",
+   "timestamp": "1:07",
+   "quote": "a remount of 87 through these moving averages could get fairly interesting on Circle"
+  },
+  {
+   "group": "stocks",
+   "ticker": "PSTG",
+   "instrument_quoted": "P (Everpure / Pure Storage)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     119,
+     120
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If it builds a base off left-side high and 50-day at 119-120, weekly higher low and upside.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Retest of breakout; potential weekly higher low.",
+   "conviction": "low",
+   "timestamp": "1:08",
+   "quote": "It'd be a great spot for a weekly higher low, would it not?"
+  },
+  {
+   "group": "stocks",
+   "ticker": "FIGR",
+   "instrument_quoted": "FIGR",
+   "price_at_call": 26.85,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short under previous day's low ~26.85.",
+   "action": "short",
+   "entry": 26.85,
+   "stop": null,
+   "method": "technical",
+   "reason": "Lower high against 8 EMA and 20 SMA; easy to borrow.",
+   "conviction": "medium",
+   "timestamp": "1:09",
+   "quote": "I think Figure, F I G R, is a short."
+  },
+  {
+   "group": "stocks",
+   "ticker": "TEVA",
+   "instrument_quoted": "TEVA",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Relative strength in pharma, base on base with rising volume.",
+   "conviction": "low",
+   "timestamp": "1:10",
+   "quote": "Yeah, I really think Teva's the one."
+  },
+  {
+   "group": "stocks",
+   "ticker": "KTOS",
+   "instrument_quoted": "KTOS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Break under prior bar low and you're short; caution as already down ~40%.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Chart looks terrible, lower high below prior bar.",
+   "conviction": "low",
+   "timestamp": "1:10",
+   "quote": "KTOS for drones looks terrible."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRML",
+   "instrument_quoted": "CRML",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 6,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     6
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Short on look above and fail of 50-day / break of Friday's low, target ~6.",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Rejection off 20/50-day and 8 EMA cluster; H pattern.",
+   "conviction": "medium",
+   "timestamp": "1:11",
+   "quote": "This looks like a short as well off of the moving average cluster"
+  }
+ ],
+ "notes": "Recorded Sunday night 7-8pm ET (date inferred as Sunday 2026-10-18 from 'Sunday night' and listing date 2026-10-19). SPY/QQQ/IWM levels quoted. IWM expected move bounds quoted as 227.09 upper / 263.79 lower (transcription error likely); only 263.79 kept as support. 'Light' assumed LITE, 'P / Ever Pure' assumed Pure Storage (PSTG), SK Hynix kept as name. Many stock ideas are low-conviction setups."
+}

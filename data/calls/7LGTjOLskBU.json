@@ -1,0 +1,101 @@
+{
+ "video_id": "7LGTjOLskBU",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Panic! How I Trade During a Stock Market Crash",
+ "video_date": "2026-10-12",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "CPI week risk",
+   "view": "A hotter-than-expected CPI could lift Fed rate-change odds toward 50% and markets may de-risk ahead of the report."
+  },
+  {
+   "theme": "Geopolitical escalation / oil",
+   "view": "Brent above $107 on Russia-Ukraine and Middle East escalation; escalations make markets de-risk, de-escalations allow recovery."
+  },
+  {
+   "theme": "Memory chip weakness",
+   "view": "South Korean market plunge and China's CXMT server-memory plans weigh on memory names; longer-term DRAM pricing is the bigger risk."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 700,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     700
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Intraday oversold reversal after buying the dip, but QQQ is overbought near all-time highs with CPI ahead, leaving big pullback potential to prior lows near 700.",
+   "conviction": "medium",
+   "timestamp": "5:20",
+   "quote": "we can see this overbought reversal into the lows of 700. We have a big way down to go, right? We're incredibly overbought."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     1000
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Sell-off tied to South Korean market plunge and China's CXMT server memory plans; long-term DRAM oversupply could undercut Micron's pricing.",
+   "conviction": "low",
+   "timestamp": "3:30",
+   "quote": "this has been a really bearish start to the morning for Micron. So, we'll see if it actually can begin to recover or if it just produces another leg down."
+  }
+ ],
+ "notes": "Date from 'Happy Monday' (listing approx 2026-10-13). He also mentions 'pullback potential to the lows of 900' on an unnamed chart (possibly SPY/another index), not recorded. MU 'broke below $1,000' is a garbled transcript line ('I use broke below'); treated as MU and placed as resistance, low confidence. SK Hynix called the weakest memory name but not a US ticker; NVDA/MSFT mentions were news only."
+}

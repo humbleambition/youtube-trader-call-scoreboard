@@ -1,0 +1,142 @@
+{
+ "video_id": "qYgPfFhV3d4",
+ "channel": "Meet Kevin",
+ "title": "The Fed JUST Bailed us Out AGAIN | What do they SEE?!?!?!",
+ "video_date": "2026-10-14",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Kevin Paffrath (Meet Kevin)",
+ "macro_themes": [
+  {
+   "theme": "Fed jawboning",
+   "view": "Fed officials (Williams) are coming out to talk down rate-hike pricing whenever markets sell off, effectively propping up the market."
+  },
+  {
+   "theme": "Rate hikes vs supply-driven inflation",
+   "view": "Hikes can't fix AI- and oil-driven supply inflation and will mainly hurt the labor market."
+  },
+  {
+   "theme": "Credit stress",
+   "view": "Heavy AI-related debt issuance (SpaceX, Broadcom, Oracle) is widening spreads and competing with stocks; something may be starting to break."
+  },
+  {
+   "theme": "Broad inflation",
+   "view": "Disagrees with Williams: ~54% of CPI categories run above 3% y/y, so inflation is broad-based."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "AVGO",
+   "instrument_quoted": "AVGO",
+   "price_at_call": 355,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     355
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 355,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Chip stocks recovering after Fed comments; Broadcom bounced off 355.",
+   "conviction": "medium",
+   "timestamp": "11:00",
+   "quote": "Look at that bounce off of 355 for Broadcom. I think that's a great entry, actually."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NVDA",
+   "instrument_quoted": "NVDA",
+   "price_at_call": 227,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     227
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Nvidia bounced from 227 as Fed commentary supported chips.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "Nvidia 227 bounced back, pretty fantastic."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "unclear '735 line' (likely SPY)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     735
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fed officials' dovish comments keep supporting the market above the 735 level.",
+   "conviction": "low",
+   "timestamp": "11:00",
+   "quote": "the Fed seems right now keen on propping this market up."
+  }
+ ],
+ "notes": "No date stated; mentions CPI 'tomorrow'. The '735 line' instrument is ambiguous (spoken alongside Nasdaq); recorded as ES/SPY, low conviction. AVGO/NVDA levels are bounce points."
+}

@@ -1,0 +1,175 @@
+{
+ "video_id": "d4vu6MUR_3M",
+ "channel": "Sean Foo",
+ "title": "Trump STUNNED as Canada & EU UNITE - US Reversal on Russia BACKFIRES",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Sean Foo",
+ "macro_themes": [
+  {
+   "theme": "Inflation shock",
+   "view": "September CPI 3.7% and PPI 6.3% signal a 2022-style inflation wave that will squeeze consumers and profits and push rate hikes."
+  },
+  {
+   "theme": "Oil supply disruption",
+   "view": "Ukraine's refinery strikes and possible escalation against Iran after the midterms could lock down Hormuz and push oil and inflation higher."
+  },
+  {
+   "theme": "AI buildout at risk",
+   "view": "Rising chip costs, higher rates and falling data-center bonds threaten an AI buildout priced to perfection; inflation is the crack."
+  },
+  {
+   "theme": "Europe energy crisis and Canada pivot",
+   "view": "EU gas at triple pre-war levels drives debt stress (France) and pushes Europe toward energy partnerships with Canada, hurting US LNG."
+  },
+  {
+   "theme": "De-dollarization",
+   "view": "China won't buy US bonds while the dollar is weaponized; the yuan is gaining share in trade finance as RMB strengthens."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if Ukraine strikes continue / Trump escalates on Iran (MOABs) after midterms",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Refinery strikes remove Russian barrels and an Iran escalation could close Hormuz and the Red Sea, sending oil up again.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "We can all imagine Hormuz and the entire Red Sea getting locked down... Oil could jump again, and inflation, it's going to follow."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "US bond yields",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if inflation/energy crisis persists",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "PPI at 6.3% foreshadows consumer inflation and more Fed hikes; China not buying Treasuries.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "bond yields, they might be dropping a bit today, but they could go much higher if nothing changes."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar vs RMB",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "China avoids dollar assets while the dollar is weaponized; yuan gaining share in trade finance and RMB up 7% vs USD.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "China has a thousand and one things to buy, dollars are not one of them."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "US chip stocks (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Higher chip prices and borrowing costs plus collapsing data-center bonds threaten an AI buildout priced to perfection.",
+   "conviction": "low",
+   "timestamp": "0:09",
+   "quote": "Stock prices and AI bonds, they're all priced to perfection... A single miss can trigger a sell-off. Inflation is that crack."
+  }
+ ],
+ "notes": "Geopolitical/macro commentary with no price levels. SMH used as a proxy for his generic 'US chip companies' and AI-bond bearishness. DXY bias rests mainly on RMB/de-dollarization comments."
+}

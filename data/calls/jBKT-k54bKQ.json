@@ -1,0 +1,509 @@
+{
+ "video_id": "jBKT-k54bKQ",
+ "channel": "Verified Investing",
+ "title": "Hot PPI Inflation Shocks Markets: Tech Rebounds Off Lows",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosek (Verified Investing)",
+ "macro_themes": [
+  {
+   "theme": "Hot PPI but yields collapse",
+   "view": "PPI nearly doubled forecasts, yet the 10-year yield collapsed, which relieved pressure on stocks and gold."
+  },
+  {
+   "theme": "AI capex / debt worries",
+   "view": "Spillover from Asia (Kospi tanked) and concern about AI capex companies' ability to service debt capped the rally; memory names were hit."
+  },
+  {
+   "theme": "Oil up",
+   "view": "Rising oil adds pressure and could push the 10-year back up, so expects index consolidation within the range."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 800,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     766.17
+    ],
+    "resistance": [
+     781.6,
+     800
+    ],
+    "invalidation": 766.17
+   },
+   "condition": "Safe near term unless SPY closes under 766.17; a daily close above 781.60 makes a push to 800 near-certain",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY held the trend-line support he flagged; still in a bullish consolidation since August; weekly looks like consolidation.",
+   "conviction": "medium",
+   "timestamp": "2:30",
+   "quote": "I imagine it's almost a guarantee once we get a close over $781, we're going to be pressing up there to the $800 mark"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ (also Nasdaq Composite IXIC)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 806,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Favors upside as long as QQQ stays above the inverse head-and-shoulders neckline",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq reclaimed its declining breakout trend line; QQQ closed above the inverse H&S neckline after testing below it, measured move 806; IXIC could curl up to tag the rising trend line near 27,000.",
+   "conviction": "medium",
+   "timestamp": "4:15",
+   "quote": "that does also come with a targeted measured move up here at 806. Thus, you can see why I'm still favoring a little bit more upside"
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 597.69,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If SMH gets back above the 50% area of the parallel channel, it could march to the top of the channel at 597.69",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gapped well below support but selling lasted only 30 minutes and it closed near the high, a change of character from the string of bear flags.",
+   "conviction": "medium",
+   "timestamp": "6:30",
+   "quote": "It's telling me we're already knocking on the door to go higher at least near term"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 5.021,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "'Sleeper hold' pattern on daily and weekly foreshadowed the reversal; yield collapsed after a big upper wick.",
+   "conviction": "medium",
+   "timestamp": "7:00",
+   "quote": "here I was saying I was going to be optimistic if we had price action on the 10-year trading back to the 5.021%... a very real possibility in the coming days"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3900
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "If yields start creeping back up, support could break and push gold back to the ~3,900 pivot lows",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Falling yields relieved pressure and gold bounced, but it remains in bearish consolidation on top of support.",
+   "conviction": "low",
+   "timestamp": "7:45",
+   "quote": "this level could break, and that could push us back down to these low pivots at $3,900"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     53.26,
+     50
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Weaker than gold; breaking the 50% area of a channel dating to 2008 with an active head-and-shoulders, measured move 53.26 where buyers should step in.",
+   "conviction": "medium",
+   "timestamp": "8:15",
+   "quote": "a measured move target of $53.26. One that I anticipate silver to hit before we start rallying back up"
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "BTC/USD",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": 86000,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     86000
+    ],
+    "invalidation": null
+   },
+   "condition": "Safe while above the horizontal trend line from the Nov 2025 pivot low; wants bulls to tag 86,000 soon",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Holding above a key horizontal support but repeated tests weaken it and the rising trend line has broken.",
+   "conviction": "low",
+   "timestamp": "9:00",
+   "quote": "you want to see Bitcoin bulls tagging the $86,000 mark sooner rather than later"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 102.81,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     102.81
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oil pushing higher; next stop is the 50% area of its parallel channel.",
+   "conviction": "low",
+   "timestamp": "10:30",
+   "quote": "Next stop, if US oil continues pushing, is up here at the 102 and 81 level"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.89,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     3.26
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Wants a pullback to the declining trend line (~3.26 conservative) to buy",
+   "action": "buy",
+   "entry": 3.26,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breakout above declining trend line tagged the bottom of the channel and is overbought; expects a curl/pullback then higher, measured move 3.89.",
+   "conviction": "medium",
+   "timestamp": "11:15",
+   "quote": "Any sort of pullbacks down here to this declining trend line is a buying opportunity cuz Nat Gas, from what I see, can go higher"
+  },
+  {
+   "group": "stocks",
+   "ticker": "ERIC",
+   "instrument_quoted": "Ericsson",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 10.84,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "Must close above today's candle tomorrow; then buy pullbacks to the trend line for a push to 10.84 and the channel midpoint",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Strong earnings beat; bounced off the bottom of a channel defended since April 2024.",
+   "conviction": "medium",
+   "timestamp": "15:15",
+   "quote": "any sort of pullbacks down here to this trend line could be an opportunity to buy to push up to 1084"
+  },
+  {
+   "group": "stocks",
+   "ticker": "Z",
+   "instrument_quoted": "Zillow",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 36.52,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Collapsing 10-year yield revived Zillow; wants it to re-attack the long trend line from the 2020/2022 lows before November earnings.",
+   "conviction": "low",
+   "timestamp": "17:00",
+   "quote": "Zillow's destination for any robust move is right here, $36.52 for the immediate near term"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "Nike",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 40,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 43.34,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": 46.16,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     34.17
+    ],
+    "resistance": [
+     40,
+     43.34,
+     46.16
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Reclaimed a channel dating to Sept 2022 after breaching it near 32.14; he bought under the channel with a long horizon; China sales turnaround is the upside story.",
+   "conviction": "medium",
+   "timestamp": "18:00",
+   "quote": "I was gobbling this up while we were under the parallel... the odds favor price action moving up"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron",
+   "price_at_call": 868.52,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     860
+    ],
+    "resistance": [
+     1035,
+     1070
+    ],
+    "invalidation": null
+   },
+   "condition": "Expects a retest of the broken parallel around 1,035-1,070 that could be faded; undecided until the rally develops",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Finished green after six straight down days and a gap fill at 868.52, but it broke down from a rising channel which typically retests then fades.",
+   "conviction": "low",
+   "timestamp": "20:00",
+   "quote": "that level to fade will be basically right here, at $1,035 upwards of $1,070"
+  }
+ ],
+ "notes": "Host says 'Happy Thursday' (guest Jake Sweeney) -> 2026-10-15, one day before the listing approx_date. TNX 5.021 is a yield in percent as quoted. ERIC target '1084' read as $10.84. MU price_at_call is the gap-fill level, not necessarily the close. NG ticker used for natural gas (not in canonical list)."
+}

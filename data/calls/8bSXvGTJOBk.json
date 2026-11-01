@@ -1,0 +1,171 @@
+{
+ "video_id": "8bSXvGTJOBk",
+ "channel": "Ross Givens",
+ "title": "The Biggest Commodity Boom Since 1980 Is HERE… And It's Still EARLY",
+ "video_date": "2026-10-17",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "metals",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Commodity supercycle",
+   "view": "The commodity boom is still early because supply takes ~17 years to respond while demand turns on quickly."
+  },
+  {
+   "theme": "Copper shortage",
+   "view": "IEA projects a 25% copper mine-supply shortfall by 2035, which should keep pushing copper higher."
+  },
+  {
+   "theme": "China gold buying",
+   "view": "China's central bank and households keep buying gold (23 straight months), supporting dips."
+  },
+  {
+   "theme": "Recession risk",
+   "view": "A global recession is the main short-run risk to copper; a Chinese property/stock recovery could cool gold buying."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "FCX",
+   "instrument_quoted": "FCX",
+   "price_at_call": 72,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Grasberg recovery from ~67% to full capacity by end-2027 into a copper shortage, with gold by-product; monthly chart breaking out barely above its 2008 peak.",
+   "conviction": "high",
+   "timestamp": "4:00",
+   "quote": "Freeport is about to be selling a lot more copper into a market that is short of it, and that is a pretty good place to be."
+  },
+  {
+   "group": "stocks",
+   "ticker": "KGC",
+   "instrument_quoted": "KGC",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Down ~40% from highs on a small production miss while raising shareholder returns to 50% of FCF; operating leverage could drive 50-70% upside if gold recovers.",
+   "conviction": "medium",
+   "timestamp": "8:20",
+   "quote": "the same reason Kinross is down 40% right now is what could make it go 50, 60, 70% higher."
+  },
+  {
+   "group": "metals",
+   "ticker": "HG",
+   "instrument_quoted": "copper ($/lb)",
+   "price_at_call": 6.64,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "IEA sees a 25% mine-supply shortfall by 2035 and new mines take 17 years; shortage hasn't shown up yet.",
+   "conviction": "high",
+   "timestamp": "2:00",
+   "quote": "the IEA is telling you the shortage hasn't even shown up yet."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "spot gold",
+   "price_at_call": 4000,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Persistent Chinese central-bank and household buying; pullback from $5,500 high seen as a normal first pullback in a long boom.",
+   "conviction": "medium",
+   "timestamp": "8:00",
+   "quote": "A central bank that buys every month for 2 years isn't trading the chart. It's just buying every dip."
+  }
+ ],
+ "notes": "FCX price_at_call 72 approximates 'trades in the low 70s'. Gold 4000 approximates 'just over $4,000'. Copper 6.64/lb is the stated current price at the end of a 10-year comparison."
+}

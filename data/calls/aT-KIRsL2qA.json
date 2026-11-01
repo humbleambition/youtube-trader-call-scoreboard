@@ -1,0 +1,93 @@
+{
+ "video_id": "aT-KIRsL2qA",
+ "channel": "tastylive",
+ "title": "Why Brent Kochuba Is Buying the Tech Selloff Before Meta and Tesla Report",
+ "video_date": "2026-10-20",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Brent Kochuba",
+ "macro_themes": [
+  {
+   "theme": "Rotation not liquidation",
+   "view": "Tech selloff looks like rotation (equal-weight S&P and Dow fine) and a correction rather than something more material."
+  },
+  {
+   "theme": "Upside tail risk",
+   "view": "Dips have been bought ferociously for 6 months; one headline (e.g. Meta/Tesla beats, merger rumours) could spark a sharp squeeze into year-end."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ short-dated call flies",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "Vol coming down; vanna flows should ratchet market higher; QQQ can rally 1-2% quickly, played via 1-2 DTE call flies before Meta/Tesla.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "I like shortdated call flies... I just want to be, you know, cognizant and positioned for for a short-term bounce."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "S&P only ~2% off all-time high despite every reason to sell; downside has been bought back; watching correlation and VIX term structure for a change.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "any downside movement has been bought back and bought back ferociously and so I think we just have to keep operating off of that assumption"
+  }
+ ],
+ "notes": "No explicit date; Meta/Tesla \"Wednesday\" upcoming and same show segment as Tim Knight (vBu8w7FWQ6U, Mon 2026-10-19), so likely 2026-10-19 (listing 10-20). Co-host said he got long tech names; not recorded (not the guest)."
+}

@@ -1,0 +1,245 @@
+{
+ "video_id": "2Xt-1Zinte8",
+ "channel": "David Lin",
+ "title": "Fourth Turning Climax: Iran War Only The Beginning... | Neil Howe",
+ "video_date": "2026-10-15",
+ "date_source": "transcript",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "Neil Howe",
+ "macro_themes": [
+  {
+   "theme": "Fourth Turning crisis",
+   "view": "US is in the crisis era, likely climaxing within the next decade, with strongmen and rising interstate conflict; Iran war is a prelude."
+  },
+  {
+   "theme": "Structural inflation",
+   "view": "Next 10 years will be fundamentally inflationary with financial repression; Fed/Treasury will bail out markets rather than fight inflation."
+  },
+  {
+   "theme": "Bonds not safe",
+   "view": "Fixed income, even TIPS, is a bad place in a crisis era; be out of bonds entirely."
+  },
+  {
+   "theme": "Equity valuations",
+   "view": "CAPE ~43 implies negative 10-year equity returns; AI boom will bust, chip stocks most vulnerable; tech underperformance is a warning tremor."
+  },
+  {
+   "theme": "Infrastructure vulnerability",
+   "view": "Grid and infrastructure attacks are the biggest homeland threat in a coming conflict."
+  }
+ ],
+ "calls": [
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TYX",
+   "instrument_quoted": "ZROZ (PIMCO 25+yr zero-coupon Treasury ETF), short",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Fund is short long-duration zero-coupon Treasuries; crisis-era inflation and rising term premium make long bonds lose (i.e. long yields higher).",
+   "conviction": "high",
+   "timestamp": "0:36",
+   "quote": "We're not a buyer of long-term bonds at all... right now we're actually short zeros"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 (CAPE)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "CAPE over 40 historically gives negative 10-year returns and AI 'this time is different' ends with the market going down, but fund stays long to participate and can't time it.",
+   "conviction": "medium",
+   "timestamp": "0:32",
+   "quote": "It always ends with the market goes down. The question is when? You can't time these things."
+  },
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron / DRAM chip stocks",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Chip/DRAM stocks are most vulnerable to any slowdown in data-center growth; fund is short the weakest parts of tech.",
+   "conviction": "medium",
+   "timestamp": "0:44",
+   "quote": "private equity and chip stocks is where we're shortest"
+  },
+  {
+   "group": "stocks",
+   "ticker": "KKR",
+   "instrument_quoted": "KKR",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Private equity is among the fund's largest shorts amid excess leverage and rising real rates.",
+   "conviction": "medium",
+   "timestamp": "0:44",
+   "quote": "I'd say private equity and chip stocks is in the most vulnerable"
+  },
+  {
+   "group": "stocks",
+   "ticker": "APO",
+   "instrument_quoted": "Apollo",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Private equity short alongside KKR.",
+   "conviction": "low",
+   "timestamp": "0:44",
+   "quote": "I'd say private equity and chip stocks is where we're shortest"
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "precious metals (general)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Precious metals are part of the fund's anti-inflation sleeve and a non-market store of wealth for a crisis.",
+   "conviction": "low",
+   "timestamp": "0:45",
+   "quote": "you need to think about precious metals or real estate that, you know, actually are non-market positions"
+  }
+ ],
+ "notes": "TYX call is expressed as short ZROZ = bullish long yields; 10y yield 5.091% was quoted by host, not Neil. MU/KKR/APO names came from host listing fund shorts; Neil confirmed only 'private equity and chip stocks/DRAM'. Fund is long XLK but trimmed; no separate call. recorded_when unknown (host says 'today' market down)."
+}
