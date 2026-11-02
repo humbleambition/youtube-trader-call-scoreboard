@@ -1,0 +1,81 @@
+{
+ "video_id": "PVK6PV5WE80", "channel": "Ricky Gutierrez", "title": "LIVE NOW: META & TESLA REPORT EARNINGS 2026",
+ "video_date": "2026-10-21", "date_source": "transcript", "recorded_when": "intraday",
+ "video_type": "daily_market", "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {"theme": "De-risking into earnings", "view": "Markets tend to de-risk right before major earnings; staying in cash or trimming lets you take advantage of whatever happens."},
+  {"theme": "Meta capex and neoclouds", "view": "Meta's capex guidance is the key: too much spend could sink Meta, too little could hit neocloud names like NBIS and CoreWeave."},
+  {"theme": "Irrational valuations", "view": "Irrational markets support story stocks, but eventually fundamentals will matter."}
+ ],
+ "calls": [
+  {
+   "group": "stocks", "ticker": "META", "instrument_quoted": "META stock", "price_at_call": 713,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [720, 690], "resistance": [713], "invalidation": null},
+   "condition": "Post-earnings: shorted the gap-up as an overbought reversal; would trim near an oversold level; careful if 720 support breaks.",
+   "action": "short", "entry": 713, "stop": null, "method": "technical",
+   "reason": "Before the report he expected Meta to pump; after a 4.8% gap-up he shorted 100 shares (~$71k) as a small overbought-reversal trade while staying a long-term holder.",
+   "conviction": "low", "timestamp": "0:23",
+   "quote": "Small position. Opening up 25 shares short as Meta gaps up 4.8%."
+  },
+  {
+   "group": "stocks", "ticker": "TSLA", "instrument_quoted": "TSLA stock", "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "fundamental",
+   "reason": "Expected Tesla to miss; calls the car business fading, demand low, P/E ~400 and Optimus/robotaxi still unproven.",
+   "conviction": "medium", "timestamp": "0:15",
+   "quote": "I don't think Tesla will hit their their earnings expectation. I think Tesla it it is now a a fading business"
+  },
+  {
+   "group": "stocks", "ticker": "MSTR", "instrument_quoted": "MSTR stock", "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "Waiting for BTC to actively drop for confirmation; plans to close the short before the close.",
+   "action": "short", "entry": null, "stop": null, "method": "mixed",
+   "reason": "Intraday overbought reversal with gap-down potential; calls MSTR a dilutive, worthless company that crashes when Bitcoin falls.",
+   "conviction": "medium", "timestamp": "0:06",
+   "quote": "This is an overbought reversal. I see it as that. I see some gap down potential."
+  },
+  {
+   "group": "stocks", "ticker": "ORCL", "instrument_quoted": "ORCL stock", "price_at_call": null,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "neutral", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "watch", "entry": null, "stop": null, "method": "mixed",
+   "reason": "Attractive at these prices but a leveraged AI-infrastructure bet (OpenAI exposure, Ellison leverage); sentiment and direction currently very weak.",
+   "conviction": "low", "timestamp": "0:09",
+   "quote": "at these prices, I do find it to be attractive. But direction and market sentiment are very important"
+  },
+  {
+   "group": "stocks", "ticker": "OKLO", "instrument_quoted": "OKLO stock", "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "fundamental",
+   "reason": "Overhyped with no revenue expected until ~2030; fundamentals will eventually matter, though oversold levels may attract some investors.",
+   "conviction": "low", "timestamp": "0:11",
+   "quote": "I thought it was an overhyped up company back then. I still think that's the case now"
+  },
+  {
+   "group": "stocks", "ticker": "SPCX", "instrument_quoted": "SpaceX stock", "price_at_call": null,
+   "short_term": {"bias": "neutral", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [157], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "mixed",
+   "reason": "Post-earnings pop may be an overreaction and possibly overbought, but results and guidance beat, so he warns against shorting it.",
+   "conviction": "low", "timestamp": "0:01",
+   "quote": "this doesn't mean that you should just go ahead and short SpaceX because it could be possibly overbought."
+  }
+ ],
+ "notes": "Live from 12:40 p.m. Arizona (15:40 ET) into the after-hours Meta/Tesla reports. Meta short-term bearish reflects his post-earnings short trade; pre-report he said 'I think that it will pump'. META entry approximate (~713 breakout area; $71k for 100 shares). SpaceX ticker assumed SPCX. MU, IBM and the Nasdaq were mentioned only in passing."
+}

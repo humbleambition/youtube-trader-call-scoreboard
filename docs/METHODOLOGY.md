@@ -79,6 +79,11 @@ duplicate uploads, non-primary channels) are listed with reasons in [`exclusions
   treat anything above ~0.0025 (0.05 / 20) as not yet distinguishable from luck.
 - **Always-long baseline**: on the same calls, the share where the market simply went up. If a channel's hit rate
   is not above this, a permanently bullish robot would have done as well. "Edge vs long" is the difference.
+- **Random-day twins**: each scored call is re-scored on a random session (same instrument, bias and threshold)
+  drawn from the ~120 sessions before the scoring cutoff; 10,000 twin sets per channel. Twin p = (1 + sets with at
+  least as many hits) / 10,001, then Holm-corrected across the ranked channels. This controls for a channel's mix of
+  instruments and bias, which the coin-flip test does not, and reflects that random calls hit below 50% under the
+  threshold rules (about 46% this month).
 
 ## 6. Limitations
 
@@ -88,6 +93,9 @@ duplicate uploads, non-primary channels) are listed with reasons in [`exclusions
   clues in the video (e.g. "CPI this morning"), usually one day before the upload date.
 - **Coverage is uneven.** Some channels post several videos a day, others weekly; a few videos had no usable
   captions or were over two hours and were skipped. Within 24 Sep – 23 Oct every other video was processed.
+- **Extraction agreement.** A blind second pass over 20 random videos re-found 89% of the published calls, all with
+  the same bias, and 94 of 96 jointly scored calls got the same verdict. It also found more borderline calls, so the
+  call count is the least stable part of the pipeline (see the README).
 - **LLM extraction can misread.** Auto-captions garble tickers and numbers, and a model can over- or under-read
   a host's bias, especially for hedged or conditional statements. Conditional calls ("if 6,700 breaks, then …")
   are scored on their stated bias, not on whether the condition triggered.

@@ -1,0 +1,170 @@
+{
+ "video_id": "pvAJoIQ6kuc",
+ "channel": "Money Making Market",
+ "title": "IS THE SQUEEZE FINISHED? OR WILL SPY CONTINUE TO $800?",
+ "video_date": "2026-09-26",
+ "date_source": "listing",
+ "recorded_when": "weekend",
+ "video_type": "daily_market",
+ "speaker": "Money Making Market host",
+ "macro_themes": [],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY (weekly/daily expected moves; ES futures 4h)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     767.93,
+     760.65
+    ],
+    "resistance": [
+     774.77,
+     782.05
+    ],
+    "invalidation": null
+   },
+   "condition": "If the 2-hour chart confirms an upturn, expect a test of the high and a move toward the 782.05 upper weekly expected move; if the 30-minute curls down, it could head to 760.65.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Price sits in an 'uncomfortable spot' near the center line; futures confirmed on the 4-hour (test the high), but no MACD confirmation on SPY's 2-hour yet.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "that upside move looks juicy if that 2-hour confirms 782.05. But if this 30-minute fails, who's to say we're not going to head down"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     739.46,
+     728.67
+    ],
+    "resistance": [
+     749.54,
+     760.33
+    ],
+    "invalidation": null
+   },
+   "condition": "A downside curl would make a lower high and target the 728.67 lower weekly expected move; upside confirmation opens 760.33.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Daily chart shows no reversal signal and the 2-hour has room to pull back further, but confirmation up would mean test the high and make a new one.",
+   "conviction": "low",
+   "timestamp": "0:06",
+   "quote": "with confirmation here, it opens the door to that weekly expected move of 760.33 to the upside."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     279.82
+    ],
+    "resistance": [
+     284.12
+    ],
+    "invalidation": null
+   },
+   "condition": "A downside curl on the 30-minute means test the low and make a new one; 2-hour divergence hints a big move could come but needs full confirmation.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "MACD confirmation is weak (negative bar above the 9-day MA) and price action is poor; fewer than 3-5 reasons, so only a very small position.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "I do not believe I have three to five reasons yet to take a trade with IWM."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "A 2-hour curl up in volatility would be a problem for bulls.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "30-minute RSI divergence hints volatility could curl up, but MACD made a lower low and nothing is confirmed.",
+   "conviction": "low",
+   "timestamp": "0:02",
+   "quote": "some kind of curl up for volatility is possible, but is it probable enough?"
+  }
+ ],
+ "notes": "Weekend weekly-expected-move video; all views are conditional on indicator confirmation and the host repeatedly says to be reactive, so short-term biases are 'mixed'. Levels are options-derived expected moves (SPY weekly 760.65/782.05, daily 767.93/774.77; QQQ weekly 728.67/760.33, daily 739.46/749.54; IWM daily 279.82/284.12). Host name not given."
+}

@@ -1,0 +1,97 @@
+{
+ "video_id": "VDbGO4QZDaw",
+ "channel": "tastylive",
+ "title": "Trump Warned of a Depression, Here's What the Options Actually Price",
+ "video_date": "2026-10-19",
+ "date_source": "listing",
+ "recorded_when": "unknown",
+ "video_type": "macro_interview",
+ "speaker": "tastylive host (Options Math Check)",
+ "macro_themes": [
+  {
+   "theme": "Midterm seasonality",
+   "view": "Midterm years are the weakest of the cycle but the following period, starting in January, is the strongest."
+  },
+  {
+   "theme": "Gridlock",
+   "view": "Split government has historically been good for stocks, so who wins matters less than gridlock."
+  },
+  {
+   "theme": "No depression priced",
+   "view": "Options and VIX term structure show no depression or sharp decline priced in."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPX index",
+   "price_at_call": 7803,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Options price only ~423-point (≈5%) moves either way to January, no depression; midterm seasonality shows rallies around the vote and the strongest year starting in January, and gridlock historically helps stocks.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "The S&P 500 rallied through 21 of 23 midterms with the median gain of 7%."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "VIX",
+   "instrument_quoted": "VIX index and futures",
+   "price_at_call": 15,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "options_flow",
+   "reason": "VIX around 15 with futures in contango (Oct 16.80 < Nov < Dec), so no elevated volatility priced around the midterms.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "As of right now, we're not even seeing any expected volatility around those midterm elections."
+  }
+ ],
+ "notes": "Host name not stated. Directional views rest on historical seasonality rather than an explicit forecast; conviction low."
+}

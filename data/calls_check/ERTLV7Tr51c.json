@@ -1,0 +1,40 @@
+{
+ "video_id": "ERTLV7Tr51c", "channel": "Meet Kevin", "title": "stocks and oil drop... ohh man",
+ "video_date": "2026-09-29", "date_source": "listing", "recorded_when": "after_close",
+ "video_type": "daily_market", "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {"theme": "White House AI accord", "view": "The no-new-regulation, self-policing AI accord is a 'nothing burger' that keeps the AI buildout (and bubble) inflating with no laws slowing it until at least 2029."},
+  {"theme": "AI late-cycle", "view": "AI is at '10 p.m. in the party'; he sits at 8.7 on his bull/bear scale, so invest but pay off debt now ahead of an eventual bubble pop and recession."},
+  {"theme": "Peak yields", "view": "With the 10-year near 5.25% (5.29% intraday) the pain feels like it is maxing out; Williams' dovish remarks signal the Fed wants to cap yields."},
+  {"theme": "Fed hikes priced down", "view": "NY Fed's Williams suggesting the next hike can wait until December cut odds of two more hikes; expects PCE to meet expectations and hike odds to fall further."},
+  {"theme": "Iran deal", "view": "Expects an Iran deal before markets do, which would be bullish; Hormuz flows recovering are pulling oil lower."},
+  {"theme": "Bonds and real estate early-cycle", "view": "Bonds and real estate are near the bottom of their cycle ('6 p.m. at the party')."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "NQ", "instrument_quoted": "QQQ", "price_at_call": 735,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "mixed", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [735], "resistance": [], "invalidation": null},
+   "condition": "Upside tied to an Iran deal; he would favor December 18 options for that trade.",
+   "action": "hold", "entry": null, "stop": null, "method": "macro",
+   "reason": "QQQ double-tested and held 735; no AI regulation, a dovish Fed and a coming Iran deal keep him bullish, though he sees AI late in the cycle with a bubble pop eventually.",
+   "conviction": "high", "timestamp": "1:44",
+   "quote": "Anyway, I maintain my bullish posture and I now have the balls to say it."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "TNX", "instrument_quoted": "10-year Treasury yield; TLT", "price_at_call": 5.25,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [5.29], "invalidation": null},
+   "condition": "Renewed conflict with Iran could prove it wrong; expects TLT to hold or regain its 78.77 line.",
+   "action": "", "entry": null, "stop": null, "method": "mixed",
+   "reason": "Selling pain looks exhausted near 5.25% with 5.29% hit intraday; dovish Williams remarks show the Fed trying to cap yields; bonds near a cycle bottom.",
+   "conviction": "medium", "timestamp": "1:34",
+   "quote": "I think we're getting to peak yields. Inverse trade me if you want."
+  }
+ ],
+ "notes": "Long livestream (Trump AI summit, tax-strategy segment). Recorded Tuesday (Williams spoke 'Tuesday', PCE 'tomorrow', quarter ending this week), consistent with the Sep 29 listing; market commentary starts around the closing bell. TLT 78.77 level is in TLT dollars, not yield. Passing mentions without a call: NVDA bounce at 227, gold 4,200, Brent pulling back from 106-108, SpaceX, FICO, AVGO, PLTR, MRVL. He also mentions selling puts on an unnamed stock that benefits from an Iran deal and Kalshi bets (Iran deal before Mar 1; exactly one more Fed hike)."
+}

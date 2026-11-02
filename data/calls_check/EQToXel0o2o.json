@@ -1,0 +1,509 @@
+{
+ "video_id": "EQToXel0o2o",
+ "channel": "Verified Investing",
+ "title": "OpenAI Revenue Shocks AI Plays | Chipotle Jumps on Takeover Rumors",
+ "video_date": "2026-10-08",
+ "date_source": "listing",
+ "recorded_when": "after_close",
+ "video_type": "daily_market",
+ "speaker": "Drew Dosik",
+ "macro_themes": [
+  {
+   "theme": "OpenAI revenue miss",
+   "view": "OpenAI cut revenue to $50B from $70B expected, hitting AI plays, but accounting differences make it less bad than feared."
+  },
+  {
+   "theme": "Yields topping",
+   "view": "10-year yield may be putting in a weekly topping tail; lower yields would help small and mid caps."
+  },
+  {
+   "theme": "Midterms and oil",
+   "view": "Administration likely wants oil lower before midterms, so no big oil rally until after early November."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "SPY",
+   "price_at_call": 773.93,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     764
+    ],
+    "resistance": [
+     775.21
+    ],
+    "invalidation": null
+   },
+   "condition": "above ~775 neckline turns near-term bullish; further selling targets gap fill support ~764",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "SPY closed under the 775.21 inverse head-and-shoulders neckline, putting the pattern in jeopardy, but prior one-day breaks recovered.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "anything over 775 and change starts putting investors back in near-term bullish mode, cuz that 10-year yield did come down, too."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq Composite (IXIC) / QQQ",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     28867
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Recovered off lows and broke a small consolidation, but hourly QQQ shows a bear flag implying lower; gap fill near rising trendline from March lows is support.",
+   "conviction": "low",
+   "timestamp": "0:04",
+   "quote": "that's a downward move in a bear flag on the QQQ. So, that implies we still could be coming down lower."
+  },
+  {
+   "group": "stocks",
+   "ticker": "SMH",
+   "instrument_quoted": "SMH",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pierced and recovered at former resistance turned support (0.618 fib); hasn't broken down, consolidating in a range.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "So, so far, SMH hasn't necessarily broken down."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "10-year yield",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     5.28
+    ],
+    "invalidation": 5.28
+   },
+   "condition": "needs to close the week at or below 5.28% to confirm weekly topping tail",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Consecutive daily topping tails and a potential weekly topping tail suggest yields turn lower, helping small caps.",
+   "conviction": "medium",
+   "timestamp": "0:06",
+   "quote": "there's more of these wicks developing at the top of the chart, specifically recently, implying the direction is likely to start changing to move lower."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "unless 10-year yields keep declining",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Gold still in a bearish consolidation, chopping sideways without new lows.",
+   "conviction": "low",
+   "timestamp": "0:08",
+   "quote": "Still in a bearish consolidation that does imply we could see more downside unless, of course, those 10-year yields continue to start declining"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": 53.26,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "daily close below 50% of the parallel channel kicks off selling to the 53.26 head-and-shoulders target; buys at $50-53",
+   "action": "buy",
+   "entry": 53,
+   "stop": null,
+   "method": "technical",
+   "reason": "Bear flag breaking and head-and-shoulders neckline break with measured move to 53.26; plans to buy in the 50-53 zone.",
+   "conviction": "medium",
+   "timestamp": "0:09",
+   "quote": "where I am going to be picking up silver once we get around the 53 and $50 range on silver."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 89500,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     80837
+    ],
+    "resistance": [],
+    "invalidation": 80837
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Still an inside-bar bull flag holding former resistance as support; expects a test of the head-and-shoulders neckline at 89,500.",
+   "conviction": "medium",
+   "timestamp": "0:10",
+   "quote": "we're anticipating price to come back up and test that neckline on the chart of Bitcoin."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "US oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     86.9
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Oil sitting in a bear flag since Sept 21; Trump walked back attack talk and administration likely wants lower oil before midterms.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "I'm really not seeing oil rocket up on this chart until we get past that first week in November."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "NG",
+   "instrument_quoted": "natural gas / BOIL",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 3.59,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "will nibble if nat gas dips further",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nat gas in breakout territory; sold BOIL at highs and waiting to buy a dip, expecting a move back toward the weekly parallel bottom at $3.59.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "Waiting for another opportunity to buy cuz I still anticipate nat gas to go up higher on the charts."
+  },
+  {
+   "group": "stocks",
+   "ticker": "BE",
+   "instrument_quoted": "Bloom Energy",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 268,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     246.96
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "if selling continues to the 0.382 fib at ~246.96 by October 14, bounce play",
+   "action": "watch",
+   "entry": 246.96,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long bull flag since September; 0.382 fib plus rising trendline is an X-marks-the-spot bounce level.",
+   "conviction": "low",
+   "timestamp": "0:16",
+   "quote": "if we do see some continued selling in the next couple days, I see that being an area for a near-term bounce play on BE."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     214,
+     205
+    ],
+    "resistance": [
+     256
+    ],
+    "invalidation": null
+   },
+   "condition": "selling through 214 could run to just under 205",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Near-term breakdown from trendline off July pivot low; next support at top of parallel channel 214.",
+   "conviction": "low",
+   "timestamp": "0:17",
+   "quote": "Now, where is the next level of support? Pretty evident right here on top of the parallel channel at $214."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CMG",
+   "instrument_quoted": "Chipotle",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [
+     33.5
+    ],
+    "invalidation": null
+   },
+   "condition": "close above ~$33.50 back into the channel is near-term positive",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Popped 6.21% on Starbucks takeover rumor but still below the broken parallel channel that keeps rejecting it.",
+   "conviction": "low",
+   "timestamp": "0:18",
+   "quote": "Be watching around $33.50. Getting above that and closing would be near-term positive on Chipotle."
+  },
+  {
+   "group": "stocks",
+   "ticker": "ROL",
+   "instrument_quoted": "Rollins",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": 35.83,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": 43.36,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     30.25,
+     29.32
+    ],
+    "resistance": [
+     37.98,
+     43.36
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Oversold bounce off a $30 support zone where the 0.786 fib and a flipped horizontal trendline line up.",
+   "conviction": "medium",
+   "timestamp": "0:22",
+   "quote": "A bounce of this nature could take Rollins all the way back up here to 3583"
+  }
+ ],
+ "notes": "Only 'Thursday' stated; listing date used. ROL target quoted as '3583' read as 35.83. NQ gap-fill level 28,867 quoted though above the stated low of 27,069; recorded as given. BE target garbled ('236, 240 or 268'); 268 used."
+}

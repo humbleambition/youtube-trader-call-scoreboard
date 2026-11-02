@@ -1,0 +1,93 @@
+{
+ "video_id": "2G642xbFBig", "channel": "Meet Kevin", "title": "Our Economy is about to EXPLODE | Agentic AI SHOCK",
+ "video_date": "2026-10-05", "date_source": "listing", "recorded_when": "intraday",
+ "video_type": "daily_market", "speaker": "Kevin Paffrath",
+ "macro_themes": [
+  {"theme": "AI spending boom", "view": "Technology business activity is expanding at its fastest pace since June 2021 and all sectors are expanding, so the economy is booming on AI spend."},
+  {"theme": "Two canaries: labor and AI underwriters", "view": "As long as the labor market and the AI end-buyers (OpenAI, Anthropic) stay healthy, stay bullish stocks; labor rolling over would crash the economy."},
+  {"theme": "Bond yields rising", "view": "10-year near 5.32% and 2s10s near 50bp 'shock territory' raise risk; be cautious/nervous but not fearful, driven by supply rather than bond bears."},
+  {"theme": "Hedge via allocation", "view": "Hedge by limiting stock allocation and diversifying into real estate, private equity, debt payoff and cash rather than trying to time a black swan."},
+  {"theme": "Copper-to-gold ratio", "view": "The ratio is reversing a 5-year downtrend, signaling economic boom, and should keep widening despite Treasury fears."}
+ ],
+ "calls": [
+  {
+   "group": "indices_futures", "ticker": "NQ", "instrument_quoted": "QQQ", "price_at_call": null,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": 800, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [700], "resistance": [], "invalidation": null},
+   "condition": "Upside acceleration to 800 tied to a deal with Iran and more AI news; bullishness holds as long as both canaries stay healthy.",
+   "action": "hold", "entry": null, "stop": null, "method": "macro",
+   "reason": "Economy booming on AI spend, labor market rebounding; bought the 700 dip as peak fear and expects continued all-time highs ahead of a bigger euphoria.",
+   "conviction": "high", "timestamp": "0:19",
+   "quote": "That's why I think we continue to drive uh all-time highs on the cues."
+  },
+  {
+   "group": "stocks", "ticker": "MSFT", "instrument_quoted": "MSFT stock", "price_at_call": null,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": 562, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "mixed",
+   "reason": "Says Microsoft is crushing it and quietly breaking out; standing price target of 562.",
+   "conviction": "medium", "timestamp": "0:06",
+   "quote": "I think they're quietly breaking out. People aren't paying attention to that breakout that's coming for Microsoft."
+  },
+  {
+   "group": "stocks", "ticker": "NVDA", "instrument_quoted": "NVDA stock", "price_at_call": 237,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [227], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "technical",
+   "reason": "Breakout above the 227 level they had been calling; now at 237 and early in the move.",
+   "conviction": "medium", "timestamp": "0:08",
+   "quote": "I've been bullish this uh 227 breakout on Nvidia and it's now at 237. We are starting the very breakout we have been calling for"
+  },
+  {
+   "group": "stocks", "ticker": "MRVL", "instrument_quoted": "MRVL stock (transcribed 'Marll')", "price_at_call": null,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [266], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "technical",
+   "reason": "Breaking out above the 266 line they had been watching.",
+   "conviction": "low", "timestamp": "0:08",
+   "quote": "even Marll has been breaking out of our 266 line that we've been watching pretty heavily."
+  },
+  {
+   "group": "stocks", "ticker": "META", "instrument_quoted": "META stock", "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bullish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "macro",
+   "reason": "Groups Meta with Microsoft, Nvidia and the Nasdaq-100 as still ahead of a big AI euphoria.",
+   "conviction": "low", "timestamp": "0:19",
+   "quote": "I think the rise in Meta, uh, the rise in Microsoft, the NASDAQ 100, Nvidia, all this stuff is just at the beginning."
+  },
+  {
+   "group": "metals", "ticker": "GC", "instrument_quoted": "gold", "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bearish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "bearish", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "", "action": "", "entry": null, "stop": null, "method": "macro",
+   "reason": "Fed chair Kevin Warsh is not a money printer; called the gold top on January 30 and expects a long bear market.",
+   "conviction": "high", "timestamp": "0:17",
+   "quote": "I think gold is going to be in an eight-year bare market because Kevin Walsh is at the helm of the Fed."
+  },
+  {
+   "group": "metals", "ticker": "HG", "instrument_quoted": "copper (copper-to-gold ratio)", "price_at_call": null,
+   "short_term": {"bias": "none", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "If the economy keeps booming.", "action": "", "entry": null, "stop": null, "method": "macro",
+   "reason": "Copper-to-gold ratio reversing a 5-year downtrend on economic boom; expects the spread to keep widening.",
+   "conviction": "low", "timestamp": "0:17",
+   "quote": "if the economy keeps booming like this line could actually be substantially higher in the future."
+  }
+ ],
+ "notes": "Date from listing; he says ISM/S&P Global September final reads came out 'this morning', so likely recorded during the session. 'Marll' breakout at 266 is a garbled name, mapped to MRVL with low confidence. QQQ 800 target is conditional on an Iran deal. Yields (10y ~5.32%) discussed as a risk without a clear directional call, so no TNX call recorded."
+}

@@ -1,0 +1,93 @@
+{
+ "video_id": "tahoOJB7YlE",
+ "channel": "Ricky Gutierrez",
+ "title": "Don't Get Caught in the Crash: My Trading Plan",
+ "video_date": "2026-10-07",
+ "date_source": "transcript",
+ "recorded_when": "intraday",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Rising yields",
+   "view": "10-year yield at 5.35%, highest in 24 years, making mortgages and home ownership more expensive."
+  },
+  {
+   "theme": "Fed minutes",
+   "view": "Fed minutes at 2pm ET likely to move markets."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "Micron Technology",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Has a $50k short after Micron ripped higher and showed slight resistance; still in an ascending uptrend with no confirmed reversal, so waiting for confirmation.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "I still think that there's more downside than there is upside if and when Micron Technologies begins to sell off"
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Nasdaq opened red but recovered and is now overbought; suggests trimming longs at overbought levels rather than shorting.",
+   "conviction": "low",
+   "timestamp": "0:00",
+   "quote": "Now that we've given it time, markets have recovered a decent amount. Now they're overbought."
+  }
+ ],
+ "notes": "Date inferred from 'happy Wednesday' and '10/10 is only 3 days away' (Wed Oct 7). BTC/MSTR mentioned only as dropping, no stated view."
+}

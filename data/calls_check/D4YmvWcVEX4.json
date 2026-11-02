@@ -1,0 +1,220 @@
+{
+ "video_id": "D4YmvWcVEX4",
+ "channel": "Ricky Gutierrez",
+ "title": "LIVE NOW: CPI DATA INFLATION REPORT OCT. 2026",
+ "video_date": "2026-10-15",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "daily_market",
+ "speaker": "Ricky Gutierrez",
+ "macro_themes": [
+  {
+   "theme": "Hot September CPI",
+   "view": "Headline CPI 3.7% vs 3.6% expected and core 2.6% vs 2.5%; a hotter print justifies the market selling off."
+  },
+  {
+   "theme": "Energy-driven inflation",
+   "view": "Energy, especially fuel oil (+15.3% m/m), is the biggest driver, tied to Middle East / Strait of Hormuz escalation and Russia sanctions."
+  },
+  {
+   "theme": "Speculative valuations",
+   "view": "Irrational valuations are only supported in irrational times; the most speculative stocks crash hardest when markets sell off."
+  }
+ ],
+ "calls": [
+  {
+   "group": "stocks",
+   "ticker": "MU",
+   "instrument_quoted": "MU stock",
+   "price_at_call": 933,
+   "short_term": {
+    "bias": "mixed",
+    "target": 900,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     929,
+     900
+    ],
+    "resistance": [
+     1000,
+     1100
+    ],
+    "invalidation": null
+   },
+   "condition": "Wants it to sell off toward 900 to buy; notes support could break if the selloff continues after the open.",
+   "action": "buy",
+   "entry": 900,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Low P/E, huge profit, sold out for two years; has repeatedly bought the 900 lows and sold into 1,000-1,100. Risk is the memory cycle and future competition.",
+   "conviction": "medium",
+   "timestamp": "0:24",
+   "quote": "anytime that it sells off to the lows of 900, I've really enjoyed buying those lows and allowing it to recover"
+  },
+  {
+   "group": "stocks",
+   "ticker": "RDDT",
+   "instrument_quoted": "RDDT stock",
+   "price_at_call": 153,
+   "short_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     143
+    ],
+    "resistance": [
+     208
+    ],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "No clear direction and poor risk/reward mid-range; still 34 P/E after a ~26% drop and lagging tech, so not a good investment to him.",
+   "conviction": "low",
+   "timestamp": "0:21",
+   "quote": "I'm not the biggest fan. This would not make sense as a good investment for me"
+  },
+  {
+   "group": "stocks",
+   "ticker": "NBIS",
+   "instrument_quoted": "NBIS stock",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     149
+    ],
+    "resistance": [
+     300
+    ],
+    "invalidation": null
+   },
+   "condition": "Worst case if broader markets sell off, he expects NBIS to crash hardest.",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "Calls it a gimmick: $56B market cap on ~$42M profit, huge P/E, pure speculation; irrational stocks fall hardest in selloffs.",
+   "conviction": "medium",
+   "timestamp": "0:27",
+   "quote": "I think you're absolutely crazy if you want to invest in in NBIS from the 200 to the 250 range."
+  },
+  {
+   "group": "stocks",
+   "ticker": "NKE",
+   "instrument_quoted": "NKE stock",
+   "price_at_call": 36,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "neutral",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     31
+    ],
+    "resistance": [
+     36
+    ],
+    "invalidation": null
+   },
+   "condition": "Would buy only a small position and be patient; it is testing resistance and could gap down.",
+   "action": "watch",
+   "entry": null,
+   "stop": null,
+   "method": "fundamental",
+   "reason": "12-year low, 17x earnings, 38% upside to fair value, but revenue no longer growing; cheap can get cheaper.",
+   "conviction": "low",
+   "timestamp": "0:31",
+   "quote": "I wouldn't mind owning maybe a few thousand dollars worth of Nike for them down here"
+  },
+  {
+   "group": "stocks",
+   "ticker": "MSTR",
+   "instrument_quoted": "MSTR stock",
+   "price_at_call": 155,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Sarcastically dismisses a viewer's claim that MSTR will rise in 2027, daring them to buy it with a HELOC.",
+   "conviction": "low",
+   "timestamp": "0:30",
+   "quote": "Put a HELOC on your mortgage, and buy MSTR at 155. Would love to see how that ages for you."
+  }
+ ],
+ "notes": "Live at 5:25 a.m. Arizona time, five minutes before the 8:30 ET CPI release. Index commentary (QQQ 742-746 range, retesting prior lows) was reactive with no stated bias, so no index call recorded. MSTR bearish view is implied by sarcasm only. NBIS price at call not stated; he refers to a 200-250 range."
+}

@@ -1,0 +1,517 @@
+{
+ "video_id": "S7PrsS33S2Q",
+ "channel": "tastylive",
+ "title": "Markets Still See More Rate Hikes Than the Fed Does. Who's Right?",
+ "video_date": "2026-10-06",
+ "date_source": "listing",
+ "recorded_when": "intraday",
+ "video_type": "macro_interview",
+ "speaker": "Ilya Spivak",
+ "macro_themes": [
+  {
+   "theme": "Fed vs market rate path",
+   "view": "Markets price more hikes into 2027 than the Fed's dots; if minutes signal disinflation, repricing favors gold, silver and bonds."
+  },
+  {
+   "theme": "Disinflation",
+   "view": "3- and 6-month annualized PCE trending lower and GDPNow pointing down, arguing against aggressive hikes."
+  },
+  {
+   "theme": "Risk-on",
+   "view": "S&P and Nasdaq record highs flip the risk-on switch, though the Russell lags under rising rates."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500 / SPY / December ES",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "S&P 500 broke out to a record high and appears to be securing the close above it; risk-on switch flipped.",
+   "conviction": "medium",
+   "timestamp": "0:00",
+   "quote": "It looks like we're almost certainly going to get there by the end of the day."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "NQ",
+   "instrument_quoted": "Nasdaq",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Nasdaq at record high, well supported, led the S&P breakout with continuation today.",
+   "conviction": "medium",
+   "timestamp": "0:01",
+   "quote": "it's uh the same story for the NASDAQ. We can see that continues to look well supported."
+  },
+  {
+   "group": "indices_futures",
+   "ticker": "RTY",
+   "instrument_quoted": "Russell 2000 / IWM",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Russell rejected at former support turned resistance within downtrend since hawkish Jackson Hole; mirrors rising rates. Holding/adding IWM put vertical.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "the put vertical in IWM, the Russell ETF, that continues to work quite well here."
+  },
+  {
+   "group": "metals",
+   "ticker": "GC",
+   "instrument_quoted": "gold",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "adding if gold clears near-term levels",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Gold found a bottom and is basing; a less hawkish Fed than markets price would reprice gold higher.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "I'm still sitting long gold, which is starting to work, and I'm looking very closely at adding"
+  },
+  {
+   "group": "metals",
+   "ticker": "SI",
+   "instrument_quoted": "silver",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Silver trying to round a bottom; long via short-dated position that may expire.",
+   "conviction": "low",
+   "timestamp": "0:13",
+   "quote": "Long silver with only 10 days to expiration. This thing hasn't gone anywhere."
+  },
+  {
+   "group": "crypto",
+   "ticker": "BTC",
+   "instrument_quoted": "Bitcoin",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Structure well supported, testing swing high from late September; long call verticals with ample time.",
+   "conviction": "medium",
+   "timestamp": "0:03",
+   "quote": "the overall structure here still very well uh supported and uh looking like uh it's biased to the top side."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "TNX",
+   "instrument_quoted": "TLT (bonds)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "macro",
+   "reason": "Long bonds via TLT call vertical looking for a bottom; Fed minutes may show less scope for hikes than priced, pushing yields lower.",
+   "conviction": "medium",
+   "timestamp": "0:14",
+   "quote": "Still long the bonds with a call vertical in TLT. Looking for this thing to bottom."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "CL",
+   "instrument_quoted": "crude oil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Long call vertical; crude shrugged off overnight losses at bottom of its range.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "Still long crude oil with a call vertical. It shrugged off losses overnight and is basically at the bottom of its range."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "DXY",
+   "instrument_quoted": "US dollar (via EUR, AUD, CAD)",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Euro shows positive RSI divergence and dollar broadly weaker, consistent with gold and silver bottoming.",
+   "conviction": "medium",
+   "timestamp": "0:04",
+   "quote": "the dollar more generally seems to be in a weaker state that of course would comport with gold and silver trying to find a bottom."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "EURUSD",
+   "instrument_quoted": "euro",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Euro resilient despite French protests, French-German spreads narrowing; newly long.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "I am newly, once again, long the euro, which seems to be showing impressive resilience"
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "AUDUSD",
+   "instrument_quoted": "Aussie dollar",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "add",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Aussie extending higher; adding to long.",
+   "conviction": "medium",
+   "timestamp": "0:12",
+   "quote": "I've started to add to the long Aussie dollar position."
+  },
+  {
+   "group": "rates_fx_energy",
+   "ticker": "GBPUSD",
+   "instrument_quoted": "British pound",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Pound trying to turn at critical levels; small long.",
+   "conviction": "low",
+   "timestamp": "0:05",
+   "quote": "it seems to be trying to cultivate a turn at these critical levels. Uh I'm a little bit long."
+  },
+  {
+   "group": "stocks",
+   "ticker": "EWZ",
+   "instrument_quoted": "Brazil",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "hold",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Long Brazil for over a year, scaling and rolling; big gap in its favor this week.",
+   "conviction": "medium",
+   "timestamp": "0:13",
+   "quote": "I'm still long Brazil here. There's plenty of time on this."
+  },
+  {
+   "group": "stocks",
+   "ticker": "XBI",
+   "instrument_quoted": "XBI biotech ETF",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bearish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "short",
+   "entry": null,
+   "stop": null,
+   "method": "mixed",
+   "reason": "Biotech sold off and broke a big range after trade data showed pharma/biotech exports fell; exploratory short.",
+   "conviction": "low",
+   "timestamp": "0:14",
+   "quote": "Looks like it broke a big range. So we'll take an exploratory short here."
+  }
+ ],
+ "notes": "Date not stated; listing date used. Also short European stocks via put vertical and exited short CAD (not recorded). FX pairs use pair symbols."
+}

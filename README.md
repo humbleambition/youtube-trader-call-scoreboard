@@ -23,6 +23,8 @@ and score so creators and viewers can audit the result.
       ▼                       → hit / miss with volatility thresholds, exclusions.yaml applied
  data/scored_calls.json
       │  ytscore leaderboard hit rate vs coin flip (binomial p) and vs an always-long baseline
+      │  ytscore twins       same calls on random days (10,000 sets), Holm-corrected
+      │  ytscore agree       agreement between two independent extraction passes
       │  ytscore chart       out/session_heatmap.png, out/leaderboard.png
       ▼
  leaderboard
@@ -82,6 +84,60 @@ distinguishable from luck — none clear that bar.
 | 20 | ShadowTrader | 35% | 34 | 47% | -12 pts | 0.971 | 54% (37) |
 | 21 | A1 Trading | 30% | 20 | 50% | -20 pts | 0.979 | 46% (28) |
 | 22 | Figuring Out Money | 23% | 26 | 38% | -15 pts | 0.999 | 39% (33) |
+
+### Random-day twin test
+
+The coin flip is a loose yardstick: a call only counts as right when the move clears a threshold, so even random
+calls hit less than 50%. The twin test is stricter and fairer. Every scored call gets a "twin" with the same
+instrument, bias and threshold, scored on a random session from the previous ~6 months instead of the day it was
+made; 10,000 twin sets per channel. The twin p-value is the share of twin sets that did at least as well as the real
+calls, and the Holm correction accounts for testing 22 channels at once (`ytscore twins`, results in
+`data/twins.json`).
+
+Random-day twins hit about 46%. Three channels beat their twins clearly before correction (TheTechnicalTraders,
+Ricky Gutierrez, tastylive, all p < 0.005), but after the Holm correction none reaches 5%: TheTechnicalTraders comes
+closest at 0.055. One month is not enough to call it skill; it is enough to say these three are worth watching.
+
+| # | Channel | Hit rate | Same calls on random days | Twin p | Holm-adjusted p |
+|---|---|---|---|---|---|
+| 1 | Ricky Gutierrez | 64% | 47% | 0.0044 | 0.092 |
+| 2 | BitcoinHyper | 61% | 43% | 0.0118 | 0.224 |
+| 3 | TheTechnicalTraders | 60% | 45% | 0.0025 | 0.055 |
+| 4 | Money Making Market | 55% | 46% | 0.2036 | 1.000 |
+| 5 | Trade Brigade | 54% | 47% | 0.0453 | 0.815 |
+| 6 | tastylive | 54% | 47% | 0.0046 | 0.092 |
+| 7 | Ross Givens | 53% | 46% | 0.2578 | 1.000 |
+| 8 | Meet Kevin | 51% | 46% | 0.1725 | 1.000 |
+| 9 | Crypto World | 48% | 44% | 0.2070 | 1.000 |
+| 10 | Verified Investing | 46% | 45% | 0.3762 | 1.000 |
+| 11 | HJTrades | 43% | 47% | 0.8420 | 1.000 |
+| 12 | David Lin | 43% | 46% | 0.7144 | 1.000 |
+| 13 | Slope of Hope | 42% | 47% | 0.9005 | 1.000 |
+| 14 | Gareth Soloway | 41% | 47% | 0.8385 | 1.000 |
+| 15 | Joseph James Trading With JJ | 39% | 46% | 0.7966 | 1.000 |
+| 16 | Geeks of Finance | 39% | 46% | 0.9000 | 1.000 |
+| 17 | StockedUp | 38% | 47% | 0.9727 | 1.000 |
+| 18 | Arete Trading | 38% | 46% | 0.9848 | 1.000 |
+| 19 | The Traveling Trader | 38% | 48% | 0.8605 | 1.000 |
+| 20 | ShadowTrader | 35% | 46% | 0.9190 | 1.000 |
+| 21 | A1 Trading | 30% | 45% | 0.9420 | 1.000 |
+| 22 | Figuring Out Money | 23% | 48% | 0.9973 | 1.000 |
+
+### Extraction agreement check
+
+A second extraction pass re-read a random sample of 20 videos (seed 2026, from ranked channels) from the same public
+prompt, blind to the published calls (`data/calls_check/`, compared with `ytscore agree`, results in
+`data/agreement.json`).
+
+- 89% of the published scorable calls (100 of 112) were found again; every one of those 100 had the same
+  short-term bias.
+- The second pass found more calls (152), mostly passing or hedged mentions the first pass left out, so only 66%
+  of its calls are in the published set.
+- Scored outcomes barely moved: 94 of 96 calls scored by both passes got the same verdict, and the sample's hit rate
+  was 47% either way.
+
+Caveat: both passes used the same family of model, so this measures consistency, not independence from model
+bias. The main disagreement is over which borderline remarks count as calls, not over what direction a host called.
 
 
 ![Leaderboard](out/leaderboard.png)

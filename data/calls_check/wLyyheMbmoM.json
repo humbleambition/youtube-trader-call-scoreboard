@@ -1,0 +1,206 @@
+{
+ "video_id": "wLyyheMbmoM",
+ "channel": "Ross Givens",
+ "title": "The Market Is Hitting RECORD HIGHS… I'm Only Buying THESE Stocks",
+ "video_date": "2026-10-07",
+ "date_source": "listing",
+ "recorded_when": "premarket",
+ "video_type": "deep_dive_stock",
+ "speaker": "Ross Givens",
+ "macro_themes": [
+  {
+   "theme": "Narrow market",
+   "view": "A small group of stocks drives the index to highs while breadth deteriorates, so focus on leading groups."
+  },
+  {
+   "theme": "Cybersecurity leadership",
+   "view": "Cybersecurity is the top-ranked group across 1-12 month windows."
+  },
+  {
+   "theme": "Photonics",
+   "view": "Photonics is the next leg of the AI trade, helped by a US ban on Chinese manufacturers."
+  }
+ ],
+ "calls": [
+  {
+   "group": "indices_futures",
+   "ticker": "ES",
+   "instrument_quoted": "S&P 500",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "mixed",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "sentiment",
+   "reason": "Index at a new all-time high but more net 52-week lows than highs, only ~56% of Nasdaq stocks above the 200-day, and a rolling-over A/D line.",
+   "conviction": "low",
+   "timestamp": "0:01",
+   "quote": "even though the index itself is up, the market is in fact quite weak beneath the surface. Not saying we're going to crash."
+  },
+  {
+   "group": "stocks",
+   "ticker": "CRWD",
+   "instrument_quoted": "CrowdStrike",
+   "price_at_call": 280,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Leader of the top-ranked cybersecurity group; breakout pattern triggered Sept 14 and ran from 230 to 280.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "Now, the leader of this group, the big kahuna is Crowd Strike, ticker CRWD."
+  },
+  {
+   "group": "stocks",
+   "ticker": "PANW",
+   "instrument_quoted": "Palo Alto Networks",
+   "price_at_call": null,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "",
+   "entry": null,
+   "stop": null,
+   "method": "technical",
+   "reason": "Breaking out through new highs with a similar pattern to CrowdStrike; sees it as more viable now.",
+   "conviction": "medium",
+   "timestamp": "0:02",
+   "quote": "The other big name, Palo Alto Networks, also breaking out through new highs. Much more viable, I think, than Crowd Strike."
+  },
+  {
+   "group": "stocks",
+   "ticker": "RPD",
+   "instrument_quoted": "Rapid7",
+   "price_at_call": 12,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "none",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     11.95
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "buy stop triggers only on a break above yesterday's high (~13.10) at 13.25",
+   "action": "buy",
+   "entry": 13.25,
+   "stop": 11.9,
+   "method": "technical",
+   "reason": "Small-cap cyber name with series of shallowing consolidations after a 107% June move, institutions still buying; coiled spring.",
+   "conviction": "medium",
+   "timestamp": "0:05",
+   "quote": "if we trigger at 13 and a quarter, I'll be long RPD with a stop at 1190."
+  },
+  {
+   "group": "stocks",
+   "ticker": "VRNS",
+   "instrument_quoted": "Varonis Systems",
+   "price_at_call": 49,
+   "short_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "next session / 1-5 days"
+   },
+   "medium_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": "weeks to ~3 months"
+   },
+   "long_term": {
+    "bias": "bullish",
+    "target": null,
+    "horizon": ">3 months"
+   },
+   "key_levels": {
+    "support": [
+     44.5
+    ],
+    "resistance": [],
+    "invalidation": null
+   },
+   "condition": "",
+   "action": "buy",
+   "entry": 48.8,
+   "stop": 44.5,
+   "method": "mixed",
+   "reason": "Midcap cyber stock with strong earnings and sales growth in a tight consolidation after a 140% move; number one group.",
+   "conviction": "high",
+   "timestamp": "0:08",
+   "quote": "This thing looks absolutely perfect. There are no guarantees, but I have the number one group in the market."
+  }
+ ],
+ "notes": "Recorded 8:08 CT Wednesday premarket; listing date used. Photonics stocks deferred to a separate video."
+}

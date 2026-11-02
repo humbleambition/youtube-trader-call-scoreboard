@@ -1,0 +1,178 @@
+{
+ "Ricky Gutierrez": {
+  "n": 64,
+  "hits": 41,
+  "hit": 0.6406,
+  "twin_mean": 0.4689,
+  "twin_p": 0.0044,
+  "twin_p_holm": 0.0924
+ },
+ "BitcoinHyper": {
+  "n": 46,
+  "hits": 28,
+  "hit": 0.6087,
+  "twin_mean": 0.431,
+  "twin_p": 0.0118,
+  "twin_p_holm": 0.2242
+ },
+ "TheTechnicalTraders": {
+  "n": 94,
+  "hits": 56,
+  "hit": 0.5957,
+  "twin_mean": 0.4514,
+  "twin_p": 0.0025,
+  "twin_p_holm": 0.055
+ },
+ "Money Making Market": {
+  "n": 31,
+  "hits": 17,
+  "hit": 0.5484,
+  "twin_mean": 0.4567,
+  "twin_p": 0.2036,
+  "twin_p_holm": 1.0
+ },
+ "Trade Brigade": {
+  "n": 139,
+  "hits": 75,
+  "hit": 0.5396,
+  "twin_mean": 0.4656,
+  "twin_p": 0.0453,
+  "twin_p_holm": 0.8154
+ },
+ "tastylive": {
+  "n": 356,
+  "hits": 191,
+  "hit": 0.5365,
+  "twin_mean": 0.4658,
+  "twin_p": 0.0046,
+  "twin_p_holm": 0.0924
+ },
+ "Ross Givens": {
+  "n": 30,
+  "hits": 16,
+  "hit": 0.5333,
+  "twin_mean": 0.4587,
+  "twin_p": 0.2578,
+  "twin_p_holm": 1.0
+ },
+ "Meet Kevin": {
+  "n": 101,
+  "hits": 52,
+  "hit": 0.5149,
+  "twin_mean": 0.4622,
+  "twin_p": 0.1725,
+  "twin_p_holm": 1.0
+ },
+ "Crypto World": {
+  "n": 106,
+  "hits": 51,
+  "hit": 0.4811,
+  "twin_mean": 0.4389,
+  "twin_p": 0.207,
+  "twin_p_holm": 1.0
+ },
+ "Verified Investing": {
+  "n": 489,
+  "hits": 223,
+  "hit": 0.456,
+  "twin_mean": 0.448,
+  "twin_p": 0.3762,
+  "twin_p_holm": 1.0
+ },
+ "HJTrades": {
+  "n": 127,
+  "hits": 55,
+  "hit": 0.4331,
+  "twin_mean": 0.4732,
+  "twin_p": 0.842,
+  "twin_p_holm": 1.0
+ },
+ "David Lin": {
+  "n": 35,
+  "hits": 15,
+  "hit": 0.4286,
+  "twin_mean": 0.4617,
+  "twin_p": 0.7144,
+  "twin_p_holm": 1.0
+ },
+ "Slope of Hope": {
+  "n": 130,
+  "hits": 55,
+  "hit": 0.4231,
+  "twin_mean": 0.4736,
+  "twin_p": 0.9005,
+  "twin_p_holm": 1.0
+ },
+ "Gareth Soloway": {
+  "n": 49,
+  "hits": 20,
+  "hit": 0.4082,
+  "twin_mean": 0.4679,
+  "twin_p": 0.8385,
+  "twin_p_holm": 1.0
+ },
+ "Joseph James Trading With JJ": {
+  "n": 18,
+  "hits": 7,
+  "hit": 0.3889,
+  "twin_mean": 0.4596,
+  "twin_p": 0.7966,
+  "twin_p_holm": 1.0
+ },
+ "Geeks of Finance": {
+  "n": 67,
+  "hits": 26,
+  "hit": 0.3881,
+  "twin_mean": 0.4594,
+  "twin_p": 0.9,
+  "twin_p_holm": 1.0
+ },
+ "StockedUp": {
+  "n": 110,
+  "hits": 42,
+  "hit": 0.3818,
+  "twin_mean": 0.4676,
+  "twin_p": 0.9727,
+  "twin_p_holm": 1.0
+ },
+ "Arete Trading": {
+  "n": 184,
+  "hits": 70,
+  "hit": 0.3804,
+  "twin_mean": 0.4576,
+  "twin_p": 0.9848,
+  "twin_p_holm": 1.0
+ },
+ "The Traveling Trader": {
+  "n": 16,
+  "hits": 6,
+  "hit": 0.375,
+  "twin_mean": 0.4765,
+  "twin_p": 0.8605,
+  "twin_p_holm": 1.0
+ },
+ "ShadowTrader": {
+  "n": 34,
+  "hits": 12,
+  "hit": 0.3529,
+  "twin_mean": 0.4552,
+  "twin_p": 0.919,
+  "twin_p_holm": 1.0
+ },
+ "A1 Trading": {
+  "n": 20,
+  "hits": 6,
+  "hit": 0.3,
+  "twin_mean": 0.4475,
+  "twin_p": 0.942,
+  "twin_p_holm": 1.0
+ },
+ "Figuring Out Money": {
+  "n": 26,
+  "hits": 6,
+  "hit": 0.2308,
+  "twin_mean": 0.4791,
+  "twin_p": 0.9973,
+  "twin_p_holm": 1.0
+ }
+}

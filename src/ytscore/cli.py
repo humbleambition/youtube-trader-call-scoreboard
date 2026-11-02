@@ -1,4 +1,4 @@
-"""Command line: ytscore ingest | extract | score | leaderboard | chart"""
+"""Command line: ytscore ingest | extract | score | leaderboard | chart | twins | agree"""
 from __future__ import annotations
 
 import argparse
@@ -85,6 +85,35 @@ def cmd_chart(a):
         print("wrote", calls_heatmap(scored, d, Path(a.out) / f"calls_week_{d}.png", horizon="week"))
 
 
+def cmd_twins(a):
+    from .leaderboard import build
+    from .prices import fetch, load
+    from .twins import pool_start, twin_test
+    from .score import yahoo_symbol
+    scored = json.loads(Path(a.scored).read_text())
+    rows = build(scored, min_n=a.min_n)
+    chans = [r["channel"] for r in rows]
+    if a.fetch:
+        syms = {yahoo_symbol(r["ticker"], r["group"]) for r in scored
+                if r.get("next_day_ok") is not None and r["channel"].strip() in chans}
+        fetch(sorted(syms), a.prices, pool_start(a.until), a.until)
+    res = twin_test(scored, lambda s: load(s, a.prices, a.until), chans, a.until, n_sets=a.sets)
+    Path(a.out).write_text(json.dumps(res, indent=1))
+    print("| Channel | Hit rate | Random-day twins | Twin p | Holm-adjusted p |\n|---|---|---|---|---|")
+    for r in rows:
+        t = res[r["channel"]]
+        print(f"| {r['channel']} | {100 * t['hit']:.0f}% | {100 * t['twin_mean']:.0f}% | {t['twin_p']:.4f} | "
+              f"{t['twin_p_holm']:.3f} |")
+
+
+def cmd_agree(a):
+    from .agree import compare
+    res = compare(a.a, a.b)
+    if a.out:
+        Path(a.out).write_text(json.dumps(res, indent=1))
+    print({k: v for k, v in res.items() if k != "per_video"})
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(prog="ytscore", description=__doc__)
     p.add_argument("--version", action="version", version=__version__)
@@ -133,6 +162,22 @@ def main(argv=None):
     s.add_argument("--session", nargs="*", help="YYYY-MM-DD sessions: per-call heatmap, next-session window")
     s.add_argument("--week", nargs="*", help="YYYY-MM-DD reference closes: per-call heatmap, one-week window")
     s.set_defaults(func=cmd_chart)
+
+    s = sub.add_parser("twins", help="random-day twin test per ranked channel, Holm-corrected")
+    s.add_argument("--scored", default="data/scored_calls.json")
+    s.add_argument("--min-n", type=int, default=15)
+    s.add_argument("--prices", default=".cache/prices_twin", help="price cache with ~6 months of history")
+    s.add_argument("--fetch", action="store_true", help="download the history the twin pool needs first")
+    s.add_argument("--until", default="2026-10-31", help="pool uses sessions before this date")
+    s.add_argument("--sets", type=int, default=10_000)
+    s.add_argument("--out", default="data/twins.json")
+    s.set_defaults(func=cmd_twins)
+
+    s = sub.add_parser("agree", help="agreement between two extraction passes over the same videos")
+    s.add_argument("a", nargs="?", default="data/calls")
+    s.add_argument("b", nargs="?", default="data/calls_check")
+    s.add_argument("--out", default="data/agreement.json")
+    s.set_defaults(func=cmd_agree)
 
     a = p.parse_args(argv)
     a.func(a)

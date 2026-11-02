@@ -1,0 +1,35 @@
+{
+ "video_id": "fFViVGv5VQ4", "channel": "Verified Investing", "title": "Exercise Vs Assignment: The Options Rule Most Traders Never Learn",
+ "video_date": "2026-10-21", "date_source": "listing", "recorded_when": "intraday",
+ "video_type": "deep_dive_stock", "speaker": "Jake Sweeney",
+ "macro_themes": [
+  {"theme": "Falling oil helps airlines", "view": "Oil selling off reduces airlines' biggest cost, giving Delta room to move higher."}
+ ],
+ "calls": [
+  {
+   "group": "stocks", "ticker": "DAL", "instrument_quoted": "DAL stock / Jan 15 2027 80 call", "price_at_call": 76.69,
+   "short_term": {"bias": "bullish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "bullish", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [76, 73], "resistance": [81.3, 85, 87.39], "invalidation": null},
+   "condition": "Thesis depends on oil continuing to fall.",
+   "action": "buy", "entry": 76.69, "stop": null, "method": "technical",
+   "reason": "Bounce expected off a trend line from the April 2025 low near 73-76; falling oil and low IV rank after earnings make calls cheap; 81 is moderate and 87 major resistance.",
+   "conviction": "medium", "timestamp": "0:03",
+   "quote": "I don't think we have much downside right now. We could drop a few more dollars but then bounce off that support."
+  },
+  {
+   "group": "rates_fx_energy", "ticker": "CL", "instrument_quoted": "US oil", "price_at_call": 95,
+   "short_term": {"bias": "bearish", "target": null, "horizon": "next session / 1-5 days"},
+   "medium_term": {"bias": "none", "target": null, "horizon": "weeks to ~3 months"},
+   "long_term": {"bias": "none", "target": null, "horizon": ">3 months"},
+   "key_levels": {"support": [], "resistance": [], "invalidation": null},
+   "condition": "Framed as a thesis ('if I have a thesis that oil keeps falling').",
+   "action": "", "entry": null, "stop": null, "method": "technical",
+   "reason": "After a week of green bars oil pushed higher then sold off to 95 intraday; the Delta trade assumes it keeps falling.",
+   "conviction": "low", "timestamp": "0:02",
+   "quote": "I'm looking at a call setup if I have a thesis that oil keeps falling."
+  }
+ ],
+ "notes": "Educational options segment ('Good afternoon'). No explicit target; stated resistance zone 81-87. Trade: buy DAL Jan 15 2027 $80 call, delta ~0.46."
+}

@@ -1,0 +1,298 @@
+{
+ "videos": 20,
+ "a_calls": 112,
+ "b_calls": 152,
+ "matched": 100,
+ "same_bias": 100,
+ "recall_a_in_b": 0.8929,
+ "recall_b_in_a": 0.6579,
+ "bias_agreement": 1.0,
+ "per_video": [
+  {
+   "video_id": "2G642xbFBig",
+   "a": 3,
+   "b": 4,
+   "both": 2,
+   "same_bias": 2,
+   "only_a": [
+    "TLT"
+   ],
+   "only_b": [
+    "MRVL",
+    "MSFT"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "3_r9qMmfV2U",
+   "a": 6,
+   "b": 6,
+   "both": 5,
+   "same_bias": 5,
+   "only_a": [
+    "ZEC"
+   ],
+   "only_b": [
+    "SOL"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "D4YmvWcVEX4",
+   "a": 3,
+   "b": 2,
+   "both": 2,
+   "same_bias": 2,
+   "only_a": [
+    "MU"
+   ],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "EQToXel0o2o",
+   "a": 4,
+   "b": 9,
+   "both": 3,
+   "same_bias": 3,
+   "only_a": [
+    "ES"
+   ],
+   "only_b": [
+    "CL",
+    "NBIS",
+    "NQ",
+    "ROL",
+    "SMH",
+    "TNX"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "ERTLV7Tr51c",
+   "a": 1,
+   "b": 2,
+   "both": 1,
+   "same_bias": 1,
+   "only_a": [],
+   "only_b": [
+    "TNX"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "LfIbptPM1KM",
+   "a": 6,
+   "b": 6,
+   "both": 6,
+   "same_bias": 6,
+   "only_a": [],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "PVK6PV5WE80",
+   "a": 2,
+   "b": 5,
+   "both": 2,
+   "same_bias": 2,
+   "only_a": [],
+   "only_b": [
+    "ORCL",
+    "SPCX",
+    "TSLA"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "S7PrsS33S2Q",
+   "a": 14,
+   "b": 13,
+   "both": 12,
+   "same_bias": 12,
+   "only_a": [
+    "FEZ",
+    "USDCAD"
+   ],
+   "only_b": [
+    "TNX"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "Sl2G2HnO2L8",
+   "a": 9,
+   "b": 11,
+   "both": 9,
+   "same_bias": 9,
+   "only_a": [],
+   "only_b": [
+    "BTC",
+    "NQ"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "VCXC0Eo8yC4",
+   "a": 4,
+   "b": 4,
+   "both": 4,
+   "same_bias": 4,
+   "only_a": [],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "VDbGO4QZDaw",
+   "a": 1,
+   "b": 2,
+   "both": 1,
+   "same_bias": 1,
+   "only_a": [],
+   "only_b": [
+    "VIX"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "YWko9ktMKgA",
+   "a": 1,
+   "b": 1,
+   "both": 1,
+   "same_bias": 1,
+   "only_a": [],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "_dQI0SFOGRo",
+   "a": 3,
+   "b": 20,
+   "both": 3,
+   "same_bias": 3,
+   "only_a": [],
+   "only_b": [
+    "AAPL",
+    "AMD",
+    "AMZN",
+    "DELL",
+    "GOOGL",
+    "HPE",
+    "INTC",
+    "KLAC",
+    "META",
+    "NOW",
+    "PLTR",
+    "SMH",
+    "SPCX",
+    "TSLA",
+    "V",
+    "VIX",
+    "WMT"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "cuTu6j3RxOk",
+   "a": 27,
+   "b": 33,
+   "both": 26,
+   "same_bias": 26,
+   "only_a": [
+    "AVGO"
+   ],
+   "only_b": [
+    "DRAM",
+    "SMH",
+    "XLC",
+    "XLE",
+    "XLF",
+    "XLK",
+    "XLV"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "fFViVGv5VQ4",
+   "a": 2,
+   "b": 2,
+   "both": 2,
+   "same_bias": 2,
+   "only_a": [],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "jFfoOhlrBZE",
+   "a": 20,
+   "b": 25,
+   "both": 17,
+   "same_bias": 17,
+   "only_a": [
+    "NQ",
+    "SK HYNIX",
+    "SPCX"
+   ],
+   "only_b": [
+    "IGV",
+    "META",
+    "RTY",
+    "SKHY",
+    "VIX",
+    "XLE",
+    "XLP",
+    "XLU"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "lcvgHzlAUVY",
+   "a": 1,
+   "b": 1,
+   "both": 1,
+   "same_bias": 1,
+   "only_a": [],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "pvAJoIQ6kuc",
+   "a": 1,
+   "b": 1,
+   "both": 0,
+   "same_bias": 0,
+   "only_a": [
+    "RTY"
+   ],
+   "only_b": [
+    "VIX"
+   ],
+   "differ": {}
+  },
+  {
+   "video_id": "tahoOJB7YlE",
+   "a": 2,
+   "b": 1,
+   "both": 1,
+   "same_bias": 1,
+   "only_a": [
+    "MSTR"
+   ],
+   "only_b": [],
+   "differ": {}
+  },
+  {
+   "video_id": "wLyyheMbmoM",
+   "a": 2,
+   "b": 4,
+   "both": 2,
+   "same_bias": 2,
+   "only_a": [],
+   "only_b": [
+    "CRWD",
+    "PANW"
+   ],
+   "differ": {}
+  }
+ ]
+}
