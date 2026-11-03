@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YouTube Trader Call Scoreboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400&display=swap"
+    />
+    <link rel="stylesheet" href="hark.css" />
+    <link rel="stylesheet" href="hark-hero.css" />
+    <style>
+      .x-calls { display: grid; gap: 32px; }
+      .x-calls figure { margin: 0; }
+      .x-calls__open { display: block; width: 100%; padding: 0; border: 1px solid var(--stroke-secondary); border-radius: var(--r-l); background: var(--fill-primary-on); overflow: hidden; cursor: zoom-in; }
+      .x-calls__open img { display: block; width: 100%; height: auto; }
+      .x-calls__open:focus-visible { outline: 2px solid var(--text-primary); outline-offset: 2px; }
+      .x-calls figcaption { font: var(--type-small); color: var(--text-secondary); padding: 10px 4px 0; }
+      .x-zoom { width: 100vw; height: 100vh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; background: var(--fill-primary-on); overflow: auto; }
+      .x-zoom::backdrop { background: var(--fill-primary-on); }
+      .x-zoom img { display: block; max-width: none; margin: 0 auto; cursor: zoom-out; }
+      .x-subhead { font: var(--type-heading); margin-top: clamp(32px, 4vw, 44px) !important; }
+      .x-zoom__close { position: fixed; top: 12px; right: 12px; min-width: var(--tap); min-height: var(--tap); padding: 0 16px; border: 1px solid var(--stroke-primary); border-radius: var(--r-pill); background: var(--mat-regular); backdrop-filter: var(--hark-blur); color: var(--text-primary); font: var(--type-label); cursor: pointer; }
+    </style>
+  </head>
+  <body>
+    <div class="page" id="top">
+      <header class="nav glass" data-auto></header>
+      <main class="main">
+        <section class="hero">
+          <div class="hero__copy">
+            <p class="hero__eyebrow">YouTube Trader Call Scoreboard</p>
+            <h1>YouTube market channels were right 47% of the time</h1>
+            <p class="hero__sub">Every short-term call in 615 videos from 30 channels, scored against real closing prices. Across 2,323 scored next-session calls, that's worse than a coin flip.</p>
+            <p class="hero__meta">Sep 24 to Oct 23, 2026 (one fixed month) · Indices, futures, metals, crypto, stocks</p>
+          </div>
+          <aside class="callout" aria-label="Next step">
+            <p class="callout__head"><span class="hark-mark" data-size="16"></span> Next step</p>
+            <p class="callout__lead"><strong>Read the method and the code.</strong> Think a call was misread? Dispute it on GitHub.</p>
+            <a class="btn" href="https://github.com/humbleambition/youtube-trader-call-scoreboard" target="_blank" rel="noopener">Open on GitHub</a>
+          </aside>
+        </section>
+
+        <section class="stats">
+          <div class="stat"><span class="stat__fig">47%</span><span class="stat__label">Overall next-session hit rate (1-week: 48% across 3,261 calls)</span></div>
+          <div class="stat"><span class="stat__fig">2,323</span><span class="stat__label">Next-session calls scored</span></div>
+          <div class="stat"><span class="stat__fig">3,844</span><span class="stat__label">Calls extracted</span></div>
+          <div class="stat"><span class="stat__fig">615</span><span class="stat__label">Videos</span></div>
+          <div class="stat"><span class="stat__fig">30</span><span class="stat__label">Channels</span></div>
+        </section>
+
+        <section class="section" id="leaderboard" data-nav="Leaderboard">
+          <div class="head">
+            <p class="head__eyebrow">Leaderboard</p>
+            <h2>No channel showed real skill.</h2>
+            <p class="head__sub">Channels with at least 15 scored next-session calls, ranked by next-session hit rate. Scored calls in brackets.</p>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Rank</th>
+                  <th scope="col">Channel</th>
+                  <th scope="col">Main market</th>
+                  <th scope="col">Next-session hit rate (scored calls)</th>
+                  <th scope="col">1-week hit rate (n)</th>
+                  <th scope="col">Always-long baseline</th>
+                  <th scope="col">p vs coin flip</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="is-highlight"><th scope="row" class="rowhead">1</th><td>Ricky Gutierrez <span class="dot">p &lt; 0.05</span></td><td>stocks</td><td class="num">64% (64)</td><td>43% (92)</td><td>33%</td><td class="num">0.016</td></tr>
+                <tr><th scope="row" class="rowhead">2</th><td>BitcoinHyper</td><td>crypto</td><td class="num">61% (46)</td><td>47% (49)</td><td>46%</td><td class="num">0.092</td></tr>
+                <tr class="is-highlight"><th scope="row" class="rowhead">3</th><td>TheTechnicalTraders <span class="dot">p &lt; 0.05</span></td><td>rates, FX, energy</td><td class="num">60% (94)</td><td>54% (118)</td><td>41%</td><td class="num">0.040</td></tr>
+                <tr><th scope="row" class="rowhead">4</th><td>Money Making Market</td><td>index futures</td><td class="num">55% (31)</td><td>53% (45)</td><td>61%</td><td class="num">0.360</td></tr>
+                <tr><th scope="row" class="rowhead">5</th><td>Trade Brigade</td><td>stocks</td><td class="num">54% (139)</td><td>44% (151)</td><td>47%</td><td class="num">0.198</td></tr>
+                <tr><th scope="row" class="rowhead">6</th><td>tastylive</td><td>stocks</td><td class="num">54% (356)</td><td>55% (454)</td><td>42%</td><td class="num">0.092</td></tr>
+                <tr><th scope="row" class="rowhead">7</th><td>Ross Givens</td><td>stocks</td><td class="num">53% (30)</td><td>47% (83)</td><td>37%</td><td class="num">0.428</td></tr>
+                <tr><th scope="row" class="rowhead">8</th><td>Meet Kevin</td><td>stocks</td><td class="num">51% (101)</td><td>54% (213)</td><td>46%</td><td class="num">0.421</td></tr>
+                <tr><th scope="row" class="rowhead">9</th><td>Crypto World</td><td>crypto</td><td class="num">48% (106)</td><td>56% (118)</td><td>44%</td><td class="num">0.686</td></tr>
+                <tr><th scope="row" class="rowhead">10</th><td>Verified Investing</td><td>stocks</td><td class="num">46% (489)</td><td>49% (577)</td><td>43%</td><td class="num">0.977</td></tr>
+                <tr><th scope="row" class="rowhead">11</th><td>HJTrades</td><td>stocks</td><td class="num">43% (127)</td><td>42% (165)</td><td>43%</td><td class="num">0.945</td></tr>
+                <tr><th scope="row" class="rowhead">12</th><td>David Lin</td><td>stocks</td><td class="num">43% (35)</td><td>49% (133)</td><td>51%</td><td class="num">0.845</td></tr>
+                <tr><th scope="row" class="rowhead">13</th><td>Slope of Hope</td><td>stocks</td><td class="num">42% (130)</td><td>33% (207)</td><td>55%</td><td class="num">0.968</td></tr>
+                <tr><th scope="row" class="rowhead">14</th><td>Gareth Soloway</td><td>metals</td><td class="num">41% (49)</td><td>59% (56)</td><td>43%</td><td class="num">0.924</td></tr>
+                <tr><th scope="row" class="rowhead">15</th><td>Joseph James Trading With JJ</td><td>index futures</td><td class="num">39% (18)</td><td>44% (18)</td><td>56%</td><td class="num">0.881</td></tr>
+                <tr><th scope="row" class="rowhead">16</th><td>Geeks of Finance</td><td>stocks</td><td class="num">39% (67)</td><td>37% (83)</td><td>45%</td><td class="num">0.975</td></tr>
+                <tr><th scope="row" class="rowhead">17</th><td>StockedUp</td><td>stocks</td><td class="num">38% (110)</td><td>53% (135)</td><td>42%</td><td class="num">0.995</td></tr>
+                <tr><th scope="row" class="rowhead">18</th><td>Arete Trading</td><td>stocks</td><td class="num">38% (184)</td><td>49% (265)</td><td>39%</td><td class="num">1.000</td></tr>
+                <tr><th scope="row" class="rowhead">19</th><td>The Traveling Trader</td><td>stocks</td><td class="num">38% (16)</td><td>36% (45)</td><td>38%</td><td class="num">0.895</td></tr>
+                <tr><th scope="row" class="rowhead">20</th><td>ShadowTrader</td><td>index futures</td><td class="num">35% (34)</td><td>54% (37)</td><td>47%</td><td class="num">0.971</td></tr>
+                <tr><th scope="row" class="rowhead">21</th><td>A1 Trading</td><td>index futures</td><td class="num">30% (20)</td><td>46% (28)</td><td>50%</td><td class="num">0.979</td></tr>
+                <tr><th scope="row" class="rowhead">22</th><td>Figuring Out Money</td><td>stocks</td><td class="num">23% (26)</td><td>39% (33)</td><td>38%</td><td class="num">0.999</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="fineprint">8 more channels had fewer than 15 scored calls and are not ranked. Only Ricky Gutierrez and TheTechnicalTraders beat a coin flip at p &lt; 0.05, and with 22 channels compared, none clears the strict bar for real skill.</p>
+        </section>
+
+        <section class="section" id="checks" data-nav="Checks">
+          <div class="head">
+            <p class="head__eyebrow">Robustness</p>
+            <h2>Two stricter checks</h2>
+            <p class="head__sub">A random-day twin test for skill, and a blind second pass to check the extraction.</p>
+          </div>
+          <h3 class="x-subhead">Random-day twin test</h3>
+          <div class="prose">
+            <p>Each scored call gets a twin: same instrument, direction and threshold, scored on a random trading day from the previous ~6 months instead of the day it was made. 10,000 twin sets per channel. The twin p-value is the share of twin sets that did at least as well as the real calls; a Holm correction accounts for testing 22 channels at once.</p>
+            <p>Calls placed on random days hit about 46%, below 50% because a call has to clear a threshold to count.</p>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <caption>Top four channels</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Channel</th>
+                  <th scope="col">Hit rate</th>
+                  <th scope="col">Same calls on random days</th>
+                  <th scope="col">Twin p</th>
+                  <th scope="col">Holm-adjusted p</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="is-highlight"><th scope="row">TheTechnicalTraders <span class="dot">Closest</span></th><td class="num">60%</td><td>45%</td><td class="num">0.0025</td><td class="muted">0.055</td></tr>
+                <tr><th scope="row">Ricky Gutierrez</th><td class="num">64%</td><td>47%</td><td class="num">0.0044</td><td class="muted">0.092</td></tr>
+                <tr><th scope="row">tastylive</th><td class="num">54%</td><td>47%</td><td class="num">0.0046</td><td class="muted">0.092</td></tr>
+                <tr><th scope="row">BitcoinHyper</th><td class="num">61%</td><td>43%</td><td class="num">0.0118</td><td class="muted">0.224</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="prose">
+            <p><strong>Three channels beat their random-day twins before correction, but after the Holm correction none reaches 5%.</strong> TheTechnicalTraders comes closest. One month is not enough to call it skill; it is enough to say these three are worth watching.</p>
+          </div>
+
+          <h3 class="x-subhead">Extraction agreement check</h3>
+          <div class="prose">
+            <p>A second, blind extraction pass re-read 20 randomly chosen videos from the same public prompt, without seeing the published calls.</p>
+          </div>
+          <section class="stats">
+            <div class="stat"><span class="stat__fig">89%</span><span class="stat__label">Published calls found again (100 of 112)</span></div>
+            <div class="stat"><span class="stat__fig">100%</span><span class="stat__label">Same direction on every call both passes found</span></div>
+            <div class="stat"><span class="stat__fig">94 of 96</span><span class="stat__label">Jointly scored calls with the same hit/miss verdict</span></div>
+          </section>
+          <div class="prose">
+            <p>The second pass also picked up more borderline, hedged remarks (152 calls), so which remarks count as calls is the least stable step, not the direction called. Sample hit rate was 47% under both passes.</p>
+          </div>
+          <p class="fineprint">Both passes used the same family of model, so this measures consistency, not full independence. Commands for both checks are in the <a class="link" href="https://github.com/humbleambition/youtube-trader-call-scoreboard" target="_blank" rel="noopener">GitHub repo</a>: <code>ytscore twins</code> and <code>ytscore agree</code>.</p>
+        </section>
+
+        <section class="section" id="calls" data-nav="Calls">
+          <div class="head">
+            <h2>What each channel called</h2>
+            <p class="head__sub">Every channel's call on each market, side by side, all scored over one shared window. The actual move is printed once under each market, so every cell is judged against the same number.</p>
+          </div>
+          <div class="x-calls">
+            <figure>
+              <button type="button" class="x-calls__open" aria-label="Open full size: short-term calls, Oct 8 session"><img src="calls_short_2026-10-08.png" alt="Heatmap of each channel's short-term call per market for the Thu Oct 8, 2026 session" width="1837" height="1431" /></button>
+              <figcaption>Short-term calls for the Thu Oct 8, 2026 session</figcaption>
+            </figure>
+            <figure>
+              <button type="button" class="x-calls__open" aria-label="Open full size: short-term calls, Oct 13 session"><img src="calls_short_2026-10-13.png" alt="Heatmap of each channel's short-term call per market for the Tue Oct 13, 2026 session" width="1837" height="1053" /></button>
+              <figcaption>Short-term calls for the Tue Oct 13, 2026 session</figcaption>
+            </figure>
+            <figure>
+              <button type="button" class="x-calls__open" aria-label="Open full size: short-term calls, Oct 22 session"><img src="calls_short_2026-10-22.png" alt="Heatmap of each channel's short-term call per market for the Thu Oct 22, 2026 session" width="1837" height="1305" /></button>
+              <figcaption>Short-term calls for the Thu Oct 22 session</figcaption>
+            </figure>
+            <figure>
+              <button type="button" class="x-calls__open" aria-label="Open full size: medium-term calls from Oct 7"><img src="calls_week_2026-10-07.png" alt="Heatmap of each channel's medium-term call per market made before the Oct 7 close, scored one week later" width="1837" height="1494" /></button>
+              <figcaption>Medium-term calls made before the Oct 7 close, scored one week later</figcaption>
+            </figure>
+            <figure>
+              <button type="button" class="x-calls__open" aria-label="Open full size: medium-term calls from Oct 15"><img src="calls_week_2026-10-15.png" alt="Heatmap of each channel's medium-term call per market, scored one week from the Oct 15 close" width="1837" height="1242" /></button>
+              <figcaption>Medium-term calls, one week from the Oct 15 close</figcaption>
+            </figure>
+          </div>
+          <dialog class="x-zoom" aria-label="Full-size chart">
+            <button type="button" class="x-zoom__close">Close</button>
+          </dialog>
+        </section>
+
+        <section class="section" id="method" data-nav="Method">
+          <div class="head">
+            <p class="head__eyebrow">How it works</p>
+            <h2>From video to score in six steps.</h2>
+          </div>
+          <div class="steps">
+            <article class="step">
+              <div class="step__intro"><p class="step__num">01</p><p class="step__eyebrow">Collect</p></div>
+              <div><h3>Pull new videos</h3><p>New uploads come from each channel's YouTube listing.</p></div>
+            </article>
+            <article class="step">
+              <div class="step__intro"><p class="step__num">02</p><p class="step__eyebrow">Transcribe</p></div>
+              <div><h3>Turn captions into text</h3><p>Captions are converted to clean text.</p></div>
+            </article>
+            <article class="step">
+              <div class="step__intro"><p class="step__num">03</p><p class="step__eyebrow">Extract</p></div>
+              <div><h3>Record every call</h3><p>An LLM reads each transcript and logs every call in a fixed schema: asset, direction for next session, weeks and months, targets, support and resistance, conditions, the timestamp and a short verbatim quote.</p></div>
+            </article>
+            <article class="step">
+              <div class="step__intro"><p class="step__num">04</p><p class="step__eyebrow">Join prices</p></div>
+              <div><h3>Match to daily closes</h3><p>Each call is matched to the instrument's daily closes: ES, NQ, gold, silver, oil, BTC, ETH, stocks and more.</p></div>
+            </article>
+            <article class="step">
+              <div class="step__intro"><p class="step__num">05</p><p class="step__eyebrow">Score</p></div>
+              <div><h3>Measure what price did</h3><p>From the last close before the video (or that day's close if it was recorded intraday or after the close) to the next close, and to the first close one week later.</p></div>
+            </article>
+            <article class="step">
+              <div class="step__intro"><p class="step__num">06</p><p class="step__eyebrow">Rank</p></div>
+              <div><h3>Compare with chance</h3><p>Each hit rate is compared with a coin flip and with simply always being long.</p></div>
+            </article>
+          </div>
+        </section>
+
+        <section class="section" id="rules" data-nav="Rules">
+          <div class="head">
+            <p class="head__eyebrow">What counts as right</p>
+            <h2>A call must clear a small move to count.</h2>
+            <p class="head__sub">Threshold: 0.12% for index futures and gold; 0.24% for crypto, stocks, silver and miners.</p>
+          </div>
+          <div class="cards">
+            <div><h3>Bullish</h3><p>Right if price rises by more than the threshold.</p></div>
+            <div><h3>Bearish</h3><p>Right if price falls by more than the threshold.</p></div>
+            <div><h3>Neutral</h3><p>Right if price stays within the normal daily range.</p></div>
+            <div><h3>Not scored</h3><p>Calls with no clear short-term direction. The 1-week score uses a wider band.</p></div>
+          </div>
+        </section>
+
+        <section class="section" id="fair" data-nav="Fairness">
+          <div class="head">
+            <p class="head__eyebrow">Fair to creators</p>
+            <h2>Every score traces back to the creator's own words.</h2>
+          </div>
+          <div class="pair">
+            <div class="prose">
+              <p>Each score links to the video, the timestamp and the quote. All the code and the full scoring method are public on GitHub, so anyone can rerun it.</p>
+              <p>Think a call was misread? Open a GitHub issue with the video link and timestamp, and it gets corrected.</p>
+              <div class="links">
+                <a class="btn" href="https://github.com/humbleambition/youtube-trader-call-scoreboard" target="_blank" rel="noopener">Code and method</a>
+                <a class="btn" href="https://github.com/humbleambition/youtube-trader-call-scoreboard/issues/new?template=dispute_call.md" target="_blank" rel="noopener">Dispute a call</a>
+              </div>
+            </div>
+            <div class="aside">
+              <h3>Limitations</h3>
+              <ul>
+                <li>One fixed month (Sep 24 to Oct 23, 2026), a single market regime; several Oct 13–23 videos were dated from clues in the video, usually a day before upload.</li>
+                <li>Small samples for many channels.</li>
+                <li>LLM extraction can misread sarcasm or hedged language.</li>
+                <li>Daily closes only, so no intraday stops or targets.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="suggest" data-nav="Suggest">
+          <div class="head">
+            <p class="head__eyebrow">Suggest a channel</p>
+            <h2>Want a channel scored? Send its name and link.</h2>
+          </div>
+          <div class="prose">
+            <p>We add channels that make explicit, time-bound calls (a direction on a named market) at least a few times a week.</p>
+            <p>Or email <a class="link" href="mailto:jen@striatumos.consulting?subject=Channel%20request">jen@striatumos.consulting</a>.</p>
+            <div class="links">
+              <a class="btn" href="https://github.com/humbleambition/youtube-trader-call-scoreboard/issues/new?template=suggest_channel.md" target="_blank" rel="noopener">Request on GitHub</a>
+              <a class="btn" href="mailto:jen@striatumos.consulting?subject=Channel%20request">Email Jen</a>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer class="foot">
+        <p>Not financial advice. Scores reflect only the short-term direction each creator stated, not their long-term views, education or entertainment value. Built by Jennifer Hsieh, PhD neuroscience, data scientist. Code: <a class="link" href="https://github.com/humbleambition/youtube-trader-call-scoreboard" target="_blank" rel="noopener">github.com/humbleambition/youtube-trader-call-scoreboard</a>. Data updated: Nov 2, 2026 (checks added). Calls made Sep 24 to Oct 23, 2026; prices through Oct 30, 2026.</p>
+        <nav aria-label="Back to sections" data-auto></nav>
+        <a class="badge" href="https://hark.com/" target="_blank" rel="noopener"><span class="hark-mark"></span><span>built by hark</span></a>
+      </footer>
+    </div>
+    <script src="hark.js"></script>
+    <script>
+      (function () {
+        var dlg = document.querySelector(".x-zoom");
+        if (!dlg) return;
+        var closeBtn = dlg.querySelector(".x-zoom__close");
+        function close() { var im = dlg.querySelector("img"); if (im) im.remove(); dlg.close(); }
+        document.querySelectorAll(".x-calls__open").forEach(function (btn) {
+          btn.addEventListener("click", function () {
+            var im = btn.querySelector("img").cloneNode(true);
+            im.removeAttribute("width"); im.removeAttribute("height");
+            im.addEventListener("click", close);
+            dlg.appendChild(im);
+            dlg.showModal();
+            closeBtn.focus();
+          });
+        });
+        closeBtn.addEventListener("click", close);
+        dlg.addEventListener("cancel", function (e) { e.preventDefault(); close(); });
+      })();
+    </script>
+  </body>
+</html>
