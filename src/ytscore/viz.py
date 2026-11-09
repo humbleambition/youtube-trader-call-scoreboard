@@ -12,10 +12,15 @@ import matplotlib.colors as mc  # noqa: E402
 import matplotlib.pyplot as plt  # noqa: E402
 from matplotlib.patches import FancyBboxPatch  # noqa: E402
 
-INK, BG, MUTE, EMPTY = "#1d1d1f", "#f4f4f5", "#7a7a7e", "#e2e2e5"
-RED, MID, GREEN = "#b0605a", "#e9dfcf", "#4f7a5d"
-CMAP = mc.LinearSegmentedColormap.from_list("rg", [RED, MID, GREEN])
-plt.rcParams.update({"font.family": "DejaVu Sans", "text.color": INK})
+# StriatumOS house theme (striatumos.consulting): near-black page, off-white text, logo rainbow.
+# Text colours reach WCAG AA (4.5:1) on BG; cell fills are dark tints so INK stays readable on them.
+INK, BG, MUTE, EMPTY = "#E8EAED", "#0E1014", "#A0A6B0", "#1C2027"
+RED, GREEN = "#F04A47", "#1FA34A"                       # move % text and accents
+ORANGE, YELLOW, BLUE, VIOLET = "#E3710D", "#F2D00D", "#5B82F5", "#C455DE"
+RED_FILL, MID_FILL, GREEN_FILL = "#6D2829", "#3A404B", "#164E2B"  # 42% tints of RED / GREEN on BG
+CMAP = mc.LinearSegmentedColormap.from_list("rg", [RED_FILL, MID_FILL, GREEN_FILL])
+plt.rcParams.update({"font.family": "DejaVu Sans", "text.color": INK, "axes.edgecolor": MUTE,
+                     "xtick.color": MUTE, "ytick.color": INK, "axes.labelcolor": INK})
 
 
 def _short(d: str) -> str:
@@ -61,7 +66,7 @@ def session_heatmap(scored: list[dict], out: str | Path, min_session_calls: int 
             r = sum(v) / len(v)
             _cell(ax, i, j, CMAP(r))
             ax.text(i + 0.47, j + 0.45, f"{sum(v)}/{len(v)}", ha="center", va="center", fontsize=6.5,
-                    family="DejaVu Sans Mono", color=INK if 0.25 < r < 0.75 else "white")
+                    family="DejaVu Sans Mono", color=INK)
         r, n = rate(c)
         ax.text(-0.15, j + 0.45, c, ha="right", va="center", fontsize=9)
         ax.text(W + 0.15, j + 0.45, f"{round(100 * r)}%  n={n}", ha="left", va="center", fontsize=8,
@@ -108,7 +113,7 @@ def leaderboard_chart(rows: list[dict], out: str | Path, window: str = ""):
     fig.suptitle("Short-term call leaderboard", x=0.01, y=0.995, ha="left", va="top", fontsize=13, fontweight="bold")
     fig.text(0.01, 1 - 0.36 / (1.5 + H * 0.38),
              f"Share of next-session calls that were right{(' · ' + window) if window else ''}. "
-             "Black tick = always-long baseline on the same calls; dashed line = coin flip.",
+             "White tick = always-long baseline on the same calls; dashed line = coin flip.",
              ha="left", va="top", fontsize=8.5, color=MUTE)
     plt.tight_layout(rect=(0, 0, 1, 1 - 0.55 / (1.5 + H * 0.38)))
     plt.savefig(out, facecolor=BG)
@@ -119,7 +124,9 @@ CALL_GROUPS = [("Indices", ["ES", "NQ", "RTY"]), ("Metals", ["GC", "SI"]), ("Cry
                ("Rates / oil / dollar", ["TNX", "CL", "DXY"])]
 CALL_NAMES = {"ES": "S&P 500", "NQ": "Nasdaq", "RTY": "Russell", "GC": "Gold", "SI": "Silver", "BTC": "Bitcoin",
               "TNX": "10y yield", "CL": "Crude", "DXY": "Dollar"}
-BIAS_COL = {"bullish": "#9cc2a6", "bearish": "#dba59e", "neutral": "#cfcfd3"}
+BIAS_COL = {"bullish": GREEN_FILL, "bearish": RED_FILL, "neutral": MID_FILL}
+MIXED_FILL = "#655911"  # 38% tint of YELLOW on BG
+GROUP_COL = [ORANGE, YELLOW, BLUE, VIOLET]
 _WHEN = {"weekend": 0, "premarket": 1, "unknown": 1, "intraday": 2, "after_close": 3}
 
 
@@ -160,7 +167,7 @@ def calls_heatmap(scored: list[dict], session: str, out: str | Path, horizon: st
     for j, c in enumerate(chs):
         for i, t in enumerate(tick):
             v = cells[c].get(t)
-            _cell(ax, i, j, EMPTY if not v else BIAS_COL.get(v[0], "#e0cf9a"))
+            _cell(ax, i, j, EMPTY if not v else BIAS_COL.get(v[0], MIXED_FILL))
             if v:
                 lab = {"bullish": "Bull", "bearish": "Bear", "neutral": "Flat"}.get(v[0], "Mixed")
                 ax.text(i + 0.47, j + 0.45, f"{lab} {({True: '✓', False: '✗'}).get(v[1], '')}".strip(),
@@ -171,8 +178,8 @@ def calls_heatmap(scored: list[dict], session: str, out: str | Path, horizon: st
                 fontsize=8.5, family="DejaVu Sans Mono", color=MUTE)
     ax.text(W + 0.1, -0.45, "right", ha="left", fontsize=8, color=MUTE)
     x0 = 0
-    for g, ts in CALL_GROUPS:
-        ax.plot([x0 + 0.04, x0 + len(ts) - 0.1], [-1.35, -1.35], color=MUTE, lw=1)
+    for (g, ts), gc in zip(CALL_GROUPS, GROUP_COL):
+        ax.plot([x0 + 0.04, x0 + len(ts) - 0.1], [-1.35, -1.35], color=gc, lw=1.6)
         ax.text(x0 + len(ts) / 2 - 0.03, -1.5, g, ha="center", fontsize=8, color=MUTE)
         x0 += len(ts)
     ax.set_xlim(-0.05, W + 0.75); ax.set_ylim(H, -1.75); ax.axis("off")

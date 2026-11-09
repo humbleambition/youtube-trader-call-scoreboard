@@ -1,0 +1,93 @@
+/* StriatumOS house theme for Hark pages. Loaded after hark.css and hark-hero.css.
+   Maps Hark's dark-mode tokens to the striatumos.consulting tokens and makes dark the
+   default. The theme toggle still offers Hark's light theme, which is left as it was.
+   Source of truth: striatumos.consulting index.html (2026-11-09). */
+
+:root {
+  --st-bg: #0E1014;       /* page background */
+  --st-surface: #171A20;  /* cards, panels, row tint */
+  --st-text: #E8EAED;     /* body text */
+  --st-heading: #F3F4F6;  /* headings, hero text */
+  --st-muted: #A0A6B0;    /* secondary text */
+  --st-soft: #C5CAD3;     /* text between body and muted */
+  --st-line: #2A2F38;     /* faint hairlines */
+  --st-field: #3A404B;    /* strong hairlines, inputs */
+  --st-ink: #0E1014;      /* text on a light or coloured fill */
+  /* Logo rainbow, lightened for 4.5:1 on the card */
+  --st-red: #F04A47;
+  --st-orange: #E3710D;
+  --st-yellow: #F2D00D;
+  --st-green: #1FA34A;
+  --st-blue: #5B82F5;
+  --st-violet: #C455DE;
+  --st-rainbow: linear-gradient(90deg, var(--st-red), var(--st-orange), var(--st-yellow), var(--st-green), var(--st-blue), var(--st-violet));
+}
+
+/* Dark unless the visitor picked light with the toggle */
+:root:not([data-theme="light"]) {
+  color-scheme: dark;
+  --text-primary: var(--st-text);
+  --text-secondary: var(--st-muted);
+  --text-tertiary: #A0A6B066;
+  --text-primary-on: var(--st-ink);
+  --text-secondary-on: #4B515C;
+  --fill-primary: var(--st-text);
+  --fill-primary-on: var(--st-bg);
+  --fill-secondary: #E8EAED80;
+  --fill-tertiary: var(--st-surface);
+  --fill-segment: #D3D7DD;
+  --fill-system-green: var(--st-green);
+  --fill-system-orange: var(--st-orange);
+  --fill-system-red: var(--st-red);
+  --transparent-primary: #E8EAED4D;
+  --stroke-primary: var(--st-field);
+  --stroke-secondary: var(--st-line);
+  --stroke-primary-on: #0E10141A;
+  --stroke-composer: #0E101480;
+  --stroke-system-orange: #E3710D33;
+  --hover-wash: #E8EAED0F;
+  --hover-wash-primary-on: #0E101414;
+
+  --hero-surface: var(--st-surface);
+  --hero-text: var(--st-heading);
+  --hero-text-muted: var(--st-soft);
+  --hero-scrim-strong: rgb(14 16 20 / 0.6);
+  --hero-scrim-soft: rgb(14 16 20 / 0.2);
+  --hero-scrim-side: rgb(14 16 20 / 0.25);
+  --hero-glass: rgb(14 16 20 / 0.55);
+  --hero-glass-faint: rgb(14 16 20 / 0.4);
+  --hero-glass-stroke: rgb(232 234 237 / 0.22);
+
+  --mat-regular: rgb(23 26 32 / 0.7);
+  --mat-thin: rgb(23 26 32 / 0.5);
+  --mat-agent: rgb(23 26 32 / 0.92);
+  --hark-shadow: 0 8px 40px rgb(0 0 0 / 0.45);
+}
+
+:root:not([data-theme="light"]) body { background: var(--st-bg); }
+
+/* Hero: the photographic sky becomes the house card with a rainbow edge and faint glows */
+:root:not([data-theme="light"]) .hero:not(:has(.hero__img)) {
+  background:
+    var(--st-rainbow) top left / 100% 4px no-repeat,
+    radial-gradient(110% 90% at 100% 0%, rgb(91 130 245 / 0.18), transparent 60%),
+    radial-gradient(90% 80% at 0% 100%, rgb(196 85 222 / 0.14), transparent 62%),
+    var(--st-surface);
+  border: 1px solid var(--st-line);
+}
+:root:not([data-theme="light"]) .hero > .callout { border: 1px solid var(--st-field); }
+
+/* Line charts (hark.js): dark gridlines, rainbow series, readable labels */
+:root:not([data-theme="light"]) .pf-grid { stroke: var(--st-line); }
+:root:not([data-theme="light"]) .pf-line { stroke: var(--st-blue); }
+:root:not([data-theme="light"]) .pf-fill { fill: var(--st-blue); opacity: 0.12; }
+:root:not([data-theme="light"]) .pf-dot { fill: var(--st-bg); stroke: var(--st-blue); }
+:root:not([data-theme="light"]) .pf-num { fill: var(--st-muted); }
+
+/* Links keep Hark's underline style; focus rings use the house blue */
+:root:not([data-theme="light"]) :focus-visible { outline-color: var(--st-blue); }
+::selection { background: rgb(91 130 245 / 0.35); }
+
+/* House footer link */
+.foot .st-built { color: var(--text-secondary); }
+.foot .st-built:hover { color: var(--text-primary); }

@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0E1014" />
+    <script>/* StriatumOS theme: dark by default; the toggle can still choose light */try{var h=localStorage.getItem("hark-theme");document.documentElement.setAttribute("data-theme",h==="light"?"light":"dark")}catch(e){document.documentElement.setAttribute("data-theme","dark")}</script>
     <title>YouTube Trader Call Scoreboard</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -24,7 +26,10 @@
       .x-zoom img { display: block; max-width: none; margin: 0 auto; cursor: zoom-out; }
       .x-subhead { font: var(--type-heading); margin-top: clamp(32px, 4vw, 44px) !important; }
       .x-zoom__close { position: fixed; top: 12px; right: 12px; min-width: var(--tap); min-height: var(--tap); padding: 0 16px; border: 1px solid var(--stroke-primary); border-radius: var(--r-pill); background: var(--mat-regular); backdrop-filter: var(--hark-blur); color: var(--text-primary); font: var(--type-label); cursor: pointer; }
+      /* Phone leaderboard: numeric cells are nowrap, which stopped long labels wrapping into their own column */
+      @media (max-width: 599px) { .table-wrap tbody td[data-label]::before { white-space: normal; } }
     </style>
+    <link rel="stylesheet" href="striatum-theme.css" />
   </head>
   <body>
     <div class="page" id="top">
@@ -273,6 +278,7 @@
       <footer class="foot">
         <p>Not financial advice. Scores reflect only the short-term direction each creator stated, not their long-term views, education or entertainment value. Built by Jennifer Hsieh, PhD neuroscience, data scientist. Code: <a class="link" href="https://github.com/humbleambition/youtube-trader-call-scoreboard" target="_blank" rel="noopener">github.com/humbleambition/youtube-trader-call-scoreboard</a>. Data updated: Nov 2, 2026 (checks added). Calls made Sep 24 to Oct 23, 2026; prices through Oct 30, 2026.</p>
         <nav aria-label="Back to sections" data-auto></nav>
+        <a class="link st-built" href="https://striatumos.consulting/">Built by StriatumOS Consulting</a>
         <a class="badge" href="https://hark.com/" target="_blank" rel="noopener"><span class="hark-mark"></span><span>built by hark</span></a>
       </footer>
     </div>
